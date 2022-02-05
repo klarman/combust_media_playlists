@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-id="1", Jurnal TV
+#EXTGRP:moldova
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=2ab604cc46d3a2a725dc398eb6cba8ed2cee6e09
+#EXTINF:0 tvg-id="2", Publika
+#EXTGRP:moldova
+https://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0 tvg-id="3", Tv8
+#EXTGRP:moldova
+https://live.cdn.tv8.md/TV7/index.m3u8?token=0fabe1e343b8bc0b847c1c3cce2b0eb791357b9d
