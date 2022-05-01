@@ -7,17 +7,17 @@
     "logo": ""
   },
   {
-    "tags": "moldova, test",
+    "tags": "moldova",
     "tvg-id": "4",
-    "name": "Publika test ",
+    "name": "Publika",
     "url": "https://livebeta.publika.md/LIVE/P/1000.m3u8.test",
-    "logo": "https://images.pexels.com/photos/333984/pexels-photo-333984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "logo": ""
   },
   {
     "tags": "moldova",
     "tvg-id": "3",
     "name": "Tv8",
     "url": "https://livebeta.publika.md/LIVE/P/1000.m3u8",
-    "logo": "https://images.pexels.com/photos/333984/pexels-photo-333984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "logo": ""
   }
 ]
