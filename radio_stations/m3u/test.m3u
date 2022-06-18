@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://combust.media/favicon-192.png" group-title="moldova", Aquarelle FM
+http://aquarelle.md:8000/aquarellefm.mp3
+#EXTINF:-1 tvg-logo="https://combust.media/favicon-192.png" group-title="moldova", Diaspora FM 92.8
+http://87.255.90.102:9000/UniversFm
