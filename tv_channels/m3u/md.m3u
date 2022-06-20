@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-id="1", Jurnal
-#EXTGRP:moldova
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=2ab604cc46d3a2a725dc398eb6cba8ed2cee6e09
-#EXTINF:0 tvg-id="2", Publika
-#EXTGRP:moldova,news
-https://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0 tvg-id="3", Tv8
-#EXTGRP:moldova
-https://live.cdn.tv8.md/TV7/index.m3u8?token=0fabe1e343b8bc0b847c1c3cce2b0eb791357b9d
+#EXTINF:-1 tvg-logo="" group-title="Moldova", Busuioc TV
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Moldova", Jurnal TV
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=f3598f2b32c1ac71aaf5ff9af06fab778a1ebc17
+#EXTINF:-1 tvg-logo="" group-title="Moldova", Publika
+https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Moldova", Tv8
+https://live.cdn.tv8.md/TV7/index.m3u8?token=4d6656b57cfbf47a8c3ced8039f19a83d2ce9e56
