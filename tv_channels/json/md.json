@@ -1,23 +1,26 @@
 [
   {
-    "tags": "moldova",
-    "tvg-id": "4",
-    "name": "Publika 4",
-    "url": "https://livebeta.publika.md/LIVE/P/1000.m3u8",
-    "logo": ""
-  },
+		"tags": "Moldova",
+		"name": "Busuioc TV",
+		"url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+		"logo": ""
+	},
   {
-    "tags": "moldova",
-    "tvg-id": "99",
-    "name": "Tv8",
-    "url": "https://livebeta.publika.md/LIVE/P/1000.m3u8",
-    "logo": ""
-  },
-  {
-    "tags": "moldova",
-    "tvg-id": "3",
-    "name": "Tv12",
-    "url": "https://livebeta.publika.md/LIVE/P/1000.m3u8",
-    "logo": ""
-  }
+		"tags": "Moldova",
+		"name": "Jurnal TV",
+		"url": "https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=f3598f2b32c1ac71aaf5ff9af06fab778a1ebc17",
+		"logo": ""
+	},
+	{
+		"tags": "Moldova",
+		"name": "Publika",
+		"url": "https://livebeta.publika.md/LIVE/P/6810.m3u8",
+		"logo": ""
+	},
+	{
+		"tags": "Moldova",
+		"name": "Tv8",
+		"url": "https://live.cdn.tv8.md/TV7/index.m3u8?token=4d6656b57cfbf47a8c3ced8039f19a83d2ce9e56",
+		"logo": ""
+	}
 ]
