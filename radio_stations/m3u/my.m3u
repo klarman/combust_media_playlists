@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RADIOROSAK
+http://titan.shoutca.st:9114/radiorosak
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Best FM 104
+http://s8.voscast.com:8686/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amediaprima-flyfm&playerid=Fly%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1MzQwNjkzNDMsImV4cCI6MTUzNDE1NTc0M30.ptMfY2kRMLPf3xFQ9JEdPyxm8HyE80ii0b3HtsrTWt0&aw_0_1st.lotame_segments=%5B%22128920%22%2C%22359258%22%2C%22307714%22%2C%22128923%22%2C%22428386%22%2C%22307434%22%2C%22358454%22%2C%22358776%22%2C%22120997%22%2C%22426083%22%2C%22341274%22%2C%22148927%22%2C%22157806%22%2C%22238586%22%5D&lan=%5B%22en%22%5D&setLanguage=true
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL BBest
+http://philae.shoutca.st:8418/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Pesona
+http://curiosity.shoutca.st:6997/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Retro
+http://188.165.237.19:8366/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Rock Jiwang
+http://198.50.156.92:8346/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", JEI FM
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Radio Klatekita
+http://s6.voscast.com:9748/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hitz FM 92.9
+http://astro1.rastream.com/hitz?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Ahitz&playerid=hitz_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NTczMDQ4NjIsImV4cCI6MTU1NzM5MTI2Mn0.nawOtu9sAA3X_EH4RHSVYVr5o6atmZQ8fMcrTW7zLWY&lan=%5B%22en%22%5D&setLanguage=true&listenerid=96069c9514ffc69edddbf48a8d5a63dc
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", 988
+http://14073.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Amboi FM Malaysia
+http://amboifm.iradio.work:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Bapakku FM
+http://radio.bapakku.fm:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", BFM 89.9
+http://22253.live.streamtheworld.com/BFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Cool FM
+https://coolfm.iradio.work:8443/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Era FM
+http://astro2.rastream.com/era
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Gegar FM 88.1
+https://astro3.rastream.com/gegar
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hijau FM
+https://stream.radio.co/s4c9c7e0cb/low
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hitz.FM
+http://astro1.rastream.com/hitz?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Ahitz&playerid=hitz_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NzI1OTYyOTAsImV4cCI6MTU3MjY4MjY5MH0.PnOgVwp7bgBfdUtqLzE4g2wrHSab3JQ64pWjiGW3cOs&lan=%5B%22en%22%5D&setLanguage=true&listenerid=6cfa54807b2234df3d9c7f96963422d5
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hot FM 97.6
+https://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NzQxNTI5MjMsImV4cCI6MTU3NDIzOTMyM30.1xeZBOUhd1OeGsUnMEZgDdaLjKTrSrtxU3eSqLlZ5nE&aw_0_1st.lotame_segments=%5B%5D&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=cae4395ba6c6a3a473e2af6af5f9f6fd
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", KCFM
+http://radio.kcfm.org:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Lite FM
+http://astro1.rastream.com/lite
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Melody FM
+http://astro3.rastream.com/melody
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", MY FM
+http://astro1.rastream.com/myfm
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", MyKampus Radio
+https://usa13.fastcast4u.com/proxy/voicespl?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", One FM 88.1
+http://mediaprima.rastream.com/mediaprima-onefm.android
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Osai
+http://astro4.rastream.com/osai
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Sinar FM
+http://astro2.rastream.com/sinar?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Asinar&playerid=Sinar_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NTcyMTIyMzcsImV4cCI6MTU1NzI5ODYzN30.FFafBxIjcNLjHDdJSw2SGR2q5Q8lVCERCChsrkHWiA8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=96069c9514ffc69edddbf48a8d5a63dc
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Soup FM
+https://usa7.fastcast4u.com/proxy/soupfm?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Suara Rakyat FM
+http://s9.voscast.com:7670/;stream1578902753711/1
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Kuterer FM
+http://51.15.152.81:9114/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Manis FM
+http://ingest2.husa.rastream.com/husa-manis
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Cats FM
+http://catsfm64.cspixel.com:7111/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Era FM Sarawak
+https://astro2.rastream.com/amp-era-kch
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hitz FM 95.3
+https://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", My FM 96.9
+http://astro1.rastream.com/amp-myfm-kch.android
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RythmMixFm
+https://rythmmixfm.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Durian FM
+http://s3.voscast.com:7140/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Kool FM 101.3
+https://mediaprima.rastream.com/mediaprima-koolfm?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amediaprima-koolfm&playerid=Kool%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NzI2OTIzMzcsImV4cCI6MTU3Mjc3ODczN30.do8Tao_nW4ey6u-RoIm9L2LJMfWDh2pA1VFiumsXUeI&aw_0_1st.lotame_segments=%5B%22148927%22%2C%22446173%22%2C%22359258%22%2C%22358776%22%2C%22326787%22%2C%22238586%22%2C%22128923%22%2C%22428386%22%2C%22358454%22%2C%22307714%22%2C%22355660%22%2C%22120997%22%2C%22358830%22%2C%22360849%22%2C%22341274%22%2C%22307434%22%2C%22463500%22%2C%22140525%22%5D&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=6cfa54807b2234df3d9c7f96963422d5
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Mix FM
+http://astro2.rastream.com/mix?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amix&playerid=MIX_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NTM1MDYxNTQsImV4cCI6MTU1MzU5MjU1NH0.c0AdUf-ahCcDhmoep9vDQ9nSjBDX4X6iZb5dSDe-23Y&lan=%5B%22en%22%5D&setLanguage=true&listenerid=de72bd3813d7bb9f4cd7765dfd9f4e48
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Putrajaya FM
+http://stream.radiojar.com/1t04vq7uc6quv
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Sai Radio FM
+http://s2.voscast.com:9742/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", VOSJ
+http://www.radioking.com/play/vosj
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Pesona
+http://curiosity.shoutca.st:6997/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Retro
+http://hyades.shoutca.st:8366/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", RL Rock Jiwang
+http://procyon.shoutca.st:8346/;
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Makmur FM
+http://16963.live.streamtheworld.com/SAM12AAC083_SC

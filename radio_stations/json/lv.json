@@ -1,0 +1,194 @@
+[
+  {
+    "tags": "Latvia",
+    "name": "Ksenukai",
+    "url": "http://91.121.113.129:8936/;",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Kurzemes Radio",
+    "url": "http://80.70.23.50:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio SWH Spin",
+    "url": "http://87.110.219.34:8000/spinmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Rietumu Radio FM 105.8",
+    "url": "https://n0a.radiojar.com/zv4vahasgnzuv.m4a",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Latgolys Radeja",
+    "url": "http://195.13.253.51:8000/128_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Crush FM 88.6",
+    "url": "https://radio.mixnews.lv/jumorfm_192",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "EHR FM 104.3",
+    "url": "https://stream2.superfm.lv:8000/ehr.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "EHR Latviešu hiti",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_22.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "EHR Russkie Hiti",
+    "url": "http://stream.ehrhiti.lv:8000/khr.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "EHR SuperHits",
+    "url": "http://stream.ehrhiti.lv:8000/Stream_21.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Jumor FM 88.6",
+    "url": "https://radio.mixnews.lv/jumorfm_192",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Latvijas Kristigais Radio",
+    "url": "http://91.228.7.124:7007/;",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Lounge FM 99.5",
+    "url": "https://radio.mixnews.lv/995",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Mix FM 102.7",
+    "url": "https://radio.mixnews.lv/MixFM",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Pieci.lv",
+    "url": "https://live.pieci.lv/live19-hq.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio Baltkom",
+    "url": "https://radio.mixnews.lv/baltkom",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio PIK 100 FM",
+    "url": "http://91.90.255.85:8000/01",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio SWH 105.1 FM",
+    "url": "https://live.radioswh.lv:8443/swhmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio SWH Gold",
+    "url": "http://87.110.219.34:8000/goldmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio SWH Rock FM 89.2",
+    "url": "http://87.110.219.34:8000/rockmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio SWH+",
+    "url": "http://87.110.219.34:8000/plusmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio Tev",
+    "url": "http://stream.radiotev.lv:8002/radiov",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Relax FM 94.9",
+    "url": "http://81.198.70.75:8000/01",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Retro FM",
+    "url": "https://live.retrofm.lv/retrofmlatvia",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Skonto FM 107.2",
+    "url": "https://stream.radioskonto.lv:8443/stereo",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Star FM",
+    "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Top Radio",
+    "url": "http://195.13.200.164:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "XO FM",
+    "url": "https://live.xo.fm/xofm128",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Yacht Radio",
+    "url": "https://yacht-radio.lv:8005/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Your City Radio",
+    "url": "https://c28.radioboss.fm:18234/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "LustigsRadio",
+    "url": "https://stream.lustigsradio.lv/live",
+    "logo": ""
+  },
+  {
+    "tags": "Latvia",
+    "name": "Radio 7",
+    "url": "http://stream.radio7.lv:8024/Radio7",
+    "logo": ""
+  }
+]

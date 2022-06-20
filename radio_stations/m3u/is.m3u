@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Iceland", 80s Bylgjan
+http://ice-11.spilarinn.is/z80s
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Apparatið
+http://ice-11.spilarinn.is/zapparatid
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Bylgjan FM 98.9
+http://icecast.365net.is:8000/orbbylgjan.aac
+#EXTINF:-1 tvg-logo="" group-title="Iceland", FlashBack FM 91.9
+http://www.radio.is:443/flashback
+#EXTINF:-1 tvg-logo="" group-title="Iceland", FM Extra
+http://ice-11.spilarinn.is/zfmextra
+#EXTINF:-1 tvg-logo="" group-title="Iceland", FM Xtra
+http://radio.is:443/fmxtra
+#EXTINF:-1 tvg-logo="" group-title="Iceland", FM957
+http://ice-11.spilarinn.is/tfm957
+#EXTINF:-1 tvg-logo="" group-title="Iceland", K100 FM 100.5
+https://k100straumar.mbl.is/kaninnmobile
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Kiss FM 104.5
+http://stream.radio.is:443/kiss
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Retro FM 89.5
+http://radio.is:443/retromobile
+#EXTINF:-1 tvg-logo="" group-title="Iceland", RÚV Rás 1
+http://netradio.ruv.is/ras1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Iceland", RÚV Rás 2
+http://netradio.ruv.is/ras2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Trax FM
+http://traxfm.radioca.st/stream?a=b
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Útvarp Boðun FM 105.5
+http://radio.bodun.is:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Útvarp Saga FM 99.4
+https://stream.utvarpsaga.is/Hljodver
+#EXTINF:-1 tvg-logo="" group-title="Iceland", X-ið FM 97.7
+http://icecast.365net.is:8000/orbXid.aac
+#EXTINF:-1 tvg-logo="" group-title="Iceland", Suðurland FM 96.3
+http://178.19.58.119:1818/;
+#EXTINF:-1 tvg-logo="" group-title="Iceland", FM Trölli
+https://hb.trolli.is/stream

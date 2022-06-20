@@ -1,0 +1,98 @@
+[
+  {
+    "tags": "Armenia",
+    "name": "Armgospelradio",
+    "url": "http://s8.myradiostream.com/15554/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Lav Radio",
+    "url": "http://163.172.7.220:8000/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Lav Radio Mix",
+    "url": "http://163.172.7.220:8006/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "LavRadio FM 106.9",
+    "url": "http://s7.voscast.com:10196/;stream1573495426858/1",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "MFM Music Radio",
+    "url": "http://live.mfm.am:8012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "News Radio Impuls 106,5",
+    "url": "http://212.34.233.78:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Nor Radio",
+    "url": "http://norradyo.com:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Public Radio of Armenia",
+    "url": "http://37.252.79.131:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio Aurora FM 100.7",
+    "url": "http://am.radioaurora.am:8010/al.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio Energy",
+    "url": "http://163.172.7.220:8044/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio Jan FM 90.7",
+    "url": "http://s7.voscast.com:10258/;",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio Van FM 103.1",
+    "url": "https://stream.radiovan.fm:8000/96_stereo",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio Vem",
+    "url": "http://93.94.223.140:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Radio XFM",
+    "url": "http://eu.stream4cast.com:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Sputnik Armenia",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=22152771&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Armenia",
+    "name": "Women's Voice Radio",
+    "url": "http://womensvoice.out.airtime.pro:8000/womensvoice_a",
+    "logo": ""
+  }
+]

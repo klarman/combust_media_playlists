@@ -1,0 +1,50 @@
+[
+  {
+    "tags": "Kuwait",
+    "name": "Quran Live Radio",
+    "url": "http://s2.voscast.com:12312/;",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "Alnahj",
+    "url": "https://node33.obviousapproach.com:9000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "FM 88.8",
+    "url": "http://162.244.80.118:3020/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "Online Qur'an Radio - Quran in Malay",
+    "url": "http://quraan.us:9932/;",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "The Tamil Radio Kuwait",
+    "url": "https://listen.radioking.com/radio/378493/stream/429268",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "Best On Top Radio",
+    "url": "http://78.129.159.25:8175/stream?type=http&nocache=450",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "Marina FM 90.4",
+    "url": "http://31.14.40.102:8006/MarinaFM%2090.4.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kuwait",
+    "name": "PGM Radio",
+    "url": "https://s48.myradiostream.com/:10164/;",
+    "logo": ""
+  }
+]

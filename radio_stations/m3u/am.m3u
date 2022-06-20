@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Armgospelradio
+http://s8.myradiostream.com/15554/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Lav Radio
+http://163.172.7.220:8000/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Lav Radio Mix
+http://163.172.7.220:8006/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Armenia", LavRadio FM 106.9
+http://s7.voscast.com:10196/;stream1573495426858/1
+#EXTINF:-1 tvg-logo="" group-title="Armenia", MFM Music Radio
+http://live.mfm.am:8012/;
+#EXTINF:-1 tvg-logo="" group-title="Armenia", News Radio Impuls 106,5
+http://212.34.233.78:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Nor Radio
+http://norradyo.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Public Radio of Armenia
+http://37.252.79.131:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio Aurora FM 100.7
+http://am.radioaurora.am:8010/al.mp3
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio Energy
+http://163.172.7.220:8044/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio Jan FM 90.7
+http://s7.voscast.com:10258/;
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio Van FM 103.1
+https://stream.radiovan.fm:8000/96_stereo
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio Vem
+http://93.94.223.140:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Radio XFM
+http://eu.stream4cast.com:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Sputnik Armenia
+https://nfw.ria.ru/flv/audio.aspx?ID=22152771&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Armenia", Women's Voice Radio
+http://womensvoice.out.airtime.pro:8000/womensvoice_a

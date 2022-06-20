@@ -1,0 +1,320 @@
+[
+  {
+    "tags": "Lithuania",
+    "name": "FM99 (Alytaus Radijas)",
+    "url": "http://82.135.234.195:8000/fm99.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Saules Radijas",
+    "url": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Extra FM",
+    "url": "http://82.135.234.195:8000/extrafm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Lietus FM",
+    "url": "https://stream.m-1.fm/lietus/aacp64",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Mano FM 94,4 Kaunas",
+    "url": "http://stream.manofm.lt/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Marijos radijas ",
+    "url": "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Puko Radijas 2 FM 100.9",
+    "url": "http://82.135.234.195:8000/pukas2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Puko Radijas FM 107.3",
+    "url": "http://82.135.234.195:8000/pukas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijas Kelyje FM 105.9",
+    "url": "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijas Tau",
+    "url": "http://radijas.tau.lt:8000/stream2?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Kelyje FM 99.8",
+    "url": "http://82.135.234.195:8000/kelyje_klaipeda.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo stotis Laluna",
+    "url": "http://radio.m-1.fm:80/laluna/mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Raduga",
+    "url": "http://radio.m-1.fm:80/raduga/high",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Kapsai FM 100.2",
+    "url": "http://91.211.246.42:8000/Kapsai",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Neringa FM",
+    "url": "http://185.11.24.72:8000/neringafm",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Pulsas",
+    "url": "https://sc.pulsas.lt:8443/stream?_=1",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Vizija",
+    "url": "https://stream.zeno.fm/h9unubeaqtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo Klubas",
+    "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "RS2",
+    "url": "https://rs2online.eu/stream.php",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Taurages Radijas",
+    "url": "http://stream.tauragesradijas.lt:8000/tr1",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Utenos Radijas",
+    "url": "http://gyvai.utenosradijas.lt:8010/;.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Beveik Radijas",
+    "url": "https://azura.shoutca.st/radio/8420/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "European Hit Radio ",
+    "url": "http://82.135.234.195:8000/ehr.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Geras FM",
+    "url": "http://82.135.234.195:8000/gerasfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Gold FM",
+    "url": "http://82.135.234.195:8000/goldfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Leproradio",
+    "url": "http://leproradio.com/mpeg.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "LRT Klasika FM 105.1",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_klasika",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "LRT Opus FM 98.3",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "LRT Radijas FM 89.0",
+    "url": "http://lrt-cast.lrt.lt:8000/lrt_radijas",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Palanga Street Radio",
+    "url": "https://stream.palanga.live:8443/palanga128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Play Radio",
+    "url": "http://n05.radiojar.com/d9cm273ystzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Play4n4 Radio",
+    "url": "https://radioproxy.play4n4.com/radio_stream",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "PMR",
+    "url": "http://streamer.midiaudio.com:8000/pmr",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Power Hit Radio FM 95.9",
+    "url": "https://powerhit.ls.lv/PHR_AAC",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijas Kelyje FM 107.7",
+    "url": "http://82.135.234.195:8000/kelyje_vilnius.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo Musikií",
+    "url": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo Stotis Lietus",
+    "url": "http://radio.m-1.fm:80/lietus/mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo stotis M-1",
+    "url": "http://radio.m-1.fm:80/m1/mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radijo stotis M-1 Plius",
+    "url": "http://radio.m-1.fm:80/M-1PLIUS?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radio Wilno",
+    "url": "http://uk1.internet-radio.com:8254/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radio ZW FM 103.8",
+    "url": "https://plays.zw.lt/zw128",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radio ZW Fun",
+    "url": "https://plays.zw.lt/zwfun",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "radio.audiomastering.lt",
+    "url": "http://radio.audiomastering.lt:8000/hq",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Radiocentras",
+    "url": "https://transliacija.rc.lt/rc128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Relax FM",
+    "url": "https://transliacija.relaxfm.lt/relaxfm128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Rock FM",
+    "url": "https://transliacija.rockfm.lt/crf128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Rusradio LT FM 105.6",
+    "url": "https://transliacija.rusradio.lt/rrb128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Start FM 94.2",
+    "url": "http://radijas2.vu.lt:8000/startfm.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Super FM 100.5",
+    "url": "https://stream.ehr.lt:8443/superfm",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Sveikatos radijas",
+    "url": "http://193.219.87.11:8080/stream?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "XFM",
+    "url": "http://88.119.151.74:8001/xfm",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Žinių Radijas",
+    "url": "http://netradio.ziniur.lt/ziniur.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Lithuania",
+    "name": "Zip FM",
+    "url": "https://transliacija.rc.lt/zipfm128.mp3",
+    "logo": ""
+  }
+]

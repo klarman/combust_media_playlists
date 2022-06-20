@@ -1,0 +1,80 @@
+[
+  {
+    "tags": "Madagascar",
+    "name": "Radio RNA",
+    "url": "http://drs-live-rna.gasy-internet.info:9001/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Alliance 92 FM 92.0",
+    "url": "http://41.188.43.211:8000/alliance92.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Dago Radio Sound",
+    "url": "http://51.75.24.191:8011/;",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "FMFOI Radio",
+    "url": "http://edge.mixlr.com/channel/yzqie",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Radio Don Bosco FM 93.4",
+    "url": "http://onair15.xdevel.com:9248/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Radio Emia FM 88.0",
+    "url": "http://emiaradio.ice.infomaniak.ch/emiaradio-48.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Radio Feon'ny Vahoaka FM 105.0",
+    "url": "http://197.158.86.230:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Radio Vaovao Mahasoa FM 106.8",
+    "url": "http://91.121.148.49:7777/;",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "RDJ FM 96.6",
+    "url": "http://rdj966.net:8000/rdj966.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Soa i Madagasikara",
+    "url": "http://planner.soaimadagasikara.org:8080/streaming",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Taratra FM",
+    "url": "http://41.188.43.211:8000/taratraradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Alefamusic",
+    "url": "https://www.radioking.com/play/alefamusic/70388",
+    "logo": ""
+  },
+  {
+    "tags": "Madagascar",
+    "name": "Radio Paradisagasy",
+    "url": "http://91.121.59.45:10018/live",
+    "logo": ""
+  }
+]

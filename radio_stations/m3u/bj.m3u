@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Benin", Aximin
+http://radioking.com/play/aximin
+#EXTINF:-1 tvg-logo="" group-title="Benin", ORTB Atlantic FM 92.2
+https://listen.radioking.com/radio/25120/stream/57844
+#EXTINF:-1 tvg-logo="" group-title="Benin", ORTB Radio Nationale
+https://listen.radioking.com/radio/47608/stream/84430
+#EXTINF:-1 tvg-logo="" group-title="Benin", Radio Immaculée Conception FM 98.7
+http://146.185.18.251:7091/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Benin", FM Nonsina 90.8
+http://icepe14.infomaniak.ch/nonsina-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="Benin", Best Music Radio
+https://manager4.streamradio.fr:1045/stream
+#EXTINF:-1 tvg-logo="" group-title="Benin", CAPP FM 99.6
+http://cappfm.ice.infomaniak.ch/cappfm-96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Benin", Frissons Radio FM 95.2
+http://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Benin", Radio Maranatha FM 103.1
+http://154.72.115.49:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Benin", Sion Radio
+https://www.radioking.com/play/sion-radio
+#EXTINF:-1 tvg-logo="" group-title="Benin", Deeman Radio FM 90.2
+http://icepe5.infomaniak.ch/deemanradio-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="Benin", Fraternité FM 96.5
+https://radio8.pro-fhi.net/flux-pjlpnvde/stream
+#EXTINF:-1 tvg-logo="" group-title="Benin", ORTB Radio Parakou
+https://listen.radioking.com/radio/51919/stream/88927

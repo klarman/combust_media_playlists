@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Andorra", Ràdio SER Principat d'Andorra
+https://22723.live.streamtheworld.com/SER_ANDORRA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Andorra", Ràdio Valira
+http://91.187.93.115:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Andorra", Paranoia Metal Station
+http://giss.tv:8000/paranoiashow.mp3

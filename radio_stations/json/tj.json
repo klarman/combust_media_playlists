@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "Tajikistan",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Tajikistan",
+    "name": "106 FM Ватан",
+    "url": "http://217.11.177.201:8000/sr128",
+    "logo": ""
+  },
+  {
+    "tags": "Tajikistan",
+    "name": "Asia Plus Radio FM 107.0",
+    "url": "http://62.122.137.82:8020/ap",
+    "logo": ""
+  },
+  {
+    "tags": "Tajikistan",
+    "name": "FM Ховар",
+    "url": "http://193.124.66.132:8001/live",
+    "logo": ""
+  },
+  {
+    "tags": "Tajikistan",
+    "name": "радио Тироз",
+    "url": "https://c30.radioboss.fm:18230/stream",
+    "logo": ""
+  }
+]

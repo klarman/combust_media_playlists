@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Zefir FM
+http://178.124.152.212:8008/Zefir
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Brest FM 104.8
+http://streams.active.by:8039/stream
+#EXTINF:-1 tvg-logo="" group-title="Belarus", 107.4 FM
+http://gomeltv.by:2015/gomelradio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Gomel FM 101.3
+http://s1.radioheart.ru:8001/radiogomelfm
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Gomel PLUS 103.7
+http://s1.radioheart.ru:8001/radiogomel
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio 123
+http://93.84.112.253:8036/live
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Grodno FM 101.2
+https://stream.radiogrodno.by:8005/live
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Lider FM
+https://lider-fm.by:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Molodechno FM 89.2
+http://82.209.204.146:8000/MolodechnoFM
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Alpha Radio
+http://live.alpha.by:7000/alpha
+#EXTINF:-1 tvg-logo="" group-title="Belarus", AvtoRadio 
+ AвтоРадио
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Dushevnoe Radio
+http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Dzed Bardaitis Radio
+http://16963.live.streamtheworld.com/SAM03AAC337_SC
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Euroradio
+http://stream.euroradio.fm:8000/euroradio1
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Humor FM
+http://live.humorfm.by:8000/veseloe
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Legendy FM 
+ Легенды FM 94.1
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Monte Carlo Lounge
+https://stream.zeno.fm/3g4dx2y6vreuv
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Narodnoe Radio
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Novoe Radio FM 98.4
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Pilot FM
+http://pf.volna.top/PilotBy128
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Ba
+http://mir.by:8000/radioba_48aac
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Maria - Belarus
+http://server.radiorm.by:8000/aac
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Melodii Veka
+http://93.84.112.253:8010/MV128
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Minsk
+http://93.84.113.142:8000/radio?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio MIR Belarus
+http://217.23.126.106:8002/radio2.mir
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Peremen (Радио Перемен)
+https://www.radioking.com/play/radioperemen
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Plato
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Relax
+http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Stalica 
+ Радыё Сталіца
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Uvaga
+http://up.uvaga.by:8100/uvaga320.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belarus", RadioMIX
+http://84.19.188.241:8000/radiomix
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radius FM
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Sputnik Belarus
+https://nfw.ria.ru/flv/audio.aspx?ID=68862011&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Unistar FM 99.5
+https://advertizer.hoster.by/unistar/unistar-128kb/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Unistar My Rock and Roll
+https://advertizer.hoster.by/unistar/unistar_rnr-128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Unistar Office Channel
+https://advertizer.hoster.by/unistar/unistar_lyric-128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Unistar The Best
+https://advertizer.hoster.by/unistar/unistar_90e-128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Unistar Top Channel
+https://advertizer.hoster.by/unistar/unistar_top-128/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Wargaming.FM
+http://sv.wargaming.fm:8051/256
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Компас FM
+https://radio.mil.by/live
+#EXTINF:-1 tvg-logo="" group-title="Belarus", РАдио Вечность
+https://listen.myrh.ru/vechnost
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Mogilev
+https://stream.hoster.by/tvrmogilev/radiomogilev/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Skif
+http://178.172.150.248:2530/;
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Радио 1958 Солигорск
+http://a3.radioheart.ru:8025/mp3128
+#EXTINF:-1 tvg-logo="" group-title="Belarus", Radio Vitebsk
+http://radio.vtv.by:8000/radio_vitebsk_128

@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Adrar
+https://adrar.ice.infomaniak.ch/01.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Ain Defla
+http://aindefla.ice.infomaniak.ch/44.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Ain Timouchent
+https://aintemouchent.ice.infomaniak.ch/46.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Jow Radio
+http://str0.creacast.com/jowradio?_=1434135211
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Chaîne 1
+http://ch1.ice.infomaniak.ch/ch1-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Chaîne 2
+http://ch2.ice.infomaniak.ch/ch2-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Chaîne 3 (Français)
+https://ch3.ice.infomaniak.ch/ch3-32.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Coran
+http://coran.ice.infomaniak.ch/coran.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Culture
+https://culture.ice.infomaniak.ch/culture.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie El Bahdja
+http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Internationale
+http://rai.ice.infomaniak.ch/rai-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Algérie Jil FM
+http://jil-fm.ice.infomaniak.ch/jilfm.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Al-Andaloussia
+https://radio-algerienne.com/radio/8060/andaloussia
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Aures
+https://radio-algerienne.com/radio/8090/aures
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Chaabia
+https://radio-algerienne.com/radio/8010/chaabia
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Dzaïr
+https://radio-algerienne.com/radio/8000/dzair
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Izuran
+https://radio-algerienne.com/radio/8070/izuran
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Orientale
+https://radio-algerienne.com/radio/8100/oriental
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Raïna
+https://radio-algerienne.com/radio/8020/raina
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Dzaïr - Sahara
+https://radio-algerienne.com/radio/8050/sahara
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Hawana
+https://streamingv2.shoutcast.com/Radio-Hawana
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Skyrock Alger
+https://skyrock.fm/stream_webradio.php/radiogarden_alger_64aac.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Annaba
+https://annaba.ice.infomaniak.ch/23.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Batna
+http://batna.ice.infomaniak.ch/05.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Bechar
+https://bechar.ice.infomaniak.ch/08.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Bejaia
+https://bejaia.ice.infomaniak.ch/06.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Biskra
+https://biskra.ice.infomaniak.ch/07.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Blida
+https://blida.ice.infomaniak.ch/09.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Bordj Bou Arreridj
+https://bba.ice.infomaniak.ch/34.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Bouira
+https://bouira.ice.infomaniak.ch/10.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Boumerdes
+https://boumerdes.ice.infomaniak.ch/35.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Chlef FM 87.7
+https://chlef.ice.infomaniak.ch/02.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Constantine
+https://constantine.ice.infomaniak.ch/25.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Djelfa
+https://djelfa.ice.infomaniak.ch/17.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio El Bayadh
+https://bayadh.ice.infomaniak.ch/32.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio El Oued
+https://eloued.ice.infomaniak.ch/39.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio El Tarf
+https://eltarf.ice.infomaniak.ch/36.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Guelma
+https://guelma.ice.infomaniak.ch/24.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Jijel
+https://jijel.ice.infomaniak.ch/18.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Khenchla
+https://khenchla.ice.infomaniak.ch/40.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Laghouat
+https://laghouat.ice.infomaniak.ch/03.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio M'sila
+https://msila.ice.infomaniak.ch/28.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Mascara
+https://mascara.ice.infomaniak.ch/29.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Médéa
+https://medea.ice.infomaniak.ch/26.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Mila
+https://mila.ice.infomaniak.ch/43.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Mostaganem
+https://mostaganem.ice.infomaniak.ch/27.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Naâma
+https://naama.ice.infomaniak.ch/45.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Oran FM 92.7
+https://oran.ice.infomaniak.ch/31.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Ouargla
+https://ouargla.ice.infomaniak.ch/30.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Oum Bouaghi
+https://oeb.ice.infomaniak.ch/04.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Relizane
+https://relizane.ice.infomaniak.ch/48.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Saïda
+https://saida.ice.infomaniak.ch/20.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Sétif
+https://setif.ice.infomaniak.ch/19.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Sidi Bel Abbès
+https://sidibelabbes.ice.infomaniak.ch/22.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Skikda
+https://skikda.ice.infomaniak.ch/21.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Souk Ahras
+https://soukahras.ice.infomaniak.ch/41.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tamenrasset
+https://tamanrasset.ice.infomaniak.ch/11.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tebessa
+https://radiotebessa.ice.infomaniak.ch/12.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tiaret
+https://tiaret.ice.infomaniak.ch/14.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tipaza
+https://tipaza.ice.infomaniak.ch/42.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tissemsilt
+http://tissemsilt.ice.infomaniak.ch/38.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tizi Ouzou
+http://tiziouzou.ice.infomaniak.ch/15.aac
+#EXTINF:-1 tvg-logo="" group-title="Algeria", Radio Tlemcen FM 100.4
+https://tlemcen.ice.infomaniak.ch/13.aac

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", Lindin FM 101.0
+http://high.lindin.fo/
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", 98,7FM
+http://srv1.stream.fo:8000/128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", Stream.fo
+http://srv.stream.fo:8000/high
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", FM1 - títt radio
+http://stream.midlar.fo/ras2
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", Kringvarp Føroya FM 89.9
+http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", Lindin FM
+http://srv1.stream.fo:8000/lindinhigh
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", Radio.fo
+https://streaming.radio.co/s4d14b9fcc/listen
+#EXTINF:-1 tvg-logo="" group-title="Faroe Islands", VoxPop Radio FM 104.1
+http://stream.midlar.fo/voxpop-128

@@ -1,0 +1,38 @@
+[
+  {
+    "tags": "Barbados",
+    "name": "CBC 98.1 The One",
+    "url": "http://108.178.16.190:8000/981fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Barbados",
+    "name": "CBC Q 100.7 FM",
+    "url": "http://108.178.16.190:8000/1007fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Barbados",
+    "name": "CBC Radio FM 94.7",
+    "url": "http://108.178.16.190:8000/947fm.mp3?_=1",
+    "logo": ""
+  },
+  {
+    "tags": "Barbados",
+    "name": "Cita FM 90.1",
+    "url": "https://lyvestream.net/proxy/cita?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Barbados",
+    "name": "Slam FM 101.1",
+    "url": "http://usa4.fastcast4u.com:5006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Barbados",
+    "name": "Y 103.3 FM",
+    "url": "http://usa4.fastcast4u.com:5336/;",
+    "logo": ""
+  }
+]

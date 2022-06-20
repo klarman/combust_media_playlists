@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Avtoradio Bishkek FM 107.8
+http://ic4.101.ru:8000/a100
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Hit FM
+http://radio.city.kg:8000/hitfm-bishkek.mp3
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", IRadio FM 92.0
+http://212.112.123.200:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Kyrgyzstan Obondoru
+http://31.192.250.52:8000/obondoru128
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", OK Radio FM 100.5
+http://stream.okradio.kg:8000/mp3-hq
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Radio Manas
+http://radio.mediamanas.kg:8000/online
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Radio Record FM 89.0
+https://air2.radiorecord.ru:9002/rr_128
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Sputnik Kyrgyzstan
+https://nfw.ria.ru/flv/audio.aspx?ID=34872596&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Tumar FM
+http://212.112.114.218:8000/online
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Санжыра радиосу
+http://81.88.192.51:8000/Sanjyra
+#EXTINF:-1 tvg-logo="" group-title="Kyrgyzstan", Радио Европа Плюс Ош 103.8
+https://europaplus.hostingradio.ru:8014/europaplus320.mp3

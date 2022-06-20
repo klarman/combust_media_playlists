@@ -1,0 +1,6188 @@
+[
+  {
+    "tags": "Germany",
+    "name": "Antenne AC",
+    "url": "http://mp3.antenneac.c.nmdn.net/fs_antenneac/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Blackbeats.FM",
+    "url": "http://stream3.blackbeats.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hochschulradio Aachen",
+    "url": "http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio-Shadowplay",
+    "url": "http://stream.laut.fm/radio-shadowplay",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RauteMusik.FM - Oriental",
+    "url": "http://oriental-high.rautemusik.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Schwany 1 Volkstumlich",
+    "url": "https://schw6.streampanel.cloud/1-schwany",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Schwany 2 Schlager",
+    "url": "https://schw6.streampanel.cloud/2-schlager",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Erzgebirge",
+    "url": "https://hermes.bcs-systems.de/radio-erzgebirge_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Erzgebirge 2",
+    "url": "https://hermes.bcs-systems.de/radio-erzgebirge2_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Erzgebirge 80er Kulthits",
+    "url": "https://hermes.bcs-systems.de/radio-erzgebirge_80er_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Erzgebirge 90er XXL",
+    "url": "https://hermes.bcs-systems.de/radio-erzgebirge_90er_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Miriquidi",
+    "url": "http://stream.laut.fm/miriquidi",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 8",
+    "url": "http://live.radio8.de:8002/liver8",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy 105.8",
+    "url": "http://live.galaxy-mittelfranken.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy FM 91.6",
+    "url": "https://galaxyaschaffenburg-ais-edge-3006-fra-eco-cdn.cast.addradio.de/galaxyaschaffenburg/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Primavera",
+    "url": "http://mp3ad.radioprimavera.c.nmdn.net/fs_radioprimavera/livestream.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio HBW 92.5 FM",
+    "url": "http://streamplus7.leonex.de:12526/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayern 1 Schwaben",
+    "url": "https://br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Chillkyway",
+    "url": "http://94.23.115.253:12005/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hitradio RT1 96.7 FM",
+    "url": "https://rt1-ais-edge-4005-dus-dtag-cdn.cast.addradio.de/rt1/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hits 70s",
+    "url": "http://stream.laut.fm/1-hits70s",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hits 80s",
+    "url": "http://stream.laut.fm/hits_80s",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "LA Rocks Radio",
+    "url": "https://www.tunefm.de:2000/stream/melodicradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Maretimo House Radio",
+    "url": "https://s35.derstream.net/house.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Maretimo Lounge Radio",
+    "url": "https://s35.derstream.net/lounge.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MTGSchulradio - Maria Theresia Gymnasium",
+    "url": "http://stream.laut.fm/mtgschulradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Augsburg",
+    "url": "http://stream.radio-augsburg.de/radioaugsburg.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Fantasy 93.4 FM",
+    "url": "http://stream.fantasy.de/fantasy.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Schattenwelt",
+    "url": "http://85.25.117.76:9008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rock Antenne Augsburg FM 87.9",
+    "url": "http://mp3channels.webradio.antenne.de/rockantenne",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Slow Radio",
+    "url": "http://stream.laut.fm/1_slowradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Smart Radio",
+    "url": "http://stream.glueckserver.de:8000/smartradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "volXmusik",
+    "url": "http://stream.laut.fm/volxmusik",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Circus Musicus - Disco",
+    "url": "http://stream.laut.fm/disco-circus-musicus-in-maerschendorf",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "DDR-Rock",
+    "url": "http://stream.laut.fm/ddr-rock",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Evergreen-Oldies",
+    "url": "http://stream.laut.fm/evergreen-oldies",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Instrumental Journey",
+    "url": "http://stream.laut.fm/instrumental-journey",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Krautrocker",
+    "url": "https://krautrocker.stream.laut.fm/krautrocker",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kritikulum",
+    "url": "http://stream.laut.fm/kritikulum",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Millennium",
+    "url": "http://stream.laut.fm/millennium",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "New Wave",
+    "url": "http://stream.laut.fm/new-wave",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Old Inn - Disco",
+    "url": "http://stream.laut.fm/disco-old-inn-in-aurich-ostfriesland",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Old Inn - Resort",
+    "url": "http://stream.laut.fm/oldinn-resort",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "P42/The Whale And The Frog",
+    "url": "http://stream.laut.fm/p42",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Prog Rock Station",
+    "url": "http://stream.laut.fm/prog-rock-station",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21 Aurich 100.6 FM",
+    "url": "https://stream.radio21.de/radio21_aurich.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Laika",
+    "url": "http://stream.laut.fm/radio-laika",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Studio NL Nederpop",
+    "url": "http://stream.laut.fm/nederpop",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wattwerker",
+    "url": "http://stream.laut.fm/wattwerker",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne FM 88.3",
+    "url": "https://antennebadkreuznach-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/antennebadkreuznach/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Gässjer FM",
+    "url": "https://gaesserfm.radioca.st/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio popEXPRESS DAB+ 12A",
+    "url": "http://5.35.250.101:8000/popEXPRESS",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR1 Rheinland-Pfalz",
+    "url": "http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "JUKA Radio",
+    "url": "http://stream.laut.fm/juka-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayernwelle Sudost",
+    "url": "https://bayernwelle-ais-edge-3006-fra-eco-cdn.cast.addradio.de/bayernwelle/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RadioMinipixxel",
+    "url": "https://stream.laut.fm/minipixxel",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Alpenwelle",
+    "url": "http://live.alpenwelle.de/alpenwelle128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Harmony.FM",
+    "url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio FFH",
+    "url": "http://mp3.ffh.de/radioffh/hqlivestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio FFH - die 80er",
+    "url": "http://mp3.ffh.de/ffhchannels/hq80er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio FFH - Schlager-Kult",
+    "url": "http://streams.ffh.de/ffhchannels/mp3/hqschlager.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio FFH - Top 40",
+    "url": "https://mp3.ffh.de/ffhchannels/hqtop40.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Planet More Music Radio",
+    "url": "https://mp3.planetradio.de/planetradio/hqlivestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Fischer & Co. Radio",
+    "url": "http://stream.laut.fm/fischerundcoradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "DASDING",
+    "url": "https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR Aktuell",
+    "url": "http://swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Club FM Bamberg",
+    "url": "http://rs7.stream24.net/clubfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bamberg",
+    "url": "http://rs1.stream24.net:80/stream?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Radio Sakska",
+    "url": "http://mdr-990100-0.cast.mdr.de/mdr/990100/0/aac/high/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Mainwelle",
+    "url": "http://webstream.mainwelle.de/radio-mainwelle.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s",
+    "url": "http://80s80s.hoerradar.de/80s80s-mweb-mp3-hq?sABC=5s4n4691%230%233orpp9p6pn0500rpsq241509077450qq%23fgernzf.80f80f.qr&=&amsparams=playerid:streams.80s80s.de;skey:1598703249",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Bowie",
+    "url": "https://80s80s.hoerradar.de/80s80s-event02-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Christmas",
+    "url": "http://80s80s.hoerradar.de/80s80s-event01-aac-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Italo Hits",
+    "url": "http://80s80s.hoerradar.de/80s80s-italohits-mp3-hq?sABC=5s4n46n0%230%232so53r49o67nr3p68467780qqo8o38p1%23fgernzf.80f80f.qr&=&amsparams=playerid:streams.80s80s.de;skey:1598703264",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Jackson",
+    "url": "http://streams.80s80s.de/mj/mp3-192/streams/streema/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - NDW",
+    "url": "http://80s80s.hoerradar.de/80s80s-ndw-aac-mq?sABC=5s4n46no%230%2307n2qnp20spsqs30970336r0554n33o9%23fgernzf.80f80f.qr&=&amsparams=playerid:streams.80s80s.de;skey:1598703275",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Partyhits",
+    "url": "http://80s80s.hoerradar.de/80s80s-party-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Prince",
+    "url": "https://80s80s.hoerradar.de/80s80s-100-mp3-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Rock",
+    "url": "http://80s80s.hoerradar.de/80s80s-rock-mp3-hq?sABC=5s4n46qn%230%2370sr48486n6oq03qo7231rps25o852n9%23fgernzf.80f80f.qr&=&amsparams=playerid:streams.80s80s.de;skey:1598703322",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s80s - Wave",
+    "url": "http://80s80s.hoerradar.de/80s80s-wave-mp3-hq?sABC=5s4n46ro%230%239o698q4r2oq8873po23p46946rr335n7%23fgernzf.80f80f.qr&=&amsparams=playerid:streams.80s80s.de;skey:1598703339",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "90s Radio",
+    "url": "http://streams.fluxfm.de/90er/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolute Chillout",
+    "url": "https://edge1.peta.live365.net/b05055_128mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "B-Funk",
+    "url": "http://fluxfm.hoerradar.de/flux-event01-mp3-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Berlin 88vier - Alex Radio",
+    "url": "http://alex-radio.rosebud-media.de:8000/alex-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Berlin Beach House Radio",
+    "url": "http://fluxfm.hoerradar.de/flux-berlinbeach-mp3-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Berlin Bohème",
+    "url": "https://streams.fluxfm.de/berlinboheme/mp3-128/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Berliner Rundfunk",
+    "url": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BoomFM",
+    "url": "https://streams.fluxfm.de/boomfm/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BoomFM Classics",
+    "url": "http://streams.fluxfm.de/boomfmclassics/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Cashmere Radio",
+    "url": "http://cashmereradio.out.airtime.pro:8000/cashmereradio_a",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ChillHop",
+    "url": "http://fluxfm.streamabc.net/flx-chillhop-mp3-128-8581707",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Country 108",
+    "url": "http://tuner.country108.com:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "DarkRadio",
+    "url": "http://138.201.234.215:10080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dead Magazine Radio",
+    "url": "https://deadradio.stream.laut.fm/deadradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Defjay Radio",
+    "url": "http://tuner.defjay.de:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutschlandfunk Kultur",
+    "url": "http://st02.dlf.de/dlf/02/128/mp3/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Diaspora Radio",
+    "url": "https://stream.zeno.fm/k7t5zz2ur1duv",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dub Radio",
+    "url": "http://fluxfm.streamabc.net/flx-dubradio-mp3-128-9087779",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dusterstadl Radio",
+    "url": "http://87.106.138.241:7000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Electro Swing Revolution Radio",
+    "url": "https://streamer.radio.co/s2c3cc784b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Energy Berlin FM 103.4",
+    "url": "http://nrj.de/digital",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ESC - Eurovision Song Contest Radio",
+    "url": "http://stream.escradio.com:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Flux FM 100.6",
+    "url": "http://streams.fluxfm.de/live/mp3-128/audio/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Flux Sound Of Berlin",
+    "url": "http://fluxfm.hoerradar.de/flux-berlinsound-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxFM 80s",
+    "url": "http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxFM Chill Out Radio",
+    "url": "http://fluxfm.streamabc.net/flx-chillout-mp3-128-5156225",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxKompensator",
+    "url": "http://streams.fluxfm.de/fluxkompensator/mp3-128/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxLounge",
+    "url": "http://streams.fluxfm.de/lounge/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxRap",
+    "url": "https://fluxfm.streamabc.net/flx-fr-mp3-128-2862286",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Gay FM",
+    "url": "http://icepool.silvacast.com/GAYFM.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hammam Radio",
+    "url": "http://n05.radiojar.com/svbttmf9ztzuv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hippie Trippy Garden Pretty by Dr. Atmo",
+    "url": "http://fluxfm.hoerradar.de/flux-event02-mp3-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HIT 104 FM 104.0",
+    "url": "http://tuner.hit104.com:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hot RnB",
+    "url": "https://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jack FM",
+    "url": "http://tuner.jackfm.de:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jam FM",
+    "url": "https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-128-6002587",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jam FM 2000er",
+    "url": "https://stream.jam.fm/2000er/mp3-128/radio.garden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jam FM Black Label",
+    "url": "https://rtlberlin.streamabc.net/rtlb-jamfmblack-mp3-128-9682607",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "JAM FM DJ Cooper",
+    "url": "http://stream.jam.fm/djcooper/mp3-192/radiogarden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "JAM FM K-Pop",
+    "url": "https://stream.jam.fm/kpop/mp3-192/radiogarden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "JAM FM Russkiye Khity",
+    "url": "https://stream.jam.fm/russkiye/mp3-192/radiogarden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "JazzRadio Berlin FM 106.8",
+    "url": "https://streaming.radio.co/s774887f7b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jazzradio Schwarzenstein",
+    "url": "http://streams.fluxfm.de/jazzschwarz/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "KCRW Berlin FM 104.1",
+    "url": "https://edg-ams-kcrw.streamguys1.com/kcrw_192k_mp3_berlin?listenerid=6cfa54807b2234df3d9c7f96963422d5&awparams=companionAds%3Atrue",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Keith F'em",
+    "url": "https://keithfem2.out.airtime.pro/keithfem2_a",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kiss FM 98.8",
+    "url": "http://138.201.251.233/kissfm_128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Klassik 1",
+    "url": "http://icepool.silvacast.com/KLASSIK1.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Klub Radio ",
+    "url": " Fluxmusic",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Krautrock World",
+    "url": "http://94.249.254.14:7592/;016979917896387stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Like That Underground",
+    "url": "http://hyades.shoutca.st:8091/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MAGIC Top100",
+    "url": "http://stream.laut.fm/magic-top100",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MAGIC.FM",
+    "url": "http://stream.laut.fm/magicfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MetalFM",
+    "url": "https://streams.fluxfm.de/metalfm/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Metropol FM",
+    "url": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "multicult.fm 91.0",
+    "url": "http://stream.multicult.fm:8000/hifi",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "neoFM",
+    "url": "http://streams.fluxfm.de/neofm/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pelo One FM",
+    "url": "http://streamplus53.leonex.de:19176/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pi Radio Verbund",
+    "url": "http://ice.rosebud-media.de:8000/88vier-low",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Planet Discofox",
+    "url": "http://144.76.84.153:21610/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Power Radio",
+    "url": "http://85.25.217.22:8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Puls FM",
+    "url": "http://tuner.pulsfm.de/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pure FM",
+    "url": "https://s4.radionetz.de/purefm-bln.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 889FM Kultur",
+    "url": "https://889fmkultur.stream.laut.fm/889fmkultur",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Alternative",
+    "url": "https://streams.fluxfm.de/radioalt/mp3-128/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Aporee",
+    "url": "http://radio.aporee.org:8000/aporee_high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio B2 Oldiestar Radio",
+    "url": "http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Future Africa",
+    "url": "http://s2.radio.co:80/s96119eea6/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio GOLD",
+    "url": "http://mp3ad.radiob2.c.nmdn.net/fs_radiob2gold/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio On",
+    "url": "http://radioon.out.airtime.pro:8000/radioon_a?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Paloma",
+    "url": "http://tuner.radiopaloma.de:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Paradiso 98.2",
+    "url": "https://rhb-de-hz-fal-stream01-cluster01.radiohost.de/paradiso-berlin_mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Popcorn",
+    "url": "https://server33930.streamplus.de:43912/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Russkij Berlin  97,2",
+    "url": "http://rb-stream.de:8000/rrb_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rasta Radio",
+    "url": "http://fluxfm.streamabc.net/flx-rastaradio-mp3-128-9139820",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB 88.8",
+    "url": "https://rbb-edge-30b7-fra-ts-cdn.cast.addradio.de/rbb/rbb888/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB Antenne Brandenburg",
+    "url": "https://rbb-edge-3074-dus-ts-cdn.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB Fritz",
+    "url": "https://rbb-edge-30b4-fra-ts-cdn.cast.addradio.de/rbb/fritz/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB Kulturradio",
+    "url": "https://rbb-edge-20b7-fra-lg-cdn.cast.addradio.de/rbb/rbbkultur/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB Radio Eins",
+    "url": "http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBB Radio Info",
+    "url": "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Reboot.fm",
+    "url": "http://87.118.122.220:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rockradio.de",
+    "url": "http://rockradiohoeren.de:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rocky FM USA",
+    "url": "http://tuner.rockyfm.com:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "rs2 94.3",
+    "url": "http://stream.rs2.de/rs2/mp3-128/radioplayerde/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL 104.6",
+    "url": "http://stream.104.6rtl.com/rtl-live/mp3-128/konsole/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL 104.6 Greatest Hits Channel",
+    "url": "https://stream.104.6rtl.com/rtl-60er70er/mp3-192/radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL 104.6 Top40 Channel",
+    "url": "https://stream.104.6rtl.com/rtl-top40/mp3-128/radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL Deutschlands Hit-Radio",
+    "url": "http://stream.rtlradio.de/rtl-de-ukw/mp3-128/surfmusikDE/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL Hot Country",
+    "url": "https://stream.104.6rtl.com/country/mp3-192/radiogarden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Schlager Radio",
+    "url": "https://addrad.io/4454r93",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Spreeradio 105.5",
+    "url": "http://stream.spreeradio.de/spree-live/mp3-128/konsole/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Star FM 87.9",
+    "url": "https://streams.starfm.de/berlin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Star*Sat Radio",
+    "url": "http://mp3ad.radiob2starsat.c.nmdn.net/fs_radiob2starsat/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Techno Underground ",
+    "url": " Fluxmusic",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "the wave - relaxing radio",
+    "url": "http://stream.thewaveradio.de/wave-live/mp3-128/surfmusikDE/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "THF Radio",
+    "url": "https://thfradio2.out.airtime.pro/thfradio2_b",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Top 100 Station",
+    "url": "http://94.130.133.39/top100station.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Top 20 Radio",
+    "url": "http://server8.blitz-stream.de:9100/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Top of the 70s",
+    "url": "http://streams.fluxfm.de/70er/mp3-320/streams.fluxfm.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Voyage - The Schiller Radio",
+    "url": "http://14843.live.streamtheworld.com/SAM07AAC259_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Yoga Sounds",
+    "url": "http://fluxfm.streamabc.net/flx-yogasounds-mp3-128-5509595",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Schlauti's",
+    "url": "https://listen.schlauti.media/radio/8020/maindesktopaac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Telstar Rock",
+    "url": "http://stream.laut.fm/telstarrock",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BFBS Germany",
+    "url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs5.mp3?i=ssvcbfbs5.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hertz 87.9",
+    "url": "http://stream.radiohertz.de/hertz-hq.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bielefeld",
+    "url": "https://radiobielefeld-ais-edge-3077-fra-eco-cdn.cast.addradio.de/radiobielefeld/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "YoGt.FM",
+    "url": "http://s5.voscast.com:9860/;stream1608132065729/1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunray-FM",
+    "url": "https://radio.sunray-fm.de/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "CT das radio",
+    "url": "https://live.ctdasradio.de/web",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Punkrockers-Radio",
+    "url": "http://stream.punkrockers-radio.de:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bochum",
+    "url": "http://radiobochum.cast.addradio.de/radiobochum/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Wattenscheid1",
+    "url": "http://stream11.shoutcastsolutions.com:8988/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "bonnFM",
+    "url": "http://131.220.107.145:8000/live_high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bonn",
+    "url": "http://rbrs.cast.addradio.de/rbrs/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio WMW",
+    "url": "https://radiowmw-ais-edge-4008-fra-dtag-cdn.cast.addradio.de/radiowmw/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Irabo",
+    "url": "https://borkum-radio.de:8500/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "89.8 Energy Bremen FM",
+    "url": "http://stream.ffn.de/energybremen/mp3-192/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AngelsFox-Radio",
+    "url": "http://85.25.217.30:80/afr128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bremen Eins Beat-Club",
+    "url": "https://rb-edge-2080-dus-lg-cdn.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bremen Eins FM 93.8",
+    "url": "https://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bremen Next",
+    "url": "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bremen Vier",
+    "url": "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bremen Zwei FM 88.3",
+    "url": "https://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Cosmo FM 95.6",
+    "url": "http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hall of Music",
+    "url": "http://stream.laut.fm/hallofmusic",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Nordwestradio",
+    "url": "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bosanka",
+    "url": "http://5.9.25.50:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Roland FM 96.1",
+    "url": "https://stream.ffn.de/radioroland/mp3-192/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Weser.TV",
+    "url": "http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Haustier Radio",
+    "url": "https://s37.derstream.net/haustier-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ohrfunk Radio",
+    "url": "http://icecast.multhielemedia.de:8000/ohrfunk",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Okerwelle FM 104.6",
+    "url": "https://stream.okerwelle.de/okw.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio38 UKW 100.3",
+    "url": "https://rs27.stream24.net/radio38.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Coco und Jambo",
+    "url": "https://stream.laut.fm/cocoundjambo",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Inn-Salzach-Welle (ISW)",
+    "url": "http://srv-isw.3qstreaming.net:9100/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Klangwald-Radio",
+    "url": "http://klangwald-radio.de:8000/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Apollo Radio",
+    "url": "https://hermes.bcs-systems.de/apolloradio_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Chemnitz 102.1",
+    "url": "https://hermes.bcs-systems.de/radio-chemnitz_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21 FM 99.3",
+    "url": "https://stream.radio21.de/radio21_cloppenburg.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio EINS ",
+    "url": "http://rs3.stream24.net:80/radio-eins.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "12punks.FM",
+    "url": "http://12punks-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1LIVE",
+    "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1LIVE Diggi",
+    "url": "https://wdr-edge-201d-dus-lg-cdn.cast.addradio.de/wdr/1live/diggi/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "674FM",
+    "url": "http://audio.674.fm/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "80s by rm.FM",
+    "url": "https://80s-high.rautemusik.fm/?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Best of Schlager by rm.FM",
+    "url": "https://best-of-schlager-high.rautemusik.fm/?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Charthits.FM by rm.FM",
+    "url": "http://charthits-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutsche Hits by rm.FM",
+    "url": "https://deutsche-hits-high.rautemusik.fm/?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutschlandfunk",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutschlandfunk Kultur",
+    "url": "https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutschlandfunk Nova",
+    "url": "http://st03.dlf.de/dlf/03/128/mp3/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Domradio",
+    "url": "http://domradio-mp3-m.akacast.akamaistream.net/7/148/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-m?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "dublab.de",
+    "url": "http://dublabde.out.airtime.pro:8000/dublabde_a",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Easy Rider FM",
+    "url": "https://listen.radioking.com/radio/1743/stream/125",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Evosonic Radio",
+    "url": "http://evo.kennmer.net/evosonic.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Karneval by rm.FM",
+    "url": "https://karneval-high.rautemusik.fm/?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kölncampus 100.0",
+    "url": "http://koelncampus.uni-koeln.de/webstream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.90s by rm.FM",
+    "url": "http://90s-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Bass by rm.FM",
+    "url": "https://bass-high.rautemusik.fm/listen.mp3?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Christmas-Chor by rm.FM",
+    "url": "https://christmas-chor-high.rautemusik.fm/listen.mp3?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Christmas-Schlager by rm.FM",
+    "url": "https://christmas-schlager-high.rautemusik.fm/listen.mp3?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Club by rm.FM",
+    "url": "http://club-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Country by rm.FM",
+    "url": "http://country-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Deutschrap by rm.FM",
+    "url": "http://deutschrap-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Deutschrap-Charts by rm.FM",
+    "url": "https://deutschrap-charts-high.rautemusik.fm/listen.mp3?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Deutschrap-Classic by rm.FM",
+    "url": "https://deutschrap-classic-high.rautemusik.fm/listen.mp3?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Goldies by rm.FM",
+    "url": "http://goldies-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Happy by rm.FM",
+    "url": "http://happy-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.HappyHardcore by rm.FM",
+    "url": "http://happyhardcore-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Harder by rm.FM",
+    "url": "http://harder-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.House by rm.FM",
+    "url": "http://house-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.JaM by rm.FM",
+    "url": "http://jam-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Kids by rm.FM",
+    "url": "http://kids-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Klassik by rm.FM",
+    "url": "http://klassik-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Lounge by rm.FM",
+    "url": "http://lounge-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.LoveHits by rm.FM",
+    "url": "http://lovehits-high.rautemusik.fm//listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Main by rm.FM",
+    "url": "http://main-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Partyhits by rm.FM",
+    "url": "http://partyhits-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Rock by rm.FM",
+    "url": "http://rock-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Sex by rm.FM",
+    "url": "http://sex-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Solopiano by rm.FM",
+    "url": "http://solopiano-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Study by rm.FM",
+    "url": "http://study-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.TechHouse by rm.FM",
+    "url": "http://techhouse-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Top40 by rm.FM",
+    "url": "http://top40-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Trance by rm.FM",
+    "url": "http://trance-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Traurig by rm.FM",
+    "url": "http://traurig-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Volksmusik by rm.FM",
+    "url": "http://volksmusik-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Weihnachten by rm.FM",
+    "url": "http://weihnachten-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Musik.Workout by rm.FM",
+    "url": "http://workout-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Punksender",
+    "url": "http://83.125.45.214:8000/punk",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Fairground",
+    "url": "http://rs18.stream24.net/radio-fairground.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Köln",
+    "url": "https://radiokoeln-ais-edge-400c-dus-dtag-cdn.cast.addradio.de/radiokoeln/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1 Köln",
+    "url": "http://streams.rpr1.de/rpr-koeln-128-mp3?",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Schlager Oldies by rm.FM",
+    "url": "https://schlager-oldies-high.rautemusik.fm/?ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Schlagerradio.FM",
+    "url": "http://schlager-high.rautemusik.fm/listen.mp3?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Südstadt Radio",
+    "url": "https://listen.radioking.com/radio/253861/stream/298342",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Radio Gh Live",
+    "url": "https://sunshinefm-erdem.radioca.st/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Toggo Radio",
+    "url": "https://superrtl.streamabc.net/srtl-toggo-mp3-192-3253152",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ultra Dark Radio",
+    "url": "http://ultradarkradio.stream.laut.fm/ultradarkradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Veedelsradio",
+    "url": "http://stream.laut.fm/veedelsradio?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wackenradio by rm.FM",
+    "url": "https://rautemusik-de-hz-fal-stream12.radiohost.de/wackenradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR 3 FM 93.1",
+    "url": "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR 4",
+    "url": "http://wdr-wdr4-live.cast.addradio.de/wdr/wdr4/live/mp3/56/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR 5",
+    "url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR Cosmo",
+    "url": "https://wdr-edge-10b6-fra-dtag-cdn.cast.addradio.de/wdr/cosmo/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR Die Maus",
+    "url": "http://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Cottbus FM 94.5",
+    "url": "http://addrad.io/4454vq9",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Cuxhaven",
+    "url": "http://radiocuxhaven.stream.laut.fm/radiocuxhaven",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Darmstadt",
+    "url": "http://stream.radiodarmstadt.de:8000/radar.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Oldiewelle Niederbayern",
+    "url": "http://rs4.stream24.net/oldie-welle.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Unser Radio",
+    "url": "http://rs4.stream24.net:80/stream?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Metal Only",
+    "url": "https://nordic.streampanel.cloud/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 90.vier",
+    "url": "https://90vier.ip-streaming.net/radio90vier",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Lippe",
+    "url": "https://www.radiolippe.de/audiodata/news.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Segenswelle Radio - Deutsch",
+    "url": "http://www.segenswelle.de:8000/deutsch",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Roland Radio .NET",
+    "url": "http://streaming.rolandradio.net/rolandradio.64.mono",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayern 1",
+    "url": "https://br-edge-30a9-fra-ts-cdn.cast.addradio.de/br/br1/obb/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Black Neon Radio",
+    "url": "http://stream.laut.fm/blackneonradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Black Neon Radio - Oldie",
+    "url": "http://stream.laut.fm/blackneon-oldie",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "D-W-S",
+    "url": "http://stream.laut.fm/darkwave-sounds",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Eldoradio 93.0",
+    "url": "http://sender.eldoradio.de:8000/128?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Emelia Radio",
+    "url": "https://stream.zeno.fm/uh85ay7b28quv",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jenny FM",
+    "url": "http://stream1.jenny.fm:9300/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jenny FM Classic",
+    "url": "http://stream1.jenny.fm:8500/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "radio 91.2",
+    "url": "https://radio912-ais-edge-3077-fra-eco-cdn.cast.addradio.de/radio912/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WDR 2 Ruhrgebiet FM 87.8",
+    "url": "http://addrad.io/4WRNwx",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Apollo Radio",
+    "url": "http://streaming.apolloradio.de/apolloradio_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "coloRadio",
+    "url": "https://streaming.fueralle.org/corax_192.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Elbewelle Dresden",
+    "url": "http://stream.laut.fm/elbewelle",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hitradio RTL Sachsen",
+    "url": "https://hermes.bcs-systems.de/hitradio-rtl_simulcast__dresden_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR 1 Radio Sachsen",
+    "url": "http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Onda Profetica",
+    "url": "https://stream.zeno.fm/k8awam940tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Dresden 103.5",
+    "url": "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Jaliya",
+    "url": "http://stream.laut.fm/jaliya",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Tommr-Radio",
+    "url": "http://tommr-radio.stream.laut.fm/tommr-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Firat FM",
+    "url": "http://yayin.firatfm.com:3065/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Duisburg",
+    "url": "http://radioduisburg.cast.addradio.de/radioduisburg/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Yugotopia Beat Club",
+    "url": "http://yugotopia-beat-club.stream.laut.fm/yugotopia-beat-club",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Kiepenkerl",
+    "url": "http://radiokiepenkerlnord.radiovonhier.de/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Rur",
+    "url": "https://radiorur-ais-edge-3076-fra-eco-cdn.cast.addradio.de/radiorur/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "3chords",
+    "url": "http://3chords.stream.laut.fm:8080/3chords",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Düsseldorf FM 104.2",
+    "url": "https://antennedus-ais-edge-3007-fra-eco-cdn.cast.addradio.de/antennedus/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Callshop Radio",
+    "url": "https://icecast.callshopradio.com/callshopradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "First FM",
+    "url": "https://firstfm.stream.laut.fm/firstfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Just Jazz",
+    "url": "https://justjazz.stream.laut.fm/justjazz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Nasheed Stream",
+    "url": "http://144.76.84.153:21500/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Onyame Nipa Radio",
+    "url": "https://onyamenipa-erdem.radioca.st/onair.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pop24",
+    "url": "https://pop24.stream.laut.fm/pop24",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Quran Stream",
+    "url": "http://server4.streamserver24.com:21494/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "StreamD",
+    "url": "https://16963.live.streamtheworld.com/SAM03AAC326.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wartburg Radio",
+    "url": "http://tbradio.de/wartburgradio?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ostfriesland",
+    "url": "http://fra.radiostream.de:36949/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTF3",
+    "url": "http://lyra.shoutca.st:8414/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "LandesWelle Thüringen",
+    "url": "http://stream.landeswelle.de/lwt/mp3-192/gar/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR 1 Radio Thüringen",
+    "url": "http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Frei 96.2",
+    "url": "http://streaming.fueralle.org:8000/Radio-F.R.E.I",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "musicalradio.de",
+    "url": "http://mp3.musicalradio.de/musicalradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "funklust",
+    "url": "http://streaming.funklust.de:8010/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "102.2 Radio Essen",
+    "url": "http://radioessen.cast.addradio.de/radioessen/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "CampusFM 104.5",
+    "url": "http://stream.campusfm.info:8000/campusfm-hd",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 700",
+    "url": "https://www.tunefm.de:2000/stream/radio700-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Euskirchen",
+    "url": "https://radioeuskirchen-ais-edge-4001-fra-dtag-cdn.cast.addradio.de/radioeuskirchen/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 17",
+    "url": "http://stream.laut.fm/radio-17",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Feucht.FM",
+    "url": "https://feuchtfm.stream.laut.fm/feuchtfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Flensburg",
+    "url": "http://streamplus36.leonex.de:28702/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Fratz FM 98.5",
+    "url": "https://stream.radio-fratz.de/stream_high.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "0 Stress Lounge Radio",
+    "url": "http://stream.laut.fm/loungeradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Additan Music",
+    "url": "http://stream.laut.fm/additan",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ASTOUNDED Old School Radio",
+    "url": "http://stream.laut.fm/astounded",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Barış Radyo",
+    "url": "http://s1.wohooo.net:9420/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigCityBeats",
+    "url": "http://rautemusik-de-hz-fal-stream15.radiohost.de/bigcitybeats?ref=radiogardencom",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Day Dee Eurodance",
+    "url": "http://stream.laut.fm/daydeeeurodance",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FFH 105.9 Lounge",
+    "url": "https://mp3.ffh.de/ffhchannels/hqlounge.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Harmony FM ",
+    "url": "http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR 1",
+    "url": "http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR 2 Kultur",
+    "url": "http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR 3",
+    "url": "http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR 4",
+    "url": "http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR Info",
+    "url": "http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HR You FM",
+    "url": "http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Joke FM",
+    "url": "https://rs33.stream24.net/joke-fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Lanka Radio",
+    "url": "http://stream.laut.fm/lankaradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Planet Radio Black Beats",
+    "url": "http://mp3.planetradio.de/plrchannels/hqblackbeats.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Apna Frankfurt",
+    "url": "https://stream.radio.co/s798135a6d/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SOS",
+    "url": "http://stream.sos-radio.net/128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio X FM 91.8",
+    "url": "http://stream.radiox.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Startuprad.io",
+    "url": "https://s2.radio.co/sb16d65602/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Oderwelle FM 91.7",
+    "url": "https://s4.radionetz.de/oderwelle.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Słubfurt",
+    "url": "http://streaming.fueralle.org:8000/slubfurt",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Baden.fm",
+    "url": "http://stream.baden.fm:8006/badenfm?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hitradio MMD",
+    "url": "https://hitradiommd.stream.laut.fm/hitradiommd",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Dreyeckland",
+    "url": "http://www.rdl.de:8000/rdl",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "uniFM Radio",
+    "url": "https://unifm-streams.uni-freiburg.de/unifm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RDL FM 102.3",
+    "url": "http://rdl.de:8000/rdl",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayern Welle",
+    "url": "https://bayernwelle-ais-edge-4009-fra-dtag-cdn.cast.addradio.de/bayernwelle/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Radio Freudenstadt",
+    "url": "https://s2.fairprice-streams.de:9148/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MadTimes Radio",
+    "url": "http://madtimesradio.stream.laut.fm/madtimesradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "EDR",
+    "url": "http://91.134.147.168:9854/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Top FM",
+    "url": "http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21",
+    "url": "https://stream.radio21.de/radio21.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Oberland FM 106.2",
+    "url": "http://radiooberland-live.cast.addradio.de/radiooberland/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Arberwaldradio",
+    "url": "http://stream.arberwoidradio.com/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Emscher Lippe",
+    "url": "http://radioemscherlippe.cast.addradio.de/radioemscherlippe/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SplashFM",
+    "url": "https://azuracast.matze-hosting.at/radio/8020/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Batsch FM",
+    "url": "http://player.stadtradio-geretsried.de:8000/batschfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kultur Kanal Radio",
+    "url": "http://stream.laut.fm/kulturkanal",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Maretimo Chill Radio",
+    "url": "https://s35.derstream.net/chillradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "fips",
+    "url": "https://stream.radiofips.de/fipsmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Lausitz 107.6",
+    "url": "https://hermes.bcs-systems.de/radio-lausitz_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21 Goslar FM 87.7",
+    "url": "https://stream.radio21.de/radio21_goslar.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Leinewelle 87,5",
+    "url": "http://rs18.stream24.net:80/leinewelle.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Stadtradio Göttingen FM 107.1",
+    "url": "http://stream.stadtradio-goettingen.de:8000/stadtradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio BUH",
+    "url": "https://streaming.radio.co/saed08c46d/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 98 Eins",
+    "url": "http://mmv-mediathek.de:8000/radio98eins",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Shake!FM",
+    "url": "https://webradio.shakefm.de/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio23FM",
+    "url": "http://stream2.laut.fm/23fm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Gütersloh FM 95.9",
+    "url": "https://radioguetersloh-ais-edge-4008-fra-dtag-cdn.cast.addradio.de/radioguetersloh/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "107.7 Radio Hagen",
+    "url": "http://radiohagen.cast.addradio.de/radiohagen/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ennepe Ruhr",
+    "url": "https://radioen-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radioen/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Retro FM 30 Plus",
+    "url": "http://retrofm30plus.stream.laut.fm/retrofm30plus",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR JUMP",
+    "url": "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Klassik",
+    "url": "https://mdr-edge-305d-dus-ts-cdn.cast.addradio.de/mdr/klassik/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Kultur",
+    "url": "http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Sputnik",
+    "url": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ostwelle",
+    "url": "http://stream.laut.fm/ostwelle",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Brocken",
+    "url": "https://stream.radiobrocken.de/live/mp3-128/radioplayerhp/;?listenerid=4e4363987c179d256d27fbef7aed84d3&awparams=companionAds%3Atrue",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Corax",
+    "url": "http://streaming.fueralle.org:8000/corax.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RTL FM 89.0",
+    "url": "https://stream.89.0rtl.de/live/mp3-128/direktlinkHP/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sputnik Soundcheck",
+    "url": "https://mdr-sputnik-live.sslcast.addradio.de/mdr/sputnik/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "917XFM",
+    "url": "https://mp3channels.rockantenne.hamburg/917xfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AC+",
+    "url": "http://ac-plus.stream.laut.fm/ac-plus?pl=m3u&t302=2020-12-17_07-42-18&uuid=208964ca-7e81-4e8f-b383-3f367875f1de",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BHJMS-Radio 1",
+    "url": "http://stream.bhjms-radio.de:8000/stream2",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Byte FM",
+    "url": "http://streams.byte.fm/live/mp3-128/direkt",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deafness Radio",
+    "url": "https://stream.deafness-radio.de/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FluxFM Hamburg FM 104.0",
+    "url": "https://fluxfm.streamabc.net/flx-fluxfmhamburg-mp3-320-9573500",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Sender Kombinat 93.0 MHz",
+    "url": "http://stream.fsk-hh.org:8000/fsk.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hamburg Zwei",
+    "url": "https://stream.hamburg-zwei.de/hh2-live/mp3-128/webplayer/webplayer/985408f302cc/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hirschmilch Radio",
+    "url": "http://hirschmilch.de:7000/progressive.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Klassik Radio",
+    "url": "https://klassikr.streamabc.net/klassikradio-simulcast-mp3-mq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "LMNTL Radio",
+    "url": "http://streaming.tidenet.de:8000/tide-40.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Migrantpolitan Radio",
+    "url": "https://stream.zeno.fm/wmrw2mg4mceuv",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Mojo Club",
+    "url": "http://stream.laut.fm/mojo",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MusikSound Hitradio",
+    "url": "http://server.musiksound-hitradio.de:25360/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "N-Joy Radio",
+    "url": "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "N-music Online",
+    "url": "http://stream.n-music.tk:8000/1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 2",
+    "url": "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 90.3",
+    "url": "http://ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR Blue",
+    "url": "https://ndr-edge-30b2-fra-ts-cdn.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR Info",
+    "url": "http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR Kultur",
+    "url": "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 42",
+    "url": "http://lounge-low.rautemusik.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Faaz",
+    "url": "http://www.radiofaaz.com:8000/radiofaaz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio fresh80s",
+    "url": "https://s37.derstream.net/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Hamburg FM 103.6",
+    "url": "https://rhh.streamabc.net/rhh-rhhlivestream-mp3-128-5239250",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Sylvia",
+    "url": "https://rasyl77.radioca.st/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rock Antenne Hamburg",
+    "url": "https://mp3channels.rockantenne.hamburg/rockantenne-hamburg",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Say Say - Soulful Hip-Hop",
+    "url": "https://streamer.radio.co/sb9163bff2/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "TIDE 96.0",
+    "url": "http://streaming.tidenet.de:8000/tide-128.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "radio aktiv",
+    "url": "https://live.radio-aktiv.de/r-aktiv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Lippewelle Hamm",
+    "url": "https://radiolippewelle-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiolippewelle/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Hanau FM",
+    "url": "https://server34576.streamplus.de/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Niedersachsen",
+    "url": "http://stream.antenne.com/antenne-nds/mp3-128/delicast/?.mp3p3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ernst.FM Campusradio Hannover",
+    "url": "http://85.25.217.22:8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Leine Radio",
+    "url": "https://leineradio.stream.laut.fm/leineradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Niedersachsen",
+    "url": "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 2",
+    "url": "https://ndr-edge-10c1-dus-dtag-cdn.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bollerwagen FM 100.3",
+    "url": "https://stream.ffn.de/radiobollerwagen/mp3-192/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio FFN",
+    "url": "http://stream.ffn.de/ffn/mp3-192/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Flora",
+    "url": "http://radio-flora.de/stream/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Hannover",
+    "url": "http://radio-hannover.divicon-stream.net/rhann_livestrea_zqu6-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Skywalker FM",
+    "url": "https://320-fm.de:8020/Stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Techno4ever Hard",
+    "url": "http://out03.t4e.dj/main_high.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Welle Nord Region Heide",
+    "url": "http://ndr-ndr1wellenord-heide.cast.addradio.de/ndr/ndr1wellenord/heide/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "WestküsteFM",
+    "url": "http://radio.oksh.de:8000/westkuestefm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Foxradio.eu",
+    "url": "http://i4.streams.ovh:8015/;?1570178342189",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RadioFilopoli.eu",
+    "url": "http://cast4.magicstreams.gr:10043/mp3;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne 1 Heilbronn",
+    "url": "https://stream.antenne1.de/a1hn/livestream1.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ton 103.2",
+    "url": "https://live.radioton.de/rt-live-hn?usid=0-0-H-M-V-02&ref=radiogarden",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Novum FM",
+    "url": "http://fm-broadcast.com:8000/novumfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ankerherz",
+    "url": "http://217.160.184.16:8001/Ankerherz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Helgoland",
+    "url": "http://radio.radiohelgoland.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Herford",
+    "url": "https://radioherford-ais-edge-4009-fra-dtag-cdn.cast.addradio.de/radioherford/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "90.8 Radio Herne",
+    "url": "http://radioherne.cast.addradio.de/radioherne/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "United Hitradio",
+    "url": "http://stream.sfr1.de:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Tonkuhle",
+    "url": "http://stream.tonkuhle.de:8000/tonkuhle.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Chat-Fire",
+    "url": "http://stream.laut.fm:80/chat-fire",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Westerwald",
+    "url": "http://radiowesterwald.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A 2000er",
+    "url": "http://1a-2000er.radionetz.de/1a-2000er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A 60er",
+    "url": "http://1a-60er.radionetz.de/1a-60er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A 70er",
+    "url": "http://1a-70er.radionetz.de:8000/1a-70er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A 80er",
+    "url": "http://1a-80er.radionetz.de:8000/1a-80er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A 90er",
+    "url": "http://1a-90er.radionetz.de:8000/1a-90er.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Charts",
+    "url": "http://1a-charts.radionetz.de:8000/1a-charts.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Chillout",
+    "url": "http://1a-chillout.radionetz.de/1a-chillout.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Christmas",
+    "url": "http://1a-christmas.radionetz.de/1a-christmas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Classic Rock",
+    "url": "http://1a-classicrock.radionetz.de/1a-classicrock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Deutsch Pop",
+    "url": "http://1a-deutschpop.radionetz.de:8000/1a-deutschpop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Deutsch Rap",
+    "url": "http://1a-deutschrap.radionetz.de:8000/1a-deutschrap.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Entspannt",
+    "url": "http://1a-entspannt.radionetz.de:8000/1a-entspannt.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Hits",
+    "url": "http://1a-hits.radionetz.de:8000/1a-hits.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A NDW Neue Deutsche Welle",
+    "url": "http://1a-ndw.radionetz.de:8000/1a-ndw.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Oldies",
+    "url": "http://1a-oldies.radionetz.de/1a-oldies.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Party",
+    "url": "http://1a-party.radionetz.de/1a-party.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Relax",
+    "url": "http://1a-relax.radionetz.de/1a-relax.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Rock",
+    "url": "http://1a-rock.radionetz.de:8000/1a-rock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Schlager",
+    "url": "http://1a-schlager.radionetz.de:8000/1a-schlager.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Schlager Gold",
+    "url": "http://1a-schlagergold.radionetz.de:8000/1a-schlagergold.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Schlager Kult",
+    "url": "http://1a-schlagerkult.radionetz.de:8000/1a-schlagerkult.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Volksmusik",
+    "url": "http://1a-volksmusik.radionetz.de:8000/1a-volksmusik.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Weihnachten",
+    "url": "http://1a-weihnachten.radionetz.de:8000/1a-weihnachten.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1A Wirtschaftswunder",
+    "url": "http://1a-wirtschaftswunder.radionetz.de:8000/1a-wirtschaftswunder.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BurnFM ",
+    "url": "http://burnfm.radionetz.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Extra Radio 88.0",
+    "url": "http://www.radionetz.de:8000/extra-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 2000s",
+    "url": "http://0n-2000s.radionetz.de/0n-2000s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 2010s",
+    "url": "https://0n-2010s.radionetz.de/0n-2010s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 50s",
+    "url": "https://0n-50s.radionetz.de/0n-50s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 60s",
+    "url": "http://0n-60s.radionetz.de/0n-60s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 70s",
+    "url": "http://0n-70s.radionetz.de/0n-70s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 80s",
+    "url": "http://0n-80s.radionetz.de:8000/0n-80s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON 90s",
+    "url": "http://0n-90s.radionetz.de:8000/0n-90s.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Black",
+    "url": "http://0n-black.radionetz.de/0n-black.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Charts",
+    "url": "http://0n-charts.radionetz.de:8000/0n-charts.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Chillout",
+    "url": "http://0n-chillout.radionetz.de/0n-chillout.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Christmas",
+    "url": "http://0n-christmas.radionetz.de/0n-christmas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Classic Rock",
+    "url": "http://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Country",
+    "url": "http://0n-country.radionetz.de/0n-country.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Dance",
+    "url": "http://0n-dance.radionetz.de:8000/0n-dance.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Deutsch Pop",
+    "url": "http://0n-deutschpop.radionetz.de/0n-deutschpop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Deutsch Rap",
+    "url": "http://0n-deutschrap.radionetz.de/0n-deutschrap.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Deutsch Rock",
+    "url": "https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Disco",
+    "url": "http://0n-disco.radionetz.de:8000/0n-disco.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON EDM",
+    "url": "http://0n-edm.radionetz.de/0n-edm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Electro",
+    "url": "http://0n-electro.radionetz.de:8000/0n-electro.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Evergreens",
+    "url": "https://0n-evergreens.radionetz.de/0n-evergreens.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Fresh",
+    "url": "https://0n-fresh.radionetz.de/0n-fresh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Games",
+    "url": "https://0n-games.radionetz.de/0n-games.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Gay",
+    "url": "http://0n-gay.radionetz.de:8000/0n-gay.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Gold",
+    "url": "https://0n-gold.radionetz.de/0n-gold.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Gothic",
+    "url": "http://0n-gothic.radionetz.de/0n-gothic.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Grand Prix",
+    "url": "https://0n-grandprix.radionetz.de/0n-grandprix.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Greatest Hits",
+    "url": "https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Hits",
+    "url": "http://0n-hits.radionetz.de/0n-hits.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Hot",
+    "url": "https://0n-hot.radionetz.de/0n-hot.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON House",
+    "url": "https://0n-house.radionetz.de/0n-house.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Indie",
+    "url": "http://0n-indie.radionetz.de/0n-indie.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Jazz",
+    "url": "http://0n-jazz.radionetz.de/0n-jazz.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Jukebox",
+    "url": "http://0n-jukebox.radionetz.de/0n-jukebox.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON K-Pop",
+    "url": "https://0n-kpop.radionetz.de/0n-kpop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Kids",
+    "url": "https://0n-kids.radionetz.de/0n-kids.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Klassik",
+    "url": "http://0n-klassik.radionetz.de/0n-klassik.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Kult",
+    "url": "http://0n-kult.radionetz.de/0n-kult.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Latin",
+    "url": "https://0n-latin.radionetz.de/0n-latin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Lounge",
+    "url": "https://0n-lounge.radionetz.de/0n-lounge.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Love",
+    "url": "https://0n-love.radionetz.de/0n-love.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Movies",
+    "url": "http://0n-movies.radionetz.de/0n-movies.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Oldies",
+    "url": "http://0n-oldies.radionetz.de/0n-oldies.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Party",
+    "url": "http://0n-party.radionetz.de/0n-party.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Pop",
+    "url": "http://0n-pop.radionetz.de/0n-pop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Radio",
+    "url": "http://0n-radio.radionetz.de/0n-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Relax",
+    "url": "http://0n-relax.radionetz.de/0n-relax.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Rock",
+    "url": "http://0n-rock.radionetz.de/0n-rock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Schlager",
+    "url": "http://0n-schlager.radionetz.de:8000/0n-schlager.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Schlager Gold",
+    "url": "http://0n-schlagergold.radionetz.de/0n-schlagergold.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Schlager Kult",
+    "url": "http://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Smooth Jazz",
+    "url": "http://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Soft Pop",
+    "url": "https://0n-softpop.radionetz.de/0n-softpop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Soft Rock",
+    "url": "https://0n-softrock.radionetz.de/0n-softrock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Top 40",
+    "url": "http://0n-top40.radionetz.de/0n-top40.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Volksmusik",
+    "url": "http://0n-volksmusik.radionetz.de/0n-volksmusik.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ON Weihnachten",
+    "url": "http://0n-weihnachten.radionetz.de/0n-weihnachten.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Euroherz",
+    "url": "https://webstream.euroherz.de/radio-euroherz.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy Hof",
+    "url": "http://webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21",
+    "url": "https://stream.radio21.de/radio21_holzminden.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wunsch Radio",
+    "url": "http://mp3.wunschradio.de:80/wunschradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wunsch Radio - Top 100",
+    "url": "http://mp3.wunschradio.de/wunschradio-top100.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Coaching Airline Radio",
+    "url": "http://systemweb-server3.de:12100/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Erft",
+    "url": "https://radioerft-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radioerft/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Idar-Oberstein 87.6 FM",
+    "url": "https://antenneidaroberstein-ais-edge-3072-fra-eco-cdn.cast.addradio.de/antenneidaroberstein/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "CueBase.FM blue",
+    "url": "http://streamplus17.leonex.de:10928/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio HSF FM 98.1",
+    "url": "http://collins.hsf.tu-ilmenau.de:8000/hsf.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Horeb",
+    "url": "http://rs16.stream24.org:8000/horeb.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ad Infinitium",
+    "url": "https://adinfinitum.stream.laut.fm/ad_infinitum?t302=2019-05-11_03-06-54&uuid=286aa078-959b-4ea2-829e-80ca7e61e61c",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "107.9 Radio Galaxy Ingolstadt FM",
+    "url": "http://fhin.4broadcast.de/galaxyin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "95.4 Radio IN FM",
+    "url": "http://fhin.4broadcast.de/radioin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio MK Nord",
+    "url": "https://radiomk-ais-edge-400a-dus-dtag-cdn.cast.addradio.de/radiomk/nord/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Bayern - Oldies but Goldies",
+    "url": "https://s7-webradio.antenne.de/oldies-but-goldies/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Bayern 80er",
+    "url": "http://mp3channels.webradio.antenne.de/80er-kulthits",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rock Antenne",
+    "url": "http://mp3channels.webradio.antenne.de:80/rockantenne",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio OKJ",
+    "url": "http://tbradio.de:80/okj",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Kahla",
+    "url": "https://server30476.streamplus.de/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne KL 96.9 FM",
+    "url": "https://antennekaiserslautern-ais-edge-3075-fra-eco-cdn.cast.addradio.de/antennekaiserslautern/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1 Pfalz",
+    "url": "http://streams.rpr1.de/rpr-kaiserslautern-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AlternativeFM",
+    "url": "http://alternativefm.cast.addradio.de/alternativefm/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Die Neue Welle",
+    "url": "http://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Junger Kulturkanal",
+    "url": "http://www.jungerkulturkanal.de/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Lern Radio",
+    "url": "http://193.197.85.26:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Querfunk",
+    "url": "http://mp3.querfunk.de/qfhi",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Radio Kassel",
+    "url": "http://stream.freiesradio.org:8000/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bob!",
+    "url": "https://bob.hoerradar.de/radiobob-national-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Purhits",
+    "url": "http://94.23.221.158:9019/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FINN Radio One",
+    "url": "https://finnradioone.stream.laut.fm/finnradioone",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Delta Radio",
+    "url": "https://streams.deltaradio.de/delta-live/mp3-192/homepage/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Delta Radio Grunge",
+    "url": "http://regiocast.hoerradar.de/deltaradio-grunge-mp3-hq?sABC=5724pn98%230%235352nn4p0oq151snp4pro0pqq0r5q472%23qryvpnfg&amsparams=playerid:delicast",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kiel FM",
+    "url": "http://radio.oksh.de:8000/kielfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Welle Nord",
+    "url": "http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "R.SH ",
+    "url": "http://regiocast.hoerradar.de/rsh128?sABC=57238q2r%230%235932o282802n9o09782ns885177n8oqp%23yvfgrayvir&amsparams=playerid:listenlive",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bob!",
+    "url": "http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nora",
+    "url": "http://regiocast.hoerradar.de/nora128?sABC=57238q2q%230%235932o282802n9o09782ns885177n8oqp%23yvfgrayvir&amsparams=playerid:listenlive",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nordseewelle",
+    "url": "https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Mega Hit Radio",
+    "url": "https://megahitradio.schlagerparadies.de/megahitradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Melodie",
+    "url": "https://radiomelodie.schlagerparadies.de/radiomelodie",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Schlagerparadies",
+    "url": "https://webstream.schlagerparadies.de/schlagerparadies128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Niederrhein",
+    "url": "https://antennenr-ais-edge-3077-fra-eco-cdn.cast.addradio.de/antennenr/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Koblenz",
+    "url": "https://antennekoblenz-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/antennekoblenz/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1 Koblenz",
+    "url": "http://streams.rpr1.de/rpr-koblenz-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Burn Your Ears",
+    "url": "http://stream1.laut.fm/burnyourears",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Celtic-Rock",
+    "url": "https://celtic-rock.stream.laut.fm/celtic-rock",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dein Lieblingsmensch",
+    "url": "http://deinlieblingsmensch.stream.laut.fm/deinlieblingsmensch",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Eurodance 1 Radio",
+    "url": "http://stream.laut.fm/eurodance1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Galattica FM",
+    "url": "http://stream.laut.fm/galatticafm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Herrmerkt Radio",
+    "url": "http://herrmerktradio.stream.laut.fm/herrmerktradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Klangwelt Radio",
+    "url": "https://klangwelt.stream.laut.fm/klangwelt",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Kora Radio",
+    "url": "http://koradio.stream.laut.fm/koradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Dj R",
+    "url": "http://djr.stream.laut.fm/djr",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Instrumental",
+    "url": "http://radioinstrumental.stream.laut.fm/radioinstrumental",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nin64",
+    "url": "http://stream.laut.fm/radio_nin64",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio QueerLive",
+    "url": "http://queerlive.stream.laut.fm/queerlive",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Seefunk - Hochrein",
+    "url": "https://webradio.radio-seefunk.de/live64",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Raintown",
+    "url": "http://raintown.stream.laut.fm/raintown",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ska World",
+    "url": "https://skaworld.stream.laut.fm/skaworld",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Smooth Xmas",
+    "url": "http://smoothxmas.stream.laut.fm/smoothxmas",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Vinyl Maxi FM",
+    "url": "https://vinyl-maxi-fm.stream.laut.fm/vinyl-maxi-fm?t302=2019-05-09_18-08-27&uuid=aa10e669-a372-42d5-bb6e-0f4a3d3a02e6",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ballermann Radio",
+    "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Discofox FM",
+    "url": "http://87.118.78.2:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Welle Niederrhein FM 87.7",
+    "url": "https://wellenr-ais-edge-3001-fra-eco-cdn.cast.addradio.de/wellenr/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Plassenburg",
+    "url": "http://webstream.radio-plassenburg.de/radio-plassenburg.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Berg",
+    "url": "https://radioberg-ais-edge-3006-fra-eco-cdn.cast.addradio.de/radioberg/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Landau 94.8",
+    "url": "https://antennelandau-ais-edge-3072-fra-eco-cdn.cast.addradio.de/antennelandau/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Trausnitz",
+    "url": "http://radiotrausnitz-ice-edge-1001-fra-eco-cdn.cast.addradio.de/radiotrausnitz/live/aac/low",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Landsberg",
+    "url": "http://av.welle-landsberg.de/radio/8000/autodj.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy Landshut",
+    "url": "http://mp3ad.radiogalaxylandshut.c.nmdn.net/ps-radiogalaxylandshut/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Trausnitz",
+    "url": "http://mp3.radiotrausnitz.c.nmdn.net/ps-radiotrausnitz_mobile/livestream.aac?",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Deutschrock",
+    "url": "https://stream.laut.fm/deutschrock",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nordseewelle",
+    "url": "http://stream.radio-nordseewelle.de/live/mp3-128/surfmusik/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Detektor FM",
+    "url": "https://sec-detektorfm.hoerradar.de/detektorfm-wort-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "DROD",
+    "url": "https://stream.laut.fm/drod",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR FM 95.6",
+    "url": "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Schlagerwelt",
+    "url": "http://mdr-990601-0.cast.mdr.de/mdr/990601/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR Sputnik - Rock",
+    "url": "http://mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Mephisto 97.6",
+    "url": "http://radiostream.radio.uni-leipzig.de:8000/mephisto976_livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "R.SA ",
+    "url": "http://regiocast.hoerradar.de/mp3-rsasachsen-128?sABC=57238q2r%230%235932o282802n9o09782ns885177n8oqp%23yvfgrayvir&amsparams=playerid:listenlive",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Blau",
+    "url": "http://radioblau.hoerradar.de/radioblau",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Leipzig FM 91.3",
+    "url": "https://hermes.bcs-systems.de/radio-leipzig_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Preston Air",
+    "url": "https://listen.radioking.com/radio/370729/stream/420760",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio PSR",
+    "url": "http://streams.radiopsr.de/psr-live/mp3-128/og-audio-tag?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sphere Radio",
+    "url": "https://srv.sphere-radio.net/listen/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Triquency Campus Radio",
+    "url": "http://kelinda.skim.hs-owl.de:8000/live128.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Leverkusen",
+    "url": "https://radioleverkusen-ais-edge-4006-dus-dtag-cdn.cast.addradio.de/radioleverkusen/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RadioFettehenne",
+    "url": "http://stream.laut.fm/radio-fettehenne",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ems Vechte Welle 95.6 FM",
+    "url": "https://live.radio-aktiv.de/evw.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Larmo",
+    "url": "http://larmo.stream.laut.fm/larmo",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Lübeck FM 98.8",
+    "url": "http://radio.oksh.de:8000/luebeckfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Welle Nord Region Luebeck",
+    "url": "http://addrad.io/4WRJbj",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Lübeck",
+    "url": "http://stream.radioluebeck.de/radioluebeck-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 2000er Black",
+    "url": "https://streams.rpr1.de/rpr-2000erblack-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 2000er Dance",
+    "url": "https://streams.rpr1.de/rpr-2000erdance-128-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 2000er Pop",
+    "url": "https://streams.rpr1.de/rpr-2000er-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 2000er Rock",
+    "url": "https://streams.rpr1.de/rpr-2000errock-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 70er",
+    "url": "https://streams.rpr1.de/rpr-70er-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 70er Rock",
+    "url": "http://streams.rpr1.de/rpr-70errock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 80er",
+    "url": "https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 80er Rock",
+    "url": "https://streams.rpr1.de/rpr-80errock-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 90er Black",
+    "url": "https://streams.rpr1.de/rpr-90erblack-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 90er Dance",
+    "url": "https://streams.rpr1.de/rpr-90erdance-128-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 90er Pop",
+    "url": "https://streams.rpr1.de/rpr-90er-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 90er Rock",
+    "url": "https://streams.rpr1.de/rpr-90errock-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. 90er Trash",
+    "url": "https://streams.rpr1.de/rpr-90ertrash-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Acoustic",
+    "url": "https://streams.rpr1.de/rpr-acoustic-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Aprés Ski",
+    "url": "https://streams.rpr1.de/rpr-apresski-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Chillout",
+    "url": "https://streams.rpr1.de/rpr-chilloutzone-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Classic Rock",
+    "url": "https://streams.rpr1.de/rpr-rock-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Country",
+    "url": "http://streams.rpr1.de/rpr-country-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Deutschpop",
+    "url": "https://streams.rpr1.de/rpr-deutschpop-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Evergreens",
+    "url": "https://streams.rpr1.de/rpr-evergreens-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Festival",
+    "url": "https://streams.rpr1.de/rpr-simulcast-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Hardrock",
+    "url": "https://streams.rpr1.de/rpr-hardrock-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Heavy Metal",
+    "url": "https://streams.rpr1.de/rpr-metal-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Hip-Hop",
+    "url": "https://streams.rpr1.de/rpr-hiphop-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Liedergut",
+    "url": "https://streams.rpr1.de/rpr-liedergut-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Maximal",
+    "url": "https://streams.rpr1.de/rpr-maximal-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. NDW",
+    "url": "https://streams.rpr1.de/rpr-ndw-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Oldies",
+    "url": "https://streams.rpr1.de/rpr-oldies-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Pappnasen",
+    "url": "https://streams.rpr1.de/rpr-pappnasen-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Rhein-Neckar",
+    "url": "http://streams.rpr1.de/rpr-ludwigshafen-128-mp3?",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Schlagerhits",
+    "url": "https://streams.rpr1.de/rpr-schlagerhits-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Schlagerklassiker",
+    "url": "https://streams.rpr1.de/rpr-schlagerklassiker-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Simulcast",
+    "url": "https://streams.rpr1.de/rpr-simulcast-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Tanzbar",
+    "url": "https://streams.rpr1.de/rpr-tanzbar-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Top50",
+    "url": "https://streams.rpr1.de/rpr-top40-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Traumfabrik",
+    "url": "https://streams.rpr1.de/rpr-lounge-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Volksmusik",
+    "url": "https://streams.rpr1.de/rpr-volksmusik-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Workout",
+    "url": "https://streams.rpr1.de/rpr-fitfun-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1. Yoga Sounds",
+    "url": "https://streams.rpr1.de/rpr-entspannung-128-mp3?usid=0-0-H-M-D-62",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hitradio Lüneburg",
+    "url": "http://hitradio1.stream.laut.fm/hitradio1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MDR 1 Radio Sachsen-Anhalt",
+    "url": "http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW",
+    "url": "http://stream.radiosaw.de/saw/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW 2000er",
+    "url": "http://stream.saw-musikwelt.de/saw-2000er/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW 2010er",
+    "url": "https://stream.saw-musikwelt.de/saw-2010er/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW 70er",
+    "url": "http://stream.saw-musikwelt.de/saw-70er/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW 80er",
+    "url": "http://stream.saw-musikwelt.de/saw-80er/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW 90er",
+    "url": "http://stream.saw-musikwelt.de/saw-90er/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Deutsch",
+    "url": "http://stream.saw-musikwelt.de/saw-deutsch/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Fitness",
+    "url": "http://stream.saw-musikwelt.de/saw-fitness/mp3-128/radiogarden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Good Life",
+    "url": "http://stream.saw-musikwelt.de/saw-goodlife/mp3-128/radiogarden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Hits für Kids",
+    "url": "http://stream.radiosaw.de/saw-kids/mp3-128/radiogarden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Kino",
+    "url": "https://stream.saw-musikwelt.de/saw-kino/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Modern Rock",
+    "url": "https://stream.saw-musikwelt.de/saw-rock/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Neuheiten",
+    "url": "http://stream.saw-musikwelt.de/saw-neuheiten/mp3-128/Radioplayer/679e934460941104a7624387fc48185a/stream.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Party",
+    "url": "http://stream.saw-musikwelt.de/saw-party/mp3-128/Radioplayer/679e934460941104a7624387fc48185a/?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Partyschlager",
+    "url": "http://stream.saw-musikwelt.de/saw-partyschlager/mp3-128/radiogarden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Rock",
+    "url": "http://stream.saw-musikwelt.de/saw-rock/mp3-128/radio.garden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Synthie Pop",
+    "url": "https://stream.saw-musikwelt.de/saw-synthie-pop/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Urban Music",
+    "url": "http://stream.saw-musikwelt.de/saw-urban/mp3-128/radiogarden/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio SAW Weihnachten",
+    "url": "https://saw-stream20.radiohost.de/saw-weihnachten_mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rockland Digital",
+    "url": "http://stream.rockland-digital.de/rockland/mp3-128/Radioplayer/a0072ec9a637db8aa65f8987aed785a7/stream.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rockland FM",
+    "url": "http://stream.rockland-digital.de/rockland/mp3-128/surfmusik/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Mainz 106.6 FM",
+    "url": "https://antennemainz-ais-edge-3072-fra-eco-cdn.cast.addradio.de/antennemainz/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MANGORADIO",
+    "url": "https://stream.mangoradio.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rockland Radio",
+    "url": "https://stream.rockland.de/rockland.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1 Mainz",
+    "url": "http://streams.rpr1.de/rpr-mainz-128-mp3?",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR4 Rheinland-Pfalz",
+    "url": "http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "bermuda.funk",
+    "url": "http://streaming.fueralle.org:8000/bermudafunk_high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Nostalji FM",
+    "url": "http://2.59.117.43:2020/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen",
+    "url": "https://streams.regenbogen.de/rr-mannheim-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen 2000er",
+    "url": "https://streams.regenbogen.de/rr-2000er-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen 80er",
+    "url": "https://streams.regenbogen.de/rr-80er-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen 90er",
+    "url": "https://streams.regenbogen.de/rr-90er-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen 90er Dance",
+    "url": "https://streams.regenbogen.de/rr-eurodance-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Adler Mannheim",
+    "url": "https://streams.regenbogen.de/rr-adler-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Christmas Hits",
+    "url": "https://streams.regenbogen.de/rr-xmas-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Deutschpop",
+    "url": "https://streams.regenbogen.de/rr-deutschpop-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Hip-Hop & R’n’B",
+    "url": "https://streams.regenbogen.de/rr-justblack-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen In the Mix",
+    "url": "https://streams.regenbogen.de/rr-inthemix-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Kinderlieder",
+    "url": "https://streams.regenbogen.de/rr-kinderlieder-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Konfetti-Party",
+    "url": "https://streams.regenbogen.de/rr-konfettiparty-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Musical & Filmhits",
+    "url": "https://streams.regenbogen.de/rr-musical-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Musik von hier",
+    "url": "https://streams.regenbogen.de/rr-musikvonhier-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Oldies",
+    "url": "https://streams.regenbogen.de/rr-oldies-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Salsa-Party",
+    "url": "https://streams.regenbogen.de/rr-latin-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Schlager",
+    "url": "https://streams.regenbogen.de/rr-schlager-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Soft & Lazy",
+    "url": "https://streams.regenbogen.de/rr-karlsruhe-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Top40",
+    "url": "https://streams.regenbogen.de/rr-top40-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Unplugged",
+    "url": "https://streams.regenbogen.de/rr-unplugged-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regenbogen Workout",
+    "url": "https://streams.regenbogen.de/rr-workout-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RadioAktiv",
+    "url": "http://stream.radioaktiv.org:8233/HiFi?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RauteMusikFM - Schlager",
+    "url": "http://schlager-high.rautemusik.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2",
+    "url": "https://streams.regenbogen.de/rr2-rn-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 70s Rock",
+    "url": "https://streams.regenbogen.de/rr-70errock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 80s Rock",
+    "url": "https://streams.regenbogen.de/rr-80errock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Classic Rock",
+    "url": "https://streams.regenbogen.de/rr-classicrock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Guns N' Roses",
+    "url": "https://streams.regenbogen.de/rr-gunsnroses-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Indie Rock",
+    "url": "https://streams.regenbogen.de/rr-indierock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Metal",
+    "url": "https://streams.regenbogen.de/rr-metal-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Metallica",
+    "url": "https://streams.regenbogen.de/rr-metallica-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Modern Rock",
+    "url": "https://streams.regenbogen.de/rr-modernrock-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Regenbogen 2 Rolling Stones",
+    "url": "https://streams.regenbogen.de/rr-rollingstones-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - 90s Anthems",
+    "url": "http://sunsl.streamabc.net/sunsl-90santhems-mp3-192-6626822",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Afterhour",
+    "url": "http://sunsl.streamabc.net/sunsl-sunsldfw8j6rqyqnlw-mp3-192-9761542",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Chillout",
+    "url": "http://sunsl.streamabc.net/sunsl-chillout-mp3-192-3900120",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Classics",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Clubsound Berlin",
+    "url": "http://sunsl.streamabc.net/sunsl-playlist1-mp3-192-2595213",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Die 90er",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Drum n Bass",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-dnb-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - EDM",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Festival",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-festival-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Hands Up",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-handsup-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Hard",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-hard-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - House",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Lounge",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-lounge-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Mayday",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-mayday-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Nature One",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-natureone-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Summer Beats",
+    "url": "http://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Tech House",
+    "url": "http://sunsl.streamabc.net/sunsl-techhouse-mp3-192-9113798",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Techno",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-techno-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Time Warp",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-timewarp-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Sunshine Live - Trance",
+    "url": "https://sunshinelive.hoerradar.de/sunshinelive-trance-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Unerhort 90,1",
+    "url": "http://stream.radio-rum.de:8000/rum.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SecondRadio",
+    "url": "http://streamer.secondradio.de:7070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "CaRaMe Campus Radio Merseburg",
+    "url": "https://radio.hs-merseburg.de:8443/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Sauerland",
+    "url": "http://radiosauerland.cast.addradio.de/radiosauerland/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Summer FM",
+    "url": "http://stream.laut.fm/summerfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Neandertal",
+    "url": "https://neandertal-ais-edge-3071-fra-eco-cdn.cast.addradio.de/neandertal/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Westfalica",
+    "url": "https://radiowestfalica-ais-edge-3076-fra-eco-cdn.cast.addradio.de/radiowestfalica/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "99Drei - Radio Mittweida",
+    "url": "http://netradio.ext.htwm.de:8000/live128",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radioparty",
+    "url": "http://radioparty.stream.laut.fm/radioparty",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Technobase FM",
+    "url": "http://listen.technobase.fm/tunein-aac-hd-pls",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Orangeradio.de",
+    "url": "https://play.orangeradio.de/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 90,1",
+    "url": "https://radiomg-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radiomg/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Storfis EDM Radio",
+    "url": "http://storfisedmradio.stream.laut.fm/storfisedmradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Storfis Hits Radio",
+    "url": "http://storfis-hits-radio.stream.laut.fm/storfis-hits-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "12XU",
+    "url": "http://stream.laut.fm/12xu",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "92.9 Radio Mülheim",
+    "url": "http://radiomuelheim.cast.addradio.de/radiomuelheim/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "#1 Oldies",
+    "url": "http://stream.laut.fm/1-oldies",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1000 Christmas",
+    "url": "http://ais-sa2.wdc01.cdnstream.com/2553_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1000 HITS 80s",
+    "url": "http://91.121.155.204:8048/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "1000 Oldies",
+    "url": "http://213.32.121.34:8010/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AFK M94.5",
+    "url": "http://stream.m945.de:80/m945-hq.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Akademieradio",
+    "url": "http://akademieradio.de/play",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Bayern",
+    "url": "http://mp3channels.webradio.antenne.de/antenne",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Bayern - Chillout",
+    "url": "http://mp3channels.webradio.antenne.de/chillout",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Bayern - Hitmix",
+    "url": "https://mp3channels.webradio.de/hitmix",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne München",
+    "url": "http://www.antennemuenchen.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Arabella Classic Rock",
+    "url": "http://rs32.stream24.net:80/arabella-rock.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Arabella Live 105.2",
+    "url": "http://rs26.stream24.net/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "B5 Aktuell",
+    "url": "https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayern 3",
+    "url": "https://br-br3-live.sslcast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Bayern 1",
+    "url": "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Bayern 2",
+    "url": "https://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Heimat",
+    "url": "https://br-edge-2008-dus-lg-cdn.cast.addradio.de/br/brheimat/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Klassik",
+    "url": "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Puls",
+    "url": "https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BR Schlager",
+    "url": "https://br-edge-3007-dus-ts-cdn.cast.addradio.de/br/brschlager/live/mp3/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Charivari 95.5 ",
+    "url": "http://rs5.stream24.net:80/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "egoFM",
+    "url": "https://streams.egofm.de/egoFM-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Energy FM 93.3",
+    "url": "https://edge04.streamonkey.net/energy-digital/stream/mp3?aggregator=energyde",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FCK.FM",
+    "url": "https://streamer.radio.co/s23eb1dc4e/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "goHappy FM",
+    "url": "http://stream.laut.fm:80/gohappy-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Gong 96.3",
+    "url": "http://mp3.radiogong963.c.nmdn.net/ps-radiogong963/livestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HBR1 - Dream Factory",
+    "url": "http://radio.hbr1.com:19800/trance.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Lobpreisradio",
+    "url": "http://worship.lobpreisradio.de:8000/anbetung-lobpreis-webradio?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Lora Radio 92.4",
+    "url": "http://live.lora924.de:8000/loramp3.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Munich's Hardest Hits",
+    "url": "http://munichhh.streamabc.net/munichhh-mhhlive-mp3-128-9996709",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ormuschel",
+    "url": "http://ohrmuschel.stream.laut.fm/ohrmuschel",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 2Day FM 89.0",
+    "url": "https://radio2day.ip-streaming.net/radio2day",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 80000",
+    "url": "http://radio80k.out.airtime.pro:8000/radio80k_a?_ga=1.57133418.1506499742.1421862890",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bavaria International",
+    "url": "http://streamplus18.leonex.de:18576/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Bluebell",
+    "url": "http://stream.radiobluebell.com:8000/bluebell_hi",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Gaga",
+    "url": "http://stream.gaga.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Heimatmelodie",
+    "url": "http://stream2.radio-heimatmelodie.de/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Monacensis",
+    "url": "http://stream.laut.fm/monacensis",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio München",
+    "url": "http://icecast01.netzwerkoptimierung.com:8000/radiomuenchen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Putokaz",
+    "url": "https://www.radioking.com/play/putokaz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rattlesnake Radio",
+    "url": "http://server3755.streamplus.de/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RBI Radio",
+    "url": "http://85.195.72.226:18576/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SW1.Bayern - Deine SchlagerWelt",
+    "url": "https://hope.streampanel.cloud:5470/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Volksmusikwelle",
+    "url": "http://stream.laut.fm/volksmusikwelle",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Münster",
+    "url": "https://antennemuenster-ais-edge-3007-fra-eco-cdn.cast.addradio.de/antennemuenster/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Q",
+    "url": "https://rqstream.radioq.de/stream/192.webm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "KitchenRadio",
+    "url": "https://stream.kitchenradio.eu:8000/SQ",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NB-Radiotreff 88.0",
+    "url": "http://mmv-mediathek.de:8000/live160",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "FRN 100.8 - Freies Radio Neumünster",
+    "url": "http://streaming.fueralle.org:8000/frn",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Cityradio Neunkirchen FM 94.6",
+    "url": "https://radioneunkirchen-ais-edge-3006-fra-eco-cdn.cast.addradio.de/radioneunkirchen/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NE-WS 89.4",
+    "url": "https://news894-ais-edge-4002-fra-dtag-cdn.cast.addradio.de/news894/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Sardegna Web",
+    "url": "http://91.121.38.216:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Meer Radio FM 88.0",
+    "url": "https://meerradio.ip-streaming.net/meerradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Mittelweser 103.3 FM",
+    "url": "http://server3.digital-webstream.de:7935/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nordseewelle",
+    "url": "http://stream.radio-nordseewelle.de/live/mp3-128/stream.radio-nordseewelle.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Norderney",
+    "url": "http://stream.laut.fm/radio-norderney",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Regentrude",
+    "url": "http://rs13.stream24.org:9260/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HTD-Radio",
+    "url": "http://htd-radio.stream.laut.fm/htd-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Offener Kanal Nordhausen",
+    "url": "http://stream.tbfunk.de/okn.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Nürburgring",
+    "url": "https://streams.rpr1.de/rpr-nbr-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut Bella",
+    "url": "https://absolutradio.stream24.net/absolut-bella.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut hot",
+    "url": "https://sec-absolut.hoerradar.de/absolutradio-hot.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut musicXL",
+    "url": "https://sec-absolut.hoerradar.de/absolutradio-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut Oldie Classics",
+    "url": "https://absolutradio.stream24.net/absolut-oldie-classics.mp3?listenerid=79ad668f5fa62e76f6bcb3c0f5b47a04&awparams=companionAds%3Atrue",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut relax",
+    "url": "https://stream.absolutradio.de/relax/mp3-96/radioplayer/;?listenerid=79ad668f5fa62e76f6bcb3c0f5b47a04&awparams=companionAds%3Atrue",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Charivari 98.6",
+    "url": "http://webstream.charivari986.de/charivari986",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio N1",
+    "url": "http://webstream.hitradion1.de/hitradion1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pirate Gong",
+    "url": "http://webstream.pirategong.de/pirategong",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ellinadiko",
+    "url": "https://sonic.webradioserver.gr/8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio F",
+    "url": "http://webstream.radiof.de/radiof",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Gong 97.1",
+    "url": "http://webstream.gong971.de/gong971",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Z",
+    "url": "http://snd.radio-z.net:8000/Radio-Z?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Star FM - Rock Classics",
+    "url": "https://starfm-4.explodio.com/rock_classics.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Swarmstation Radio",
+    "url": "https://swarmstation.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Oberhausen",
+    "url": "http://radiooberhausen.cast.addradio.de/radiooberhausen/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Neckarburg",
+    "url": "http://81.201.157.218/monitoring/rnblivestream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Memory Radio 1",
+    "url": "http://memoryradio.de:4000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Memory Radio 2",
+    "url": "http://memoryradio.de:5000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Dark Tunnel",
+    "url": "https://s2.ssl-stream.com/radio/8360/rdt",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Merih FM",
+    "url": "http://s1.wohooo.net:9060/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hit Radio Ohr",
+    "url": "http://str0.creacast.com/hitradio_ohr",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Schwarzwaldradio",
+    "url": "http://str0.creacast.com:80/hitradio_ohr_thema1?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Niedersachsen Region Oldenburg",
+    "url": "http://addrad.io/4WRHM4",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21 Oldenburg 104.1 FM",
+    "url": "https://stream.radio21.de/radio21_oldenburg.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio OEINS",
+    "url": "http://oeins.de:8000/oeins",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "alternativeworld.fm",
+    "url": "http://alternativeworld.stream.laut.fm/alternativeworld",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Osradio 104.8",
+    "url": "https://live.osradio.de/os-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Osnabrück",
+    "url": "https://teuto.stream.vip/radioos/mp3-192/radiogarden/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "L'UniCo FM",
+    "url": "http://icecast.l-uni.co:8001/lunico_high_ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Passau",
+    "url": "http://antenne-passau.stream.laut.fm/antenne-passau",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Pirate Radio",
+    "url": "https://korna-rocks.stream.laut.fm/korna-rocks",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "unserRadio",
+    "url": "http://rs4.stream24.net:80/unser-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayerwaldradio",
+    "url": "http://stream.bayerwaldradio.com/bayerwaldradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayerwaldradio - Alles Blasmusik",
+    "url": "http://stream.bayerwaldradio.com/allesblasmusik",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bayerwaldradio - Alles Oberkrain",
+    "url": "http://stream.bayerwaldradio.com/allesoberkrain",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Pegnitz",
+    "url": "https://antenne-pegnitz.stream.laut.fm/antenne-pegnitz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Jodlerwirt der Volksmusiksender",
+    "url": "http://stream.laut.fm/radio-jodlerwirt",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ilmwelle",
+    "url": "http://stream.pn-eins.de:8000/ilmwelle_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio PN Eins",
+    "url": "http://stream.pn-eins.de:8000/rde_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Downbeat Radio",
+    "url": "http://stream.laut.fm/lounge",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Pirmasens 88.4 FM",
+    "url": "https://antennepirmasens-ais-edge-3077-fra-eco-cdn.cast.addradio.de/antennepirmasens/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Jansradiosender",
+    "url": "http://jansradiosender.stream.laut.fm/jansradiosender",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Vogtland Radio",
+    "url": "http://vogtlandradio.mp3.green.ch/vogtland_48k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BB Radio",
+    "url": "https://irmedia.streamabc.net/irm-bbrwelovemusic-mp3-192-3898439",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Radio Potsdam FM 90.7",
+    "url": "http://ice.rosebud-media.de:8000/88vier",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Power Radio 95.2 FM",
+    "url": "http://stream.power-radio.de:8020/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Legende",
+    "url": "https://einfach-webradio.de:10443/radio/8050/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Teddy 90.2 FM",
+    "url": "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "central fm",
+    "url": "http://stream.centralfm.de:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio RSL 106.1 FM",
+    "url": "http://stream.radiorsl.de:8000/radiorsl",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bass-Clubbers",
+    "url": "http://87.98.217.63:12548/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Smile",
+    "url": "http://server4.streamserver24.com:26239/live",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Douala-Radio",
+    "url": "http://doualaradio.stream.laut.fm/doualaradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Nebula Luna",
+    "url": "http://stream.laut.fm/nebulaluna",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Skafari",
+    "url": "https://skafari.stream.laut.fm/skafari",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Vest",
+    "url": "http://radiovest.cast.addradio.de/radiovest/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Absolut Radio",
+    "url": "http://stream.absolutradio.de/hq/mp3-cbr/surfmusik/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Charivari Regensburg",
+    "url": "http://fhr-ais-edge-3004-fra-eco-cdn.cast.addradio.de/fhr/chari/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Gong FM 89.7",
+    "url": "http://fhr-radiogongfm-live.cast.addradio.de/fhr/radiogongfm/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy 104.7 FM",
+    "url": "http://rs21.stream24.net/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Heimatmelodie",
+    "url": "http://212.77.167.222:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Alex FM DE/NL",
+    "url": "http://stream.laut.fm/radioalexfm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Domaci Radio",
+    "url": "https://s5.radio.co/sdf0ca447b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Neckaralb Live",
+    "url": "https://neckaralblive.ip-streaming.net/neckaralbliveaacp",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "TranceBase.FM",
+    "url": "http://mp3.stream.tb-group.fm/trb.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio RST",
+    "url": "https://radiorst-ais-edge-3006-fra-eco-cdn.cast.addradio.de/radiorst/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RockWorld24.com",
+    "url": "http://eu7.fastcast4u.com:6249/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AlpinFM",
+    "url": "https://s16.myradiostream.com/6390/stream/3/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Charivari Rosenheim",
+    "url": "http://s17.myradiostream.com:10938/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Galaxy Rosenheim",
+    "url": "http://s17.myradiostream.com:13366/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne MV Rock",
+    "url": "http://antennemv.hoerradar.de/antennemv-rock-mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Radio MV Region Rostock",
+    "url": "http://addrad.io/4WRHXY",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ostseewelle Hit Radio",
+    "url": "https://ostseewelle-ais-edge-3005-fra-eco-cdn.cast.addradio.de/ostseewelle/nord/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio LOHRO",
+    "url": "http://stream.lohro.de:8000/lohro.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "schranz.in",
+    "url": "http://schranz.in:8000/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dieters Schlager Radio",
+    "url": "https://dietersradio.stream.laut.fm/dietersradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Alpenradio",
+    "url": "https://alpenradio-volksmusik.stream.laut.fm/alpenradio-volksmusik",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Rüsselsheim",
+    "url": "http://www.radio-r.net:8000/radio-r",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Europa Radio",
+    "url": "https://rs9.stream24.net/europa-park-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SRB FM 105.2",
+    "url": "http://tbradio.de/srb",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "103.7 UnserDing Zukunft",
+    "url": "http://udc2.akacast.akamaistream.net/7/27/142688/v1/gnl.akacast.akamaistream.net/udc2?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AntenneSaar",
+    "url": "http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Big-FM-Saarland",
+    "url": "https://streams.bigfm.de/bigfm-sb-128-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Classic Rock Radio",
+    "url": "http://internetradio.salue.de:8000/classicrock.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Salü 101,7",
+    "url": "http://internetradio.salue.de:8000/salue.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 1 Deine Eins",
+    "url": "http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 1 Lounge",
+    "url": "http://sr1c2.akacast.akamaistream.net/7/458/142688/v1/gnl.akacast.akamaistream.net/sr1c2?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 2 KulturRadio",
+    "url": "http://sr.audiostream.io/sr/1010/mp3/56/sr2",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 2 Off-Beat",
+    "url": "http://sr.audiostream.io/sr/1012/mp3/128/sr2c1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 3 - SchlagerWelt",
+    "url": "http://sr.audiostream.io/sr/1012/mp3/128/sr3c1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SR 3 Saarlandwelle",
+    "url": "http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "MundartRadio",
+    "url": "http://stream.laut.fm/mundartradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio EMR",
+    "url": "http://stream.laut.fm/emr",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Pop Three",
+    "url": "http://main-high.rautemusik.fm/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Radio Wiesental FRW 104.5",
+    "url": "http://88.99.63.244:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RS Music Radio",
+    "url": "http://stream.laut.fm/rsmusic",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Schwaben",
+    "url": "https://s37.derstream.net/radioschwaben.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Sthörfunk",
+    "url": "http://stream.sthoerfunk.de:7000/sthoerfunk.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Primaton",
+    "url": "https://primaton-ais-edge-3077-fra-eco-cdn.cast.addradio.de/primaton/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RADIOswii Radio Schweinfurt",
+    "url": "https://swii.stream.laut.fm/swii",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "NDR 1 Radio MV",
+    "url": "http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Siegen",
+    "url": "https://radiosiegen-ais-edge-3076-fra-eco-cdn.cast.addradio.de/radiosiegen/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hellweg Radio West",
+    "url": "https://hellwegradio-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/hellwegradio/west/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio RSG FM 94.3",
+    "url": "https://radiorsg-ais-edge-4005-dus-dtag-cdn.cast.addradio.de/radiorsg/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AllgaeuHIT",
+    "url": "http://allgaeuhit-stream.de/allgaeuhit",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio AWN",
+    "url": "http://178.248.241.110:8005/radioawn?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "AFN Stuttgart FM 102.4",
+    "url": "https://20423.live.streamtheworld.com/AFNE_STUAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne 1",
+    "url": "https://stream.antenne1.de/a1stg/livestream2.mp3?usid=M-M-07-0-0&listenerid=6cfa54807b2234df3d9c7f96963422d5&aw_0_1st.kuid=&aw_0_1st.ksg=[]&aw_0_req.gdpr=false",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM",
+    "url": "https://streams.bigfm.de/bigfm-deutschland-128-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM - Deutsche Hip-Hop Charts",
+    "url": "http://streams.bigfm.de/bigfm-deutschland-128-mp3?usid=0-0-H-M-V-06",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM - Party",
+    "url": "http://ilr.bigfm.de/bigfm-party-128-mp3?usid=0-0-H-M-D-49",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM - Rap Feature",
+    "url": "http://streams.bigfm.de/bigfm-rapfeature-128-mp3?usid=0-0-H-M-D-49",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM - SES",
+    "url": "http://streams.bigfm.de/bigfm-turkey-128-mp3?usid=0-0-H-M-D-43",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "BigFM - US Rap & Hip-Hop",
+    "url": "http://ilr.bigfm.de/bigfm-usrap-128-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Die Neue 107.7 – 80er",
+    "url": "https://dieneue1077.cast.addradio.de/dieneue1077/80er/high/stream.mp3?ar-purpose=web?ar-distributor=f0a6",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Die Neue 107.7 – 90er",
+    "url": "https://dieneue1077-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/dieneue1077/90er/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Die Neue FM 107.7",
+    "url": "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "EBM Radio",
+    "url": "http://www.ebm-radio.org:7000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Freies Radio für Stuttgart",
+    "url": "http://streaming.fueralle.org:8000/frs-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "HoRadS",
+    "url": "http://realserver3.hdm-stuttgart.de:8080/horads?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio TFSC",
+    "url": "http://stream.laut.fm/radiotfsc",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR1",
+    "url": "https://swr-swr1-bw.sslcast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR2",
+    "url": "https://swr-swr2-live.sslcast.addradio.de/swr/swr2/live/mp3/256/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR3",
+    "url": "https://swr-swr3-live.sslcast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR4",
+    "url": "https://swr-swr4-bw.sslcast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Thenral World Radio",
+    "url": "http://sc1.sytes.net:9116/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne-Sylt",
+    "url": "https://streamlnn.radio21.de/antenne_sylt.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Transsylvania International - RTI",
+    "url": "http://rti-radio.de:8092/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "CityRadio Trier 88.4FM",
+    "url": "http://aac.stream.cityradio-trier.de/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Rockland Radio FM 105.8",
+    "url": "https://stream.rockland.de/rockland_trier.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RPR1",
+    "url": "http://streams.rpr1.de/rpr-trier-128-mp3?usid=0-0-H-M-D-49",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR4",
+    "url": "http://swr-swr4-tr.cast.addradio.de/swr/swr4/tr/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Dancefox Radio",
+    "url": "https://s35.derstream.net/dancefox-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Rotter See",
+    "url": "https://radio-rotter-see.stream.laut.fm/radio-rotter-see",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Helle Welle FM 96.6",
+    "url": "http://stream.lokalradio.nrw/4453zjg",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SWR4 Tübingen",
+    "url": "http://swr-swr4-tu.cast.addradio.de/swr/swr4/tu/mp3/128/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Wueste Welle",
+    "url": "http://livestream.wueste-welle.de:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio ZUSA",
+    "url": "http://funkturm.radio-zusa.net:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Donau 3 FM",
+    "url": "https://donau3fm-ais-edge-3007-fra-eco-cdn.cast.addradio.de/donau3fm/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 7",
+    "url": "https://edge04.streamonkey.net/radio7-dab",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio free FM",
+    "url": "http://stream.freefm.de:7000/Studio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "antenne unna",
+    "url": "https://antenneunna-ais-edge-3071-fra-eco-cdn.cast.addradio.de/antenneunna/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Popradio Ostfriesland",
+    "url": "https://icecast.popradio.space/stream192.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "180 Grad FM",
+    "url": "https://180grad-fm.stream.laut.fm/180grad-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "SRV Hanse Radio",
+    "url": "http://stream.laut.fm/hanseradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "LaserStarRadio - TopOLDIES",
+    "url": "http://stream.laut.fm:80/laserstarradio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio WAF",
+    "url": "https://radiowaf-ais-edge-4007-fra-dtag-cdn.cast.addradio.de/radiowaf/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Ramasuri",
+    "url": "https://ramasuri-ais-edge-400c-dus-dtag-cdn.cast.addradio.de/ramasuri/live/aac/low",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen",
+    "url": "http://antenne-th.divicon-stream.net/antth_atlive_sfS8-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - 80er",
+    "url": "http://antenne-th.divicon-stream.net/antth_at80er_yoCy-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - 90er",
+    "url": "http://antenne-th.divicon-stream.net/antth_at90er_ewov-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - Charts",
+    "url": "http://antenne-th.divicon-stream.net/antth_atcharts_xE8A-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - Deutsch Pop",
+    "url": "http://antenne-th.divicon-stream.net/antth_atdeutsch_cbRE-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - Lounge",
+    "url": "http://antenne-th.divicon-stream.net/antth_atevent_er6e-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Thüringen - Yesterhits",
+    "url": "http://antenne-th.divicon-stream.net/antth_atyesterh_jaiR-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Lotte",
+    "url": "http://stream.tbfunk.de/lotte.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "radio TOP 40 - CHARTS",
+    "url": "http://antenne-th.divicon-stream.net/antth_top40char_0f6x-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "radio TOP 40 - CLUB SOUND",
+    "url": "http://antenne-th.divicon-stream.net/antth_top40electro_JlSz-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "radio TOP 40 - LIVE Stream",
+    "url": "http://antenne-th.divicon-stream.net/antth_top40live_SeJx-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Saalewelle",
+    "url": "https://www.radioking.com/play/saalewelle",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Ellabätsch Radio",
+    "url": "http://ellabaetsch-radio.stream.laut.fm/ellabaetsch-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hörspielprojekt-Radio",
+    "url": "http://hoerspiel.stream.laut.fm/hoerspiel",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Discofoxhimmel",
+    "url": "http://s14.derstream24.de:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio K.W.",
+    "url": "http://radiokw.cast.addradio.de/radiokw/simulcast/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ERF Pop",
+    "url": "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "ERF Radio ",
+    "url": "http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "GANORIUM Radio",
+    "url": "https://stream.ganorium.com/",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Indie Discotheque",
+    "url": "http://stream.indiediscotheque.com:8000/stream.mp4",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Klinikfunk",
+    "url": "https://s3.dawebart.eu:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Hitradio SKW FM 105.1",
+    "url": "http://edge.audio.3qsdn.com/senderkw-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio 21 Wilhelmshaven",
+    "url": "https://stream.radio21.de/radio21_wilhelmshaven.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Jade",
+    "url": "http://stream.radiojade.de/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Breakz.FM - House meets HipHop",
+    "url": "https://rautemusik-de-hz-fal-stream14.radiohost.de/breakz",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Bannyradio",
+    "url": "http://144.91.122.107:8800/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Salam FM",
+    "url": "https://s3.radio.co/sf98faa1a6/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Metal FM",
+    "url": "http://stream.laut.fm/metal-fm-com",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Herzblut",
+    "url": "http://85.93.91.5:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Paindusoir Lingala 1",
+    "url": "http://usa15.fastcast4u.com:8069/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Paindusoir Lingala 3",
+    "url": "http://quasar.shoutca.st:8734/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Paralax",
+    "url": "http://radio-paralax.de:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Wuppertal",
+    "url": "https://radiowuppertal-ais-edge-3077-fra-eco-cdn.cast.addradio.de/radiowuppertal/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Charivari 102.4",
+    "url": "https://charivariwb-ais-edge-4006-dus-dtag-cdn.cast.addradio.de/charivariwb/live/aac/mid",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Gong FM 106.9",
+    "url": "https://gongwb-ais-edge-3006-fra-eco-cdn.cast.addradio.de/gongwb/live/mp3/high",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio W1",
+    "url": "http://radio-w1.stream.laut.fm/radio-w1",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Erpe Radio",
+    "url": "http://138.201.234.215:10539/;",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Antenne Zweibruecken FM 91.6",
+    "url": "https://antennezweibruecken-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/antennezweibruecken/live/mp3/high/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "Radio Zwickau 96.2",
+    "url": "https://hermes.bcs-systems.de/radio-zwickau_simulcast_192k_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Germany",
+    "name": "RadioSVEN",
+    "url": "https://icecast.z8r.de/radiosven",
+    "logo": ""
+  }
+]

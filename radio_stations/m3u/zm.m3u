@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Iwave FM 90.1
+http://s47.myradiostream.com:9934/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Radio Delight Kwitonta FM 89.7
+https://streamingv2.shoutcast.com/radio-delight-kwitonta
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Breeze FM 89.3
+http://178.netromedia.com:8000/BreezeFM
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Eastside Hits Radio Zambia
+https://stream.zeno.fm/vp5vvx1c2d0uv
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Feelfree FM Radio 90.9
+https://s8.myradiostream.com/58796/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Byta FM Zambia
+https://s13.myradiostream.com/38946/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Iso FM Community Radio Station
+https://stream.zeno.fm/8zqfh7x20a0uv
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Spice FM 91.1
+http://live.rcast.net:8768/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Flava FM 87.7
+http://s2.voscast.com:9304/;
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Zambezi FM 94.1
+https://node.stream-africa.com:8443/ZambeziFM
+#EXTINF:-1 tvg-logo="" group-title="Zambia", 965 Rock FM
+http://99.198.118.250:8238/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Capital FM 99.7
+http://216.250.119.226:8000/CapitalFM
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Christian Voice FM 106.1
+http://zas2.ndx.co.za:8184/;?1562011284168
+#EXTINF:-1 tvg-logo="" group-title="Zambia", DC Talk Radio FM 90.9
+http://dctalkradio.co.zm:3000/dctalkradiomainstream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Hot FM 87.7
+http://s2.yesstreaming.net:7091/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Komboni Radio
+http://41.72.106.138:8888/broadwave.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Kwithu FM 93.3
+http://216.250.119.226:8000/kwithu
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Lusaka Music Radio FM 97.7
+https://phil2peter.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Metro FM 94.5
+http://s24.myradiostream.com:15422/;
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Millennium Radio FM 90.5
+https://stream.radio.co/s55934a07f/listen
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Money FM 93.7
+http://s26.myradiostream.com:18162/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", One Love Radio FM 104.1
+https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Pan African Radio FM 96.1
+https://s48.myradiostream.com/12822/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Radio Q-FM
+https://s3.myradiostream.com/7620/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Real Radio FM 103.3
+https://stream.zeno.fm/xbk5qep537zuv
+#EXTINF:-1 tvg-logo="" group-title="Zambia", ZNBC - Radio 1
+https://eu6.fastcast4u.com/proxy/radio1?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Zambia", ZNBC - Radio 2
+https://eu6.fastcast4u.com/proxy/radio2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Zambia", ZNBC Radio 4
+http://eu6.fastcast4u.com/proxy/radio4?mp=/1&1584966376622
+#EXTINF:-1 tvg-logo="" group-title="Zambia", K-FM 95.5
+https://stream.zeno.fm/xbv76qzxuk8uv
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Wave FM Zambia
+http://s23.myradiostream.com:17458/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Chikuni Radio FM 91.9
+https://chikunir.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Mafken FM 97.7
+http://equinox.shoutca.st:8159/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Zedstage Online Radio
+https://stream.zeno.fm/49836bqkpd0uv
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Chete FM 89.9
+http://s9.voscast.com:9180/stream
+#EXTINF:-1 tvg-logo="" group-title="Zambia", Sun FM Zambia
+http://11233.cloudrad.io:9102/live

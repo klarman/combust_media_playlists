@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Newsong FM 97.7
+https://fopradioweb.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", African FM
+http://africaninternetradio.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", AfriRadio
+http://usa9-vn.mixstream.net:8100/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Capital Radio FM 104.9
+http://tx.sharp-stream.com/http_live.php?i=capitalradiosl.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Democracy FM 98.1
+https://s2.radio.co/sc8ea415ec/listen
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Maria Sierra Leone FM 90.9
+http://dreamsiteradiocp2.com:8056/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Mercury FM 92.1
+https://mercury.meway.host/live
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Tempo FM 94.7
+http://198.58.98.83:8087/;
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Sierra Network Radio
+http://45.79.181.148:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Universal Radio FM 98.9
+https://universalradio.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Bintumani FM 93.7
+https://stream.zeno.fm/6cfh59xseg0uv
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Shalom 89.5 FM
+http://studio.webradio.solutions:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Hope FM 93.3
+http://centova32.instainternet.com:8122/stream
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", FOP Radio FM 89.6
+https://fopradio.out.airtime.pro/fopradio_a
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Advocacy Radio
+https://stream.zeno.fm/vu53q2gmb8zuv
+#EXTINF:-1 tvg-logo="" group-title="Sierra Leone", Radio Malen FM 88.5
+http://162.244.80.106:11531/stream

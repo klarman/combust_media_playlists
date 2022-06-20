@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Asan Radio 100 FM
+http://94.20.74.206:4448/stream1
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Avto FM 107.7
+http://85.132.71.10:8000/avtofm
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Azerbaycan Radiosu FM 105.0
+http://85.132.27.212:8888/azradio
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", BakiRadio
+https://broadcast.bakiradio.tk/radio/8000/bakiradio
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Baku Jukebox
+http://78.109.52.73:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", iRadio Youth Radio
+http://n06.radiojar.com/a80hx0asnzwtv
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Media FM 105.5
+http://85.132.71.10:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Radio Araz 103.3 FM
+http://s14.myradiostream.com:30454/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Radio Vətən
+https://stream.zeno.fm/0kgkkzanmueuv
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Radyo Antenn 101 FM
+http://85.132.71.10:8000/antenn-mp3
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Sputnik Azerbaijan
+https://nfw.ria.ru/flv/audio.aspx?ID=43726537&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Xezer FM 103.0
+http://s30.myradiostream.com:32684/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Kepez FM
+http://85.132.78.122:3344/now
+#EXTINF:-1 tvg-logo="" group-title="Azerbaijan", Naxçıvan Radio FM 104.1
+http://37.59.40.90:12782/;stream.mp3

@@ -1,0 +1,983 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nahuel
+http://streaming.chiloestreaming.com:9142/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Mirasol FM
+http://104.131.18.232/proxy/mirasolfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Alternativa Radio FM 104.7
+http://sonando.us.digitalproserver.com:80/alternativa.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Estrella del Mar
+http://streaming.chiloestreaming.com:9630/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nuevo Stylo Chiloe
+https://stream.zeno.fm/nzk58p79b9quv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Genesis
+http://archi-us.digitalproserver.com/genesis-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", El Conquistador Angol
+https://audio5.tustreaming.cl/8070/losangeles
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Caramelo FM
+http://sonando.us.digitalproserver.com/caramelo_angol.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", AntofaPop
+https://sp1.streamingssl.com:7013/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Aun Estamos Vivos FM 99.9
+https://radio.tvstream.cl/8152/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bío-Bío FM 93.5
+https://redirector.dps.live/biobiopuertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Canal 95
+https://streaming.conectaapp.cl/canal95
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM 7 89.7
+http://158.69.116.4:8042/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Okey 89.3
+http://streaming.fmokey.cl/FmOkAT.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Plus
+https://streaming.conectaapp.cl/fmplus
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Quiero
+https://streaming.conectaapp.cl/fmquiero
+#EXTINF:-1 tvg-logo="" group-title="Chile", Omega Radio Antofagasta
+http://149.56.241.149:8196/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio 24/7 Antofagasta
+https://broadcast.radio247.net/radio/8000/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Desierto FM 92.1
+https://broadcast.radio247.net/radio/8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Jerusalen FM 90.1
+https://audio1.tustreaming.cl/7090/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sol Classic
+https://us9.maindigitalstream.com/ssl/radiosol
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sol FM 97.7
+https://us9.maindigitalstream.com/ssl/7389
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UA (Universidad de Antofagasta)
+http://185.105.4.100/proxy/radioua?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Zoom Radio
+https://stream.zeno.fm/bccsy18t25quv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Indómita
+http://stream5.eltelon.com/indomita.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Dance FM Chile
+https://video.mediawebchile.com:9332/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Digital FM
+http://mimix.mercurio.cl:8000/arica
+#EXTINF:-1 tvg-logo="" group-title="Chile", Disco FM
+https://stream.zeno.fm/btz4feezphruv
+#EXTINF:-1 tvg-logo="" group-title="Chile", M Radio
+https://stream.zeno.fm/mtu1g1sqks8uv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Perfeccion FM
+https://stream.zeno.fm/d00avdr8ptzuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Perfección
+http://video.mediawebchile.com:18026/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Siente
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio/5bedd217987abd4e5d9e04b1/5de5597e52a9da4517903734/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Amanda FM 94.9
+https://radio.datalivehd.com:7008/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Buin Al Dia FM 107.5
+http://streaming.buinaldia.cl:8006/buinaldia128
+#EXTINF:-1 tvg-logo="" group-title="Chile", Estación Mix
+http://streaming.estacionmix.cl:8008/estacionmix128
+#EXTINF:-1 tvg-logo="" group-title="Chile", HE Radio FM 88.3
+https://sonic.cabildostreaming.cl/8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Crystal FM 101.9
+http://radiolatina.live:9980/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Creación fm 99.3
+http://archi-us.digitalproserver.com/creacion-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Mundo 103.1
+http://ip.audiostreaming.cl:9310/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Alegria del Transporte
+http://157.245.89.117:8028/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Bellissima FM
+http://archi-us.digitalproserver.com/bellissima.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Trueno Chile
+https://sonic.portalfoxmix.club:7146/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Amiga FM 95.7
+http://stream5.eltelon.com:8000/amiga-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Amanecer
+http://66.165.231.118:9954/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Tamarugal
+http://192.99.18.164:9434/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Kawaii Anime Radio
+https://azura12.instainternet.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pastenina FM 95.7
+http://stream5.eltelon.com/pastenina-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Cartagena FM 107.5
+https://player.xcast.com.br/proxy/11340
+#EXTINF:-1 tvg-logo="" group-title="Chile", En la Noticia Radio FM 106.1
+https://streaming.chiloestreaming.com:10998/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Chiloé AM 1030
+https://streaming.chiloestreaming.com:10997/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Dinastía FM
+http://archi-us.digitalproserver.com/dinastia.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Surcos FM 100.9
+http://archi-us.digitalproserver.com/surcos-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Chaitén
+http://5.9.65.9:8114/stream/1/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Corcovado
+http://149.56.175.167:5108/stream;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Bahía
+http://198.204.234.10:8125/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Buena Nueva de Chanco FM 106.3
+http://stream5.eltelon.com:8000/buena-nueva-chanco.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Chanquina FM 104.1
+http://186.67.77.165:8003/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio FMTU 92.1
+http://190.13.191.75:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio LRP FM 107.5
+https://sonicpanel.chileservidores.cl/8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Solaustral FM 97.7
+https://audio4.tustreaming.cl/7040/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Ventisqueros FM 102.1
+https://audio3.tustreaming.cl/7130/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Alborada FM 106.1
+http://stream6.eltelon.com/alborada.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Isadora FM 97.7
+http://streaming.comunicacioneschile.net:9326/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Discusión FM 94.7
+http://stream6.eltelon.com/radio-la-discusion.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Macarena FM 99.7
+http://66.165.231.118:9306/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ñuble AM 900
+http://streaming.comunicacioneschile.net:9358/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Cariñosa 92.1 FM
+https://archi-us.digitalproserver.com/carinosa-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Contacto FM 90.7
+https://streaming.comunicacioneschile.net/8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Contexto Ñuble
+https://streaming.viphosting.cl/8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio El Sembrador
+https://sonic-cl.streaming-chile.com:7035/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Interactiva FM 91.5
+http://streaming.comunicacioneschile.net:9324/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Stellar FM 102.5
+http://streaming.comunicacioneschile.net:9376/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UNACH FM 106.9
+https://streamingv2.shoutcast.com/radio-u-adventista
+#EXTINF:-1 tvg-logo="" group-title="Chile", Uno Radio
+https://stream.zeno.fm/ztf0pgyvfa0uv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Comunidad
+http://audio.streaminghd.cl:9068/stream;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Artesanía
+http://200.24.229.253:8010/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Libertad 99.1 fm
+http://streaming.chiloestreaming.com:9148/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio San Carlos
+http://streaming.chiloestreaming.com:9146/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Contagio Radio FM 104.5
+http://192.99.18.164:9836/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Montserrat
+http://168.195.128.187:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Cumbre 90.9 FM
+https://sonic.portalfoxmix.cl:7079/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Sureña
+http://envivo.radiodelsur.cl:8000/aire.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Coltauco
+https://servers58.com/proxy/sc_coltaucofm?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bio-Bio FM 98.1
+http://redirector.dps.live/biobioconcepcion/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Buenas Noticias
+http://sseg.us:8072/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", CCP Radio
+http://cast.grupoz.cl:8168/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Digital FM
+http://mimix.mercurio.cl:8000/concepcion1
+#EXTINF:-1 tvg-logo="" group-title="Chile", El Conquistador Concepción FM 98.9
+https://audio5.tustreaming.cl/8060/concepcion
+#EXTINF:-1 tvg-logo="" group-title="Chile", Estacion95
+http://sonando.us.digitalproserver.com/estacion95.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Femenina FM
+http://archi-us.digitalproserver.com/femenina.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Llacolén
+http://sonando.us.digitalproserver.com/radiollacolen.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Punto 7
+http://unlimited4-us.dps.live/p7concepcion/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Diferente
+http://streaming.comunicacioneschile.net:9948/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Entrelomas
+https://servidor17-2.brlogic.com:9226/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Interamericana
+https://sonando-us.digitalproserver.com/radiointeramericana.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Recital
+https://sonic01.zglobalhost.com/8054/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Restauracion 97.1 FM
+https://sonic.portalfoxmix.cl/8554/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sinfonia Online
+http://5.9.65.9:8240/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UdeC
+https://unlimited11-cl.dps.live/udec/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Under
+https://cheetah.streemlion.com:3055/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", RDI FM 88.5
+http://sonando.us.digitalproserver.com/rdi.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Voz de Concón
+https://sonic.portalfoxmix.cl/9920/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Nueva FM
+http://audio5.tustreaming.cl:7010/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pentagrama FM 104.3
+http://audio5.tustreaming.cl:8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Isabel FM 94.7
+http://stm5.xcast.com.br:9558/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Nostalgica FM 88.1
+https://redirector.dps.live/nostalgica/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Festiva
+http://s6.jcwebnew.com:8070/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Maray
+https://stream.playhosting.cl/8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", RCI Radio Chile
+http://23.239.68.75:8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Mi Radio La Serena
+http://s6.jcwebnew.com:9020/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Once Coquimbo
+http://radiostreaming.cloudserverlatam.com/8018/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Riquelme AM 1350
+https://cp.streamchileno.cl/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Dinamica FM 100.7
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Arcoiris FM 99.3
+http://5.9.65.9:8195/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Canal Sur Patagonia
+https://audio2.tustreaming.cl:10979/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio 45 Sur
+http://stream5.eltelon.com:8000/45-sur.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Apocalipsis FM 91.3
+https://audio5.tustreaming.cl:10995/radio-apocalipsis.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Genial
+https://audio1.tustreaming.cl/7555/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Paraiso FM
+http://190.3.169.87:9802/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Santa María FM 102.3
+http://archi-us.digitalproserver.com/santa-maria-am.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Ventisqueros
+http://archi-us.digitalproserver.com/ventisqueros-coyhaique.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Zona 11
+https://audio3.tustreaming.cl/7030/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Colección FM 95.7
+http://archi-us.digitalproserver.com/coleccion.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", enigmadjradio
+https://srv6.sonicpanel.cl/8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Rosario FM 107.5
+http://cast.radioservicios.cl:8402/radio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Inolvidable FM 89.1
+https://usa3.lhdserver.es:8037/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Lola FM 104.3
+https://centova.neonetwork.cl:9154/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Alfaomega
+http://5.135.183.124:8295/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Americana
+http://104.131.18.232/proxy/americana?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Condell FM 92.7
+http://5.9.65.9:8037/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Favorita FM 89.9
+https://zeus.miradio.pro/radio/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Punto 9 Curico 99.9
+http://164.77.84.69:8000/punto9
+#EXTINF:-1 tvg-logo="" group-title="Chile", RTL 95.5 FM
+http://radio.mediadev.cl:8090/rtl_curico
+#EXTINF:-1 tvg-logo="" group-title="Chile", VLN Radio FM 105.7
+http://streaming-us.vlnradio.cl/vln
+#EXTINF:-1 tvg-logo="" group-title="Chile", C y S Radio
+http://streaming.chiloestreaming.com:9542/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Almeyda
+http://192.99.18.164:9974/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio El Bosque FM 107.9
+https://sonic.portalfoxmix.cl/8464/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Catalina FM 106.3
+https://streaming.comunicacioneschile.net/9398/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Acogida Puyehue FM 100.9
+http://streaming.chiloestreaming.com/8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Luna Tropical
+http://176.31.241.17:7008/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Florida
+http://5.9.65.9:8151/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Amorosa FM 107.3
+https://sonic.portalfoxmix.club/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Profeta
+http://stream5.eltelon.com/el-profeta.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Nuevo Amanecer FM 93.3
+https://radio.saopaulo01.com.br/8258/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio San Gabriel de Fresia FM 96.3
+http://archi-us.digitalproserver.com/san-gabriel-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Interradio TV
+https://radio.saopaulo01.com.br:10819/%20;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Futaleufu Radio 96.5
+https://sonic.portalfoxmix.club/8082/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Del Lago
+http://centova.wmchile.cl:7122/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Magistral
+http://www.magistralfm.cl:9110/galvarino
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Aku-Aku
+http://s45.myradiostream.com:19480/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Hualaihué
+http://sonic.portalfoxmix.cl:9934/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nuestra FM 98.7
+http://audio.streaminghd.cl:9016/stream;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Renacer FM 101.7
+http://185.76.77.113:9374/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Odisea
+http://stream5.eltelon.com/odisea.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Choapa FM
+http://sonic.portalfoxmix.club:8106/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Illapel FM
+http://audio.streaminghd.cl:9080/stream;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Juan Pablo II
+http://archi-us.digitalproserver.com/lasierra_coquimbo.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Iloka FM 95.5
+https://usa3.lhdserver.es:8041/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Isluga
+http://server2.mundonline.cl:9316/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Mega FM 102.7
+http://192.99.18.164:9704/;stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Nueva Super 91.9 FM
+http://stream.lanuevasuper.cl:9664/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Bravíssima FM 88.7
+http://176.31.248.14:35194/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Invasion Chile
+http://185.105.4.100/proxy/radioinv?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Paulina
+https://sp1.streamingssl.com/8058/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Voltaje
+https://sonic.portalfoxmix.club/8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", RadioGente.CL
+https://mdstrm.com/audio/5de27ed416dea236fa7b4309/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rax-Dio
+https://stream.zeno.fm/wnx0bsw541zuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Tu Verdad FM
+http://192.99.18.164:9710/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Vilas Radio FM 100.1
+http://sonic.portalfoxmix.cl:8354/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Isla 106.3 FM
+http://190.3.169.87:9306/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Crystal FM 105.3
+http://radiolatina.live:9984/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Dulce FM
+http://200.24.229.253:8240/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Eclipse FM 103.9
+http://190.13.167.26/8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Continente FM
+http://streamradio27.hostingstreaming.cl:9364/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Infinity
+http://198.204.228.202:8033/mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio La Revuelta
+https://stream.zeno.fm/dpy9k8a43mruv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Montecarlo
+http://montecarloradiostation2.better-than.tv/stream1
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Omega Internacional
+http://c7.radioboss.fm:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pinamar FM 107.9
+https://cp.streamchileno.cl/radio/8130/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Ruta Norte FM
+http://streamprivate.live:8130/RRN2021
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio RW
+https://sonic.portalfoxmix.cl:7118/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", RSB 96.7 FM
+http://archi-us.digitalproserver.com/san-bartolome-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Universitaria FM (Universidad de La Serena)
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:-1 tvg-logo="" group-title="Chile", Vamos FM
+https://stream.zeno.fm/gs5utnbwx2quv
+#EXTINF:-1 tvg-logo="" group-title="Chile", X. FM 104.9
+https://audio5.tustreaming.cl/8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Concordia
+http://audio2.tustreaming.cl:8042/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio FM Mundo 91.5
+http://centova.wmchile.cl:8175/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Paraíso FM 99.1
+https://medios.liveweb.cl:9000/radioparaiso
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Lago Ranco FM 96.9
+http://5.9.65.6:9936/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Paula FM
+http://94.23.214.195:8500/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Lampa FM 94.9
+https://sonic.portalfoxmix.club/8232/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rapel FM 104.1
+https://centova.neonetwork.cl:9088/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Lado B Classic Dance
+https://audio.streaminghd.cl:2000/stream/LadoBClassicDance
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Divina 106.7 FM
+http://s6.jcwebnew.com:7710/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Lautarisima FM 97.3
+http://190.3.169.87:9820/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Licantén FM
+http://s4.mediostream.cl:8185/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Haciendo Radio
+http://149.56.241.149:8092/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Latina
+http://200.24.229.253:8100/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Somos
+http://200.24.229.253:8230/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Chile", RadioMasChile.cl
+http://192.99.18.164:9378/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ancoa FM 95.7
+http://audio2.tustreaming.cl:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Buena Nueva
+http://stream5.eltelon.com:8000/radio-buena-nueva.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Ambrosio
+http://s4.mediostream.cl:8113/;type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Azúcar
+https://audio3.tustreaming.cl:10968/azucarlitueche
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rosario FM 92.7
+http://archi-us.digitalproserver.com/rosario_rancagua.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Más Longaví FM 99.9
+http://radio.mediadev.cl:8030/fmmas
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Via7 FM 104.9
+http://radio.mediadev.cl:8060/via7
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Okey 101.3
+http://streaming.fmokey.cl/FmOkIQ.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Alas de Aguila
+http://stream.alasdeaguilas.cl:9332/play;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bio Bio Los Ángeles FM 96.7
+http://unlimited4-us.dps.live/biobiolosangeles/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", LosAngeles.cl
+https://streaming.comunicacioneschile.net/9414/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Punto 7 Los Angeles 101.7
+https://unlimited1-eu.dps.live/p7losangeles/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio 1290 AM
+http://online.radiomagdalena.cl:5074/magdalena
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Angelina AM 730
+https://sonic.portalfoxmix.cl/8406/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nueva Auroora FM 105.3
+http://5.9.65.9:8277/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nueva Mia FM 89.3
+http://archi-us.digitalproserver.com/mia.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Principal FM 91.7
+http://stream.principalfm.com:9400/stream.mp3;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio San Cristóbal 97.5 FM
+https://archi-us.digitalproserver.com/sancristobal_losangeles.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sensacion 99.1
+https://rbx2.hnux.com/http://e10343.cloudrad.io:8216/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sur 92.1FM
+http://ww3.radiosur.cl:5074/rsur
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Violeta online
+https://server01.heplayer.com:10993/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Regina Coeli FM 95.3
+http://94.23.214.195:9352/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Luz 88.3
+https://stream.zeno.fm/g63k798vawzuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Atractiva FM 101.3
+http://archi-us.digitalproserver.com/atractiva.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Los Lagos FM 93.7
+https://sonic.portalfoxmix.club/8318/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", El Carbón
+http://ice.digitalproserver.com/el_carbon
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nativa
+https://sonic01.zglobalhost.com/8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pajaritos FM
+https://streaming.comunicacioneschile.net/8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Maipu
+https://centova.streaming-chile.com/proxy/radiomaipu?mp=/radiomaipu_live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nueva Coya 92.5 FM
+http://104.131.18.232:8158/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Melinkana FM 101.3
+https://envivo.lamelinkanafm.cl/lamelinkanafm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Acuarela
+https://radioacuarela.dyndns.org/acuarela.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Azúcar FM 97.3
+https://audio1.tustreaming.cl:10949/azucarmelipilla
+#EXTINF:-1 tvg-logo="" group-title="Chile", Caricia FM 102.3
+https://sonic.portalfoxmix.club/8244/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Creativa
+http://sonando.us.digitalproserver.com/creativa
+#EXTINF:-1 tvg-logo="" group-title="Chile", Domina FM
+https://chileservidores.cl/audio/?p=9398&t=1
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Siempre
+https://radio.tvstream.cl/8104/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Sombras 107.9
+https://ascl.denial.cl:2020/stream/8012/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ignacio Serrano
+https://sonic.portalfoxmix.club/8242/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio del Maipo
+https://sonic.mallocohosting.cl/8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio San Bartolomé
+http://190.3.169.87:9968/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Nacimiento Radio
+http://stream5.eltelon.com:8000/archi-nacimiento.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bio Bio Osorno
+http://unlimited4-us.dps.live/biobioosorno/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Digital FM Osorno
+http://mimix.mercurio.cl:8000/osorno1
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Palabra FM 101.5
+http://sonic.portalfoxmix.cl:9954/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Musicoop FM 96.5
+https://sonic.portalfoxmix.cl:7196/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", RadioSago AM 780
+http://archi-us.digitalproserver.com/osorno-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Comunicativa
+http://5.9.65.6:9930/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Buenísima
+https://www.buenisima.cl/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Diferencia FM 95.3
+https://centova.neonetwork.cl:9017/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Fabula
+https://stream.zeno.fm/y9d0xar7pzzuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Voz de Paine FM 107.9
+https://streamingsonicpro.com:7104/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Mas+ FM 97.5
+http://streaming.radiomaspaine.cl:8004/mas128
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Golondrina
+http://streaming.radiogolondrina.cl:8012/golondrina128
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Estrella del Mar FM 95.1
+http://streaming.chiloestreaming.com:9622/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Plenitud FM 98.7
+http://stm5.miradio.com.es:7536/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Cristalina
+http://stream5.eltelon.com/cristalina.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Azul 100.5
+http://radio.mediadev.cl:8050/fmazul
+#EXTINF:-1 tvg-logo="" group-title="Chile", Óptima FM 99.3
+http://157.245.89.117:8034/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pablo Neruda FM 96.7
+http://192.99.18.164:9552/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Alive Online
+http://209.126.119.28:8081/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Roca FM 92.3
+http://audio.streaminghd.cl:9068/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Simpatía FM 108.5
+https://radiolatina.info:10982/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Modelo FM 106.1
+https://mpc.mediacp.eu/stream/radiomodelo
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio MonteAlegre FM 99.1
+http://5.9.65.6:9938/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio San Andrés FM 99.5
+http://158.69.116.4:8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio EntreOlas FM 93.1
+http://cast.radioservicios.cl:8110/radio
+#EXTINF:-1 tvg-logo="" group-title="Chile", SurfBeats FM 92.3
+http://archi-us.digitalproserver.com/surfbeaef_pichilemu.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pirque FM 107.9
+https://rpfm.gzn.cl/pirquefm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Universal
+https://s01.azuracast.cl/radio/8010/universal
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fueguina FM 96.9
+http://167.114.219.240:9031/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Tierra del Fuego 1500 AM
+https://srv6.sonicpanel.cl/8072/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nervios
+http://167.114.219.240:7003/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Nativa FM 98.5
+https://streamingsonicpro.com/8198/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", radio 104punto9 FM
+http://audio.streaminghd.cl:9040/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pudeto de Ancud FM 98.1
+http://streaming.chiloestreaming.com:9696/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radiorama FM
+http://tunein.radiomaniacos.cl:80/radiorama.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", RLN - Radio Las Nieves FM 102.9
+http://audio2.tustreaming.cl:8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Belén FM 92.3
+http://archi-us.digitalproserver.com/nueva-belen-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bio Bio Puerto Montt
+https://unlimited4-us.dps.live/biobiopuertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Millenium Radio Network
+http://5.9.65.9:8030/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Patagonia Radio 94.1 FM
+https://radio.saopaulo01.com.br:10818/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Castillo Fuerte Online
+https://ssl.aloncast.com:1467/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Frutillar FM 106.3
+https://sonicpanel.mediostream.cl:7064/stream/50/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Para Ti 96.5 FM
+http://5.9.65.9:8091/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Reloncavi
+http://5.9.65.9:8172/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sago
+http://archi-us.digitalproserver.com/sago-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Eva
+https://sonando.cabildostreaming.cl/radioeva
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Independiente FM 95.1
+http://167.114.219.240:8094/independienteaac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sur
+https://radiostreaming.cloudserverlatam.com:7040/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Acogida FM
+http://streaming.chiloestreaming.com/8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Navarino FM 89.5
+https://sonic.portalfoxmix.club/8130/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Meridional Radio FM 100.9
+https://sonic01.instainternet.com/8172/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Milodón
+http://168.195.128.187:9956/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", My Radio FM 95.9
+http://198.204.228.202:8175/mp3_live
+#EXTINF:-1 tvg-logo="" group-title="Chile", My Radio FM 97.7
+http://198.204.228.202:8166/mp3_live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Opus FM
+http://cdn1.onstream.audio:6509/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Polarisima FM 99.7
+http://cdn1.onstream.audio:8085/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Magallanes
+http://archi-us.digitalproserver.com/magallanes.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Presidente Ibañez
+http://audio.servercl.com:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Soberanía 94.1 FM
+http://cast.grupoz.cl:8188/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Web Sin Límites
+https://laradiossl.online:7193/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Stylo
+http://streaming.chiloestreaming.com:9122/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Coloane
+http://192.99.18.164:9960/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Okey
+http://streaming.fmokey.cl/moviles.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", PanalRadio
+https://sonic.portalfoxmix.cl/8448/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Crystal FM 89.1
+http://radiolatina.live:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Enigma
+http://185.76.77.113:9354/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Libra
+http://sonando.us.digitalproserver.com/libra.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Nexo
+http://sonando.us.digitalproserver.com/nexo.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Quillota
+http://stream5.eltelon.com/radio-quillota.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Chercan Radio
+https://stream.zeno.fm/es9h0crh74zuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio El Camino
+https://servidor22-5.brlogic.com:7694/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Radio Quenac 107.1
+http://streaming.chiloestreaming.com:9612/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Loncura FM 107.7
+http://audio.crearchile.info:9394/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Producto Nacional FM 97.5
+https://radiolatina.live:10938/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Vive Radio
+https://radiolatina.live/9958/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Rancagua FM 99.5
+https://sonic-cl.streaming-chile.com/9324/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Zenior Radio
+https://c7.radioboss.fm:18037/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Entre Rios FM 104.9
+http://stream5.eltelon.com/entre-rios.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Matices FM 88.7
+http://5.9.65.9:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Rayen
+http://192.99.18.164:9996/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Montina
+http://audio2.tustreaming.cl:8070/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Padre Antonio Ronchi
+http://192.99.18.164:9664/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Evocación
+http://radiolatina.live:8016/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Diferencia FM
+https://sonic-cl.streaming-chile.com:7082/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pulsar FM
+https://sonic01.instainternet.com/8166/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Chilena FM 101.9
+http://sonando.us.digitalproserver.com/chilenafm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pop FRM 105.5
+http://server4.veemesoft.com.ar:26952/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Prendida FM 101.1
+http://162.244.80.106:10963/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ocarina FM 104.3
+http://streaming.comunicacioneschile.net:9328/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Trinidad FM
+https://stream.zeno.fm/czvqtbx1bzzuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Interactiva FM 93.9
+http://streaming.comunicacioneschile.net:9976/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Azul
+http://streaming.fmokey.cl/razul.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Contemporanea
+http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM de los Recuerdos
+http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Lider FM 95.1
+http://radiolatina.live:9340/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Magiztral
+http://archi-us.digitalproserver.com/magiztral-fm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Aukan FM 87.7
+https://cloudstream2034.conectarhosting.com/8416/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Punto 9 FM 92.9
+http://164.77.84.69:8000/online
+#EXTINF:-1 tvg-logo="" group-title="Chile", RTL San Fernando
+http://radio.mediadev.cl:8110/san_fernando
+#EXTINF:-1 tvg-logo="" group-title="Chile", Motiva FM
+https://centova.neonetwork.cl:9315/motiva
+#EXTINF:-1 tvg-logo="" group-title="Chile", Motiva2 FM
+https://centova.neonetwork.cl:9315/motiva2
+#EXTINF:-1 tvg-logo="" group-title="Chile", Dimensión Primavera FM 107.9
+http://192.99.18.164:9998/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Popular
+http://livehd.cdn.felpysolutions.us/proxy/sc_relpcl?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rádio Éxodo
+http://audio2.tustreaming.cl:8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sanfurgo
+http://176.31.241.17:7112/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", ADN
+http://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC
+#EXTINF:-1 tvg-logo="" group-title="Chile", Agricultura
+http://redirector.dps.live/agricultura/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Airport Scanner - Santiago
+http://s1.fmt2.liveatc.net/scel?nocache=2019080814520975002
+#EXTINF:-1 tvg-logo="" group-title="Chile", Alas de Águila FM 107.3
+https://sonic.portalfoxmix.cl:7052/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Andromeda Rise
+https://sh4.radioonlinehd.com:8513/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bío-Bío FM 99.7
+https://redirector.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Carabineros de Chile FM 98.1
+https://sonic01.instainternet.com/8374/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Colo Colo 880 AM
+https://audio2.tustreaming.cl:10997/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Concierto
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+#EXTINF:-1 tvg-logo="" group-title="Chile", Cooperativa
+https://redirector.dps.live/cooperativafm/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", El Conquistador FM
+https://stream10.usastreams.com:10998/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Estilo FM
+https://audio2.tustreaming.cl:10984/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Experimental FM 106.9
+https://streaming01.xhost.cl/8044/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática CHILL
+https://ascl.denial.cl:2020/stream/8004/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática CL
+https://ascl.denial.cl:2020/stream/8006/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática DANCE
+https://ascl.denial.cl:2020/stream/8030/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática INDIE
+https://ascl.denial.cl:2020/stream/8008/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática KPOP
+https://ascl.denial.cl:2020/stream/8026/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Fanática POP
+https://ascl.denial.cl:2020/stream/8010/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Dos
+https://21933.live.streamtheworld.com/FMDOSAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Latina 89.1
+https://ballero.b-cdn.net/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Tiempo 95.9
+https://redirector.dps.live/fmtiempo/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Frecuencia Stereo
+https://stream.zeno.fm/72hnp85n21zuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Futuro 88.9 FM
+https://22823.live.streamtheworld.com/FUTUROAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Infinita
+http://redirector.dps.live/infinita/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Morena
+https://sonicpanel.mediostream.cl/8068/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", LaRetro.cl
+https://s2.radio.co:80/s9ecef4f68/listen
+#EXTINF:-1 tvg-logo="" group-title="Chile", Los 40 Chile FM 101.7
+https://20833.live.streamtheworld.com/LOS40_CHILEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Mundo Stereo
+http://162.251.160.57:8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Nuevo Mundo AM
+http://190.82.105.90:8012/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", One Play Radio
+http://5.9.65.9:8134/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pauta
+https://unlimited1-eu.dps.live/radiopauta/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Portales de Santiago
+http://s6.jcwebnew.com:8060/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Portales Digital
+https://stream3.polarhost.cl/portales2
+#EXTINF:-1 tvg-logo="" group-title="Chile", Portales Señal 2
+http://stream5.eltelon.com:8000/archi-portales2.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Pudahuel
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUELAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Alfa
+http://ascl.denial.cl:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Ciudad de Los Valles
+https://sonic.portalfoxmix.club/8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Corazón FM
+https://22823.live.streamtheworld.com/CORAZONAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Disney Chile
+https://unlimited4-us.dps.live/disney/mp364k/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Dixi FM 106.9
+https://sonic.portalfoxmix.cl/9940/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Emergencia Chile
+http://usa4.fastcast4u.com:5500/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Euro Éxtasis
+https://streamingraddios.online/proxy/angels?mp=/stream&1583228338172
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Fans LOS40
+https://stream.zeno.fm/nfgw9gm4rg5tv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio FM Dance
+https://sonic.portalfoxmix.cl:7034/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Horizonte
+https://mdstrm.com/audio/601415b58308405b0d11c82a/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Imagina FM 88.1
+https://24383.live.streamtheworld.com/IMAGINAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio La Mejor
+https://sonicpanel.mediostream.cl/8066/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio M
+http://c15.radioboss.fm:8285/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio María Chile
+http://dreamsiteradiocp.com:8066/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Milenaire FM 98.1
+https://stream.zeno.fm/ta3kttwu88quv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio NiTanRetro
+https://sonic.portalfoxmix.cl/8090/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pirinola
+http://curiosity.shoutca.st:6451/autodj
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Play FM
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/5c8d6406f98fbf269f57c82c
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Recuerdos Retro
+https://sonic.portalfoxmix.cl/8226/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Sinfonia Super Stereo
+https://sonic.portalfoxmix.cl:7163/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Uchile 102.5 FM
+https://streamuchile.teslati.com/liveruch
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Uno Chile
+https://play12.tikast.com/proxy/radiounochile?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Zeta
+http://unlimited3-cl.dps.live/radioz/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radioactiva FM 92.5
+https://20323.live.streamtheworld.com/ACTIVAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", RIN FM Radio Isla Negra
+http://66.228.60.216:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rock & Pop FM 94.1
+https://21933.live.streamtheworld.com/ROCK_AND_POPAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Romantica FM 104.1
+http://unlimited4-us.dps.live/romantica/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ruidos FM
+http://192.99.18.164:9880/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", San Joaquín
+http://espora.org:8000/radiosanjoaquin.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Sonar FM 105.3
+https://us-b4-p-e-ev5-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15
+#EXTINF:-1 tvg-logo="" group-title="Chile", Super45.FM
+https://s4.radio.co/s421105570/listen
+#EXTINF:-1 tvg-logo="" group-title="Chile", Tele13 Radio
+https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Universo FM 93.7
+https://unlimited4-us.dps.live/universo/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", VC Online
+http://192.99.18.164:9954/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", XKE
+http://192.198.83.247:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Manantial FM 102.9
+https://sonic-cl.streaming-chile.com/8068/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Progreso FM 101.1
+http://audio5.tustreaming.cl:7240/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Corporación FM 102.5
+http://audio3.tustreaming.cl:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", El Conquistador Talca
+https://audio5.tustreaming.cl/8070/talca
+#EXTINF:-1 tvg-logo="" group-title="Chile", Marisol 101.5 FM
+http://192.99.18.164:9574/,
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Chilena del Maule 90.9 FM
+https://archi-us.digitalproserver.com/chilena_maule.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Contacto
+https://streaming.viphosting.cl/8138/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Contagio FM 88.1
+https://servers58.com/proxy/sc_radiocontagiofm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio FM+ 92.3
+http://audio5.tustreaming.cl:8010/fmmas
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Lautaro 970 AM
+http://stream6.eltelon.com/lautaro.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Paloma FM 97.5
+http://192.99.18.164:9622/,
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Universidad de Talca 102.1 FM
+http://iradio.utalca.cl:8000/fm
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UTalca - Folclore
+http://iradio.utalca.cl:8000/am
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Vivo
+https://sonicpanel.streaming10.net/8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Definicion FM 98.3
+https://streamingsonicpro.com:7102/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Taltal Radio online
+http://sonic.portalfoxmix.cl:9926/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Araucana FM 95.9
+http://audio.streaminghd.cl:9112/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Edelweiss
+https://stream.edelweiss.fm/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Creaciones
+https://player.datalivehd.com/proxy/7182
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Eclipse
+https://sonic.mallocohosting.cl/8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Esperanza FM 101.3
+http://audio2.tustreaming.cl:8048/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Universal
+http://s01.azuracast.cl/radio/8010/universal
+#EXTINF:-1 tvg-logo="" group-title="Chile", Candelaria Radio Online
+https://stream.polarhost.cl/candelariaFm
+#EXTINF:-1 tvg-logo="" group-title="Chile", Candelaria Tropical Online
+http://archi-us.digitalproserver.com/candelaria-fm-tierra-amarilla.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Dulcemar FM 88.5
+https://stream.zeno.fm/4g8w8my7ybruv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Definitiva
+http://192.198.83.230:8772/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Hitmics Radio
+http://149.56.241.149:8076/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Continente FM 94.5
+https://streamingsonicpro.com:7101/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Extasis
+http://192.99.18.164:9746/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Aguamarina FM 100.5
+http://sonando.us.digitalproserver.com/aguamarina.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Amistad AM 1480
+http://streaming.radiolaamistaddetome.cl:9964/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Magistral Traiguen
+http://www.magistralfm.cl:9110/traiguen
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM Cordillera 93.1
+http://5.9.65.9:8082/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Austral AM
+http://archi-us.digitalproserver.com/austral.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Exquisita
+http://stream5.eltelon.com/exquisita.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Genoveva
+http://stream6.eltelon.com/genoveva.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Pilmaiquen
+https://streaming.chiloestreaming.com:10977/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Regional FM 98.1
+https://audio.divalstream.com:7000/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Tornagaleones FM 105.3
+http://tornagaleones.ddns.net:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UACh
+http://centova.uach.cl:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Marcela
+http://archi-us.digitalproserver.com/marcelafm.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Rdbradio Vallenar
+https://sonic.portalfoxmix.cl:7087/st
+#EXTINF:-1 tvg-logo="" group-title="Chile", Anime Para Ti
+https://stream.zeno.fm/acnhrkt8c4duv
+#EXTINF:-1 tvg-logo="" group-title="Chile", Bio Bio Valparaiso
+https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Chile", COBrOx RADiO
+http://135.181.78.169:8672/cobroxradio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Digital FM
+http://radio.digitalfm.cl:8000/valparaiso1
+#EXTINF:-1 tvg-logo="" group-title="Chile", Portales AM 840
+http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Caracola
+http://185.76.77.113:9306/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Congreso
+http://stream5.eltelon.com/radio-congreso.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Islam Chile
+http://5.9.65.9:8031/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Placeres
+http://192.99.18.164:9856/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Recreo
+https://tvstreaming.cl:7004/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Tsonami
+http://rr.radiotsonami.org:8000/radio_tsonami
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio USM FM 99.7
+https://streamssl.eu:1288/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", radiorara
+http://190.3.169.87:9952/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Ritoque FM 107.9
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", RVL 97.3fm
+https://audio.streaminghd.cl:2000/stream/RadioValentinLetelier/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Copihue FM 105.1
+http://archi-us.digitalproserver.com/copihue-fm-victoria.aac
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio FM Entretenida
+http://sonic.portalfoxmix.cl:9844/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Espacio Regional Online
+https://stream.zeno.fm/udv4r5b6e2zuv
+#EXTINF:-1 tvg-logo="" group-title="Chile", FM del Sol 100.3
+http://audio2.tustreaming.cl:8036/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", Correo del Lago
+https://sonic.portalfoxmix.cl/8524/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Lago FM 91.5
+http://192.99.18.164:9488/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", tvradio Volcan
+http://streamprivate.live:8176/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Cristiana
+https://streaming01.shockmedia.com.ar:10794/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Festival FM 93.7
+https://stream.festival.cl/1
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Quinta Region
+http://51.89.173.53:8404/live
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio UVM
+http://200.24.229.253:8020/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Chile", Radio Vistamar
+http://104.131.18.232/proxy/vistamar?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Chile", Retroclásicos Radio
+http://144.217.197.70:8094/stream;
+#EXTINF:-1 tvg-logo="" group-title="Chile", UCV Radio
+https://sonando-us.digitalproserver.com/ucvradio
+#EXTINF:-1 tvg-logo="" group-title="Chile", Viña FM
+http://200.24.229.253:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Chile", La Voz De Yungay FM 102.7
+http://stream6.eltelon.com/archi-yungay.aac

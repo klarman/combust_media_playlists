@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Malta", Pure Radio
+http://s5.voscast.com:10440/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", XFM
+http://162.252.85.85:7866/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Magic Malta
+http://s46.myradiostream.com:6076/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malta", Radju Malta
+http://s38.myradiostream.com:6982/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Radju Malta 2
+http://s11.myradiostream.com:4954/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Malta's Smooth
+https://s3.voscast.com:9259/default
+#EXTINF:-1 tvg-logo="" group-title="Malta", Galaxy 105
+http://s5.voscast.com:9304/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Malta's Heart 103
+https://s2.radio.co/s955b1ced9/listen
+#EXTINF:-1 tvg-logo="" group-title="Malta", bay 89.7
+http://178.32.161.194:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", bay Easy
+http://178.32.161.194:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", bay Retro
+http://178.32.161.194:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", Calypso Radio FM 101.8
+https://s4.radio.co/sf3aa4c25a/listen
+#EXTINF:-1 tvg-logo="" group-title="Malta", One Radio
+http://s10.voscast.com:8202/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", Campus FM 103.7
+https://campusfm.radioca.st/campusfm_live
+#EXTINF:-1 tvg-logo="" group-title="Malta", Radju Luminaria
+http://direct.radjuluminaria.com:8000/radjuluminaria?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malta", Smash Radio FM 104.6
+http://s3.smashmalta.com:8000/smash
+#EXTINF:-1 tvg-logo="" group-title="Malta", Lehen il-Belt Giorgiana
+http://s37.myradiostream.com:9088/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malta", Mics Radio FM 93.3
+http://micsradio.ddns.net:90/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Radju Marija
+https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Malta", Bay Retro
+http://178.32.161.194:8014/;
+#EXTINF:-1 tvg-logo="" group-title="Malta", Vibe FM 88.7
+https://s9.voscast.com:7825/1
+#EXTINF:-1 tvg-logo="" group-title="Malta", Radio 101
+http://s2.voscast.com:11392/;

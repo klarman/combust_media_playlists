@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Adam
+https://iamomani.com/radio/8140/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Awabi
+https://iamomani.com/radio/8220/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Buraimi
+https://iamomani.com/radio/8190/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Al Hamra
+https://s21.omanlocalradios.com/radio/8130/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Kamil Wal Wafi
+https://s21.omanlocalradios.com/radio/8120/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Khaburah
+https://iamomani.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Masnaah
+https://iamomani.com/radio/8060/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Mudhaibi
+https://s21.omanlocalradios.com/radio/8020/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Al Suwayq
+https://iamomani.com/radio/8050/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Bahla
+https://iamomani.com/radio/8130/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Barka
+https://iamomani.com/radio/8090/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Dibba
+https://s21.omanlocalradios.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Duqm
+https://iamomani.com/radio/8200/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Ibra
+https://s21.omanlocalradios.com/radio/8110/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Ibri
+https://iamomani.com/radio/8120/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Izki
+https://iamomani.com/radio/8160/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Jalan Bani Bu Ali
+https://s21.omanlocalradios.com/radio/8060/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Jalan Bani Bu Hassan
+https://s21.omanlocalradios.com/radio/8050/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Khasab
+https://iamomani.com/radio/8180/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Liwa
+https://s21.omanlocalradios.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Al Wisal FM
+http://uk7.internet-radio.com:8067/stream
+#EXTINF:-1 tvg-logo="" group-title="Oman", Euphoria
+https://streamer.radio.co/s55000a8b6/listen
+#EXTINF:-1 tvg-logo="" group-title="Oman", Hala FM
+https://edge-audio-05-gos2.sharp-stream.com/halafmhigh.mp3?
+#EXTINF:-1 tvg-logo="" group-title="Oman", Hi FM
+http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", MERGE 104.8
+http://uk7.internet-radio.com:8040/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Oman", Muscat FM
+http://rss-streaming.co.uk:8022/;
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Chaska
+https://streaming.radio.co/sa0455f593/listen
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Muscat
+https://s21.omanlocalradios.com/radio/8100/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Sawt Oman FM
+http://78.129.228.187:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Oman", Shabiba FM
+http://stream.shabiba.fm:8000/shabiba.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Virgin Radio Oman
+http://139.162.245.57:8115/stream
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Nizwa
+https://iamomani.com/radio/8100/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Rustaq
+https://iamomani.com/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", TFM
+http://stream.timesofoman.fm:8028/TFM.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Saham
+https://iamomani.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Salalah
+https://iamomani.com/radio/8210/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Samail
+https://iamomani.com/radio/8110/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Shinas
+https://s21.omanlocalradios.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Sohar
+https://iamomani.com/radio/8020/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Sur
+https://iamomani.com/radio/8170/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Wadi Bani Khalid
+https://s21.omanlocalradios.com/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Oman", Radio Yanqul
+https://s21.omanlocalradios.com/radio/8040/radio.mp3

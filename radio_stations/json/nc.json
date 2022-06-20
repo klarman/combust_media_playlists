@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "New Calédonia",
+    "name": "NIA Radio - Europe",
+    "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "NIA Radio - LoFi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "NIA Radio - Pacifique",
+    "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "Nouvelle Calédonie 1ere",
+    "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "NRJ FM 93.5",
+    "url": "http://testradio01.ice.infomaniak.ch/testradio01-192.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "Océane FM",
+    "url": "https://oceanefm.nc:8443/oceane",
+    "logo": ""
+  },
+  {
+    "tags": "New Calédonia",
+    "name": "RRB Radio Rythme Bleu",
+    "url": "https://stream.rrb.nc/",
+    "logo": ""
+  }
+]

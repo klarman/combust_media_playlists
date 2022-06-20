@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Jordan", 102.5 Beat FM
+https://securestreams2.autopo.st:1242/live
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Ahlona Jo
+https://s38.radiolize.com/radio/8260/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Drdchati Radio
+https://s2.radio.co/s79d5660a8/listen
+#EXTINF:-1 tvg-logo="" group-title="Jordan", FABULOUSXM
+http://s3.voscast.com:9830/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Hawa Dijlah FM 100.5
+https://www.radioking.com/play/hawadijlah/136027
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Hayat FM 104.7
+http://104.194.9.142:8302/live
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Husna FM 93.4
+https://s2.voscast.com:10445/stream
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Jeish FM 107.9
+http://93.190.141.15:7144/;
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Jordan University FM
+http://jufmstreaming.ju.edu.jo/;?type=http&nocache=32
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Mazaj FM
+https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Melody FM 91.1
+http://s3.voscast.com:9966/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Mojo FM
+http://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Mood FM
+https://securestreams2.autopo.st:1241/live
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Nashama FM
+http://edge.mixlr.com/channel/ssbzr
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Play 99.5
+http://edge.mixlr.com/channel/hynza
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Radio Dahab
+http://dahab.ice.infomaniak.ch/dahab-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Radio Hala
+http://104.194.9.142:8027/;
+#EXTINF:-1 tvg-logo="" group-title="Jordan", Talal Abu-Ghazaleh Business and Culture Radio
+http://89.28.216.245:8000/tagbc
+#EXTINF:-1 tvg-logo="" group-title="Jordan", وتر ف.م
+https://securestreams2.autopo.st:1243/live
+#EXTINF:-1 tvg-logo="" group-title="Jordan", TTU Station
+http://fm.ttu.edu.jo:88/broadwavehigh.mp3

@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Ada
+http://94.130.196.243:9010/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 5.8 Apatin
+http://apatin96-naxinacional.streaming.rs:8500/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Nový Rádio Petrovec FM 91.4
+http://217.17.97.1:18180/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Active FM 105.4
+http://active96-naxinacional.streaming.rs:8555/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Belgrade Remix Radio
+http://88.198.233.68:2095/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Bum Bum Radio
+http://bumbum-stream.netlogic.rs:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", COOL Radio
+http://176.9.30.66:80/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Deluxe Radio
+http://cmr-hosting.com:8408/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Djak Sport Radio
+http://djak.wwmultimedia.net/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Hit FM
+https://streaming.hitfm.rs/hit.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Jammonite Radio
+http://audio.jammonite.com:8000/airtime_128
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Karolina
+http://streaming.karolina.rs:8000/karolina.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Kum Radio Beograd
+http://www.mr-streaming.com:9050/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Maxbetsport
+https://radio.maxbet.rs/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi 80-e Radio
+http://naxidigital-80s128.streaming.rs:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Boem
+http://naxidigital-boem128.streaming.rs:8160/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Cafe Radio
+http://naxidigital-cafe128.streaming.rs:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Classic Radio
+http://naxidigital-classic128.streaming.rs:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Clubbing Radio
+http://naxidigital-clubbing128.streaming.rs:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Dance Radio
+http://naxidigital-dance128.streaming.rs:8110/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Evergreen Radio
+http://naxidigital-evergreen128.streaming.rs:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi EX YU Radio
+http://naxidigital-exyu128.streaming.rs:8240/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Fresh Radio
+http://naxidigital-fresh128.streaming.rs:8210/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Gold Radio
+http://naxidigital-gold128.streaming.rs:8060/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi House Radio
+http://naxidigital-house128.streaming.rs:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Jazz Radio
+http://naxidigital-jazz128.streaming.rs:8170/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Kids Radio
+http://naxidigital128.kbcnet.rs:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Latino Radio
+http://naxidigital-latino128.streaming.rs:8230/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Lounge Radio
+http://naxidigital-lounge128.streaming.rs:8250/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Love Radio
+http://naxidigital-love128.streaming.rs:8100/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Mix Radio
+http://naxidigital-mix128.streaming.rs:8220/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Radio FM
+http://naxi128.streaming.rs:9150/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Rock Radio
+http://naxidigital-rock128.streaming.rs:8180/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Nostalgie Radio
+http://nostalgie128.streaming.rs:9250/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Ob Neob
+https://s5.voscast.com:10151/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", OK Radio
+http://live2.okradio.net:8052/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", OK Radio Plus
+http://live.okplus.rs:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Pink Radio
+http://pink.exyuserver.com/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Play
+http://stream.playradio.rs:8001/play.aac
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Play Party
+https://stream.playradio.rs:8443/party.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Play Rock
+https://stream.playradio.rs:8443/rock.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Play Soft
+https://stream.playradio.rs:8443/soft.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Play Urban
+https://stream.playradio.rs:8443/urban.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 101 Belgrade
+http://159.69.105.22:9300/mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 202
+http://138.201.33.203:8000/rts_4
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 3 FM 95.8
+http://radio3-128.streaming.rs:9200/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Aparat
+http://ca3.rcast.net:8060/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio B92
+http://stream.b92.net:7999/radio-b92.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Balkanfox
+http://radio.balkanfox.com:9980/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Glas Nade
+http://109.235.71.229:8000/rgn1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio JAT
+http://streaming.radiojat.rs:8000/radiojat
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kanal 6
+http://evcast.mediacp.eu:2940/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kanal 6 - Chill Out
+https://stream.zeno.fm/qqx4q8pdfwzuv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kanal 6 - Deep House
+https://stream.zeno.fm/4fy2740k7yzuv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kanal 6 - Rock
+https://stream.zeno.fm/gku3bymq6tzuv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Karolina
+http://streaming.karolina.rs:8000/karolina
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Klas
+http://136.243.12.82:9014/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava 1
+http://163.172.116.41:8544/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava 2
+http://163.172.116.41:9996/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Cafe
+http://163.172.116.41:9946/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava City
+http://163.172.116.41:9948/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Classic
+http://163.172.116.41:9968/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Clubbing
+http://163.172.116.41:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Evergreen
+http://163.172.116.41:9952/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Folk 1
+http://163.172.116.41:9982/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Folk 2
+http://163.172.116.41:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Folk 3
+http://163.172.116.41:9954/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Freedom
+http://163.172.116.41:9960/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Info
+http://163.172.116.41:9962/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Jazz
+http://163.172.116.41:9964/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Kids
+http://163.172.116.41:9966/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Koncert 1
+http://163.172.116.41:9972/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Koncert 2
+http://163.172.116.41:9970/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Latino
+http://163.172.116.41:9974/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Love 1
+http://163.172.116.41:9978/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Love 2
+http://163.172.116.41:9976/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Rap
+http://163.172.116.41:9980/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kosava Rock
+http://163.172.116.41:9984/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Laguna FM 93.7
+https://live.radiolaguna.rs/laguna
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Novosti
+http://novostir.kbcnet.rs/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Pingvin
+http://uzivo.radiopingvin.com:8187/domaci2
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Pingvin Strani Kanal
+http://uzivo.radiopingvin.com:8187/strani1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Razbibriga
+http://213.239.205.210:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 1
+https://stream.radios.rs:9000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 1 CG
+https://stream.radios.rs:9008/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 2
+https://stream.radios.rs:9002/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 2 CG
+https://stream.radios.rs:9010/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 2 House
+https://stream.radios.rs:9040/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 3
+https://stream.radios.rs:9004/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 3 CG
+https://stream.radios.rs:9018/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 3 Folk Stars
+https://stream.radios.rs:9024/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 3 Juzni
+https://stream.radios.rs:9038/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 3 Narodni
+https://stream.radios.rs:9016/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S 4
+https://stream.radios.rs:9006/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S BiH
+https://stream.radios.rs:9034/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Cafe
+https://stream.radios.rs:9012/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Energy
+https://stream.radios.rs:9014/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Ex YU
+https://stream.radios.rs:9042/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Gold
+https://stream.radios.rs:9020/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Kids
+https://stream.radios.rs:9022/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Love
+https://sradio-love.ipradio.rs:9026/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Pop & Rock
+https://stream.radios.rs:9028/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Rock
+https://stream.radios.rs:9032/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Trap & Rap
+https://stream.radios.rs:9030/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio S Xtra
+https://stream.radios.rs:9026/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Slepi Putnik
+http://116.203.140.10:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Stara Carsija
+http://46.4.76.142:8026/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Tehnomanija
+http://188.40.95.74:8058/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Telegraf
+https://stream.galaxywebsolutions.com/proxy/smiodrag?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Tri 95.8
+http://radio3-128.streaming.rs:9200/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Vedro
+http://89.216.24.39:8100/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio.D59B
+http://n01.radiojar.com/gn6dqzhf9mzuv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Red Radio FM 93.7
+https://stream.redradio.rs/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Rock Radio FM 96.2
+https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RTS Beograd 1
+http://138.201.33.203:8000/rts_1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RTS Beograd 2
+http://138.201.33.203:8000/rts_2
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Serbona
+http://192.184.9.158:8099/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Slovo LJubve
+http://160.153.245.85:8000/stream/1/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Sonar Lounge Music Radio
+https://c8.radioboss.fm:18064/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Sputnik Serbia
+https://nfw.ria.ru/flv/audio.aspx?ID=95025336&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Super FM 107.9
+https://onair.superfm.rs/superfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Svetski Radio
+http://comet.shoutca.st:8929/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Beograd
+http://streaming.tdiradio.com:8000/tdiradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Chill Out
+http://streaming.tdiradio.com:8000/chillout.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Classics 80 90
+http://streaming.tdiradio.com:8000/classics.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Domacica
+http://streaming.tdiradio.com:8000/domacica
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - House
+http://streaming.tdiradio.com:8000/house.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - House Classics
+http://streaming.tdiradio.com:8000/houseclassics.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Love
+http://streaming.tdiradio.com:8000/love.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Pop R'n'B Hits
+http://streaming.tdiradio.com:8000/poprnbhits.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Top 40
+http://streaming.tdiradio.com:8000/top40
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Tesla Radio
+http://79.175.106.210:3333/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Top FM Beograd
+http://109.206.96.11:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", VIP Radio
+http://vip128.streaming.rs:8110/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vladix 1
+http://vladix.dukahosting.com:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vladix 2 Rock
+http://vladix.dukahosting.com:8022/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vladix 3 Soft
+http://vladix.dukahosting.com:8000/sid=1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vladix 4 Rok
+http://vladix.dukahosting.com:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vladix 5 Super
+http://radio.dukahosting.com:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", WTF Radio
+http://live.wtfradio.rs/wtfradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Zeleni Radio
+http://88.198.233.68:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Bor
+http://streaming.tdiradio.com:8000/tdiradiobor.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Sunset
+https://cmr-hosting.com/8425/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Dzenarika
+http://136.243.134.202:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kruna FM 89.6
+http://94.127.6.85:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Cacak
+http://streaming.tdiradio.com:8000/tdiradiocacak.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Zlatiborski 106 Radio
+http://213.239.205.210:8082/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Lipa Kraj Morave
+https://radio.dukahosting.com:7006/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio DAK
+http://85.25.73.243:10150/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Resavski Radio FM 88.0
+https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Caribrod
+http://176.9.59.144:8090/caribrod
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Naxi Dedal Radio FM 88.1
+http://dedal96-naxinacional.streaming.rs:8570/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Puls FM 88.7
+http://176.9.59.144:8090/puls
+#EXTINF:-1 tvg-logo="" group-title="Serbia", MEGA Radio
+http://netradio.burina.net:8000/mega
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RTV Indjija
+http://netradio.burina.net:8000/rti
+#EXTINF:-1 tvg-logo="" group-title="Serbia", MAX FM Jagodina
+http://85.25.73.243:9840/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Morava FM 91.9
+https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Ami Naxi FM 89.7
+http://185.119.88.88:8005/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Pallas Radio FM 94.8
+https://eu9.fastcast4u.com/proxy/svidakov2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Kovin
+http://streaming.tdiradio.com:8000/tdiradiokovin.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 34
+http://stream.radio34.rs:8889/stream?
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 9 Kragujevac
+http://stream.iradio.pro:8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Bravo FM 103.7
+http://streaming.orion.rs:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Zlatousti
+http://vs5121.cloudhosting.rs:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RSG FM 104.3
+http://stream.rsg.rs:8043/listen.pls/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RSG Party Time
+http://stream.rsg.rs:8073/listen.pls/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RSG Relax
+http://stream.rsg.rs:8063/listen.pls/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", RSG Top 44
+http://stream.rsg.rs:8053/listen.pls/;?1570902386953.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Kragujevac
+http://streaming.tdiradio.com:8000/tdiradiokragujevac.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Bum Radio
+http://217.24.17.31:8102/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", K-One
+https://radio.en.rs/radio/8020/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 99.6 FM
+https://radio.en.rs/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Kraljevo
+http://streaming.tdiradio.com:8000/tdiradiokraljevo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Antena Radio
+http://www.antenaradio.rs:4560/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Mackica - Narodna Muzika
+http://cast2.name.ba:8153/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Mackica - Zabavna Muzika
+http://cast2.name.ba:8157/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Romsko Srce
+http://cast.az-streamingserver.com:8475/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Q
+http://as.q-media.rs:8000/mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Kiss FM
+https://markoziv.radioca.st/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Galaxy FM 89.3
+http://188.40.95.74:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kolubara
+https://player.iradio.pro/radiokolubara/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Lotel FM 107.4
+https://s1.skeletor.rs/lotel
+#EXTINF:-1 tvg-logo="" group-title="Serbia", San Radio FM 95.0
+https://s1.skeletor.rs/san
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Vajdaságretro FM 87.5
+https://sp3.streams.ovh:7054/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Op-Top FM 106.4
+https://mojaudio.stream/optop/?1585900330710
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Boem
+https://stream.zeno.fm/7q807rs1ng8uv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", BANKER Cafe Radio
+http://bankercafe96-naxinacional.streaming.rs:8542/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Serbia", BANKER Radio Niš
+http://banker96-naxinacional.streaming.rs:8540/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", City Radio 99.9 FM
+http://213.240.61.29:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Original Fast Radio
+http://89.216.116.212:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Belle Amie
+http://92.60.230.200:5040/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Bum 018 FM 99.5
+http://213.240.61.35:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio IN
+http://inradio96-naxinacional.streaming.rs:8580/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Niš
+http://92.60.230.200:5030/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Fox Radio FM 97.9
+http://stream.foxradio.rs:8545/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Batiskaf Radio
+http://173.249.44.75:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Daško i Mlađa
+http://172.105.250.193/proxy/daskomladja?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", NS+ FM 105.2
+http://213.239.205.210:8130/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Prvi Radio
+https://mastermedia.shoutca.st/proxy/prviradions?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 021
+http://109.206.96.106:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio AS FM 107.9
+https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Beseda FM 91.8
+http://92.61.114.191:9180/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Blagovesnik FM 95.7
+http://blagovesnik.yunethosting.net:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Boemi
+http://79.142.73.156:8570/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Buca
+http://live.bucaradio.com:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Patrola 021
+https://srv.mediastriming.com/8444/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Signal
+http://109.206.96.197:443/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Srce Krajine
+https://srv.mediastriming.com/8330/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Sunradio.co
+http://n06.radiojar.com/4qawu2xta2zuv.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", TDI Radio - Novi Sad
+http://streaming.tdiradio.com:8000/tdiradionovisad.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", UnderGRAND Radio
+https://stream.zeno.fm/1mwurb5pgzzuv
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Радио Беседа
+http://92.61.114.191:9180/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Cool Opovo FM 107.7
+http://176.221.73.114:8000/stream3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Omnibus Youth Radio
+http://46.22.145.218:8000/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Kanal M
+http://78.129.199.49:13250/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Plus
+http://live2.plusonline.rs:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Pikolo
+http://89.36.216.142:9012/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Top Radio
+http://109.206.96.11:80/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Boom 93
+http://159.69.105.22:9974/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Hit Radio FM 104.9
+http://178.32.62.163:9337/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio 012
+http://178.32.62.163:8762/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Požega Radio FM 94.7
+http://vs4885.cloudhosting.rs:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Радио Милешева
+http://negde.com:8000/radio-mileseva
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Delfin Radio FM 100.2
+http://s3.voscast.com:9210/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Levač FM 90.3
+http://213.239.205.210:8046/index.html/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Song
+http://213.239.205.210:8148/index.html/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Fruska Gora
+https://player.iradio.pro/radiofruskagora/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Srpski Sion
+http://fmradiolive.net:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Civijas Radio
+http://159.69.105.22:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio AS
+http://185.102.239.216:8000/radioas
+#EXTINF:-1 tvg-logo="" group-title="Serbia", iRadioSrbobran
+http://stream.iradio.pro:8004/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Focus Radio
+https://streamer.radio.co/s34d2c17d8/listen
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Pannon Rádió FM 91.5
+http://79.172.194.189:4120/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Marija Srbija
+http://dreamsiteradiocp.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Slavoslovlje FM 90.7
+http://170.249.196.82:8000/;?type=http&nocache=17
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Su-Data Radio
+http://su-data.com:8009/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Szabadkai Magyar Rádió
+http://79.172.194.189:4110/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Yueco Radio
+http://s1.skeletor.rs/yueco
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Bubamara Svrljig
+http://92.60.230.200:5010/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", iFM Radio Topola
+http://91.228.254.72:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Trstenik FM 94.2
+http://185.119.88.88:8091/;?type=http&nocache=523309
+#EXTINF:-1 tvg-logo="" group-title="Serbia", MB Radio
+http://188.40.95.74:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Prvi Radio Uzice
+http://109.206.96.118:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Užice
+http://uzice.yunethosting.net:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Krajiški Radio
+http://37.59.28.208:8531/krajiski
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Istočnik
+http://stream.unlimited.rs:8026/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Vladimirci
+http://185.102.236.30:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio GAGA Vlasotince
+http://188.40.95.74:8028/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", OK Radio FM 92.8
+http://94.127.6.37:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Skay Radio FM 88.9
+http://185.119.89.63:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Fantasy Radio FM 106.5
+http://109.206.96.34:8575/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Banja2
+http://stream.iradio.pro:8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Homolje
+http://79.143.187.96:8148/stream/1/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Magnum FM 103
+https://magnum.web-srbija.net/
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Tempo Naxi radio
+https://tempo.ipradio.rs:9034/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Dobrić
+https://str.bem-streaming.tk/8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Klik FM 105.0
+http://klikfm1.yunethosting.net:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Serbia", Radio Sanja
+http://stream1.srvnetplus.com:8004/stream

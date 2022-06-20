@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Mega FM
+https://edge.mixlr.com/channel/txltb
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Mbiu
+http://dreamsiteradiocp5.com:8004/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Bunda FM Radio 92.1
+https://uk6.internet-radio.com/proxy/bundafm?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", +255 Global Radio
+https://zas7.ndx.co.za:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Africa Internet Radio
+https://stream.zeno.fm/3ydy3cmu88quv
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Bethel Radio
+http://178.32.62.154:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Boresha Radio
+http://boresha.online:8000/_a
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Clouds FM 88.5
+http://eu6.fastcast4u.com:5306/;
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", E-FM Radio 93.7
+http://107.182.231.73:7127/efm
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", East Africa Radio FM 88.1
+https://eatv.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Magic FM 92.9
+http://ca5.rcast.net:8056/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Midundo Online Radio
+http://139.59.44.216:8000/_a
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", MorningStar Radio
+http://n04.radiojar.com/qpgu3a299rmtv
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Plus Radio
+http://41.60.253.62:8000/plus_radio_128
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Maria Tanzania FM 89.1
+https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio One Stereo FM 89.7
+https://radioonetanzania.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Tumaini FM 96.5
+https://stream.zeno.fm/v437dbg4qzzuv
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Street One Radio
+https://stream.zeno.fm/d3as2fmadnruv
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", TBC FM
+http://s12.myradiostream.com:4574/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", TBC Taifa FM 94.6
+http://usa9-vn.webcast-server.net:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Times FM 100.5
+http://154.66.224.11:8000/Timesfm
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Uhuru FM
+https://s33.myradiostream.com/15450/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Upendo FM 107.7
+http://s12.myradiostream.com:8186/;
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Zilipendwa Channel
+http://173.244.208.77:8000/zilipendwa.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", A fm 92.9
+http://87.117.205.22:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", 88.9 Storm FM
+http://78.129.159.25:8100/stream?type=http&nocache=1069
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Bomba FM Radio 104.1 FM
+http://173.244.208.77:8000/bongo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Kipiti Radio
+https://strw1.openstream.co/2469
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Kicheko Live FM 91.1
+https://stream.zeno.fm/hg18dkfn1v8uv
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Free Africa FM 89.8
+https://s3.radio.co/s8df0149e0/listen
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Savior Radio
+http://proxima.shoutca.st:8380/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Kwizera FM 97.9
+http://uk4-vn.mixstream.net:8052/;listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Banana FM 98.7
+https://bananafm.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Standard Radio Tz
+http://s26.myradiostream.com:19546/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", CG FM Radio 89.5
+http://ca10.rcast.net:8034/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Uhai
+https://s2.citrus3.com:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Radio Uvinza
+http://usa1-vn.mixstream.net:8090/;listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tanzania", Chuchu FM 90.9
+https://s3.myradiostream.com:4717/listen.mp3

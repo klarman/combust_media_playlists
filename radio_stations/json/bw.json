@@ -1,0 +1,26 @@
+[
+  {
+    "tags": "Botswana",
+    "name": "RERA Online Christian Radio",
+    "url": "https://s2.radio.co/sc93b4c6aa/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Botswana",
+    "name": "The Cross FM",
+    "url": "https://streamingv2.shoutcast.com/the-cross-fm-tsn",
+    "logo": ""
+  },
+  {
+    "tags": "Botswana",
+    "name": "Yarona FM 106.6",
+    "url": "http://capeant.antfarm.co.za:8000/yarona",
+    "logo": ""
+  },
+  {
+    "tags": "Botswana",
+    "name": "Jazzy Soul Radio Nata",
+    "url": "http://209.95.50.189:8112/stream",
+    "logo": ""
+  }
+]

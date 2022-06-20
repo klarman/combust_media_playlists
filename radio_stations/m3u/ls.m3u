@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", 357fm
+http://198.178.121.76:8329/stream
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", Harvest FM 98.9
+https://stream.zeno.fm/gbttqnabh3vtv
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", MoAfrika FM
+http://ca3.rcast.net:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", People's Choice FM 95.6
+http://102.130.114.208:8000/pcfm
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", Radio Maria FM 103.3
+https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream?ver=714555
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", Sky Alpha HD
+http://sv2.famcast.co.za/proxy/skyalphahd?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Lesotho", Ts'enolo FM 104.6
+http://102.130.114.208:8000/tsenolofm

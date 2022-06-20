@@ -1,0 +1,38 @@
+[
+  {
+    "tags": "Timor-Leste",
+    "name": "Radio Raihusar FM 97.1",
+    "url": "http://radio.kalohan.net:8122/;",
+    "logo": ""
+  },
+  {
+    "tags": "Timor-Leste",
+    "name": "Radio Lian Matebean FM 99.9",
+    "url": "http://radio.kalohan.net:8150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Timor-Leste",
+    "name": "Radio Comunidade Comoro FM 94.1",
+    "url": "http://radio.kalohan.net:8154/;",
+    "logo": ""
+  },
+  {
+    "tags": "Timor-Leste",
+    "name": "Radio Liberdade Dili FM 95.8",
+    "url": "https://ssl.aloncast.com:1579/;",
+    "logo": ""
+  },
+  {
+    "tags": "Timor-Leste",
+    "name": "RTTL EP Radio",
+    "url": "http://51.161.13.49:8190/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Timor-Leste",
+    "name": "Radio Mauloko FM 89.7",
+    "url": "http://radio.kalohan.net:8110/;",
+    "logo": ""
+  }
+]

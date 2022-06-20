@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Lesotho",
+    "name": "357fm",
+    "url": "http://198.178.121.76:8329/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "Harvest FM 98.9",
+    "url": "https://stream.zeno.fm/gbttqnabh3vtv",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "MoAfrika FM",
+    "url": "http://ca3.rcast.net:8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "People's Choice FM 95.6",
+    "url": "http://102.130.114.208:8000/pcfm",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "Radio Maria FM 103.3",
+    "url": "https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream?ver=714555",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "Sky Alpha HD",
+    "url": "http://sv2.famcast.co.za/proxy/skyalphahd?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Lesotho",
+    "name": "Ts'enolo FM 104.6",
+    "url": "http://102.130.114.208:8000/tsenolofm",
+    "logo": ""
+  }
+]

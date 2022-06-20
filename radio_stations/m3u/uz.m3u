@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Pink Unicorn Radio
+https://listen6.myradio24.com/unicorn
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", See The Sea FM
+https://listen5.myradio24.com/seethesea
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Islom.uz
+http://radio.islom.uz:8000/islomuz
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Life FM
+http://lifefm.uz:8000/radio-64.aac?68
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Navruz FM
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Navruz FM - Hikmatli Dunyo
+http://navruzfm.uz:9000/navruz_hikmatlidunyo
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Oriat Dono 102.4FM
+http://46.8.35.26:8012/dono
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Oriat FM 100.5
+http://46.8.35.26:8012/oriat
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Quran.uz radio
+https://radio.islom.uz/quranuz
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Radio Uzbegim Taronasi FM 101.0
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 tvg-logo="" group-title="Uzbekistan", Аъло ФМ
+http://tabassum.uz:9000/alo_low

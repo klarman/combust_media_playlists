@@ -1,0 +1,182 @@
+[
+  {
+    "tags": "Georgia",
+    "name": "Radio Sputnik Abkhazia",
+    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voicesuh",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "SK News 97.5 FM",
+    "url": "http://iis.ge:8000/sk.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Citrus FM 97.3",
+    "url": "http://iis.ge:8000/CitrusFm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Adjara FM 104.5",
+    "url": "http://edge.mixlr.com/channel/bzorq",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Way FM 101.1",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiowayfmstudia1",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Mosaic FM 97.8",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomozaika",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Dzveli Kalaki FM 107.9",
+    "url": "https://rcast.live/stream/62170.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Hereti FM 102.8",
+    "url": "http://iis.ge:8000/hereti.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Nor FM 100.1",
+    "url": "http://iis.ge:8000/nor.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Ar Daidardo FM 96.7",
+    "url": "https://fortuna.ge/ardaidardo",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Mutant Radio",
+    "url": "https://listen.radioking.com/radio/282820/stream/328621",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Pirveli Radio FM 106.4",
+    "url": "http://178.134.47.58:88/broadwave.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Amra",
+    "url": "https://streamer.radio.co/s34b5469e0/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Electronauts",
+    "url": "https://stream.zeno.fm/4d98pq6cwg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Georgian Times FM 92.3",
+    "url": "http://149.3.34.14:8000/;?type=http&nocache=7",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Gipa FM 94.3",
+    "url": "http://217.147.235.142:9080/livemp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Kubrik",
+    "url": "http://uk2.listen2myradio.com:8029/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio NRJ FM 104.7",
+    "url": "http://shaincast.caster.fm:24734/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Palitra 103,9 FM",
+    "url": "http://livestream.palitra.ge:8000/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Positive 104.3 FM",
+    "url": "https://stream.radiojar.com/sr4vzamzfnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio SANDA",
+    "url": "http://212.72.151.218:8800/live",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Relaxwebradio",
+    "url": "http://iis.ge:8000/relax.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Sputnik Georgia",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=68862011&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Star FM 93.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-starfm",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Tbilisi FM 93.5",
+    "url": "http://iis.ge:8000/radiotbilisi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "TheRadio.ge",
+    "url": "https://securestreams3.autopo.st:1309/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Argo FM 102.0",
+    "url": "http://radiostream.argotv.ge:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Atinati FM 105.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radioatinatifm",
+    "logo": ""
+  },
+  {
+    "tags": "Georgia",
+    "name": "Radio Odishi+ FM 102.9",
+    "url": "https://live.radio.odishi.ge/odishi.mp3",
+    "logo": ""
+  }
+]

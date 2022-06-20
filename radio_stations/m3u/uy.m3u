@@ -1,0 +1,441 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM 101.5 Integración
+http://gnstreammedia.com:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Enkantada
+http://radio1.cli110.it3b.com:8000/enkantada.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Amatista FM
+http://usa15.ciudaddigital.com.uy:8116/AmatistaFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Artigas FM 106.3
+http://emisiones.com.uy:5108/artigas
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La voz de Artigas
+http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Cuareim 1270AM
+http://usa15.ciudaddigital.com.uy:29028/Cuareim
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Terminal FM 95.9
+https://server-usa2.radioseninternet.net/8048/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Atlantida FM 89.9
+http://server-uk1.radioseninternet.net:8034/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Onda 21
+http://sseg.us:8136/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Universo 103.7
+http://63.247.65.202:8430/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Milenium FM 92.1
+http://emisiones.com.uy:8092/mile
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Norte F.M. 105.5
+http://usa15.ciudaddigital.com.uy:8044/NorteFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Esteña FM 103.1
+https://streamingraddios.online/proxy/juanedu1?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Faro FM 98.1
+http://streaming.capasiete.com:9456/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Universo
+https://streamingraddios.online/proxy/universoam?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Coronilla FM 102.3
+https://securestreams5.autopo.st:1953/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Nueva Onda FM 105.3
+https://stream.zeno.fm/47gdym5z6k0uv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Oceánica FM 89.3 Mhz
+http://oceanica.duckdns.org:8000/oceanica.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Versos Compartidos
+http://192.99.16.17:9637/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Ruta FM 93.5
+http://204.197.245.100:8260/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Colonia AM 550
+https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio San Salvador AM 1580
+http://server-uk1.radioseninternet.net:8270/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Skorpio 89.7 FM
+https://server-usa2.radioseninternet.net/8272/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio City FM 95.1
+http://usa15.ciudaddigital.com.uy:8030/CityFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Durazno AM 1430
+http://usa15.ciudaddigital.com.uy:8038/DuraznoAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio YI Durazno AM 960
+http://usa15.ciudaddigital.com.uy:8144/AM960
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Noventa FM 90.9
+http://emisiones.com.uy:8129/nove
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Litoral
+http://usa15.ciudaddigital.com.uy:8096/LitoralFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Rincón AM 1510
+http://149.56.195.94:8145/stream?
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Rincón FM 107.7
+http://149.56.195.94:8366/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Visión FM
+http://emisiones.com.uy:8108/vision
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Torre FM 103.9
+http://107.170.111.32:2960/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Líder FM 89.1
+https://liderfm-zikoxweb2.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Delta FM 88.3
+http://server-uk1.radioseninternet.net:8104/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Info Ideas
+http://51.15.152.81:8360/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Musica En El Aire
+http://server-uk1.radioseninternet.net:9508/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cadena de la Costa FM 102.1
+http://s2.netradiofm.com:6112/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Onda Marina FM 106.3
+http://server375.dinamichosting.com:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Solari Radio 90.7
+http://medios.ciudaddigital.com.uy:8150/SolariFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Metropolis FM 104.9
+https://metropolis1.net.com.uy:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Inolvidable FM 93.1
+http://streaming3.locucionar.com:17134/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Cristal
+http://usa15.ciudaddigital.com.uy:8126/CristalAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Gente 107.1
+http://streaming1.hostingmontevideo.com:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Milenium FM 88.7
+http://server-uk1.radioseninternet.net:9302/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Cuervo Uruguay
+https://streaming1.hostingmontevideo.com:7008/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Voz de Melo AM 1340
+http://gnstreammedia.com:8800/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Nova FM 98.3
+https://server.laradio.online:58338/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Acuarela AM 1520
+http://204.197.245.100:8280/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio FM 99.1
+http://gnstreammedia.com:8802/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Ritmo FM 88.1
+http://server.laradio.online:25156/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 89.3 FM del Hum
+http://usa15.ciudaddigital.com.uy:8102/DelHumFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 915 Espacio FM
+http://radiolatina.live:7926/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", CX 121 Difusora Soriano
+http://usa15.ciudaddigital.com.uy:8094/DifusoraSoriano
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Galicia 100.3
+http://emisiones.com.uy:8105/sb
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 98.5 FM ADEOM
+http://158.106.131.228:9080/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", CW54 Emisora del Este
+http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Federal FM 99.1
+http://usa15.ciudaddigital.com.uy:8040/FederalFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Nosotros FM 90.7
+http://usa15.ciudaddigital.com.uy:8082/NosotrosFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", SUMU Twr/App/Radar
+https://s1-bos.liveatc.net/sumu
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 24 de Agosto
+http://149.56.195.94:8135/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Adrenalina FM 100.9
+http://cdn.instream.audio:8044//stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Aire FM 100.3
+https://radio13.servidorderadio.net/8284/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Alfa 96.3 FM
+http://radioonline.netgate.com.uy:8000/alfafm
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Azul FM 101.9
+http://icecasthd.net:8294/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Babel FM 97.1
+https://radios.iwstreaming.uy/8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Boliche FM 105.3
+http://streaming1.locucionar.com:13470/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cafe Express Radio
+https://sslstream.online/8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Canto y Fogon Radio
+https://sslstreaming.com:7031/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Carve AM 850
+https://radiolatina.live:10964/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Clarin AM580
+http://usa15.ciudaddigital.com.uy:8032/ClarinAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Clasica AM 650
+https://radios.iwstreaming.uy/8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Contacto Sur
+https://stream.zeno.fm/w5k0y0qbft5tv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cool Teen Radio
+http://94.23.6.53:8190/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Crazy FM 98.3
+https://streamingraddios.online/proxy/loca?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", De La Nuca FM 107.7
+http://stm.gmpro.top:7070/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Del Plata FM 95.5
+http://radios-mp3-uy.cdn.nedmedia.io/uy-delplata.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Diamante FM 98.7
+http://qwcast.com:9870/diamante
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", El Puente FM
+http://radios-online.info:4130/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Emisora del Sur 94.7
+https://radios.iwstreaming.uy/8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", En Perspectiva radio
+http://edge.mixlr.com/channel/nuuij
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Espectador 810 AM
+https://espectador1.net.com.uy:8122/stream/
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM DelSol 99.5
+http://radio.dl.uy:9950/radio
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM La Ley 106.7
+http://63.247.65.202:10031/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Latina 103.7
+https://stream.zeno.fm/39tyc5bday8uv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Galaxia FM 105.9
+https://stream.zeno.fm/bf4gt1pem0quv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Juventudes Radio UY
+https://stream.juventudesradio.uy/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Kairos FM 87.7
+https://panel.streamenviron.com:8264/radiokairos
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La 1010
+https://radiolatina.live:10963/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Costa FM 88.3
+https://server7.hostradios.com/8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Movida Online
+http://192.3.104.131:8068/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Radio Cooperativa
+http://edge.mixlr.com/channel/imnoo
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", lacatorce10 AM 1410
+http://radio.lacatorce10.com.uy:8060/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", M24 97.9 FM
+https://streaming2.hostingmontevideo.com:7003/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Nostalgia Radio Montevideo
+https://centova.streamrdm.com:4087/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Océano FM
+http://radio1.oceanofm.com:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Oldies FM 90.3
+https://hit2.net.com.uy:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Planeta Rojo FM
+http://argentina.republicahosting.com:8106/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Psyradio FM Psytrance
+http://streamer.psyradio.org:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio BAS
+https://radio.yoursalsa.uy/stream/1/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Centenario AM 1250
+http://rfm.radio.netgate.com.uy:8000/centenario
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Cero FM 104.3
+https://radiolatina.live:10966/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Ciudadana 103.3 FM La Gaviota
+https://stream.zeno.fm/65h59sw071zuv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Espirita Uruguay
+https://servidor21-3.brlogic.com:8462/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Futura FM 91.1
+http://radios-mp3-uy.cdn.nedmedia.io/uy-futura.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Golden Hits
+http://198.204.234.10:15462/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Informarte
+http://emisiones.com.uy:8131/yoru
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio La Zurda
+http://usa2.fastcast4u.com:3470/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Monte Carlo AM 930
+http://radiolatina.live:7900/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Nacional AM 1130
+http://198.15.107.53:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Oriental AM 770
+http://radiolatina.live:7906/1
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Pedal
+http://streaming2.hostingmontevideo.com/8052/RNFU9ACR7
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Sarandi 690 AM
+https://radios-mp3-uy.cdn.nedmedia.io/sarandi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Show on-line
+https://radios.yanapak.org/radioshow
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio UNO Digital
+http://server-uk1.radioseninternet.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio3Montevideo
+https://sc10.conectarhosting.com/proxy/radio3montevideo?mp=/stream:8820/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Recital Radio
+http://51.15.152.81:8031/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Retro Music Uruguay
+http://149.56.195.94:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Rural 610
+https://radiolatina.live:10959/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Senal Zoe
+http://unoredradio.com:9664/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Sport 890
+http://radios-mp3-uy.cdn.nedmedia.io/sport.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", TF5 Radio
+https://streaming1.hostingmontevideo.com/8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", UNI Radio FM 89.1
+http://uniradio.edu.uy:8008/uniradio
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Universal AM 970
+http://radio.970universal.com:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Urbana FM 92.5
+http://radio1.urbana.uy:9910/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Uruguay AM 1050
+https://radios.iwstreaming.uy/8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", X2  la musica de la X
+https://streaming2.hostingmontevideo.com:7002/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Del Molino FM 89.3
+https://sp2.servidorrprivado.com:10878/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Casino FM 96.3
+https://streamingv2.shoutcast.com/casino-fm
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Charrua AM 1540
+https://streamingv2.shoutcast.com/radiocharrua
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Contacto FM
+http://vps.paysandu.mobi:8096/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Exito FM 99.7
+https://streamingv2.shoutcast.com/exito
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Felicidad AM 1420
+https://streamingv2.shoutcast.com/felicidad
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Otra FM 104.5
+http://144.217.67.108:9242/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Mas FM 101.3
+https://one.cloudstreaming.eu:8501/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Máxima FM 97.7
+https://streamingv2.shoutcast.com/maxima-fm-uy-pdu
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Caba
+https://stream.zeno.fm/4yhqs9v1mm5tv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Heroica
+http://190.64.69.102:9876/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Paysandú
+https://streamingv2.shoutcast.com/radio-paysandu-cw35
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", RBC 1210AM
+http://usa15.ciudaddigital.com.uy:8058/RbcAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Ulmá
+http://radio1.cli110.it3b.com:8000/ulma1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 88.1FM
+https://s1.radioforge.com:9156/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Aspen FM 103.5
+https://streaming2.hostingmontevideo.com:7010/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Azul FM 93.5
+http://icecasthd.net:8293/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Bohemia FM
+https://radiopro.com.uy/radio/8000/bohemia
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Buenos Aires
+http://01.solumedia.com.ar:8352/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Laser FM
+http://server.laradio.online:8691/Stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Del Este
+https://turadio.accesopanel.com/8372/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Galena 105.5
+http://gnstreammedia.com:8148/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Acacia FM 90.7
+http://usa15.ciudaddigital.com.uy:8088/AcaciaFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cenit
+https://argentina.republicahosting.com:1931/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Columbia
+http://stm.gmpro.top:7008/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Horizonte FM 89.3
+http://medios.ciudaddigital.com.uy:8078/HorizonteFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Internacional 1480 AM
+http://63.247.65.202:8918/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Internacional FM 94.5
+http://streaming2.locucionar.com:8917/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Activa FM 89.9
+https://radios.iwstreaming.uy/8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Reconquista AM 1220
+http://usa15.ciudaddigital.com.uy:8088/Reconquista
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Rivera 1440 AM
+http://usa15.ciudaddigital.com.uy:8060/RiveraAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Ungido
+https://servidor29-2.brlogic.com:8732/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cadena del Sol
+http://audiohd.sonidosenlared.com:5179/;;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Cadena Digital
+http://medios.ciudaddigital.com.uy:8148/CadenaDigital
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Difusora Rochense AM 1260
+http://server375.dinamichosting.com:8020/Title1
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Navegante FM 94.1
+https://ssl.hostingservicios.com:7768/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Fortaleza AM 1320
+http://server-uk1.radioseninternet.net:9304/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Vida FM 104.7
+http://usa15.ciudaddigital.com.uy:8048/VidaFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Marindia FM 88.9
+https://radios.iwstreaming.uy/8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 1410 Turistica AM Salto
+http://emisiones.com.uy:8086/turistic
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Alegria FM 91.3
+http://emisiones.com.uy:8141/ale
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", America FM 103.3
+http://emisiones.com.uy:8118/america
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Extremo FM 100.9
+http://192.240.99.146:8111/bour
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Pan de Azucar
+http://emisiones.com.uy:8140/pande
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Mundo FM
+http://emisiones.com.uy:8088/mundo
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Música de Más
+http://emisiones.com.uy:8120/demas
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Nueva Era FM 102.3
+http://192.240.99.146:8127/als
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Arapey
+http://emisiones.com.uy:8085/arapey
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Futuro Rock
+https://streamingv2.shoutcast.com/RADIOFUTUROROCK
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Libertadores AM 1020
+http://emisiones.com.uy:8089/liber.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Ozono
+https://ssl.hostingservicios.com:7752/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Tabaré
+http://emisiones.com.uy:8130/taba
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Siglo XXI 101.5
+http://emisiones.com.uy:8091/2als
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Templaria Radio
+http://emisiones.com.uy:8110/enlace
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Isla Radio
+http://lirodu.zapto.org:8000/laislaradio
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Hits FM 89.9
+https://streaming.radiosenlinea.com.ar/8868/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", El Lugar 99.1
+http://usa15.ciudaddigital.com.uy:8140/ElLugarFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Emisora Principal
+http://s7.myradiostream.com:10764/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", EnFrecuencia
+http://s45.myradiostream.com:8566/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Maragata FM 97.5
+http://63.247.65.202:10394/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio 41 AM 1360
+http://radios-online.info:2990/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radiomania
+http://51.15.152.81:8180/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM San Ramón 91.3
+http://149.56.195.94:8684/;.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Hits FM 88.5
+http://stm1.ifantasy.com.br:7088/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Espika FM 90.7
+http://stream.codigosur.org/espikafm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Parque FM
+http://streaming2.hostingmontevideo.com:8018/stream;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Osiris FM 90.5
+http://server.datalivehd.com:7064/osirisfmlive
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Armonia FM 92.5
+http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Estudio Aventura Radio
+http://162.244.80.106:11033/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Música 88.9
+https://server-usa2.radioseninternet.net/8260/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Tiempo 101.7
+https://cento02.mipanelradio.com/proxy/fmtiempo?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM93 Online
+http://162.244.80.106:11069/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", JC Radio Web
+http://201.217.133.134:8035/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", La Kandela FM 105.5
+http://198.49.65.43:10072/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Delirio
+https://srv.radiostreamuy.com:1065/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Tacuarembó 1280 AM
+http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Tacuarembó FM 90.3
+http://51.15.152.81:8798/;?_=0.7366505504165111
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Tacuarembo Radio
+http://149.56.195.94:8401/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", ZSM Radio Zorrilla
+http://server-uk1.radioseninternet.net:9312/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Naturaleza 88.1
+http://stm.gmpro.top:7006/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Vecinal Uruguay
+https://stream.zeno.fm/vbh6zat1mhruv
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Celeste 1570 AM
+http://emisiones.com.uy:8115/celes
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", CW45 Difusora Treinta y Tres
+http://server-uk1.radioseninternet.net:8132/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Difusora Treinta y Tres FM 94.3
+https://server-usa2.radioseninternet.net/8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", FM Conquistador 97.3
+http://198.204.234.10:8149/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Patria AM 1540
+http://usa15.ciudaddigital.com.uy:8052/PatriaAM
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Cinco FM 89.7
+http://emisiones.com.uy:8084/cinco.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", SUR FM
+http://163.182.175.106:7082/;
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", El Libertador
+http://s4.viastreaming.net:7200/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Mega FM 91.9
+http://67.212.166.178:7154/live
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", 93.3 Luna FM
+https://servermm.com/radio/lunafm/.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Imagen FM 89.1
+https://servermm.com/radio/imagenfm/.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Young AM 680
+https://servermm.com/radio/radioyoung/.mp3
+#EXTINF:-1 tvg-logo="" group-title="Uruguay", Radio Young FM 94.5
+http://emisiones.com.uy:8108/retorno

@@ -1,0 +1,2509 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Gardel Radio
+https://server.laradio.online:58475/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Imagine FM 98.1
+http://alpha.radioplayer.com.ar:9216/lagiocondafm963
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mix FM 97.7
+https://radio.trix.hosting:18058/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Genesis 92.3
+http://genexservicios.com:8192/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Imagen FM 106.7
+http://server.laradio.online:8789/;?1571988769047
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pin Up Radio
+http://radio.solumedia.com.ar:7597/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Alejandra FM 88.9 LRS851
+http://server2.veemesoft.com.ar:12486/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Detente Jesus Te Espera FM 107.1
+https://stream.zeno.fm/kn4xrgw9dm0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RO-K8 Radio Web
+https://stream.zeno.fm/9z52mm3158quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Binaural Rock Radio
+http://01.solumedia.com.ar:7870/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sierras de Córdoba
+http://streaming01.shockmedia.com.ar:9776/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Siempre Radio 93.3
+http://alpha.radioplayer.com.ar:9226/siempreradio933
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio America FM 92.5
+https://player.livecastradio.com/proxy/7030/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Clasic Andalgalá
+http://142.44.135.172:8458/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Angélica FM 99.7
+https://servidor2.hostradios.com/proxy/sc_angel?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", De UNA FM 105.1
+http://st.produccionesdha.com:8248/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Arequito FM 96.5
+http://server2.veemesoft.com.ar:12640/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sol 103.1
+http://server.laradio.online:9048/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno Arrecifes 107.1
+http://200.80.36.160:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Signos 90.5
+http://63.247.91.178:12426/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", OID Mortales FM 89.9
+https://servidor1.hostradios.com:8092/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ok FM 95.5
+http://audio.questreaming.com:27156/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Extremo FM 106.9
+https://streaming.escuchanosonline.com:7103/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Activa FM 101.9
+http://63.247.65.202:8113/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Astica FM 92.5
+https://stream.zeno.fm/4se17rtuu4zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Impacto 93.1
+http://serverssl.deradios.stream:8244/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Secla FM 106.1
+http://69.175.20.242:8056/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Más FM 93.9
+http://streaming01.shockmedia.com.ar:8852/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio UNDAV
+http://radiostream.undav.edu.ar:8002/radioundav
+#EXTINF:-1 tvg-logo="" group-title="Argentina", UNCB Radio
+http://server.laradio.online:8015/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ayacucho FM 95.3
+https://sonic.cloudstreaming.eu:10989/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", wOka FM 100.1
+http://radio.solumedia.com.ar:8766/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", A+ Radio
+https://amasradio.com.ar:8443/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Bahia Radio Hits
+http://51.161.119.117:8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", GoodSound Radio House
+http://01.solumedia.com.ar:8914/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hola Radio
+https://sonic.cloudstreaming.eu:10987/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Brújula 24
+http://icecast.hostingbahia.com.ar:8020/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU2
+https://icecast2.hostingbahia.com.ar:8040/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Malvinas Rock 90.7
+https://streamconex.com:8112/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Nada Que Perder
+http://cdn.instream.audio:8111/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ciudad FM 94.7
+https://icecast2.hostingbahia.com.ar:8044/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cristal FM 91.1
+https://www.amasradio.com.ar:8453/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Norte
+http://icecast.hostingbahia.com.ar:8002/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio UNS AM 1240
+https://sonic.cloudstreaming.eu:10983/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Urbana FM 93.9
+http://stm15.bahiahosting.com:8684/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", UTN FM 93.5
+https://sonic.cloudstreaming.eu:10986/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Viva FM
+https://radio.datalivehd.com:7100/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vorterix Bahía FM 99.1
+https://player.xcast.com.br/proxy/9130
+#EXTINF:-1 tvg-logo="" group-title="Argentina", X99 RADIO
+http://46.4.232.139:8100/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pop FM 99.1
+http://63.247.65.202:8122/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Zeta FM 97.3
+http://server11.veemesoft.com.ar:6368/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 94.1 San Francisco
+http://genexservicios.com:8288/;?1592208928226
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Coldfunk
+https://stream.zeno.fm/7t79necnf5zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Comucosas
+https://servidor1.hostradios.com:8150/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Cielo FM 105.1
+https://proxy.turadioinfo.com/5612/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LS2 96.9
+http://69.61.11.200:8005/fmbaradero
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio El Semaforo
+https://audiohd.sonidosenlared.com/proxy/elsemafororadio?mp=/stream;/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Barrancas FM 105.7
+http://argentina.republicahosting.com:8314/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 92.9 La Invencible
+http://server.laradio.online:8637/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 95.9 Solidaria
+http://streaming01.shockmedia.com.ar:8698/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Roca
+http://63.247.65.202:8562/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Riel 93.1
+http://rielfm.com.ar/reproductor
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Zona Oculta Radio Digital
+http://server-uk1.radioseninternet.net:8016/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Frecuencia 106
+http://63.247.65.202:8693/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ipersonica
+http://s3.free-shoutcast.com:18020/;#.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sentir
+https://radiosentir.sytes.net/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Benavídez
+http://23.111.153.190:20480/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Gran Cosecha
+https://servidor23-1.brlogic.com:7010/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Britannia
+https://01.solumedia.com.ar:10064/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Difusión 98.1
+http://radio02.ferozo.com:8530/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Beat FM 96.9
+http://server.laradio.online:8515/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Krimen online
+https://miestacion.turadioonline.com.ar/8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sur 105.1
+http://162.254.201.210:9316/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RBT 96.1
+http://192.99.38.174:9314/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Mosquitera FM 88.1
+https://stream.codigosur.org/mosquitera.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ahijuna FM 94.7
+http://stream.ahijuna.fm/aire.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Calden 99.9
+http://server1.veemesoft.com.ar:6340/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radioactiva
+https://tupanel.info:7392/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Horizonte
+http://server.laradio.online:25053/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Reclasica
+https://alpha.radioplayer.com.ar:9256/radioreclasica
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Vos 95.5
+https://alpha.radioplayer.com.ar:9106/radiovos955
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio FM 102.9
+http://audio.questreaming.com:26873/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 8Bitz Radio
+https://server.ohradio.com.ar/8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Adi Shakti Radio
+http://68.183.132.63:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Agro Radio
+http://cdn.instream.audio:9034/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1010 Onda Latina
+http://streaming2.locucionar.com:8344/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1130 Radio Show
+http://3.223.187.189:7130/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1550
+http://streaming2.locucionar.com:8312/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 650 Belgrano
+http://server.laradio.online:25223/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 990
+https://20833.live.streamtheworld.com/AM990AAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ambiente Radio FM 88.9
+https://sonic.dattalive.com/8470/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aras24
+http://streaming.radiosenlinea.com.ar:8654/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Artemax Radio
+http://server1.dainusradio.com:9976/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aspen 102.3 FM
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Bendiciones
+https://str2b.openstream.co/1782
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Blessings
+https://str2b.openstream.co/1793
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Blur FM Online Radio
+https://live.radiovague.com:8443/blurfm01
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Caba Radio
+http://01.solumedia.com.ar:7762/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Campeones Radio
+http://01.solumedia.com.ar:7193/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Citrica Radio 88.5 FM
+http://74.50.112.196:9132/citrica885
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Clasica y Barroca
+http://200.110.145.2:8087/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CNN Radio Argentina
+https://estudio.cnnradioargentina.com.ar/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Creativa Radio
+http://streaming.radiolinksmedia.com:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Doble A Radio
+http://51.161.119.117/8268/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Doo Bop
+http://ample.radiojar.com/ph8n5vh6kkeuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Dubtronik
+http://01.solumedia.com.ar:7205/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", ECO Medios AM 1220
+https://stream.zeno.fm/uv3vkhw2qvduv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Destape Radio
+https://streamingradioplayer.inovanex.com/coolcast/audio/ipanel/8004
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Provincial Radio
+http://streaming3.locucionar.com:17668/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Sr Bivachi
+https://server.laradio.online/proxy/carlos_bivachi?mp=/stream&1587546647481
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Emisora Pirata
+http://01.solumedia.com.ar:7084/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cien Federal FM 99.3
+http://s1.radiosnethosting.com:9946/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Delta 90.3
+https://cdn.instream.audio/:9069/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Tribu
+https://vivo.fmlatribu.com/latribu.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Popular 89.1
+https://stream2.cibersoft.com/radio/8220/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Rock and Pop 95.9
+https://ipanel.instream.audio:7002/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Soldados 87.5
+https://radio02.ferozo.com/proxy/ra01000409?mp=/stream;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Top 104.9
+http://62.210.129.76:7940/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Trance 103.9
+https://secure.streaming01.dwservers.net/8100/:
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fónica Play
+https://argentina.republicahosting.com:1255/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Guajira Radio
+https://01.solumedia.com.ar:8252/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hemisferios Radio
+http://streaming3.locucionar.com:16864/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Horizonte FM 94.3
+https://16963.live.streamtheworld.com/SAM06AAC243_SC
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Jazz Cafe FM
+http://radio.netyco.com:8056/jazzcafefm
+#EXTINF:-1 tvg-logo="" group-title="Argentina", K24 AM 690
+http://disbaires.com.ar:9041/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La 2x4 FM 92.7
+http://radios.argentina.fm:9270/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Bocina Radio
+https://01.solumedia.com.ar:7109/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Colectiva Radio FM 102.5
+https://radios.solumedia.com/6198/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Folk Argentina
+https://ssl.radiosnethosting.com/index.php?port=9996/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Idea Fija
+http://streaming01.shockmedia.com.ar:7408/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Once Diez - AM 1110
+http://radios.argentina.fm:1110/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Posta Radio
+https://stream.zeno.fm/ns0qfcu11uquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio del Campo
+https://01.solumedia.com.ar:7453/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio Te Escucha
+http://62.210.129.76:7936/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La RZ
+http://streamlky.alsolnet.com:443/larz
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Uno FM 103.1
+https://20823.live.streamtheworld.com/UNO.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LaRadioDeLosLentos.com
+http://01.solumedia.com.ar:7828/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Los 40 Principales FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Lux Radio
+https://server.ohradio.com.ar/8196/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Magic Kids FM
+http://142.44.135.172:8197/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Memory Project Radio
+https://stream.zeno.fm/sct1zvqz1uquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metro FM 95.1
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mindalia Radio Argentina
+http://188.165.131.13:7001/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mindalia Radio Voz Argentina
+https://secureradio.eu:2014/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Nadieteve
+https://01.solumedia.com.ar:7030/stream?1590770565817.aac;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Next Radio
+http://servidor.i-live.com.ar:9322/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NRG DJ
+http://stream.electroradio.fm/192/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Numbarton Radio
+https://numbarton.net/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Planet Jazz
+http://streamlky.alsolnet.com:443/planetjazz
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Power FM 90.3
+http://63.247.65.202:8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 2 FM 107.1 AuBasa
+https://cdn.instream.audio/:9056/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 70
+http://streamall.alsolnet.com:443/radio70
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio AM del Plata 1030
+https://streamingv2.shoutcast.com/delplata
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Amadeus 91.1
+https://streamingradiolinks.xyz/8484/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio ArInfo
+https://server.laradio.online:58013/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Buenos Aires AM 1350
+https://nl.digitalrm.pt:8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Caput
+http://69.64.46.123:8132/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio CASo
+http://stream.radiojar.com:80/mv4vyxmmx4zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Colmena
+http://centova.cerounoargentina.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Con Aguante
+http://streaming01.shockmedia.com.ar:9536/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Conectividad
+http://servidor2.serviciostreaming.com:9648/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Continental AM 590
+http://20823.live.streamtheworld.com/CONTINENTALAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cooperativa
+http://rcoop.cnwks.ws:8358/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cracovia
+https://tolkien.republicahosting.net:1614/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cultura FM 97.9
+https://usa5.fastcast4u.com/proxy/radiocultura?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Damus
+https://01.solumedia.com.ar:8294/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Disney FM 94.3
+https://20833.live.streamtheworld.com/DISNEY_ARG_BA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio El Mundo AM 1070
+http://streaming.escuchanosonline.com:8236/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio en Casa
+http://streaming01.shockmedia.com.ar:9018/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Folklore 90
+https://player.xcast.com.br/proxy/12502
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio General Belgrano AM 840
+http://63.247.65.202:8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio General Guemes AM 1050
+https://sonic.dattalive.com/8482/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Invox
+https://stream.zeno.fm/6zaxegcz3tzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Turba
+http://audiohd.sonidosenlared.com:8122/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Latina FM 101.1
+http://streaming.latina101.com.ar:9000/Repetidoras
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Monk online
+https://streaming01.shockmedia.com.ar:10620/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Monte Castro FM 94.5
+https://stream.zeno.fm/9zcgvh1271zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional - Clásica FM 96.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional - Folklórica FM 98.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional - LRA1 Buenos Aires AM870
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional - Rock FM 93.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio NeF
+http://server2.veemesoft.com.ar:26528/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Porteña FM 89.7
+https://us9.maindigitalstream.com/ssl/7194
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio PUM
+https://c5.radioboss.fm:18023/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio REA
+https://cast.dant.com/radio/8000/rea.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rebelde AM 740
+http://centova.psigroup.com.ar:3030/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Reggae Positive
+https://server.radiostreaming.com.ar/8066/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rivadavia 630 AM
+https://21933.live.streamtheworld.com/RIVADAVIAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rueda
+https://radio.love4stream.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Solar
+https://servidor16-4.brlogic.com:8414/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sur 88.3 FM
+https://01.solumedia.com.ar:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Talk
+http://server.laradio.online:8363/;?1564645232594
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio TU
+https://delta.radioplayer.com.ar:9108/radiotu
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Túpac Webcast
+https://server.ohradio.com.ar/9574/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad de Belgrano
+http://3.223.187.189:8108/mountpoint
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio UNLP AM 1390
+http://163.10.186.71:8001/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Urbana BA
+http://server.ohradio.com.ar:9610/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Weekend FM 102.1
+https://tupanel.info:8800/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RADIOnline Argentina
+http://link.radiojar.com/7n3s4124hrquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RadioUpa
+https://server.laradio.online/proxy/gustavo_waingortin?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiowasap
+https://stream.zeno.fm/b5q3dbe6zuquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RAE Argentina al Mundo SW5950
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Red Aleluya FM 106.3
+https://nl.digitalrm.pt:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Red Moskito Radio
+http://streaming.radiolinksmedia.com:9070/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Retro 99
+http://streaming.escuchanosonline.com:8154/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rock and Grow
+https://s2.radio.co/s7b9d0d74b/listen
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Signos FM
+http://www.fmsignos.com.ar:8009/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", SKW Radio
+http://01.solumedia.com.ar:8982/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", somos radio am 530
+https://cdn.instream.audio/:9288/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", T&D Radio
+http://149.202.235.235:8133/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tango Radio CAFF
+https://streams.radio.co/s6b80bc417/listen
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tec Radio
+https://stream.zeno.fm/64h3nxg0rvduv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", The Kyoto Connection
+https://server.laradio.online:59009/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", The Musical Box Radio
+http://142.4.217.133:9740/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vintage Radio
+http://netradiofm.com:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", wclassicradio
+https://server.ohradio.com.ar:7134/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Frecuencia Online Radio
+http://server.laradio.online:8060/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Lit&Jazz
+http://servidor35.brlogic.com:7096/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Municipio
+https://caletaolivia.gov.ar:8087/radio2?tipo=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Frecuencia Patagonia 99.3
+http://server.laradio.online:9188/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hell Commando
+http://01.solumedia.com.ar:7555/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 21
+http://cdn.instream.audio:9135/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Del Valle FM 101.9
+https://stream.zeno.fm/1cpnzqz1um0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio 2000
+https://radios.solumedia.com/6066/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Futuro FM 93.1
+http://streaming2.locucionar.com:8682/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Lamil35
+https://stream.zeno.fm/bt18614dvhruv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Benjamin 104.3
+https://server4.hostradios.com:7194/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Más
+http://server1.veemesoft.com.ar:10130/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Voz FM 90.5
+http://radio.netyco.com.ar:8130/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nu Guazú FM 97.1
+http://stm50.veemesoft.com.ar:27238/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Wapa FM 96.7
+http://genexservicios.com:8012/;?1572425534499
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mitre AM 1620
+http://01.solumedia.com.ar:7024/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", YSY FM 102.9
+http://nvradios.com:9328/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Juventud FM 103.9
+http://streaming2.locucionar.com:8646/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Lago 95.1
+http://server.laradio.online:25846/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Real Estate Radio
+http://200.58.106.247:8156/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aires Radio
+https://radios.solumedia.com/6062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cosmos 100.1 Cañuelas
+http://71.6.165.113:9066/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Live FM 91.7
+http://streaming01.serverconnectinc.site:8399/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cebra
+http://argentina.republicahosting.com:8297/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rincón Santafesino FM 99.1
+http://78.46.120.147:5294/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", DSR Medios
+http://streaming.escuchanosonline.com:8102/baires?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universo FM 100.3
+http://server11.veemesoft.com.ar:28918/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sunrise Cariló FM 96.9
+https://streamlky.alsolnet.com/sunrisecarilo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La105 FM
+https://streaming5.locucionar.com/proxy/fmla105?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Signos 90.9 Mhz
+http://server.ohradio.com.ar:9766/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Patagonia 90.5 Mhz
+http://audio.questreaming.com:9326/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Municipal Carpinteria 87.9 FM
+http://s3.conectarmedia.com/proxy/fernando?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Roja
+https://orelha.radiolivre.org/radioroja.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio del Parque FM 107.7
+http://stream01.insidetec.com:8038/delparque
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 3F Radio 91.5 FM
+http://23.111.153.190:21840/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación del Centro FM 96.9
+http://nvradios.com:9334/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Oh! FM 106.3
+https://usa3.lhdserver.es:8081/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Casilda FM 91.1
+http://centova1.veemesoft.com.ar:8203/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio de la Mujer FM 95.9
+http://nvradios.com:9336/;mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sport Casilda FM 98.1
+http://st.produccionesdha.com:9366/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", En Tránsito FM 93.9
+https://stream.fmentransito.org.ar:8002/radio/live.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ayerza
+http://radioayerza.ddns.net:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Castelar Argentina
+http://radiocastelar.ddns.net:8443/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fun Radio
+http://servidor2.serviciostreaming.com:9624/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Isla FM 107.9
+https://streaming5.locucionar.com/proxy/laislafm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ancasti 98.5
+https://vps-d8b84a62.vps.ovh.ca:10957/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio de Clásicos
+http://server4.veemesoft.com.ar:27085/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Max FM 101.1
+http://centova1.veemesoft.com.ar:8089/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional - LRA27 FM 103.5
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad27
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Valle Viejo
+http://63.247.91.178:12648/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Soft FM 92.9
+http://server3.veemesoft.com.ar:26589/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tiempo de Radio
+http://173.249.0.101:9365/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Universidad FM 100.7
+http://miradioenlaweb.com:6256/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sayhueque FM 88.7
+https://server.laradio.online/proxy/sayhueque887?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Red Social Radio 97.9
+http://63.247.91.178:12018/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Popular FM 104.5
+http://envivo.radio.net.ar:9022/;?ver=935159
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno FM 99.1
+http://server1.dainusradio.com:9884/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Volver FM 106.9
+http://streaming.escuchanosonline.com:8078/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Compacto FM 88.1
+http://63.247.65.202:8037/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 940 Radio Chajarí
+http://190.185.128.226:8001/AM940
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio ON
+http://streaming01.shockmedia.com.ar:8384/stream?type=http&nocache=46
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pop Chascomús FM 92.5
+http://streaming.dinesat.com:6725/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Chascomus AM 1520
+http://streaming1.locucionar.com:12350/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Puerto Chenaut
+https://stream.zeno.fm/23s96fz3tm0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Latina FM 93.7
+https://miestacion.turadioonline.com.ar/8558/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Chos Malal 102.1
+http://67.23.235.229:9314/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRA52 Chos Malal AM 670
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad52
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU19 AM690 La Voz Del Comahue
+http://51.161.119.117:8064/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cipolletti FM 99.1
+http://63.247.91.178:13110/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Creciendo FM 102.1
+http://s2.radiosnethosting.com:9746/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Estudio Rey
+https://servidor2.hostradios.com/proxy/sc_rey?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio IMPA Cipolletti
+http://audio.questreaming.com:20090/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mural
+http://01.solumedia.com.ar:8142/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cantilo FM 101.9
+http://radio.solumedia.com.ar:7231/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Patria 107.3
+http://144.76.96.54/8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fe Latina
+https://radio.305streamhd.com/radio/8260/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunidad Claromeco
+http://servidor.ilive.com.ar:8022/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM San Cayetano 91.3
+https://radiohd.net:10991/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sapukay
+http://streaming2.locucionar.com:8751/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Impacto 102.1
+http://62.210.129.76:8520/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Emisora Colón
+http://200.58.101.247:8060/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Caroya FM 105.1
+https://servidor2.hostradios.com/proxy/sc_marco?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Comunicar 90.7
+https://sonic.dattalive.com:10871/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Génesis 102.5 FM
+https://streaming.evolucionstreaming.com/8272/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tú Elección 94.9
+http://streaming01.shockmedia.com.ar:8304/;stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunitaria Seré FM 94.5
+http://radio.netyco.com:8334/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Records 89.1
+https://cdn.instream.audio/:9195/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Carolina
+http://server3.veemesoft.com.ar:26629/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiovision 99.5 fm
+https://cdn.instream.audio/:9061/stream?
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Impactos FM 107.1
+http://62.210.129.76:6650/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Extremo Radio 87.9
+http://emisiones.com.uy:5110/vinilo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", High Class Radio
+http://01.solumedia.com.ar:8710/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa Concordia FM 98.9
+http://str01-prod-par-ar.siglocero.net:8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ciudadana FM 89.7
+https://radio02.ferozo.com/proxy/ra02001090?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Estancia FM 96.9
+http://63.247.91.178:12970/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", + Musica Radio
+https://stream.zeno.fm/x9hq9qpdyuquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 102.3 FM Más que música
+https://sp4.colombiatelecom.com.co:10994/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", BagRadio
+http://bagradio.tecnosoul.com.ar:8041/bagradio
+#EXTINF:-1 tvg-logo="" group-title="Argentina", BizaRRadio
+https://01.solumedia.com.ar:8140/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena 3 AM 700
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Space
+http://52.9.150.45:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CapitalNet Estación
+http://streaming01.serverconnectinc.site:8166/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Continental Córdoba FM 103.5
+https://vps-d8b84a62.vps.ovh.ca:10997/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cosquin Rock FM
+http://crfm.laradio.online:8799/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Desfachatados
+http://audiohd.sonidosenlared.com:8598/stream?1559812242584
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Activa 105.9
+https://server6.hostradios.com/8028//stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cordoba
+https://c3ny1.mediainbox.net/fmcordoba.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Gamba 106.3
+http://acp2.lorini.net:10630/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", GolandPop
+http://streaming01.serverconnectinc.site:8515/golpop
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Guapa FM 97.7
+http://server.laradio.online:35216/live?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Horizonte FM 102.1
+http://63.247.91.178:13038/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Las Rosas FM 105.5
+http://streaming01.shockmedia.com.ar:9676/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Loca Suelta 94.7
+http://suenas.net:8090/locasuelta2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NaranjoFM
+http://radio02.ferozo.com:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Orfeo FM 98.5
+https://vps-d8b84a62.vps.ovh.ca:10970/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Park
+https://tolkien.republicahosting.net:1994/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", PlayFM 95.9
+http://server.ohradio.com.ar:9672/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pobre Johnny 88.9
+http://suenas.net:8090/pobrejohnny2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pulxo FM 95.1
+https://server7.hostradios.com:7073/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Punto a Punto Radio FM 90.7
+http://streaming01.shockmedia.com.ar:9990/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Quality FM 90.5
+http://streaming01.shockmedia.com.ar:9340/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Quality X FM 89.7
+http://streaming01.shockmedia.com.ar:9794/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio CIEC 93.9 FM
+https://tupanel.info:9430/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunitaria La Quinta Pata
+http://server3.veemesoft.com.ar:26429/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Espíritu Santo
+http://london-dedicated.myautodj.com:8114/stream1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Eterogenia
+http://01.solumedia.com.ar:8316/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio HIFI
+http://cdn.instream.audio:9218/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mansa FM 103.1
+http://suenas.net:8090/mansa2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio María FM 101.5
+http://dreamsiteradiocp2.com:8008/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Argentina
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Shopping 96.1
+http://suenas.net:8090/shoppingclassics2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sucesos
+http://server1.dainusradio.com:2341/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Suquia FM 96.5
+http://streaming01.shockmedia.com.ar:9968/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad AM 580
+https://sp4.colombiatelecom.com.co:10995/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad FM 88.5
+https://sp4.colombiatelecom.com.co:10996/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio UTN FRC FM 94.3
+https://01.solumedia.com.ar:8201/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RPM Oldies & Retro Hits
+https://radios.solumedia.com/6118/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sinfonía de la Inmaculada FM 91.5
+http://listen.shoutcast.com/sinfoniadelainmaculada915mhz
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sonar FM 88.1
+https://streaming01.shockmedia.com.ar:10935/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", SUM FM 103.3
+http://streaming01.shockmedia.com.ar:9382/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vorterix Córdoba
+http://104.131.4.100:8000/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sonora 96 LRN 767
+https://vps-c0159cbc.vps.ovh.ca/2510/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ciudad 89.5
+http://63.247.65.202:8187/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Nueva Radio Suarez
+https://streaming.escuchanosonline.com:7216/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Q103 Radio FM 103.1
+http://01.solumedia.com.ar:7139/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fiesta
+http://01.solumedia.com.ar:7115/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Alas 106.9
+https://stream.zeno.fm/7bs1rw5zw8quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Target i-Radio
+https://stream.zeno.fm/qbvkwqcna6mtv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena X5
+http://cdn.instream.audio:9101/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Dorado FM 98.3
+http://streamingraddios.online:10354/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Feeling FM 91.9
+http://turadioenvivo.com:8430/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Dos FM 99.3
+http://190.7.17.148:9302/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Link FM 90.3
+http://turadioenvivo.com:11019/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT7 AM 900
+http://turadioenvivo.com:11045/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Positiva FM 91.3
+https://stream.zeno.fm/m609r0ya0tzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Familias de la Ciudad
+http://streaming1.locucionar.com:12346/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Xpress FM 107.5
+http://turadioenvivo.com:8700/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sol FM 107.9
+https://01.solumedia.com.ar:8148/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sunder FM 93.5
+http://streaming01.shockmedia.com.ar:9108/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Posta 96.5
+http://server.laradio.online:8726/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Barcelona FM 104.1
+http://63.247.65.202:8432/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universo
+http://63.247.91.178:14045/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tiempo FM 105.1
+http://s2.netradiofm.com:5908/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Libertad Daireaux
+http://74.82.59.197:8230/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Neo Net Music
+http://198.50.206.239:8106/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Dolores FM 94.9
+http://168.181.185.173:9490/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM RDT
+http://streaming.shockmedia.com.ar:8648/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Music Time 80
+http://server.ohradio.com.ar:9808/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio FM Eclipse 88.9
+http://streaming01.dwservers.net:8300/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Full 94.9
+http://nvradios.com:9396/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mix FM 93.3
+http://nvradios.com:9398/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Patagonia Andina 93.3
+https://centova.psigroup.com.ar:14796/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Milenium FM 106.3
+https://stream.zeno.fm/t9f16ed7cy8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ciudad FM 100.7
+https://streaming01.shockmedia.com.ar:10810/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio El Bolsón FM 106.7
+http://63.247.91.178:13497/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Argentina
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad57
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio M.A.C FM 99.9
+http://server.ohradio.com.ar:8134/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Huellas
+http://63.247.91.178:12584/stream?1570358098758
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Impacto 100.3
+http://streaming01.shockmedia.com.ar:7120/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio de Folklore FM 91.1
+https://ssl.xcast.com.br:7296/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Luna
+http://server.ohradio.com.ar:9344/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM El Talar
+http://stream01.insidetec.com:8074/eltalar
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sónica FM 92.9
+http://server.laradio.online:8248/live?1571817305362
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Vida 95.7
+https://stream.fmvida.xyz/fmvida
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cool FM 96.1
+https://player.livecastradio.com/proxy/7034/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 105.7
+http://streaming3.locucionar.com:17926/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Libertad 90.5
+http://pad20.com:8020/vivo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fresh Radio FM 101.5
+http://server.laradio.online:9122/radioaac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Lago FM 105.5
+https://cdn.instream.audio/:9180/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Esquel FM 88.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad36
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Boreal
+https://ssl.radiosnethosting.com/index.php?port=9758
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Los Pibes del Barrio Live Radio
+https://stream.zeno.fm/h5d0bd4w1f8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Famaillá FM 105.7
+https://streaming.tucumanradio.com/radio/8250/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Nueva del Litoral FM 96.9
+http://radio.neonetdigital.com:8152/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Universo FM 102.1
+https://stream.zeno.fm/19p7cs8h3v8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Venecia FM 93.3
+https://sonic.dattalive.com/8194/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación Sur FM 97.7
+http://63.247.65.202:8478/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mestiza Radio
+https://streaming.radiosenlinea.com.ar:10436/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio G
+https://streaming.radiosenlinea.com.ar:10795/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ciudad Ameghino 93.3
+https://streaming.radiosenlinea.com.ar:10949/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aura Radio
+https://cp9.serverse.com/proxy/auraradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Espacios 95.7
+http://www.genexservicios.com:8182/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Formosa AM 990
+http://cdn.instream.audio:9145/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRA 8 Radio Nacional Formosa AM 820
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad8
+#EXTINF:-1 tvg-logo="" group-title="Argentina", New FM 89.7
+https://streaming1.locucionar.com/proxy/radionewfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno FM 106.1
+http://63.247.65.202:8782/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Spacio FM 98.1
+http://streaming01.shockmedia.com.ar:9358/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Recuerdos FM 97.1
+http://servidor.i-live.com.ar:9710/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nova 92.3
+https://streaming.escuchanosonline.com:7099/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Diez FM 93.9
+http://audio.questreaming.com:25111/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estaciónline FM 91.5
+https://clientes.locucionar.com/player/ssl_convert.php?p=9479&c=2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Uno FM 94.7
+http://63.247.65.202:8244/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vanguardia FM
+https://streaming.evolucionstreaming.com/8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación del centro FM 95.7
+http://stream01.insidetec.com:9040/fm957
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Universo
+http://45.178.84.150:8000/universo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Cooperativa
+https://stream.larutaproducciones.com.ar/8002
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Always (92.7 mhz)
+http://cdn.instream.audio:8185/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM VIP
+http://stream2.servercristiano.com:8226/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Voz de la Amistad FM 107.1
+http://vps-d8b84a62.vps.ovh.ca:8098/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRT809 Elite FM 101.5
+https://01.solumedia.com.ar:8548/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Exitos 96.9
+http://alpha.radioplayer.com.ar:9208/fmexitos969
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Activa FM 94.3
+http://server1.veemesoft.com.ar:9512/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Ser Argentina
+https://server.laradio.online:58381/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Eclipse 99.7
+http://01.solumedia.com.ar:8328/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Infinity Radio
+http://63.247.91.178:14237/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Open Radio FM 99.3
+http://63.247.91.178:14551/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Beat Radio 91.9
+http://server.ohradio.com.ar:9838/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", InfoPico Radio 99.9
+https://streaming3.locucionar.com/proxy/infopico999?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio37 AM 980
+http://186.56.20.107:8080/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Antena Libre FM 89.1
+https://cdn.instream.audio/:9140/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Kaos 99.7
+http://streaming2.locucionar.com:8407/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Super Radio FM 96.3
+https://radio13.servidorderadio.net/8314/steam
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU18 AM640 Radio El Valle
+http://streamingraddios.online:7997/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Deja Vu FM 96.9
+https://server4.hostradios.com:7227/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Municipal
+http://s1.radiosnethosting.com:9906/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Actualidad FM 93.7
+https://server4.hostradios.com:7200/;.aac/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Gigowatt Rock Radio
+http://server.laradio.online:25345/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Mix FM 104.1
+https://sc.dattalive.com:10667/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 26 de Julio AM 1580
+https://server4.hostradios.com:7062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cuyum
+http://comecuco.org:8000/Cuyum
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Bitacora FM 98.9
+https://streaming.radiosenlinea.com.ar/8726/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Del Guaran FM 98.5
+http://streaming2.locucionar.com:8085/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM City 103.5
+http://s1.radiosnethosting.com:9796/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Fortuna FM 102.5
+http://stm5.xcast.com.br:8632/;?1570520757272
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Grand Bour City
+https://stream.zeno.fm/ve9145zz4mzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hechos de Tango Radio Online
+https://argentina.republicahosting.com:1376/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Maxima 94.5
+http://server.laradio.online:8797/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RN Gualeguaychú AM 1310
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad31
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cielo 93.1
+http://63.247.91.178:13158/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sonidos 100.7
+https://ssl.radiosnethosting.com/index.php?port=9844
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Tempo Mendoza
+https://stream.zeno.fm/bx6rzshqb2zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Siglo 21 Digital FM
+http://198.50.206.239:8070/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Amanecer 92.5
+http://63.247.65.202:8209/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Reina 92.1
+http://162.254.144.196:16083/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sora 101.3
+http://162.254.144.196:16087/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Panamericana FM 99.3
+http://orelha.radiolivre.org:8000/viajederadio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radar 105.3
+http://server1.veemesoft.com.ar:6248/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio de Mi País
+https://sonic.dattalive.com:10753/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Clasic FM 98.1
+http://streaming2.locucionar.com:8336/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional FM 93.5
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad54
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno Jacobacci
+http://184.107.35.153:8642/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa
+http://streaming01.shockmedia.com.ar:9332/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiofiel FM 106.5
+https://server4.hostradios.com:7072/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nova 91.9 Retroclasic Radio
+http://62.210.129.76:9314/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Oriente 92.3
+https://stream.zeno.fm/0qpr74ttus8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio Publica del Oeste FM 89.3
+https://01.solumedia.com.ar:10085/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa FM 96.5
+https://server4.hostradios.com:7089/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Voz 98.5
+https://serverssl.deradios.stream/8084/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pontiac Rock Radio 103.5
+http://01.solumedia.com.ar:8460/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Good Radio
+http://63.247.65.202:8140/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio InterCom FM 90.1
+http://netradiofm.com:9010/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Tierra Campesina FM 89.1
+http://comecuco.org:8000/TierraCampesina
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tinkunaco
+http://stream.codigosur.org:8000/fm-tinkunaco.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RM San Martín FM 88.3
+https://streaming01.shockmedia.com.ar:10660/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Reconquista 89.5
+http://aler.org:8000/radiofmreconquista.ogg
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Clubber FM 97.7
+https://server.ohradio.com.ar/9960/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM MÁS 106.3
+http://63.247.91.178:12330/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Galáctica FM Junín
+http://148.72.155.21:8038/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Junin.net FM 96.9
+https://streaming.radiosenlinea.com.ar:10955/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Popular Latina Junín
+http://148.72.155.21:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cordillerana 99.5
+http://miradioenlaweb.com:11298/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Riachuelo 100.9
+http://aliasdns.info:8898/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Estrella
+http://179.43.114.70:9974/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Mas La Carlota
+http://63.247.65.202:8447/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Éxito
+https://ssl.radiosnethosting.com/index.php?port=9748/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Suena Radio FM 92.5
+http://142.44.247.70:8158/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estacion X FM 107.5
+https://ssl.radiosnethosting.com/index.php?port=9050
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Falda FM 95.5
+http://148.72.155.21:9146/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Océano FM 102.7
+https://cdn.instream.audio/:9062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nuestra 95.1
+http://audiohd.sonidosenlared.com:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mix FM 96.7
+https://audiohd.sonidosenlared.com/proxy/radiomix967?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Classique
+http://01.solumedia.com.ar:8562/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Éxito FM 99.1
+http://radio.solumedia.com.ar:8178/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Alta Voz 94.1
+http://server.laradio.online:8143/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Auténtica 88.1
+https://stream.zeno.fm/fmdxk55qgtzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Redonda
+http://radio.solumedia.com.ar:8290/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Gravity Radio
+https://streaming01.shockmedia.com.ar:10513/player
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Keops FM 90.1
+http://streaming2.locucionar.com:8128/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Cielo 103.5
+https://radios.streamingdha.com.ar:7006/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Plata 96.5 FM
+https://radio.datalivehd.com:7102/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La96 FM 96.7
+http://01.solumedia.com.ar:8780/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Net80radio.com
+http://streaming.escuchanosonline.com:8274/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Nuevos Aires FM 99.7
+https://streamingv2.shoutcast.com/NuevosAiresFM997
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Oasis 95.5
+http://streaming3.locucionar.com:18448/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Organica FM
+https://radios.solumedia.com/6170/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunitaria Sin Fronteras
+http://162.254.144.196:18640/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Estación Sur
+http://144.91.98.151:8066//stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Hache online
+https://radio.plandos.com/8052/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Plata 90.9
+http://alpha.radioplayer.com.ar:9104/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mix 102.7
+http://streaming.radiolinksmedia.com:9372/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nauta FM 106.3
+https://stream.codigosur.org/radionauta.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Olazabal
+http://server.gostreaming.com.ar:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Perio 23
+http://miradioenlaweb.com:4188/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Revolución 98.9
+http://streaming01.shockmedia.com.ar:9878/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Zeta Web
+http://server.ohradio.com.ar:9650/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RadioPhonic
+http://radiophonic.com.ar:8000/radiophonic.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Red 92
+https://s5.voscast.com:9247/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Unica FM 87.9
+http://01.solumedia.com.ar:8478/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Universidad 107.5
+http://163.10.186.70:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Urbana Radio La Plata
+https://streaming01.shockmedia.com.ar:10930/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", WebdeRock Radio
+http://miradioenlaweb.com/4900/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pueblo Estación FM 88.3
+https://servidor2.hostradios.com/proxy/sc_puert?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Paloma FM 97.1
+http://streaming01.shockmedia.com.ar:9784/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Red FM 88.1
+http://162.254.144.196:16147/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mk2 Radio Online
+http://streaming01.shockmedia.com.ar:8704/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pachanga FM 99.9
+http://streaming01.shockmedia.com.ar:9782/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pura FM
+http://148.72.155.21:8472/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 24 100.5
+http://streaming01.shockmedia.com.ar:9842/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fenix 95.1
+https://server4.hostradios.com:7028/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Latina FM 97.5
+https://streaming.escuchanosonline.com:7174/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Libertad FM 95.5
+http://streaming01.shockmedia.com.ar:9938/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sónica FM 106.3
+http://148.72.155.21:8480/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Plenitud 105.9 FM
+http://radio.radioplenitud.org:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Dark Radio Brazil
+https://servidor32-4.brlogic.com:8130/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio del Lefèbvre FM 89.5
+http://fm895.ddns.net:9000/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play FM 102.9 LRT 833
+https://streaming.escuchanosonline.com/8324/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM de los Cerros
+http://63.247.65.202:8055/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Bosque FM 104.1
+https://cdn.instream.audio/:9087/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La90LagoPuelo
+http://streaming2.locucionar.com:8055/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 92.siet
+https://server.laradio.online:58709/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Condor 104.1
+http://162.254.144.196:16318/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Espacio
+http://servidor.i-live.com.ar:8654/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rincón Gaucho
+https://dj91.hostingnuclear.com:7048/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Zeon Radio
+https://tolkien.republicahosting.net:1696/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Alpha 91.5
+http://01.solumedia.com.ar:8984/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Racsol Radio FM 94.1
+http://63.247.65.202:10008/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Desert Tracks Radio FM 98.7
+http://63.247.91.178:14747/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Antena Uno Radio FM 100.1
+https://streaming.escuchanosonline.com/8268/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RN Las Lomitas AM1270
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad20
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Frontera 93.9
+http://fronterastream.ddns.net/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRM436 Vida FM 101.7
+https://radio.serviciosinformaticoslt.com:10443/radio/8000/AAC64
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Urbana 91.3 LRT 760
+http://audio.questreaming.com:20088/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cadena Eco
+https://stream.zeno.fm/svszp3e072quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pasion AM 540
+http://disbaires.com.ar:9045/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Planele
+https://01.solumedia.com.ar:7008/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Urbe
+http://63.247.65.202:9533/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Vintage
+https://stream.zeno.fm/znq3wpzw34zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM ComunicArte 99.1
+https://sonic.dattalive.com/8438/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Joven FM 101.7
+https://streaming.evolucionstreaming.com:10866/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Los Polvorines City
+https://stream.zeno.fm/sw7utaubbnzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 89.7 IFDC Luis Beltrán
+http://138.219.215.253:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Asteroides 93.9
+http://01.solumedia.com.ar:7223/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Bien Argentina 96.9
+http://miradioenlaweb.com:4036/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La NB Radio 107.5
+http://63.247.91.178:13605/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Golden 100.5
+http://63.247.65.202:8207/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Condado 96.9
+https://radiopanel.com.ar/radio/8150/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Libre 93.7
+http://162.254.144.196/proxy/fmlibre937?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sol Online
+http://stm9.xcast.com.br:10852/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RadioMZ
+https://stream.zeno.fm/cfy1hukdgv8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ella 97.5
+https://tupanel.info:7228/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LV 19 Radio Malagüe
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad47
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Estudio FM 102.9
+https://streaming01.shockmedia.com.ar:10531/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Manantial FM 99.3
+http://alpha.radioplayer.com.ar:9210/manantial993
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Sol FM 106.5 Mhz
+http://stm22.veemesoft.com.ar:11834/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Acqua Pop Life
+http://streamall.alsolnet.com:443/acquamdq
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Amor 105.9
+http://streamall.alsolnet.com:443/amorenelaire
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Clásica Mar del Plata 90.9
+http://server.ohradio.com.ar:9600/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", dB Radio FM 101.7
+https://01.solumedia.com.ar:8476/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación Vinilo 89.1 Mhz
+http://173.255.205.241:1127/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", F.M. 99.9
+http://fm999.info:8000/radio.ogg
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 95.3 MDP Radio
+http://sonic.dattalive.com:8260/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La 97
+https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Universo 103.3
+https://servidor1.hostradios.com:8112/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Vivo 95.9
+http://alpha.radioplayer.com.ar:9332/radiovivo995
+#EXTINF:-1 tvg-logo="" group-title="Argentina", GDS Radio Mundial
+https://stream.zeno.fm/42wvhy15rmzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU6 Radio Atlántica
+http://173.255.205.241:9090/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU9 Radio AM 670
+https://servidor1.hostradios.com:8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Music Bazaar
+https://streaming01.shockmedia.com.ar:10580/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Planet Music FM 101.1
+https://streamall.alsolnet.com/planetmdq
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Bosque
+http://streaming01.shockmedia.com.ar:8738/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Brisas
+http://181.41.240.16:8030/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio KLA FM 91.7
+http://streamconex.com:8104/stream?type=http&nocache=16
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Residencias FM 96.5
+http://01.solumedia.com.ar:8592/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Saint Germain
+http://173.255.205.241:8200/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Random Music Radio
+https://stream.zeno.fm/g36m9x0h0wzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rock&Pop Mar del Plata 89.7
+http://s12.myradiostream.com:9846/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tano Bertolini
+http://streaming.escuchanosonline.com:8008/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Mejor
+https://stream.zeno.fm/ft9y65nseg0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Centenario 89.5 FM
+http://radios.agusticomunicacion.com:3000/centenario.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio María Juana FM 101.9
+http://63.247.65.202:8299/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Coctelera Radio
+http://server.ohradio.com.ar:9706/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Horizonte Radio FM 95.3
+https://streaming01.shockmedia.com.ar/8440/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Lado Rec
+https://streaming.evolucionstreaming.com/8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Villarino 100.9
+http://icecast.hostingbahia.com.ar:8050/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM San Antonio FM 92.9
+http://96.30.21.125:9978/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aurora 91.3 Argentina
+http://servidor2.serviciostreaming.com:9512/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cordillera FM 103.7
+http://server1.veemesoft.com.ar:9346/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación del Sol 100.9
+http://audio.bustream.com:8051/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ayer
+http://190.113.164.52:8080/ayer
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Brava 94.9
+http://190.113.164.52:8080/brava
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Una
+http://190.113.164.52:8080/una
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fuego Gitano Radio
+http://63.247.91.178:13190/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", GlobalRadio Mendoza
+http://miradioenlaweb.com:6020/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Coope
+http://audio.bustream.com:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Rocka 80
+https://radiopanel.com.ar/radio/8010/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Rocka 90
+https://radiopanel.com.ar/radio/8020/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Rocka XXI
+https://radiopanel.com.ar/radio/8030/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LV6 Radio Nihuil AM 680
+http://190.113.164.52:8080/NihuilAMUSP
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LVDiez
+http://audio.bustream.com:8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metro 95.5 Mendoza
+http://104.131.4.100:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metropolitana 95.3
+http://stm3.bahiahosting.com:10318/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Montecristo FM 93.7
+http://190.113.164.52:8080/montecristo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Olivos FM 99.9
+https://01.solumedia.com.ar:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", R.e.p.i Um
+http://argentina.republicahosting.com:8241/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Andina FM 90.1
+http://62.210.129.76:9670/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Legislatura
+http://audio.bustream.com:8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Murialdo
+http://stm11.xcast.com.br:8858/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Libertador AM 780
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad48
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Mendoza FM 97.1
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad6
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Play FM 88.9
+http://63.247.65.202:9235/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio U
+http://fm.uncu.edu.ar:8000/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad Nacional de Cuyo FM 96.5
+http://radio.uncu.edu.ar:8000/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio UTN FM 94.5
+http://streaming.fmutn.com.ar:8000/FMUTN
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Zero 91.1
+http://online.radiozero.fm:8020/mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Red 101
+https://ssl.srvif.com:7190/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sintonia Cero
+https://streamcasthd.com:8174/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sontrip
+http://audio.bustream.com:8005/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Estación 21
+http://63.247.91.178:13869/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Alternativa 99.3
+http://01.solumedia.com.ar:8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiecita
+https://sonic.dattalive.com/8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Tinku FM 107.9
+https://server.radiostreaming.com.ar/8168/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Activamiramar
+https://tolkien.republicahosting.net:1164/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 102.5 Miramar
+http://109.169.76.104:36962/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Master 105.3
+http://01.solumedia.com.ar:8776/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mágica Miramar FM 98.7
+http://fmmagica.zapto.org:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Zona 89.3
+http://142.44.135.172:8008/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Blogfm
+http://78.129.139.48:8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ruta FM 103.9
+http://server12.veemesoft.com.ar:9364/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radioactiva Argentina
+http://01.solumedia.com.ar:8534/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sonido Sur
+https://server.laradio.online:58221/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ciudad UNM Radio
+http://69.64.46.123:9014/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", DS Radio Horizonte 94.5
+https://streaming.radiosenlinea.com.ar/9058/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Retro Hits 105.7
+https://streaming.escuchanosonline.com:7000/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Revolution
+https://server.ohradio.com.ar:7068/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Publica de Moreno
+https://stream.zeno.fm/qvgkxw3h65quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Bender FM
+http://142.44.135.172:8158/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ekis Rock!
+https://stream.zeno.fm/7hcxqau1w7zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Oeste 106.9
+https://streaming3.locucionar.com/proxy/fmoeste1069?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Zeta Radio
+https://server.ohradio.com.ar:7211/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiobiblica.org
+http://radiobiblica.org:10080/;.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Morrison 104.3
+https://streaming.radiosenlinea.com.ar/8284/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1530 Centro Morteros
+http://streaming.dinesat.com:7237/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NVR FM 90.5
+https://server.radiostreaming.com.ar/8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cooperativa 105.1
+https://centova.psigroup.com.ar:17002/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Costa FM 97.9
+https://radios.solumedia.com:10983/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Time Radio FM 101.5
+https://01.solumedia.com.ar:10093/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM Cumbre 1400
+https://server.laradio.online/proxy/amcumbre1400?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM550 La Primera
+https://sonic.dattalive.com:10851/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CBN Neuquén
+http://stm11.patagoniaplay.app:9140/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Descubrí tu destino
+https://streamconex.com:2000/stream/descubritudestinocom
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cadena Uno 94.3
+https://server.laradio.online/proxy/joel_casteglione?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La 105 FM Libertad
+http://190.2.45.2:4994/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Radio de Fito FM 90.5
+https://server.laradio.online/proxy/dario_salazar?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Roca FM 99.9
+https://radioserver.lagranjadigital.com/radio/8010/laroca
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La23Radio
+http://198.50.225.239:8033/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Laser FM 107.9
+https://alpha.radioplayer.com.ar:9340/laserfm1079
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU5AM600
+http://live.lu5am.com:8000/LU5
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Platinum 97.7
+http://63.247.65.202:8106/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pluz
+https://www.pluz.com.ar/live.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radioymate
+http://audio.questreaming.com:20086/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", The Voice Radio FM 101.5
+http://streamingargentino4.com.ar:7350/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Uncocalf FM 103.7
+https://cdn.instream.audio/:9032/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena del Sur FM 103.1
+http://server2.veemesoft.com.ar:9940/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Zurich 91.1
+https://sonic.dattalive.com:10947/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Voz de Nogoyá
+https://streaming3.locucionar.com/proxy/lavozdenogoya?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sol FM 99.9
+http://01.solumedia.com.ar:8712/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fiesta FM 88.5
+http://streamcordoba.sytes.net:31285/fiestafm
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Alcazar FM
+http://184.154.45.106:8052/stream?1567063551314
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM El Aire De Integración 101.1
+http://184.154.45.106:8058/stream?1566893350703
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Neo FM 95.3
+http://stream.valenzuelasistemas.com:8000/neofm
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Oxígeno
+http://200.110.145.2:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Sónica 101.5
+http://198.204.234.10:15126/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRH 713 La Radio 89.9
+https://sc.dattalive.com/8666/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRH 714 Music 91.5
+https://sc.dattalive.com/8766/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio City FM 101.9
+http://184.154.45.106:8408/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Underground FM 96.5
+http://63.247.91.178:13525/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 89.3 Radio Obispo Trejo
+http://138.59.247.198:8200/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tiempo
+http://st.produccionesdha.com:9532/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU32-Radio AM 1160
+http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Olavarria FM 99.9
+http://streamall.alsolnet.com:443/la99olavarria
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Tiempo Online
+http://162.254.144.196:18076/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", IRE 106.1
+http://server.laradio.online:8757/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Roja 195.7
+http://63.247.91.178:13286/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tanguera Radio
+http://cdn.instream.audio:9093/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Guemes 106.3 FM
+http://190.61.250.140:8022/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Al Tope Radio
+http://server.laradio.online:8457/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ciudad 99.5
+http://server.laradio.online:8256/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Corazón 104.1
+http://miradioenlaweb.com:4660/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Lt14 Paraná Entre Rios
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad44
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metrópolis FM 88.3
+http://01.solumedia.com.ar:8392/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Power Paraná 93.9 FM
+https://player.xcast.com.br/proxy/7232
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunitaria Barriletes 89.3
+http://radiobarriletes.sytes.net:8000/barriletes
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Uner FM 100.3
+http://streaming.uner.edu.ar/parana
+#EXTINF:-1 tvg-logo="" group-title="Argentina", radioIN
+http://63.247.91.178:13066/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vale FM 106.1
+http://alpha.radioplayer.com.ar:9222/valefm1061
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Sol 100.5
+http://63.247.65.202:8089/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Magica
+http://01.solumedia.com.ar:8564/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RE 97½
+http://63.247.91.178:14527/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", City FM 102.3
+https://miestacion.turadioonline.com.ar:7057/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Flash FM 99.9
+http://s1.radiosnethosting.com:9858/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nueva Latina
+http://streaming01.shockmedia.com.ar:8598/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Posta de Pergamino FM 101.7
+http://streaming01.serverconnectinc.site:8439/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Educativa
+http://streaming01.serverconnectinc.site:8108/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mon AM 1540
+http://streaming2.locucionar.com:8219/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Retro FM 97.9
+http://s1.radiosnethosting.com:9804/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Show Radio 101.1
+https://serverssl.deradios.stream/8104/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Musica Del Mundo
+https://streaming01.shockmedia.com.ar/9472/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Activa 94.3
+http://server1.veemesoft.com.ar:9626/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM de la Ciudad 92.1
+https://stream01.server-inside.com.ar:9658/ciudadpigue
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Sol
+http://01.solumedia.com.ar:8162/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Más FM 100.7
+http://01.solumedia.com.ar:8496/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", e2 FM 105.9
+http://streamall.alsolnet.com:443/fmestudiohd
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Musica del Arcon
+https://radio.netyco.com:18848/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio del Sol FM 91.5
+https://alpha.radioplayer.com.ar:9320/delsol915
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Infinito FM 100.9
+https://miestacion.turadioonline.com.ar:7031/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Acqua 96.5
+https://streamall.alsolnet.com:443/acquapinamar
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Planet Music 99.5
+http://streamall.alsolnet.com:443/planetpinamar
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Foret Estación Web
+https://alpha.radioplayer.com.ar:9248/laforet
+#EXTINF:-1 tvg-logo="" group-title="Argentina", M90 Premium
+http://23.111.184.195:8210/m90premium.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", P24 FM 102.3
+http://intelintec.com.ar:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Top 99.9
+http://streaming2.locucionar.com:8079/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 89.3 FM de las Misiones
+http://servidor.i-live.com.ar:9682/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Antena Misiones 923
+http://radio.solumedia.com.ar:8812/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Antena Uno
+http://radio.solumedia.com.ar:8812/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Express FM
+http://streamall.alsolnet.com:443/cadenaexpress
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Classic FM 91.3
+https://radiohd.net/7028/stream;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 98.1 El Show de los impactos
+http://69.175.88.11:8164/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Street
+https://cdn2.instream.audio/:8008/stream?_=16b4afae46b
+#EXTINF:-1 tvg-logo="" group-title="Argentina", O.F. Music FM 102.9
+https://radiohd.net/8044/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play FM 103.3
+http://cdn.instream.audio:9170/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Libertad
+http://streamall.alsolnet.com:443/fmradiol
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Luna Sol
+https://stream.zeno.fm/y4fg6cdf2qzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nativa FM 93.7
+https://sonic.dattalive.com:10988/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio República FM 99.9
+http://streamlky.alsolnet.com:443/republica99?type=.flv&var=1571038438974R61
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Stereo
+https://kappa.radioplayer.com.ar:9144/1035
+#EXTINF:-1 tvg-logo="" group-title="Argentina", UGD Radio
+http://51.161.119.117:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Leñera
+http://comecuco.org:8000/LaLenera
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Vision Saenz Peña
+https://s30.myradiostream.com/28858/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Lago - 99.9
+http://63.247.65.202:8061/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Esperanza FM 90.1
+http://miradioenlaweb.com:2540/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio FM Desire 101.7
+http://144.217.30.219:8031/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Discovery FM 101.1
+https://server.radiostreaming.com.ar:7007/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ángel FM 94.3
+https://server.laradio.online/proxy/fmangel?mp=/stream&1587475098667
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LR Noticias FM 93.5
+http://01.solumedia.com.ar:8494/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Yguazú 99.9
+https://radioiguazu.com/streaming/radioyguazu_web
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RadioSol FM 92.1
+http://162.254.144.196:17422/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Viento FM 97.7
+http://cdn.instream.audio:9125/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estacion 21 digital
+http://streaming01.shockmedia.com.ar:8378/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Records 89.1
+https://cdn.instream.audio/:9195/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Mejor FM 98.3
+http://cdn.instream.audio:9116/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ballenas
+http://streaming3.locucionar.com:18856/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Golfo Nuevo AM 540
+http://138.36.96.199:8001/lu17
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Bocha FM 99.9
+http://01.solumedia.com.ar:9024/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Valdés
+http://01.solumedia.com.ar:7948/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Municipal 92.9
+http://radios.tecnosoul.com.ar/fmmunicipal.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRH 966
+http://radios.tecnosoul.com.ar:8000/radio1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Retro
+http://radios.tecnosoul.com.ar/laretro.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 98 Cinco Radio
+https://ssl.xcast.com.br:12716/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", De La Costa Radio FM 103.3
+http://01.solumedia.com.ar:8176/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Mar 100.1
+http://stm4.bahiahosting.com:10196/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mega FM 97.5
+http://mega975.online:80/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rosales FM 88.1
+https://ssl.xcast.com.br:10956/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Punta del Indio
+http://streaming.conexionproductora.com.ar:9650/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1450 radio del sol
+http://streaming.radiolinksmedia.com:8034/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Bosque Radio
+https://streaming01.shockmedia.com.ar:10598/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Quilmes Web Radio
+https://server.ohradio.com.ar/8150/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio FAN FM 103.9
+http://184.107.35.153:9216/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio FMQ
+http://streamlky.alsolnet.com:443/radiofmq
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Serena FM 103.5
+http://server.ohradio.com.ar:9998/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Vox FM 102.9
+https://streaming01.shockmedia.com.ar:10636/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", wen 93.7
+http://streaming01.shockmedia.com.ar:9164/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sova FM
+http://server.laradio.online:9173/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Conquista del Pan
+https://servidor1.hostradios.com:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", ADN FM 97.9
+http://streams.sistemasnimbus.com:12002/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sonora 105.1
+http://s9.viastreaming.net:9680/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cell FM 105.7
+http://radiosar.com:9380/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Galena FM 94.5
+http://45.56.78.143:8820/vivo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rafaela FM 96.5
+http://server.laradio.online:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sol FM 90.9
+http://pad20.com:8085/vivo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Universidad FM 97.3
+https://server4.hostradios.com/8372/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vector FM 98.7
+https://server4.hostradios.com/8344/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Acero FM 104.1
+https://ssl.radiosnethosting.com/index.php?port=9886
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Imaginaria FM 95.3
+http://streaming2.locucionar.com:8023/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Reyes de la Púa radio online
+http://142.44.135.172:8359/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tropical 106.3 Mhz
+http://server.laradio.online:25060/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Premium FM 105.9
+http://162.254.144.196:17380/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nativa 96.9
+https://sonic.dattalive.com:10951/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Amanecer FM 92.7
+http://63.247.65.202:8756/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 95.9 Radio Facundo Quiroga
+http://200.58.106.247:8018/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Gobernación
+http://209.133.213.92:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Natagala FM 94.7
+http://radio02.ferozo.com:8704/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nordeste FM 102.7
+http://turadioenvivo.com:11027/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Top Resistencia 103.7 MHz
+http://radio.neonetdigital.com:8028/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rck FM 107.3
+http://cdn.instream.audio:8137/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sintonia de Amistad FM 105.3
+http://radio02.ferozo.com:8010/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Golden FM 107.7
+http://cdn.instream.audio:9237/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Zero FM 95.5
+http://63.247.91.178:13446/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LV16 Radio AM 1010
+https://vps-d8b84a62.vps.ovh.ca:10928/;/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Brava FM 94.3
+http://server.laradio.online:8948/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", radiomuuuyrana
+http://radiomuuuyrana.stream.laut.fm/radiomuuuyrana
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Alquimia Rock FM 106.7 Mhz
+http://streaming01.shockmedia.com.ar:8952/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Educativa 92.3
+http://51.161.93.181:8390/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Glaciar 105.7
+https://sonic.dattalive.com/8124/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Popular Comunitaria FM 105.5
+http://streaming01.shockmedia.com.ar:9924/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Bangkok FM 103.5
+http://63.247.65.202:8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Wave
+http://162.254.144.196:18238/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 100.3 La Isla
+http://63.247.65.202:8454/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 96.3 Aire Libre
+http://streamingraddios.net:9277/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metro FM 98.7
+http://107.170.2.225:8040/metro
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fuego FM 90.1
+https://radio11.argentinaservers.online/8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fueguina FM 96.9
+http://streamall.alsolnet.com:443/radiofueguina
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Argentina
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad58
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Libertad 95.7
+http://201.220.156.154:8104/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Power Argentina
+http://streaming01.shockmedia.com.ar:8336/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Amadeus FM 91.9
+http://01.solumedia.com.ar:8756/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", mzafm 94.5
+https://radio13.servidorderadio.net/8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Que Viva La Radio
+http://server4.hostradios.com/8408/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Cumbre FM 99.7
+http://62.210.129.76:9640/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play 94.3
+https://stream.milmegas.com/play943.aacp
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Roldán FM 92
+http://server.laradio.online:8704/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Abril FM 91.5
+http://server.laradio.online:9181/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM Libertad 1090
+http://streaming2.locucionar.com:8669/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Beat Digital
+http://192.99.38.174:9510/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CNN Rosario 89.5
+http://23.111.184.195:8140/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Comunidad Fan
+http://server.laradio.online:8377/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Rosario FM 103.9
+http://162.254.144.196:17902/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Del Siglo FM 99.5
+http://stream.lt8.com.ar:8080/delsiglo995.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fahrenheit FM 88.7
+http://streaming.redboing.com/radio/8010/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM AZ 92.7
+http://63.247.91.178:12140/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Horizonte 91.7
+http://63.247.91.178:12534/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tango 98.7
+http://server.laradio.online:8254/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Vida 97.9
+https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Glaciar Argentino FM 96.7
+http://server.laradio.online:8942/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hot FM 102.5
+http://streaming2.locucionar.com:9965/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Kiss FM 95.1
+https://sonic.dattalive.com:10929/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Boing FM 97.3
+http://streaming.redboing.com/radio/8000/radio.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Ocho AM 830
+http://stream.lt8.com.ar:8080/lt8radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Red Rosario FM 98.3
+http://stream.lt8.com.ar:8080/laredrosario.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRA 5 AM 1300
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT3 AM 680
+http://stream.lt3.com.ar:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", M90 89.9
+http://23.111.184.195:8030/m90.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", M90 Vintage
+http://23.111.184.195:8020/mileniumrosario.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Meridiano FM 107.1
+http://23.111.184.195:8050/fmmeridiano.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metropolitana FM 103.7
+https://https.nvradios.com/radio/9432/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play Sonico
+https://stream.zeno.fm/kyhtenrad54tv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Plus 93.1
+http://fmplus.radio.rosario3.com:8006/fmplus
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 2 AM 1230
+http://radio2.radio.rosario3.com:8000/prueba2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa Rosario
+https://cdn.instream.audio/:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio BT FM 90.9
+http://streaming2.locucionar.com:8153/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Caricias Al Corazon
+http://63.247.65.202:10012/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cristiana FM 95.7
+http://www.genexservicios.com:8098/;?1564988902655
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio El Arca
+http://server.laradio.online:8474/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fisherton Plaza
+http://51.79.99.194:7017/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Infinity
+https://sonic.dattalive.com/8192/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pan de Vida FM 102.9
+http://63.247.91.178:13905/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pop 96.1
+https://01.solumedia.com.ar:8390/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rosario Pop Latino
+https://stream.zeno.fm/ueeyz5ctnwzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Soy Lola
+https://01.solumedia.com.ar:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Trip
+http://streaming2.locucionar.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad UNR 103.3
+https://cdn.instream.audio/:9202/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno Online
+http://63.247.91.178:12166/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radiofónica FM 100.7
+http://200.58.106.247:8628/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rivadavia Rosario 106.3 FM
+http://200.58.106.247:9162/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rosario Clásica FM 90.7
+http://63.247.91.178:12786/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Santafesina
+http://streaming2.locucionar.com:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sí 98.9
+http://server.laradio.online:8202/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", soundboxradio
+http://server.laradio.online:8102/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Super FM 107.5
+http://23.111.184.195:8000/delplatarosario.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Uruguay FM 87.9
+http://argentina.republicahosting.com:8081/live/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Winner Rosario FM 101.1
+http://78.46.120.147:5292/stream;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Lider FM 96.7
+https://stream.zeno.fm/x9paefw9ghruv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Técnica
+https://streaming.evolucionstreaming.com:10912/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Rufino 106.3
+http://streamingraddios.net:9263/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Universal 98.9
+http://server4.hostradios.com:9680/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sol FM 89.5
+https://stream.zeno.fm/8p34874wc5zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno FM 88.5
+http://195.154.167.62:7292/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 102.5 La Cueva FM
+http://turadioenvivo.com:8520/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Arcadia Radio FM 94.1
+http://centova1.veemesoft.com.ar:8063/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Saladillo 90.7
+http://miradioenlaweb.com:8688/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La 106
+https://streamconex.com:8118/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio de Clasicos Saladillo 106.9 FM
+http://streamconex.com:8048/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Orion 89.1
+https://alpha.radioplayer.com.ar:9166/fmorion891
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 33 45 Radio
+http://streaming.aacplusargentina.com:10026/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cielo FM 92.1
+https://streaming.radiosenlinea.com.ar:10882/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Noticias 88.1 Mhz
+http://s2.netradiofm.com:8062/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Glam FM 96.3
+http://streaming2.locucionar.com:8499/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Cacharpaya
+http://streaming01.shockmedia.com.ar:9360/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Estación FM 107.9
+http://radio.solumedia.com.ar:8462/stream%20Title1=?1567587151078
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Level Rock FM
+http://63.247.65.202:8622/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio FM Cumbiambera
+http://63.247.91.178:12150/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Folcklorica
+http://netradiofm.com:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional AM 690
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad4
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sophia 99.5
+https://cdn.instream.audio/:9136/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Taurino Radio Web
+https://radio13.servidorderadio.net/9566/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Eter FM 98.9
+http://nvradios.com:9366/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Imagen 106.1
+http://179.43.114.70:9370/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Marítima FM 102.5
+https://player.xcast.com.br/proxy/7254
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cielo 98.5
+http://st.produccionesdha.com:9454/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sonicua.com 89.9
+https://sonic.dattalive.com:10883/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NdR Radio FM 103.9
+http://streamconex.com:8096/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Opinión FM 104.7
+http://intelintec.com.ar:8035/;?type=http&nocache=1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Xradio San Bernardo
+http://envivo.xradio.com.ar:9826/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Horizonte FM 94.1
+https://streaming01.shockmedia.com.ar:10403/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ceibo
+https://proxy.turadioinfo.com/8200
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM San Carlos 107.7
+http://radio.solumedia.com.ar:8854/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Conexion Bariloche FM 93.9
+https://streamconex.com:2000/stream/ConexioxBariloche/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Flashpoint
+http://63.247.65.202:9173/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Bariloche 89.1
+http://63.247.91.178:12324/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Barrio 98.1
+https://streaming.escuchanosonline.com:7026/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Renacer 107.7
+https://genexservicios.com:2000/stream/renacerbariloche/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Unaflor En El Desierto 97.5
+https://centova.psigroup.com.ar:17214/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Rocka 98.7
+http://cdigital.net:8026/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LIFE
+http://streaming01.shockmedia.com.ar:9224/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mega 103.7
+https://serverssl.deradios.stream/8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", OK Radio
+https://01.solumedia.com.ar:6680/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Orfeo Rock Radio 105.5 FM
+http://01.solumedia.com.ar:9130/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Puertas y Puentes FM 88.7
+https://audiohd.sonidosenlared.com/proxy/001?mp=/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio BRC FM 102.1
+https://01.solumedia.com.ar:9074/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Huemul FM 88.5
+http://01.solumedia.com.ar:8488/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio ONE FM 99.7
+https://srv591.grupomultimedios.com.ar:9902/radio/8100/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Pop 89.9
+https://srv591.grupomultimedios.com.ar:9902/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Seis Bariloche
+http://janus.shoutca.st:9149/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Vale 95.9
+https://srv591.grupomultimedios.com.ar:9902/radio/8090/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rock & Pop FM 102.7
+https://srv591.grupomultimedios.com.ar:9902/radio/8060/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", X Radio FM 101.7
+https://radios.streamingdha.com.ar:7002/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La 93 Bolivar
+http://streaming.escuchanosonline.com:8152/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 102.3 Azotea del Tuyu FM
+https://cdn.instream.audio/:9118/stream?_=16a79ba8c02
+#EXTINF:-1 tvg-logo="" group-title="Argentina", X Radio
+https://radios.streamingdha.com.ar:7001/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Restauracion FM 96.7
+http://delta.radioplayer.com.ar:9116/fmrestauracion967
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 101.7 San Eduardo del Mar
+https://argentina.republicahosting.com:1486/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 88.3 La Barca
+http://servidor2.hostradios.com:9468/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Inthemix Radio 88.1
+http://01.solumedia.com.ar:8230/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM1050 Radio San Francisco
+http://34.95.249.195:8010/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Universo 95.7
+http://34.95.249.195:8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Señal FM 97.5
+https://streaming01.shockmedia.com.ar:10751/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ciudad FM 91.3
+http://01.solumedia.com.ar:7485/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 91.3 Symphony
+http://cdn.instream.audio:8129/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Excalibur
+http://streaming2.locucionar.com:8349/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Rayo
+https://tolkien.republicahosting.net:1698/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", San Isidro Labrador FM 95.5
+http://mp3.metroaudio1.stream.avstreaming.net:7200/sil1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Unyka FM 94.5
+http://streaming.escuchanosonline.com:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ciudad 104.3
+http://radio01.ferozo.com:8122/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Melody América FM 105.3
+https://ssl.radiosnethosting.com/index.php?port=9042/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Recuerdos FM 97.9
+https://streaming.radiosenlinea.com.ar/8922/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Retro FM 106.7
+http://streaming.radiosenlinea.com.ar:8922/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Norte FM 96.5
+http://streaming01.shockmedia.com.ar:8574/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Vida San Jose
+http://servidor.ilive.com.ar:9324/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Gottau 91.1
+http://01.solumedia.com.ar:8640/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1020
+http://51.79.83.93:9998/icecast/am1020a/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Amanecer FM 102.9
+http://51.79.83.93:62398/amanecer
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Antena 1 FM 91.5
+http://s2.netradiofm.com:9008/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Armonia FM 96.7
+http://51.79.83.93:62398/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Bohemia FM 100.1
+https://streaming3.locucionar.com/proxy/bohemia1001?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Vida FM 95.3
+http://96.30.21.125:9988/;/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CNN Radio San Juan FM 94.1
+https://streaming.radiosenlinea.com.ar:10796/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Condor Andino FM 104.5 Radio Cooperativa
+http://200.58.106.247:8922/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cosmos FM 93.5
+http://server.ohradio.com.ar:9988/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cristal FM 100.3
+http://server4.hostradios.com:9648/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación Claridad FM 97.1
+http://solid9.streamupsolutions.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 107.7
+http://streaming1.locucionar.com:14835/;?
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Santa Lucía 99.7
+https://streaming.radiosenlinea.com.ar/8516/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Latina FM 91.3
+http://streaming.radiosenlinea.com.ar:8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Libre FM 92.7
+https://stream.radiosmundiales.com/8220/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Light FM 97.3
+http://96.30.21.126:9958/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LV 1 Radio Colon AM560 FM106.3
+http://96.30.21.127:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Max Radio FM 92.3
+https://streaming.radiosenlinea.com.ar/8498/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pop Latina FM 107.9
+https://01.solumedia.com.ar:8434/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Bless FM 88.3
+https://alpha.radioplayer.com.ar:9312/radiobless883
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Blu FM 99.5
+https://streaming.radiosenlinea.com.ar/8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio City FM 105.7
+https://streaming.escuchanosonline.com:7069/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Concepto
+http://62.210.129.76:9750/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio del Sur 101.1
+http://51.79.83.93:62398/1
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Digital San Juan
+http://01.solumedia.com.ar:7762/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Dynamis FM 94.5
+http://s1.radiosnethosting.com:9896/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fantastica FM 105.3
+https://stream.zeno.fm/at1q495rea0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Interlagos FM 95.5
+http://181.209.96.170:8000/stream;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Gente FM 90.9
+https://streaming3.locucionar.com/proxy/lagente909?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Parlata
+https://streaming3.locucionar.com/proxy/laparlata?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Red San Juan FM 103.5
+http://190.113.164.52:8080/lrsj
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Voz FM 100.5
+http://96.30.21.126:9980/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Madre de Dios FM 87.9
+http://01.solumedia.com.ar:8134/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Metro San Juan
+https://streaming.radiosenlinea.com.ar/8108/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional AM 910
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad23
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Sports FM 89.9
+http://server.gostreaming.com.ar:8004/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Total FM 91.1
+https://streamssl.eu:1470/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad FM 93.1
+http://streaming.radiosenlinea.com.ar:8122/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 660
+https://server.ohradio.com.ar/8162/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estilo FM 95.1
+http://streaming.escuchanosonline.com:8070/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nativa AM 930
+http://streaming.escuchanosonline.com:8312/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio República 670 AM
+http://streaming.escuchanosonline.com:8310/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sol Music FM 91.7
+http://stm6.xcast.com.br:8806/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena de Noticias FM 106.1
+http://streaming.radiolinksmedia.com:7850/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Digital San Luis
+https://streamconex.com:8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Lafinur 96.3
+https://server4.hostradios.com:7050/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Comunidad FM 96.5
+http://162.254.144.196:17830/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Heaven Online
+https://radios.streamingdha.com.ar:7005/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Popular San Luis
+http://134.209.220.139:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Somos FM 100.9
+https://stream.zeno.fm/ucar9uz5m0quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Urbana FM 107.7
+http://streaming.radiolinksmedia.com:7145/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", XLW 92.1
+http://radio.solumedia.com.ar:7009/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Latina 100.5
+http://streaming.escuchanosonline.com:8038/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio S.O.S
+https://tupanel.info:7458/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Alma FM 96.9
+https://ssl.radiosnethosting.com/index.php?port=9652
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM de la Montaña 105.1
+https://01.solumedia.com.ar:8824/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM del Lago 102.5
+http://63.247.65.202:8304/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Nova 98.9
+http://01.solumedia.com.ar:8208/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRA 53 Radio Nacional
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad53
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Fun 100.1 Mhz
+http://streaming2.locucionar.com:8183/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Wiki 88.5
+http://giss.tv:8000/radiowiki.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Galileo 90.7
+http://server.laradio.online:9042/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Maza 99.5
+http://01.solumedia.com.ar:8706/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Trujui 90.1 Mhz
+http://62.210.129.76:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Open Music
+http://streaming01.shockmedia.com.ar:9716/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Mirlo
+https://stream.zeno.fm/e6hg6b5vn7zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Raices Radio
+http://server.laradio.online:8166/diego
+#EXTINF:-1 tvg-logo="" group-title="Argentina", 107.5 FM Cadena 3
+http://c3live-sm.mediainbox.net/c3tucuman.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Dj's Club
+https://stream.zeno.fm/bk5r149tc6quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Fish FM 95.9
+http://200.58.106.247:8090/stream?type=http&nocache=583
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sensaciones 95.1
+http://streamlky.alsolnet.com/fmsensaciones
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FMi 99.1
+http://s1.radiosnethosting.com:9808/;stream/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Popweek
+https://streaming3.locucionar.com/proxy/popweek?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metropolitana 93.5
+https://sonic.dattalive.com:10743/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Metropolitana FM 100.5
+https://server7.hostradios.com/8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ciudad FM 87.9
+https://streaming.tucumanradio.com/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Compañera FM 107.1
+https://streaming.tucumanradio.com/radio/8170/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Lajeta
+http://streaming3.locucionar.com:18346/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Lv12
+http://s1.radiosnethosting.com:8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio San Nicolas AM 1430
+http://138.97.202.245:88/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Noba FM 102.9
+http://142.44.135.172:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Desvelo
+http://streaming2.locucionar.com:10502/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Net FM 95.7
+http://streaming2.locucionar.com:8556/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio U FM 89.9
+http://190.106.131.31:7900/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Country2radio
+http://s2.netradiofm.com:9018/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estación San Pedro
+http://s2.netradiofm.com:9016/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Estilo FM 93.3
+https://server.laradio.online:59248/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LV4 Radio San Rafael AM620
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad46
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Nuevo Tiempo FM 106.7
+http://sonic.dattalive.com:8188/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Walter Radio Online
+https://stream.zeno.fm/z0xgk6904neuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Star Online
+http://streaming.radiosenlinea.com.ar:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Centro 104.5
+http://01.solumedia.com.ar:7357/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La voz de VCI
+https://stream.zeno.fm/ke2bvwydmzzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio sin Antena
+https://stream.zeno.fm/qayxq0ybb9quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Trentina FM 101.1
+http://stm5.xcast.com.br:8642/;?1571987919272
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Arroba
+https://argentina.republicahosting.com:1029/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rádio CE FM 106.5
+https://mcp.turadioinfo.com/5640/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vivencias FM 103.1
+http://63.247.91.178:14299/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Colonia FM 99.1
+http://01.solumedia.com.ar:8080/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Impacto 93.9
+https://chino.republicahosting.com:2162/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aire de Santa Fe FM 91.1
+http://stm14.xcast.com.br:8248/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena 3 101.7 FM
+http://c3live-sm.mediainbox.net/c3santafe.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena OH! 87.9
+http://192.99.38.174:9422/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Activa 93.1
+http://198.50.206.239:8016/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Compacto 103.3
+http://78.46.120.147:9519/radioaac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Halley FM 99.7
+https://server7.hostradios.com/8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT 9 AM 1150
+https://streaming1.locucionar.com/proxy/lt9?mp=/stream?
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT10 Radio UNL
+https://pad20.com:8555/vivo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mega 98.3 Santa Fe
+http://s1.radiosnethosting.com:9986/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Onda Horizonte FM 94.1
+http://streamingvideo.com.ar:9816/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cadena Tropical
+http://audio.questreaming.com:25171/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio El Signo FM 106.5
+https://streaming01.shockmedia.com.ar:10605/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio EME
+http://s2.netradiofm.com:8018/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Galeno FM 100.7
+https://streamcasthd.com:8252/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Natural - 24 HORAS Radio
+http://63.247.65.202:8474/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno FM 101.3
+http://streamingvideo.com.ar:9888/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", REC Santa Fe
+http://argentina.republicahosting.com:8278/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Superhits FM 92.5
+http://63.247.91.178:12288/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Urbana Soul
+https://stream.zeno.fm/k5g87khmfhruv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vida Santa Fe FM 107.9
+http://stm6.xcast.com.br:8818/;?1567586890879
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Municipal 94.7
+http://01.solumedia.com.ar:7702/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 3 FM Santa Rosa 93.7
+http://server8.emitironline.com:18677/radio
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Horizonte FM 103
+https://stream.zeno.fm/5zb9tck42k8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Kermés Comunitaria
+http://server.laradio.online:8599/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Noticias 99.5 FM
+http://stream01.insidetec.com:9014/radionoticias
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Siento Rock FM
+http://142.44.135.172:8093/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sonar FM
+http://01.solumedia.com.ar:8574/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vorterix Santa Rosa
+http://sonic.dattalive.com:8212/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Señal FM
+http://63.247.65.202:8690/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play FM 106.1
+http://63.247.91.178:12024/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Premium FM 104.7
+http://servidor.ilive.com.ar:8546/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena Regional FM 104.9
+https://stream.radiosmundiales.com/8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Frecuencia Arena FM 98.3
+https://streaming.radiosenlinea.com.ar:10566/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Exclusiva 103.7
+https://streamingraddios.online/proxy/exclu?mp=/stream;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Centro FM 103.1
+http://51.161.119.117/8550/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Universidad FM 92.9
+https://streaming01.shockmedia.com.ar:10949/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Urbana Soul
+https://stream.zeno.fm/zvc0m64hb9quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cronos FM 107.1
+http://server4.veemesoft.com.ar:26285/;/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Max
+https://streaming.radiosenlinea.com.ar/8502/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Top FM 104.9
+http://63.247.65.202:8170/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Signo FM 96.1
+http://162.254.144.196:18514/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Serrano FM 92.1
+https://cdn.instream.audio/:9123/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Pido la Palabra
+http://streaming2.locucionar.com:8307/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Comunal Sa Pereira FM 87.9
+http://stm5.veemesoft.com.ar:15962/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Sensación FM 101.9
+https://streaming.tucumanradio.com/radio/8140/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Belgrano Suardi AM 1510
+http://pad20.com:8310/vivo
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ciudad la radio 88.9
+http://server3.veemesoft.com.ar:26583/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Nuevo Mundo FM 106.9
+http://radio02.ferozo.com:8270/stream?type=http&nocache=328
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Poder FM 102.3
+http://streaming.escuchanosonline.com:8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tabossi 107.7
+http://miradioenlaweb.com:3098/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 1180 Radio de la Sierra
+https://streamconex.com:2000/stream/AM1180/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Bien! FM
+https://stream.zeno.fm/3rqz181ysa0uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Tandil AM 1140
+https://streaming01.shockmedia.com.ar/8170/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Voz FM 106.9
+https://radiovoz.linxserver.net/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vida FM 103.5
+https://radio11.argentinaservers.online/8270/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mora FM 97.7
+http://streaming2.locucionar.com:8019/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Termas Digital 98.5 MHz
+http://stm8.bahiahosting.com:9194/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM La Costa 106.7
+https://mcp.turadioinfo.com/5858/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Infinity Radio
+http://streaming1.locucionar.com:14237/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Open 99.3 FM
+http://63.247.91.178:14551/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Potrerito
+https://stream.zeno.fm/44vwm9rgytzuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio RIN FM 98.7
+https://server7.hostradios.com/8200/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Identidad FM 102.1
+http://63.247.65.202:8137/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Acuario 102.1
+http://streaming1.locucionar.com:12668/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Animal de Radio
+http://streaming3.locucionar.com:17644/autodj
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NTV Radio FM 104.5
+http://190.13.226.153:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ciudad de Totoras FM 88.3
+http://www.genexservicios.com:8216/;?1564989814992
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Chubut FM 90.1
+http://62.210.129.76:9382/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Viento 104.9
+https://cdn.instream.audio/:9303/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Tehuelche 90.7
+https://streaming.evolucionstreaming.com:10900/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio 3 A.M. 780
+http://200.5.226.234:8011/radio3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Chubut AM 580
+http://63.247.91.178:12688/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Conexion Web
+https://streaming.radiosenlinea.com.ar:10553/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Equis 106.5
+http://63.247.91.178:13761/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Kaizen FM 103.5
+http://63.247.65.202:8512/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Voz 96.5
+http://s1.radiosnethosting.com:9824/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Genesis Radio FM 94.3
+https://serverssl.deradios.stream/8282/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU11 AM 1280
+http://stream01.insidetec.com:9140/lu11
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Hippie 97.5
+http://radiosar.com:8042/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Ilusiones
+http://streaming01.shockmedia.com.ar:9830/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Zeus
+http://179.40.41.184:8443/999.opus
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU 24 Radio Tres Arroyos
+http://streaming.shockmedia.com.ar:9832/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Onda Uno 103.9 FM Lrv 393
+http://streaming01.shockmedia.com.ar:9478/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Top 100 98.1
+http://streaming.escuchanosonline.com:8318/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Valle 99.9
+http://01.solumedia.com.ar:8764/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Trevelin 104.1
+https://01.solumedia.com.ar:8546/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Todo esta al Reves
+http://62.210.129.76:9312/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Aire Libre
+http://198.204.234.10:15084/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cristal FM 89.7
+http://streamingraddios.online:9663/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AsaltoMata Radio Rock
+https://antares.dribbcast.com/proxy/asaltomataradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Espectáculo 93.1
+https://turadio.accesopanel.com:7109/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Master's 107.3
+http://69.64.46.123:9066/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Hemisferios Radio
+https://streaming3.locucionar.com/proxy/hemisferios?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Narradores del Fogón
+https://stream.zeno.fm/3xxz2uxtx7zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Colegio Sobral
+http://giss.tv:8001/radiosobral.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Río Grande
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad24
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Ushuaia e Islas Malvinas
+http://ea.mp3.icecast.magma.edge-access.net:7200/sc_rad82
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Provincia
+http://servidor2.serviciostreaming.com:9574/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Yo Argentino Radio
+https://server6.hostradios.com/8550/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Full Victorica 99.9
+https://ssl.radiosnethosting.com/index.php?port=9334/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Pz 101.5 Mhz
+http://s1.radiosnethosting.com:9054/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Mangialsonic Radio
+http://www.mangialsonic.com.ar:8020/chm.aac
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Explosión FM 103.3
+http://radiosar.com:9484/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Dale 91.1
+http://01.solumedia.com.ar:7119/;?_=0.08321317716753107
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Nueve
+http://server2.veemesoft.com.ar:9960/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Nueve Venado FM 104.5
+http://server2.veemesoft.com.ar:9960/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT29 Radio Venado Tuerto
+http://01.solumedia.com.ar:7201/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Jota 98.3
+http://51.79.99.194:7077/live?file=live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Planetados
+http://64.31.33.226:8017/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Unidad SAI
+http://200.58.106.247:9108/%20type=audio/mpeg
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Del Sur 103.7
+http://streaming.conexionproductora.com.ar:19702/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Melodia FM 100.7
+http://miradioenlaweb.com:4000/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Tunel 57 Radio
+http://190.210.203.97:9003/tunel57
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LT 39 AM 980
+http://142.44.135.172:8375/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Victoria FM 90.3
+http://142.44.135.172:8369/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Miércoles Radio Web
+http://delta.radioplayer.com.ar:9158/infohuella
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Raices 91.7
+https://streaming01.shockmedia.com.ar:10359/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LU15 AM800 Radio Viedma
+https://kappa.radioplayer.com.ar:9138/LU15AM800
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio La Puntual FM 97.1
+http://63.247.65.202:8201/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Nacional Viedma
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad2
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Uno FM 89.7
+http://streaming01.shockmedia.com.ar:9834/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa FM 88.7
+https://streaming.radiosenlinea.com.ar/9088/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Bar FM
+http://streaming.shockmedia.com.ar:9814/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Melody 90.7 FM
+https://acastream.org:20051/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa
+https://stream.zeno.fm/35w9txqruuquv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cristal Córdoba FM 98.9
+https://01.solumedia.com.ar:10078/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Azul 104.1
+http://server4.hostradios.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Radio Neo Siglo
+http://streaming01.shockmedia.com.ar:7256/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Life! FM 99.5
+http://www.nvradios.com:9496/radio.mp3/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Play FM 93.9
+http://server.ohradio.com.ar:9394/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Beat FM 97.5mhz
+http://audio.questreaming.com:27902/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio City 97.9
+http://audio.questreaming.com:20050/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Cyber FM 95.5
+http://freeuk9.listen2myradio.com:9678/;;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Vey Radio 102.7 FM
+https://01.solumedia.com.ar:9058/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", El Brote Radio Comunitaria FM 95.5
+https://radio13.servidorderadio.net/8232/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRS 783 Milenium 91.9
+http://stream01.insidetec.com:9134/fmmilenium
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Open Radio 103.5
+http://01.solumedia.com.ar:8542/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Resplandor FM 96.9
+http://142.44.135.172:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Trend Topic
+https://sonic.dattalive.com/8480/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", ASB24MUSIC
+http://radio.netyco.com:7438/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Condor 98.7
+http://01.solumedia.com.ar:8384/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La La La Radio
+https://server.laradio.online/proxy/mauro_torres01?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Alpina
+http://63.247.65.202:8356/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Cristal 97.7
+https://streaming.radiosenlinea.com.ar/8150/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", portaldeluz
+https://server6.hostradios.com/8246/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Ciudad FM 93.5
+https://server6.hostradios.com/8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 92.5
+http://63.247.65.202:8091/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Melodía 97.7
+http://109.169.76.104:18200/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Jesus Radio FM 102.1
+https://01.solumedia.com.ar:8322/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Diametro
+https://fair.entic.net/radio/8060/radiodiametro
+#EXTINF:-1 tvg-logo="" group-title="Argentina", AM 810 Federal
+http://01.solumedia.com.ar:8218/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Luzu 92.3
+http://emartesg.sytes.net:8080/enlace.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM 106.9 Universidad
+https://01.solumedia.com.ar:8870/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Express 96.5
+https://server6.hostradios.com:7083/;
+#EXTINF:-1 tvg-logo="" group-title="Argentina", NO es una radio
+https://stream.zeno.fm/58fxkp4r3qruv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Activa 103.3 FM
+https://centova.psigroup.com.ar:19488/stream&&&&&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Villa María FM 93.3
+https://server7.hostradios.com/8164/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Rockandrolla FM 104.1
+https://stream.zeno.fm/bqc28yx7sk8uv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", La Uno FM 90.9
+http://radio02.ferozo.com:8114/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Promusic Argentina
+https://stream.zeno.fm/4vpmbvqs88quv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Sol 97.5
+https://stream.zeno.fm/ng6y7bnha8zuv
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Soldati 91.3
+http://streaming.escuchanosonline.com:8040/live
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Pasión 92.3
+https://01.solumedia.com.ar:8658/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", FM Eclipse 96.3
+http://radio.neonetdigital.com:8006/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Ventania Radio
+http://63.247.65.202:8247/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Radio Municipal FM 90.7
+http://streaming2.locucionar.com:8369/stream
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Elektronaradio
+http://radios.tecnosoul.com.ar:8000/elektrona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Argentina", LRA17 Nacional Zapala
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad17
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Masters FM 101.3
+http://ice.dant.com:4232/fmmasters
+#EXTINF:-1 tvg-logo="" group-title="Argentina", RD1 98.5
+https://streamingradiolinks.xyz/9850/;

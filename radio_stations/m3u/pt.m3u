@@ -1,0 +1,719 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Club de Angra FM 89.6
+http://213.239.218.99:7130/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Horizonte FM 104.4
+http://212.83.138.48:8029/stream
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Voz dos Açores
+http://ca5.rcast.net:8024/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Antena Nove
+http://centova.radios.pt:8565/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Azores High
+https://sp0.redeaudio.com/8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Faial
+https://prosc1.evspt.com/radiofaial
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Pico
+http://centova.radio.com.pt:9420/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Açores 9 Rádio
+https://s05.w3bserver.com:4232/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Açores TSF 99.4
+https://centova.radio.com.pt/proxy/243?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Azores", Antena 1 Açores
+http://radiocast.rtp.pt/antena1acores80b.mp3
+#EXTINF:-1 tvg-logo="" group-title="Azores", Canal FM
+http://centova.radio.com.pt:9466/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", R80
+https://r80.lunabroadcasting.net:80/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Amigos de Sao Miguel
+https://stream.zeno.fm/emaurtykfhruv
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Atlantico
+https://stream.zeno.fm/a2z34g37wp8uv
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Atlântida
+http://centova.radios.pt:8505/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Nova Cidade 105.5
+http://95.217.75.38:9818/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Azores", Radio Lajes FM 93.5
+http://nl.digitalrm.pt:8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Azores", Top FM Terceira
+http://212.83.138.48:8420/;
+#EXTINF:-1 tvg-logo="" group-title="Azores", Rádio Graciosa FM 107.9
+http://176.9.43.216:8134/stream
+#EXTINF:-1 tvg-logo="" group-title="Azores", Asas do Atlântico FM 103.2
+http://centova.radios.pt:9538/stream
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Calheta
+http://streamonline.pt/radio/8000/radiocalheta
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Popular da Madeira 101.0FM
+http://radiosmadeira.net:8008/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Antena 1 Madeira
+http://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Antena 3 Madeira
+http://radiocast.rtp.pt/antena3madeira80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", JM FM 88.8
+http://194.38.136.158:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Madeira", PEF - Canal 1 AM1530
+http://centova.radio.com.pt:9422/;
+#EXTINF:-1 tvg-logo="" group-title="Madeira", PEF - Canal 2 FM92
+https://centova.radio.com.pt/proxy/426?mp=/stream;
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Clube
+http://radiosmadeira.net:8020/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Cordial
+https://rcstream.net/radio/8090/stream
+#EXTINF:-1 tvg-logo="" group-title="Madeira", TSF Madeira
+http://centova.radio.com.pt:9470/;
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Zarco 89.6FM
+http://radiosmadeira.net:8014/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Sol 103.7FM
+http://radiosmadeira.net:8010/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Praia
+http://centova.radio.com.pt:9548/;
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Festival da Madeira 98.4FM
+http://serv.pt:8012/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Palmeira 96.1FM
+http://serv.pt:8018/;stream.mp3;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Santana FM
+http://streamonline.pt/radio/8020/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio São Vicente
+http://streamonline.pt/radio/8010&historic=true&t=1588107556840
+#EXTINF:-1 tvg-logo="" group-title="Madeira", The Flash Radio
+http://hts03.kshost.com.br:8470/live/
+#EXTINF:-1 tvg-logo="" group-title="Madeira", Rádio Ilhéu
+http://213.136.92.8:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Antena Livre
+http://centova.radio.com.pt:8571/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Afifense FM 87.6
+https://centova.radio.com.pt/proxy/471?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Agita
+https://sp0.redeaudio.com/8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Botareu
+https://nl.digitalrm.pt:8114/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Soberania FM 99.3
+https://nl.digitalrm.pt:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Kiss FM 95.8
+https://nl.digitalrm.pt:8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Récord FM Algarve
+https://nl.digitalrm.pt:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Solar 94 FM
+http://5.189.189.245:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Cister FM
+http://centova.radio.com.pt:8453/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Motard FM
+http://95.217.75.38:9814/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Luna FM - Portugal
+http://lunaworld.lunabroadcasting.net/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Sunshine Portugal
+http://lunaworld.lunabroadcasting.net:80/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Super FM 104.8
+http://95.217.75.38:9962/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube de Alcoutim
+http://radios.dotsi.pt:8020/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz de Alenquer
+http://centova.radio.com.pt:8479/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Ultra FM
+http://centova.radios.pt:9506/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", TLA Rádio 
+http://centova.radios.pt:8545/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Clube Laranjeiro
+http://176.9.43.216:8111/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Ophelia
+http://radio-ophelia.pt:8001/radio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RVD Rádio - Voz Desportiva
+http://95.217.75.38:9938/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Bonfim FM 104.9
+http://95.217.75.38:8654/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCA Ribatejo
+http://95.217.75.38:8820/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena Sul FM 90.4
+https://nl.digitalrm.pt:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RPM Radio Portugal Musical
+http://95.217.75.38:9960/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Telefonia da Amadora
+http://148.71.86.214:8000/telefoniadaamadora
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Província FM 100.8
+http://213.239.218.99:7006/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Luso Europeu
+https://ssl.xpspainel.eu/ylUD3d4t2zO4Kf9PA640
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Beira Litoral FM 101.7
+http://radios.dotsi.pt:8057/;stream.nsv&type=mp3&volume=50&autostart=true
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Amor Portugal
+http://stream.radioamorportugal.com:8000/rap.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Valdevez
+http://centova.radio.com.pt:9508/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Clube de Arganil
+http://176.9.43.216:8135/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Armamar
+http://213.136.92.8:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional de Arouca
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Vida FM
+http://centova.radio.com.pt:9482/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Exotica Radio
+https://solid67.streamupsolutions.com/proxy/repadnom?mp=/;type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio FestEventos
+http://webradio.festeventos.pt:9998/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Ovos Moles
+https://sp0.redeaudio.com/9330/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Pirate
+https://sp0.redeaudio.com/9976/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Top FM 95.9
+http://213.136.92.8:8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Valor Local
+https://sp0.redeaudio.com/8108/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Barcelos
+http://centova.radio.com.pt:8563/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Alternativa Rádio
+https://sp0.redeaudio.com/9870/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio H
+https://sp0.redeaudio.com/8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Pax
+http://centova.radio.com.pt:9484/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Vox da Planície
+http://link.radios.pt/vozdaplanicie
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Caria
+http://centova.radio.com.pt:8521/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Benedita FM
+https://centova.radio.com.pt/proxy/446?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Miúdos
+http://109.71.41.6:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Borba
+http://centova.radios.pt:9578/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Forum Boticas
+http://188.93.231.97:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena Minho
+http://centova.radio.com.pt:9464/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Universitaria do Minho
+http://centova.radios.pt:9558/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Brigantia
+http://centova.radios.pt:8491/stream;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional - Emissão Bragança
+http://play1.radioregional.pt:8000/stream/5/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz de Basto FM 100.6
+https://radios.justweb.pt/8018/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Caminha FM 106.2
+http://95.217.75.38:9348/stream?type=http&nocache=11
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Campo Maior 95.9 FM
+http://radios.dotsi.pt:8018/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Ansiães
+http://centova.radio.com.pt:8419/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Tejo Rádio Jornal
+http://centova.radio.com.pt:8531/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Carvoeiro Radio
+http://149.255.59.3:8045/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Cascais FM 105.4
+http://95.217.75.38:9956/;/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Cascais Net Radio
+http://185.32.188.17:8009/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", JOCAVI Radio
+http://stream.jocaviradio.com/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Marginal
+http://link.radios.pt/marginal
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Castelo Branco
+https://centova.radio.com.pt/proxy/462?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube Castelo Branco
+http://s1.xps-ip.eu:8076/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Urbana FM 97.5
+http://213.136.92.8:8024/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", The VIBE - Dancefloor Radio
+http://109.71.41.6:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Limite
+http://centova.radio.com.pt:9408/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Castrense
+http://centova.radio.com.pt:8431/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Região de Basto FM 105.6
+http://46.105.172.166:8104/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Chaves FM
+http://213.136.92.8:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Montemuro FM 87.8
+http://46.105.172.166:9304/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RUC FM 107.9
+https://stream.ruc.pt/high
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional do Centro
+https://nl.digitalrm.pt:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz do Sorraia FM 94.7
+http://centova.radio.com.pt:8511/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", 95.6 Rádio Clube da Covilhã FM
+http://centova.radio.com.pt:9450/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube São Mamede
+http://176.9.43.216:8260/:stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Elvas
+http://radios.dotsi.pt:8025/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Nostalgia-Elvas
+http://stm6.srvstm.com:6162/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Voz De Esmoriz
+http://185.236.231.6:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", La French Radio Portugal
+https://stream.rcs.revma.com/1787d27dmzzuv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Despertar Voz de Estremoz FM 94.5
+https://stream.zeno.fm/fx5n4m0xkwzuv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena Sul
+https://nl.digitalrm.pt:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", CBF Webrádio
+http://centova.radios.pt:8575/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Diana FM
+http://centova.radio.com.pt:9460/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Telefonia do Alentejo
+https://nl.digitalrm.pt:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Gospel Geração Adoradora
+http://stm1.streaminghd.net.br:7040/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Net Radio Catolica
+https://16963.live.streamtheworld.com/SAM03AAC587.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RUA FM
+http://centova.radio.com.pt:9536/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Canção Nova Rádio FM 103.7
+http://cloud1.cdnseguro.com:8618/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Felgueiras
+http://centova.radio.com.pt:8459/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Singa FM
+http://centova.radio.com.pt:8487/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Imagem 87.6 FM
+https://play.omstudio.pt:9310/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Freamunde
+https://radiofreamunde.ptservidor.net/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCB - Rádio Cova da Beira
+https://centova.radio.com.pt/proxy/467?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Terranova FM 105.0
+http://centova.radios.pt/proxy/404?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Golo FM
+http://95.217.75.38:7988/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Antena Livre Gouveia
+http://centova.radios.pt:9456/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube de Grândola
+http://centova.radios.pt:9474/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Mar Azul
+https://stream.zeno.fm/np4be0g1g3quv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Altitude FM
+https://centova.radios.pt/proxy/034?mp=/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio F 105.8
+https://centova.radio.com.pt/proxy/579?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Fundação FM 95.8
+http://46.105.172.166:8044/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Santiago
+http://eu6.fastcast4u.com:5002/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Santiago - Canal 2
+http://eu6.fastcast4u.com:5002/canal2
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Lagoa
+http://centova.radios.pt:9488/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Utopia
+https://rcast.live/stream/66027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Clube de Lamego
+http://46.4.33.73:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Dom Bosco - Lamego e Trancoso
+http://radiodbosco.myftp.biz:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Douro Nacional
+http://95.217.75.38:9796/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Top80 PT
+https://02.bitstreaming.info:17426//;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio 94 FM
+http://185.11.164.106:35022/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Liz Fm
+http://213.239.218.99:7110/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 1
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 1 Fado
+http://radiocast.rtp.pt/antena1fado80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 1 Memória
+http://radiocast.rtp.pt/antena1memoria80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 1 Vida
+http://radiocast.rtp.pt/antena1vida80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 2
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 2 Jazzin'
+http://radiocast.rtp.pt/antena2jazzin80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 2 Ópera
+http://radiocast.rtp.pt/antena2opera80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Antena 3
+http://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Capsão 106.4 FM
+http://str0.creacast.com/capsao_a
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Central FM
+http://stm4.xcast.com.br:8630/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Cidade FM
+http://mcrscast.mcr.iol.pt:80/cidadefm
+#EXTINF:-1 tvg-logo="" group-title="Portugal", City Rockers Radio
+https://prosc1.evspt.com/cityrockersradio/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", DM Radio
+https://www.radioking.com/play/dm-radio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Horizonte FM 92.8
+http://centova.radios.pt:9436/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Jams and Kooks
+https://stream.zeno.fm/0vqtrtyzg4duv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", M80
+http://mcrscast.mcr.iol.pt:80/m80
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Mega Hits
+https://20133.live.streamtheworld.com/MEGA_HITSAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Noite FM
+http://live.noite.pt:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Oxigénio FM 102.6
+https://proic1.evspt.com/oxigenio_aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Portugal Star
+http://185.118.112.12:8028/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radar FM 97.8
+https://proic1.evspt.com/radar_aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Alvalade
+http://176.9.43.216:8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio AMália
+http://link.radios.pt/amalia?1551816902892
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Autónoma
+https://spaudio.servers.pt/8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Comercial FM 90.8
+http://mcrscast1.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Freguesia de Belém
+https://s2.radio.co/s0ddea4a53/listen
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Horizonte
+http://centova.radios.pt:9436/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Íris FM
+http://centova.radios.pt:8529/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Lusitânia
+http://radiocast.rtp.pt/lusitania80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Marginal
+http://centova.radios.pt/proxy/499?mp=/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Meo Music
+http://centova.radio.com.pt:8495/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Movimento Lisboa
+http://ca5.rcast.net:8048/;stream.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Observador FM 98.7
+https://centova.radio.com.pt/proxy/455?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Orbital
+http://centova.radios.pt:8401/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Promove Portugal
+https://ssl.evsportugal.net:8308/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Quantica
+http://stream2.radioquantica.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Renascença
+https://22713.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio RLCB Tuga
+https://ssl.conectastreaming.com:8272/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio SBSR
+http://centova.radios.pt:8435/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Transmundial de Portugal
+https://rtmportugal.jmvstream.com/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Ultra FM
+http://centova.radios.pt:9506/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Valdevez
+http://centova.radios.pt:9508/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio ZigZag
+http://radiocast.rtp.pt/zigzag80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RDP África
+http://radiocast.rtp.pt/rdpafrica80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RDP Internacional
+http://radiocast.rtp.pt/rdpint80a.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Record FM
+https://nl.digitalrm.pt:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Remember FM
+http://176.9.43.216:8449/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RFM
+https://21293.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RFM - Dancefloor
+https://22543.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RFM - Oceano Pacífico
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RFM - Oitenta's
+https://20863.live.streamtheworld.com/GR80SRFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RFM - On the rock
+https://20133.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Portugal", SFTD
+http://hyades.shoutca.st:8270/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Smooth FM
+http://mcrscast.mcr.iol.pt:80/smoothfm
+#EXTINF:-1 tvg-logo="" group-title="Portugal", The Fashion Radio
+http://servidor18.brlogic.com:7682/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Top 80 FM
+http://live.top80.fm:8086/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Tropical FM 95.3
+https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", TSF - Rádio Notícias
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Vodafone FM
+http://195.23.102.207/vodafone
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Total FM
+http://176.61.144.80:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCL 99FM
+https://sp0.redeaudio.com:10975/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Lousada Online
+http://95.217.75.38:9932/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Onda Livre Macedense
+http://centova.radio.com.pt:9572/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Arpeggio
+http://146.185.18.251:7067/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio do Concelho de Mafra
+http://centova.radio.com.pt:8551/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional - Emissão Nacional
+http://play1.radioregional.pt:8000/stream/2/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", radioava.global
+http://185.118.112.12:8029/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Dao Digital
+https://nl.digitalrm.pt:8206/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Marcoense FM
+http://137.74.160.250:8000/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCM 96FM
+http://185.164.137.42:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Cidade de Matosinhos
+http://s1.stmxp.net:8064/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Matosinhos Online
+http://185.32.188.17:8035/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz de Matosinhos
+https://radios.justweb.pt/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", XRadio
+http://02.bitstreaming.info:7480/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube de Mêda 96.6FM
+https://centova.radio.com.pt/proxy/493?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Mira
+http://rs2.ptservidor.com:8031/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Dueça 94.5 FM
+http://109.71.41.6:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Terra Quente FM
+http://centova.radios.pt:9402/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Riba-Távora
+http://centova.radio.com.pt:9542/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Ecos da Raia
+http://centova.radio.com.pt:9434/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Foia
+http://centova.radios.pt:8559/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube de Monsanto
+http://centova.radio.com.pt:9424/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Montalegre FM 97.5
+http://centova.radios.pt:9566/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Jornal Artistas de Portugal
+https://stream.zeno.fm/wq182xg704zuv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Nova Antena
+http://radios.dotsi.pt:8023/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Alto Som
+http://176.9.43.216:8290/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Mega Montijo
+http://sv13.hdradios.net:7916/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Silver Radio
+http://b0ne.hopto.org:8443/silveradio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Planície
+http://109.71.41.6:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RC Alentejo
+http://centova.radio.com.pt:9184/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", 91FM Radio
+https://sp0.redeaudio.com/9878/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RIO - Rádio Internacional
+https://mundomixradio.ddns.net:8010/rio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", NTR - Network Radio
+http://rs2.ptservidor.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Quiet Rock Radio
+https://stream.zeno.fm/ep1gvvphdd0uv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Nova Cruzeiro (RNC)
+http://176.9.43.216:8437/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RLX-Rádio Lisboa
+https://stream.zeno.fm/kc1u4bc4fm0uv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Vila Nova
+http://www.rvn.pt/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz do Caima FM 97.1
+http://213.136.92.8:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Boa Nova FM 100.2
+https://nl.digitalrm.pt:8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio AVFM
+https://uk2.streamingpulse.com/ssl/radioavfm
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube FM 101.8
+http://stm26.srvaudio.com.br:11420/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio da Vila
+http://185.32.188.17:8071/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCPFM 92.6
+http://95.217.75.38:9802/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Jornal FM 103.6
+http://213.136.92.8:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Manchete
+https://radios.justweb.pt/8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCP - Radio Clube Penafiel 91.8 FM
+http://centova.radios.pt:9476/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Voz da Raia FM 87.7
+http://centova.radios.pt:8557/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio São Miguel FM 93.4
+https://nl.digitalrm.pt:8140/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Douro FM 91.4
+http://centova.radios.pt:8437/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Elmo 99.1
+https://centova.radio.com.pt/proxy/463?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", 97fm Rádio Clube Pombal
+http://radioclubepombal.no-ip.biz:8081/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Barca
+http://centova.radio.com.pt:8483/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Ondas do Lima
+http://centova.radio.com.pt:8407/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Portalegre
+http://centova.radio.com.pt:9492/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", supermundopaulopintao
+http://95.217.75.38:9392/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Alvor FM
+http://centova.radios.pt:8469/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Portimão FM 106.5
+http://95.217.75.38:9440/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Engenharia Rádio
+http://engradio.fe.up.pt:8080/live?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", nRP
+http://nrp.mywire.org:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Bocas do Fado
+http://rs2.ptservidor.com:8063/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Douro Afuradense
+http://s1.xps-ip.eu:8048/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Festival do Norte
+http://centova.radios.pt/proxy/520?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Norte
+http://176.9.43.216:8000/autodj
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Nova
+http://centova.radio.com.pt:9528/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Placard
+http://213.239.218.99:7098/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Portuense
+https://player.stmxp.net/proxy/7066
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Ritmos
+https://cast2.hoost.com.br:20063/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Transforma
+http://176.9.43.216:8560/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Vamos ao Fado
+https://stream.zeno.fm/60ygyca015quv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", XL Radio
+https://radios.justweb.pt:7000/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Dom Fuas FM
+http://95.217.75.38:8242/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Nove3cinco
+http://centova.radios.pt:9522/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Onda Viva
+http://centova.radio.com.pt:9524/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", W.R.P. FM
+https://audio.serv.pt/9312/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Quinta do Conde
+http://95.217.75.38:9836/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Hiper FM
+http://195.23.85.126:9500/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional - Emissão Vila Real
+http://streaming.radioregional.pt:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Íris Fm
+http://centova.radio.com.pt:8529/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube da Feira
+http://centova.radio.com.pt:9544/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Sintonia Feirense
+http://95.217.75.38:9832/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Res FM
+http://95.217.75.38:9320/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Vida Nova FM 105.5
+http://centova.radios.pt:8061/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio M24
+https://prosc1.evspt.com/m24
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Cidade Nova
+http://176.9.43.216:8218/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz de Santo Tirso
+https://radios.justweb.pt/8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Informedia FM 106.3
+http://server.zibiz.net:8000/stream1;/stream1
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Vizela
+http://109.71.41.6:8100/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Alive Fm
+http://centova.radio.com.pt:9468/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCS Rádio Cultura de Seia
+https://nl.digitalrm.pt:8042/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Sons do Sul
+https://hts04.painelstream.net/player-ssl/?porta=10106
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RDS Rádio
+http://51.255.118.192:8020/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Sesimbra FM
+http://centova.radio.com.pt:9444/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Mais Radio
+http://95.217.75.38:9308/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Azul FM 98.9
+http://sado.radioazul.pt:8000/live?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Romantica
+https://sp0.redeaudio.com:10982/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Som da Baixa Setubal
+https://prosc1.evspt.com/somdabaixa
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Algarve FM
+http://213.239.218.99:7128/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Sines
+http://95.217.75.38:9580/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio EuroPub
+http://hts08.kshost.com.br:11264/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Ideias
+https://stream.zeno.fm/qcvshymwwd0uv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCS 91.2 FM Lisboa
+http://centova.radios.pt:8445/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Zona Rock Radio Online
+https://sp0.redeaudio.com/9996/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Popular de Soure
+https://nl.digitalrm.pt:8072/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Gilão FM 
+http://centova.radios.pt:9440/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Horizonte Algarve FM 96.9
+https://centova.radio.com.pt/proxy/458?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Cidade de Tomar FM 90.5
+http://193.164.131.215:9306/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Hertz
+http://213.136.92.8:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Emissora das Beiras
+https://centova.radio.com.pt/proxy/465?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Torres Novas FM
+http://centova.radio.com.pt:8475/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", On FM 93.8
+http://shoutcast.lunabroadcasting.net:8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RadiOeste FM 97.8
+https://onlineradiobox.com/json/pt/radioeste/play?platform=web
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio NoAr FM 107.8
+http://5.189.189.245:8024/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Vagos FM 88.8
+https://nl.digitalrm.pt:8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Regional - Emissão Chaves
+http://play1.radioregional.pt:8000/stream/4/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Granada FM
+http://centova.radio.com.pt:8549/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Alto Minho FM 97.0
+https://ec2.yesstreaming.net:3705/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Popular Afifense FM 87.6
+http://centova.radios.pt:8471/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Vidigueira
+http://centova.radios.pt:8567/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Alto Ave
+http://centova.radios.pt:8517/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Sagres FM 94.6
+http://176.61.144.80:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Caxinas
+http://95.217.75.38:9826/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Linear FM 88.6
+https://nl.digitalrm.pt:8184/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Ultra FM 88.2
+https://centova.radio.com.pt/proxy/506?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCC FM 93.6 Radio Cerveira
+http://185.32.188.17:8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", FAMA Rádio
+http://digitalfm.dynu.com:8000/digitalfm64
+#EXTINF:-1 tvg-logo="" group-title="Portugal", FAMA Rádio - Channel 2
+https://eu10.fastcast4u.com/famaradio
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Cidade Hoje
+http://centova.radio.com.pt:8119/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Best of Música
+http://185.32.188.17:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Evangélica Maranata
+http://servidor38.brlogic.com:8794/live
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Nova Era FM 101.3
+https://centova.radio.com.pt/proxy/478?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Record FM
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Escuro
+http://213.239.218.99:7018/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Mundial FM
+https://play.omstudio.pt:9302//stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Clube Aguiarense FM 95.5
+http://212.84.160.187:19885/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Radio Ancorensis
+https://stream.zeno.fm/9pu32kh70zquv
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Universidade FM
+http://centova.radios.pt:8405/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Guadiana
+http://95.217.75.38:9844/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Voz do Neiva FM 98.7
+http://95.217.75.38:9846/stream?type=http&nocache=14
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Campanário FM 90.6
+https://centova.radio.com.pt/proxy/425?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Estaçao Diária
+http://centova.radios.pt:9430/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio Jornal do Centro
+http://95.217.75.38:9120/;
+#EXTINF:-1 tvg-logo="" group-title="Portugal", RCI Viseu
+https://nl.digitalrm.pt:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Portugal", Rádio VFM 94.6
+http://185.32.188.17:8046/live

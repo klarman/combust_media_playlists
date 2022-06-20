@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Ishingiro FM 107.5
+http://uk2.internet-radio.com:8244/stream
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Huye FM 100.4
+http://listen.rba.co.rw:5050/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Salus FM 97
+http://salus.ur.ac.rw:8006/saluslive
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", 10 FM 87.6
+http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Fine FM 93.1
+https://stream.zeno.fm/f9gdpnf1bg0uv
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Flash FM 89.2
+http://80.241.215.175:7410/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Inteko FM 101.5
+http://listen.rba.co.rw:7000/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Isango Star FM 91.5
+http://80.241.215.175:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Kiss FM 102.3
+https://stream.zeno.fm/frz7hz06eeruv
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", KT Radio FM 96.7
+http://197.243.1.130:8006/k2dlivemp3
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Magic FM 90.7
+http://listen.rba.co.rw:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Nyagatare FM 95.5
+http://listen.rba.co.rw:3050/rcnyagatare
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Maria FM 97.3
+http://dreamsiteradiocp2.com:8098/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Rwanda 100.7
+http://listen.rba.co.rw:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Royal FM 94.3
+http://80.241.215.175:3000/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Sana Radio FM 98.0
+https://stream.zeno.fm/kkqkff8wm7zuv
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", RBA Radio Rubavu FM 95.1
+http://listen.rba.co.rw:4000/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Isangano 104.9 FM
+http://us1.internet-radio.com:8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", Radio Musanze
+http://listen.rba.co.rw:5000/;
+#EXTINF:-1 tvg-logo="" group-title="Rwanda", RBA Radio Rusizi FM 103.2
+http://listen.rba.co.rw:9000/;

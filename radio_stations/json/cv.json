@@ -1,0 +1,80 @@
+[
+  {
+    "tags": "Cabo Verde",
+    "name": "Radio Sal ONE",
+    "url": "http://streamingsal.radiocaboverdeinternational.com/",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "Radio Morabeza",
+    "url": "http://95.217.75.38:7998/;",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "Praia FM 94.1",
+    "url": "https://radios.vpn.sapo.pt/CV/radio4.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "Radio Atlântico",
+    "url": "https://stream.zeno.fm/ermq92bxs5quv",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "Radio Cidade FM 91.1",
+    "url": "http://hts02.kshost.com.br:9288/live",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "RCV 89.70",
+    "url": "http://radios.vpn.sapo.pt/CV/radio7.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cabo Verde",
+    "name": "Radio Cabo Verde International",
+    "url": "http://streaming.radiocaboverdeinternational.com/",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "Rádio Nova",
+    "url": "http://radios.vpn.sapo.pt/CV/radio10.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "RCM",
+    "url": "http://109.71.41.6:8178/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "Rádio Comercial",
+    "url": "http://radios.vpn.sapo.pt/CV/radio9.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "Ribeira Brava FM",
+    "url": "https://stream.zeno.fm/ca6s5cwk1wzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "RCSM FM 98.0",
+    "url": "https://blueeyecaboverde.com/shoutcast/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cape Verde",
+    "name": "Rádio di Zona Web",
+    "url": "https://servidor33-4.brlogic.com:8012/live",
+    "logo": ""
+  }
+]

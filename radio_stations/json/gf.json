@@ -1,0 +1,50 @@
+[
+  {
+    "tags": "French Guiana",
+    "name": "Chwitiweb",
+    "url": "https://www.radioking.com/play/chwitiweb",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Funradio Guyane FM 102.9",
+    "url": "http://163.172.96.134:8110/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Ouest FM 89.4",
+    "url": "http://srv2.streaming-ingenierie.fr:8162/;",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Radio Mayouri Campus",
+    "url": "http://mayouri.jrp.ma:8000/mayouricampus",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Radio Metis FM",
+    "url": "http://str0.creacast.com/metisfm",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Radio Péyi",
+    "url": "http://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "Yanasalam",
+    "url": "https://www.radioking.com/play/yanasalam",
+    "logo": ""
+  },
+  {
+    "tags": "French Guiana",
+    "name": "RFO Guyane 1ère FM 92.0",
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "logo": ""
+  }
+]

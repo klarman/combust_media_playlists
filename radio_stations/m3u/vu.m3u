@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Vanuatu", Buzz FM 96.3
+http://103.75.20.93:9999/live
+#EXTINF:-1 tvg-logo="" group-title="Vanuatu", FM 107
+https://s1.wohooo.net/proxy/islandm1?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Vanuatu", Paradise FM98
+http://radio.vbtc.media:7000/paradisefm
+#EXTINF:-1 tvg-logo="" group-title="Vanuatu", Radio Vanuatu AM 1125
+http://radio.vbtc.media:7000/radiovanuatu

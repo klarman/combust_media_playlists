@@ -1,0 +1,80 @@
+[
+  {
+    "tags": "Zimbabwe",
+    "name": "Khulumani FM 95.0",
+    "url": "http://197.221.250.170:88/broadwavehigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Midlands FM 98.4",
+    "url": "http://197.221.240.166:88/broadwavehigh.mp3?src=1",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Capitalk FM 100.4",
+    "url": "http://51.255.235.165:5612/;",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Classic 263",
+    "url": "http://41.220.21.66:88/broadwave.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "National FM",
+    "url": "http://41.220.21.70:88/broadwavehigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Nehanda Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Power FM",
+    "url": "http://41.220.21.66:88/broadwave.mp3?src=1",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Radio Zimbabwe FM 96.0",
+    "url": "http://41.220.21.70:88/broadwavelow.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Star FM 89.7",
+    "url": "http://51.255.235.165:5200/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Zi FM Stereo 106.4",
+    "url": "https://edge.iono.fm/xice/134_medium.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Hevoi FM",
+    "url": "http://197.221.240.226:88/broadwave.mp3?src=1&kbps=80",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Diamond FM 103.8",
+    "url": "http://51.255.235.165:5080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Zimbabwe",
+    "name": "Ya FM 91.8",
+    "url": "http://207.180.222.146:8000/stream",
+    "logo": ""
+  }
+]

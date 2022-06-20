@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "Mongolia",
+    "name": "Best FM 98.5",
+    "url": "http://103.48.116.109:9000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Mongolia",
+    "name": "Business Radio FM 98.9",
+    "url": "http://202.131.233.34:8014/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Mongolia",
+    "name": "Ger Buliin Radio FM 104.5",
+    "url": "http://c4.radioboss.fm/stream/87",
+    "logo": ""
+  },
+  {
+    "tags": "Mongolia",
+    "name": "MGL Radio FM 102.1",
+    "url": "http://74.91.125.187:8096/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Mongolia",
+    "name": "P3 ФМ 100.9 Шууд дамжуулалт",
+    "url": "http://103.14.38.108:8000/radio2",
+    "logo": ""
+  }
+]

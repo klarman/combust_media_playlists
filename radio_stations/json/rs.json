@@ -1,0 +1,1550 @@
+[
+  {
+    "tags": "Serbia",
+    "name": "Radio Ada",
+    "url": "http://94.130.196.243:9010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 5.8 Apatin",
+    "url": "http://apatin96-naxinacional.streaming.rs:8500/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Nový Rádio Petrovec FM 91.4",
+    "url": "http://217.17.97.1:18180/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Active FM 105.4",
+    "url": "http://active96-naxinacional.streaming.rs:8555/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Belgrade Remix Radio",
+    "url": "http://88.198.233.68:2095/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Bum Bum Radio",
+    "url": "http://bumbum-stream.netlogic.rs:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "COOL Radio",
+    "url": "http://176.9.30.66:80/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Deluxe Radio",
+    "url": "http://cmr-hosting.com:8408/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Djak Sport Radio",
+    "url": "http://djak.wwmultimedia.net/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Hit FM",
+    "url": "https://streaming.hitfm.rs/hit.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Jammonite Radio",
+    "url": "http://audio.jammonite.com:8000/airtime_128",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Karolina",
+    "url": "http://streaming.karolina.rs:8000/karolina.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Kum Radio Beograd",
+    "url": "http://www.mr-streaming.com:9050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Maxbetsport",
+    "url": "https://radio.maxbet.rs/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi 80-e Radio",
+    "url": "http://naxidigital-80s128.streaming.rs:8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Boem",
+    "url": "http://naxidigital-boem128.streaming.rs:8160/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Cafe Radio",
+    "url": "http://naxidigital-cafe128.streaming.rs:8020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Classic Radio",
+    "url": "http://naxidigital-classic128.streaming.rs:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Clubbing Radio",
+    "url": "http://naxidigital-clubbing128.streaming.rs:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Dance Radio",
+    "url": "http://naxidigital-dance128.streaming.rs:8110/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Evergreen Radio",
+    "url": "http://naxidigital-evergreen128.streaming.rs:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi EX YU Radio",
+    "url": "http://naxidigital-exyu128.streaming.rs:8240/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Fresh Radio",
+    "url": "http://naxidigital-fresh128.streaming.rs:8210/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Gold Radio",
+    "url": "http://naxidigital-gold128.streaming.rs:8060/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi House Radio",
+    "url": "http://naxidigital-house128.streaming.rs:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Jazz Radio",
+    "url": "http://naxidigital-jazz128.streaming.rs:8170/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Kids Radio",
+    "url": "http://naxidigital128.kbcnet.rs:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Latino Radio",
+    "url": "http://naxidigital-latino128.streaming.rs:8230/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Lounge Radio",
+    "url": "http://naxidigital-lounge128.streaming.rs:8250/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Love Radio",
+    "url": "http://naxidigital-love128.streaming.rs:8100/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Mix Radio",
+    "url": "http://naxidigital-mix128.streaming.rs:8220/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Radio FM",
+    "url": "http://naxi128.streaming.rs:9150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Rock Radio",
+    "url": "http://naxidigital-rock128.streaming.rs:8180/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Nostalgie Radio",
+    "url": "http://nostalgie128.streaming.rs:9250/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Ob Neob",
+    "url": "https://s5.voscast.com:10151/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "OK Radio",
+    "url": "http://live2.okradio.net:8052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "OK Radio Plus",
+    "url": "http://live.okplus.rs:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Pink Radio",
+    "url": "http://pink.exyuserver.com/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Play",
+    "url": "http://stream.playradio.rs:8001/play.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Play Party",
+    "url": "https://stream.playradio.rs:8443/party.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Play Rock",
+    "url": "https://stream.playradio.rs:8443/rock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Play Soft",
+    "url": "https://stream.playradio.rs:8443/soft.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Play Urban",
+    "url": "https://stream.playradio.rs:8443/urban.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 101 Belgrade",
+    "url": "http://159.69.105.22:9300/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 202",
+    "url": "http://138.201.33.203:8000/rts_4",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 3 FM 95.8",
+    "url": "http://radio3-128.streaming.rs:9200/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Aparat",
+    "url": "http://ca3.rcast.net:8060/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio B92",
+    "url": "http://stream.b92.net:7999/radio-b92.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Balkanfox",
+    "url": "http://radio.balkanfox.com:9980/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Glas Nade",
+    "url": "http://109.235.71.229:8000/rgn1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio JAT",
+    "url": "http://streaming.radiojat.rs:8000/radiojat",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kanal 6",
+    "url": "http://evcast.mediacp.eu:2940/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kanal 6 - Chill Out",
+    "url": "https://stream.zeno.fm/qqx4q8pdfwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kanal 6 - Deep House",
+    "url": "https://stream.zeno.fm/4fy2740k7yzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kanal 6 - Rock",
+    "url": "https://stream.zeno.fm/gku3bymq6tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Karolina",
+    "url": "http://streaming.karolina.rs:8000/karolina",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Klas",
+    "url": "http://136.243.12.82:9014/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava 1",
+    "url": "http://163.172.116.41:8544/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava 2",
+    "url": "http://163.172.116.41:9996/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Cafe",
+    "url": "http://163.172.116.41:9946/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava City",
+    "url": "http://163.172.116.41:9948/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Classic",
+    "url": "http://163.172.116.41:9968/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Clubbing",
+    "url": "http://163.172.116.41:9302/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Evergreen",
+    "url": "http://163.172.116.41:9952/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Folk 1",
+    "url": "http://163.172.116.41:9982/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Folk 2",
+    "url": "http://163.172.116.41:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Folk 3",
+    "url": "http://163.172.116.41:9954/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Freedom",
+    "url": "http://163.172.116.41:9960/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Info",
+    "url": "http://163.172.116.41:9962/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Jazz",
+    "url": "http://163.172.116.41:9964/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Kids",
+    "url": "http://163.172.116.41:9966/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Koncert 1",
+    "url": "http://163.172.116.41:9972/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Koncert 2",
+    "url": "http://163.172.116.41:9970/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Latino",
+    "url": "http://163.172.116.41:9974/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Love 1",
+    "url": "http://163.172.116.41:9978/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Love 2",
+    "url": "http://163.172.116.41:9976/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Rap",
+    "url": "http://163.172.116.41:9980/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kosava Rock",
+    "url": "http://163.172.116.41:9984/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Laguna FM 93.7",
+    "url": "https://live.radiolaguna.rs/laguna",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Novosti",
+    "url": "http://novostir.kbcnet.rs/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Pingvin",
+    "url": "http://uzivo.radiopingvin.com:8187/domaci2",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Pingvin Strani Kanal",
+    "url": "http://uzivo.radiopingvin.com:8187/strani1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Razbibriga",
+    "url": "http://213.239.205.210:8001/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 1",
+    "url": "https://stream.radios.rs:9000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 1 CG",
+    "url": "https://stream.radios.rs:9008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 2",
+    "url": "https://stream.radios.rs:9002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 2 CG",
+    "url": "https://stream.radios.rs:9010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 2 House",
+    "url": "https://stream.radios.rs:9040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 3",
+    "url": "https://stream.radios.rs:9004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 3 CG",
+    "url": "https://stream.radios.rs:9018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 3 Folk Stars",
+    "url": "https://stream.radios.rs:9024/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 3 Juzni",
+    "url": "https://stream.radios.rs:9038/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 3 Narodni",
+    "url": "https://stream.radios.rs:9016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S 4",
+    "url": "https://stream.radios.rs:9006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S BiH",
+    "url": "https://stream.radios.rs:9034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Cafe",
+    "url": "https://stream.radios.rs:9012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Energy",
+    "url": "https://stream.radios.rs:9014/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Ex YU",
+    "url": "https://stream.radios.rs:9042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Gold",
+    "url": "https://stream.radios.rs:9020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Kids",
+    "url": "https://stream.radios.rs:9022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Love",
+    "url": "https://sradio-love.ipradio.rs:9026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Pop & Rock",
+    "url": "https://stream.radios.rs:9028/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Rock",
+    "url": "https://stream.radios.rs:9032/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Trap & Rap",
+    "url": "https://stream.radios.rs:9030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio S Xtra",
+    "url": "https://stream.radios.rs:9026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Slepi Putnik",
+    "url": "http://116.203.140.10:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Stara Carsija",
+    "url": "http://46.4.76.142:8026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Tehnomanija",
+    "url": "http://188.40.95.74:8058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Telegraf",
+    "url": "https://stream.galaxywebsolutions.com/proxy/smiodrag?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Tri 95.8",
+    "url": "http://radio3-128.streaming.rs:9200/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Vedro",
+    "url": "http://89.216.24.39:8100/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio.D59B",
+    "url": "http://n01.radiojar.com/gn6dqzhf9mzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Red Radio FM 93.7",
+    "url": "https://stream.redradio.rs/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Rock Radio FM 96.2",
+    "url": "https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RTS Beograd 1",
+    "url": "http://138.201.33.203:8000/rts_1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RTS Beograd 2",
+    "url": "http://138.201.33.203:8000/rts_2",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Serbona",
+    "url": "http://192.184.9.158:8099/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Slovo LJubve",
+    "url": "http://160.153.245.85:8000/stream/1/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Sonar Lounge Music Radio",
+    "url": "https://c8.radioboss.fm:18064/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Sputnik Serbia",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=95025336&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Super FM 107.9",
+    "url": "https://onair.superfm.rs/superfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Svetski Radio",
+    "url": "http://comet.shoutca.st:8929/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Beograd",
+    "url": "http://streaming.tdiradio.com:8000/tdiradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Chill Out",
+    "url": "http://streaming.tdiradio.com:8000/chillout.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Classics 80 90",
+    "url": "http://streaming.tdiradio.com:8000/classics.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Domacica",
+    "url": "http://streaming.tdiradio.com:8000/domacica",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - House",
+    "url": "http://streaming.tdiradio.com:8000/house.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - House Classics",
+    "url": "http://streaming.tdiradio.com:8000/houseclassics.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Love",
+    "url": "http://streaming.tdiradio.com:8000/love.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Pop R'n'B Hits",
+    "url": "http://streaming.tdiradio.com:8000/poprnbhits.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Top 40",
+    "url": "http://streaming.tdiradio.com:8000/top40",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Tesla Radio",
+    "url": "http://79.175.106.210:3333/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Top FM Beograd",
+    "url": "http://109.206.96.11:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "VIP Radio",
+    "url": "http://vip128.streaming.rs:8110/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vladix 1",
+    "url": "http://vladix.dukahosting.com:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vladix 2 Rock",
+    "url": "http://vladix.dukahosting.com:8022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vladix 3 Soft",
+    "url": "http://vladix.dukahosting.com:8000/sid=1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vladix 4 Rok",
+    "url": "http://vladix.dukahosting.com:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vladix 5 Super",
+    "url": "http://radio.dukahosting.com:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "WTF Radio",
+    "url": "http://live.wtfradio.rs/wtfradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Zeleni Radio",
+    "url": "http://88.198.233.68:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Bor",
+    "url": "http://streaming.tdiradio.com:8000/tdiradiobor.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Sunset",
+    "url": "https://cmr-hosting.com/8425/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Dzenarika",
+    "url": "http://136.243.134.202:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kruna FM 89.6",
+    "url": "http://94.127.6.85:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Cacak",
+    "url": "http://streaming.tdiradio.com:8000/tdiradiocacak.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Zlatiborski 106 Radio",
+    "url": "http://213.239.205.210:8082/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Lipa Kraj Morave",
+    "url": "https://radio.dukahosting.com:7006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio DAK",
+    "url": "http://85.25.73.243:10150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Resavski Radio FM 88.0",
+    "url": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Caribrod",
+    "url": "http://176.9.59.144:8090/caribrod",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Naxi Dedal Radio FM 88.1",
+    "url": "http://dedal96-naxinacional.streaming.rs:8570/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Puls FM 88.7",
+    "url": "http://176.9.59.144:8090/puls",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "MEGA Radio",
+    "url": "http://netradio.burina.net:8000/mega",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RTV Indjija",
+    "url": "http://netradio.burina.net:8000/rti",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "MAX FM Jagodina",
+    "url": "http://85.25.73.243:9840/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Morava FM 91.9",
+    "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Ami Naxi FM 89.7",
+    "url": "http://185.119.88.88:8005/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Pallas Radio FM 94.8",
+    "url": "https://eu9.fastcast4u.com/proxy/svidakov2?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Kovin",
+    "url": "http://streaming.tdiradio.com:8000/tdiradiokovin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 34",
+    "url": "http://stream.radio34.rs:8889/stream?",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 9 Kragujevac",
+    "url": "http://stream.iradio.pro:8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Bravo FM 103.7",
+    "url": "http://streaming.orion.rs:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Zlatousti",
+    "url": "http://vs5121.cloudhosting.rs:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RSG FM 104.3",
+    "url": "http://stream.rsg.rs:8043/listen.pls/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RSG Party Time",
+    "url": "http://stream.rsg.rs:8073/listen.pls/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RSG Relax",
+    "url": "http://stream.rsg.rs:8063/listen.pls/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "RSG Top 44",
+    "url": "http://stream.rsg.rs:8053/listen.pls/;?1570902386953.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Kragujevac",
+    "url": "http://streaming.tdiradio.com:8000/tdiradiokragujevac.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Bum Radio",
+    "url": "http://217.24.17.31:8102/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "K-One",
+    "url": "https://radio.en.rs/radio/8020/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 99.6 FM",
+    "url": "https://radio.en.rs/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Kraljevo",
+    "url": "http://streaming.tdiradio.com:8000/tdiradiokraljevo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Antena Radio",
+    "url": "http://www.antenaradio.rs:4560/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Mackica - Narodna Muzika",
+    "url": "http://cast2.name.ba:8153/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Mackica - Zabavna Muzika",
+    "url": "http://cast2.name.ba:8157/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Romsko Srce",
+    "url": "http://cast.az-streamingserver.com:8475/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Q",
+    "url": "http://as.q-media.rs:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Kiss FM",
+    "url": "https://markoziv.radioca.st/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Galaxy FM 89.3",
+    "url": "http://188.40.95.74:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kolubara",
+    "url": "https://player.iradio.pro/radiokolubara/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Lotel FM 107.4",
+    "url": "https://s1.skeletor.rs/lotel",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "San Radio FM 95.0",
+    "url": "https://s1.skeletor.rs/san",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Vajdaságretro FM 87.5",
+    "url": "https://sp3.streams.ovh:7054/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Op-Top FM 106.4",
+    "url": "https://mojaudio.stream/optop/?1585900330710",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Boem",
+    "url": "https://stream.zeno.fm/7q807rs1ng8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "BANKER Cafe Radio",
+    "url": "http://bankercafe96-naxinacional.streaming.rs:8542/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "BANKER Radio Niš",
+    "url": "http://banker96-naxinacional.streaming.rs:8540/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "City Radio 99.9 FM",
+    "url": "http://213.240.61.29:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Original Fast Radio",
+    "url": "http://89.216.116.212:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Belle Amie",
+    "url": "http://92.60.230.200:5040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Bum 018 FM 99.5",
+    "url": "http://213.240.61.35:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio IN",
+    "url": "http://inradio96-naxinacional.streaming.rs:8580/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Niš",
+    "url": "http://92.60.230.200:5030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Fox Radio FM 97.9",
+    "url": "http://stream.foxradio.rs:8545/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Batiskaf Radio",
+    "url": "http://173.249.44.75:8008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Daško i Mlađa",
+    "url": "http://172.105.250.193/proxy/daskomladja?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "NS+ FM 105.2",
+    "url": "http://213.239.205.210:8130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Prvi Radio",
+    "url": "https://mastermedia.shoutca.st/proxy/prviradions?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 021",
+    "url": "http://109.206.96.106:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio AS FM 107.9",
+    "url": "https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Beseda FM 91.8",
+    "url": "http://92.61.114.191:9180/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Blagovesnik FM 95.7",
+    "url": "http://blagovesnik.yunethosting.net:8000/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Boemi",
+    "url": "http://79.142.73.156:8570/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Buca",
+    "url": "http://live.bucaradio.com:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Patrola 021",
+    "url": "https://srv.mediastriming.com/8444/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Signal",
+    "url": "http://109.206.96.197:443/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Srce Krajine",
+    "url": "https://srv.mediastriming.com/8330/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Sunradio.co",
+    "url": "http://n06.radiojar.com/4qawu2xta2zuv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "TDI Radio - Novi Sad",
+    "url": "http://streaming.tdiradio.com:8000/tdiradionovisad.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "UnderGRAND Radio",
+    "url": "https://stream.zeno.fm/1mwurb5pgzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Радио Беседа",
+    "url": "http://92.61.114.191:9180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Cool Opovo FM 107.7",
+    "url": "http://176.221.73.114:8000/stream3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Omnibus Youth Radio",
+    "url": "http://46.22.145.218:8000/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Kanal M",
+    "url": "http://78.129.199.49:13250/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Plus",
+    "url": "http://live2.plusonline.rs:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Pikolo",
+    "url": "http://89.36.216.142:9012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Top Radio",
+    "url": "http://109.206.96.11:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Boom 93",
+    "url": "http://159.69.105.22:9974/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Hit Radio FM 104.9",
+    "url": "http://178.32.62.163:9337/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio 012",
+    "url": "http://178.32.62.163:8762/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Požega Radio FM 94.7",
+    "url": "http://vs4885.cloudhosting.rs:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Радио Милешева",
+    "url": "http://negde.com:8000/radio-mileseva",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Delfin Radio FM 100.2",
+    "url": "http://s3.voscast.com:9210/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Levač FM 90.3",
+    "url": "http://213.239.205.210:8046/index.html/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Song",
+    "url": "http://213.239.205.210:8148/index.html/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Fruska Gora",
+    "url": "https://player.iradio.pro/radiofruskagora/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Srpski Sion",
+    "url": "http://fmradiolive.net:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Civijas Radio",
+    "url": "http://159.69.105.22:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio AS",
+    "url": "http://185.102.239.216:8000/radioas",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "iRadioSrbobran",
+    "url": "http://stream.iradio.pro:8004/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Focus Radio",
+    "url": "https://streamer.radio.co/s34d2c17d8/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Pannon Rádió FM 91.5",
+    "url": "http://79.172.194.189:4120/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Marija Srbija",
+    "url": "http://dreamsiteradiocp.com:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Slavoslovlje FM 90.7",
+    "url": "http://170.249.196.82:8000/;?type=http&nocache=17",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Su-Data Radio",
+    "url": "http://su-data.com:8009/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Szabadkai Magyar Rádió",
+    "url": "http://79.172.194.189:4110/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Yueco Radio",
+    "url": "http://s1.skeletor.rs/yueco",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Bubamara Svrljig",
+    "url": "http://92.60.230.200:5010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "iFM Radio Topola",
+    "url": "http://91.228.254.72:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Trstenik FM 94.2",
+    "url": "http://185.119.88.88:8091/;?type=http&nocache=523309",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "MB Radio",
+    "url": "http://188.40.95.74:8100/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Prvi Radio Uzice",
+    "url": "http://109.206.96.118:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Užice",
+    "url": "http://uzice.yunethosting.net:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Krajiški Radio",
+    "url": "http://37.59.28.208:8531/krajiski",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Istočnik",
+    "url": "http://stream.unlimited.rs:8026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Vladimirci",
+    "url": "http://185.102.236.30:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio GAGA Vlasotince",
+    "url": "http://188.40.95.74:8028/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "OK Radio FM 92.8",
+    "url": "http://94.127.6.37:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Skay Radio FM 88.9",
+    "url": "http://185.119.89.63:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Fantasy Radio FM 106.5",
+    "url": "http://109.206.96.34:8575/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Banja2",
+    "url": "http://stream.iradio.pro:8078/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Homolje",
+    "url": "http://79.143.187.96:8148/stream/1/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Magnum FM 103",
+    "url": "https://magnum.web-srbija.net/",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Tempo Naxi radio",
+    "url": "https://tempo.ipradio.rs:9034/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Dobrić",
+    "url": "https://str.bem-streaming.tk/8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Klik FM 105.0",
+    "url": "http://klikfm1.yunethosting.net:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Serbia",
+    "name": "Radio Sanja",
+    "url": "http://stream1.srvnetplus.com:8004/stream",
+    "logo": ""
+  }
+]

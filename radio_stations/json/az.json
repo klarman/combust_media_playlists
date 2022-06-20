@@ -1,0 +1,86 @@
+[
+  {
+    "tags": "Azerbaijan",
+    "name": "Asan Radio 100 FM",
+    "url": "http://94.20.74.206:4448/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Avto FM 107.7",
+    "url": "http://85.132.71.10:8000/avtofm",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Azerbaycan Radiosu FM 105.0",
+    "url": "http://85.132.27.212:8888/azradio",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "BakiRadio",
+    "url": "https://broadcast.bakiradio.tk/radio/8000/bakiradio",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Baku Jukebox",
+    "url": "http://78.109.52.73:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "iRadio Youth Radio",
+    "url": "http://n06.radiojar.com/a80hx0asnzwtv",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Media FM 105.5",
+    "url": "http://85.132.71.10:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Radio Araz 103.3 FM",
+    "url": "http://s14.myradiostream.com:30454/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Radio Vətən",
+    "url": "https://stream.zeno.fm/0kgkkzanmueuv",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Radyo Antenn 101 FM",
+    "url": "http://85.132.71.10:8000/antenn-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Sputnik Azerbaijan",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=43726537&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Xezer FM 103.0",
+    "url": "http://s30.myradiostream.com:32684/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "logo": ""
+  },
+  {
+    "tags": "Azerbaijan",
+    "name": "Naxçıvan Radio FM 104.1",
+    "url": "http://37.59.40.90:12782/;stream.mp3",
+    "logo": ""
+  }
+]

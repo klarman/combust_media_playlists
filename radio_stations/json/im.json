@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Isle of Man",
+    "name": "3FM",
+    "url": "http://edge-audio-03-gos2.sharp-stream.com/3fmhigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "1Mix Radio - EDM Stream",
+    "url": "http://fr1.1mix.co.uk:8060/320h",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "1Mix Radio - Trance Stream",
+    "url": "http://fr1.1mix.co.uk:8060/320",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "Energy FM",
+    "url": "http://91.121.78.191:8096/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "Manx Radio AM",
+    "url": "https://listen-manxradio.sharp-stream.com/manxradioam.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "Manx Radio FM",
+    "url": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Isle of Man",
+    "name": "The Sound",
+    "url": "https://s4.citrus3.com:8352/stream",
+    "logo": ""
+  }
+]

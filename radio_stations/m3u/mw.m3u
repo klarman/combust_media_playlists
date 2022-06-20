@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Angaliba Radio
+https://exclusivemw.online/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Blantyre Synod Radio FM 91.1
+http://synodbt-exclusivemw.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Malawi", MBC Radio 2 FM 92.2
+http://154.66.125.13:86/broadwavehigh.mp3?src=1
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Radio Maria Malawi
+http://dreamsiteradiocp.com:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Malawi", ZBS Zodiak FM 97.0
+https://ice31.securenetsystems.net/0079
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Beyond FM
+https://exclusive-edge.streamafrica.net/beyond
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Dziko FM 103.6
+https://exclusive-edge.streamafrica.net/dzikofm
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Radio Alinafe FM 97.1
+https://exclusive-edge.streamafrica.net/alinafe
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Timveni Radio
+https://exclusivemw.online/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Umunthu FM
+https://exclusive-edge.streamafrica.net/umunthu
+#EXTINF:-1 tvg-logo="" group-title="Malawi", Chisomo Radio Station FM 97.0
+https://exclusivemw.online/radio/8010/live

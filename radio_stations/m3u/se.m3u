@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio 45 FM 98.1
+http://streaming.nordblommedia.se:443/amal.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Avesta 103.5 FM
+http://test.radioavesta.se:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Narradion Boden
+http://radio.bodensradio.se:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P1
+http://http-live.sr.se/p1-mp3-128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Sjuhärad
+http://http-live.sr.se/p4sjuharad-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Dalarna
+http://http-live.sr.se/p4dalarna-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Gagnef
+http://stream.ueteknik.se:8000/gagnef
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Viking 101,4
+http://shoutcast1.crossnet.net:8000/radiovikinglive
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Falköping 90.8 FM
+http://lyssna.fnf.nu:8080/fnf.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Oldies FM
+https://listen.radioking.com/radio/366505/stream/417820
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Gävle FM 102.7
+http://kepler.shoutca.st:8271/;stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Gävleborg
+http://http-live.sr.se/p4gavleborg-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Kinnekulle 102,6 MHz
+http://83.223.7.233:8008/RadioK.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", GNF.NU 102,6 MHz
+http://lyssna.fnf.nu:8080/gnf102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", GNF.NU 103,1 MHz
+http://lyssna.fnf.nu:8080/gnf103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", GNF.NU 94,9 MHz
+http://lyssna.fnf.nu:8080/gnf094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", MNF
+http://radio.darub.se:8000/mnf.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", NRJ FM
+https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Farhang
+http://listen.shoutcast.com/radiofarhanggbg
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio GBG Laganini
+http://62.210.188.38:8050/relay3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio GBG Narodna
+http://62.210.188.38:8050/relay2
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio GBG Sevdah
+http://62.210.188.38:8050/relay4
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio GBG Zabavna
+http://62.210.188.38:8050/relay
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Payam
+https://streamingv2.shoutcast.com/RadioPayam
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Sedaye Ashena
+https://streamer.radio.co/saa2859a48/listen
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Slay Radio
+http://relay3.slayradio.org:8100/
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Göteborg
+http://http-live.sr.se/p4goteborg-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Hallsta Sura Närradio 103.7
+http://46.105.126.68:6630/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Halmstad FM 88.6
+https://s5.voscast.com:10189/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Halland
+http://http-live.sr.se/p4halland-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Haninge FM 98.5
+http://213.115.49.175:1157/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Clubalicious Radio
+https://www.radioking.com/play/deejay-2
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Jonköping
+http://http-live.sr.se/p4jonkoping-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Vättervåg FM 98,5
+http://uk5.internet-radio.com:8199/live
+#EXTINF:-1 tvg-logo="" group-title="Sweden", KanonFM 98.6
+http://kanonfm.ddns.net:8000/listen
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Kalmar
+http://http-live.sr.se/p4kalmar-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Kunskapsradion FM 92.2
+http://46.105.124.120:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", P4 Värmland FM 103.5
+https://http-live.sr.se/p4varmland-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR Sápmi - Sameradion
+http://http-live.sr.se/srsapmi-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Kristianstad
+http://http-live.sr.se/p4kristianstad-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Kumla Närradio FM 94.3
+http://81.94.175.226:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Mix Megapol
+http://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Pirate Rock
+http://stream.piraterock.se:8101/webradio
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Sotenäs FM 95.3
+http://sc1.radiosotenas.se/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Hitcity 94.5 
+http://89.160.63.63:80/live
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio pE20
+https://streaming.943.se/radiope20
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Lidköping 93.8 MHz
+http://lyssna.fnf.nu:8080/lidkoping.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Linköping FM 95.5
+https://stream.linkopingsnarradio.se:8005/radioprogram
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Norrbotten
+http://http-live.sr.se/p4norrbotten-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio AF 99.1
+http://live.radioaf.se:8000/;stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", The Weekend Radio Show
+http://13538.cloudrad.io:9324/live
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Disciples Radio
+https://s5.voscast.com:10033/live
+#EXTINF:-1 tvg-logo="" group-title="Sweden", BPM Malmö
+http://stream.radiojar.com/bbhah441b6quv
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Guldkanalen 60-tal 
+http://stream.dbmedia.se/gk60talMP3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Malmökanalen FM 89.2
+http://stream.nsp.se:8000/MNR89_AAC_Hi
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Retreat Radio
+http://retreatradio.out.airtime.pro:8000/retreatradio_b
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Retro FM Malmö
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR Din gata
+http://http-live.sr.se/dingata-mp3-192?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Malmöhus
+http://http-live.sr.se/p4malmo-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Siljan FM 94.1
+http://stream.ueteknik.se:8000/siljan/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Voces Del Alba
+https://cloudstream2030.conectarhosting.com/9080/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Östergötland
+https://http-live.sr.se/p4ostergotland-mp3-128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Roslagen Live
+https://radio.daemon.nu/radio/8020/hq
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Nybro FM 98.1
+http://deb.patrikmalmgrenrask.se:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Öckerö
+http://radio.darub.se/ockero.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Örebro
+http://http-live.sr.se/p4orebro-aac-32
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Jämtland
+http://http-live.sr.se/p4jamtland-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Pite FM Studentradion 92,8
+http://pitefmstream.ltu.se:8000/pitefm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Mittradion
+http://stream.ueteknik.se:8000/mittradion
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Blekinge
+http://http-live.sr.se/p4blekinge-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio 88
+http://62.209.164.60:8000/mp128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Sandviken FM 89.9
+http://rssand.se:4027/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Skellefteå FM 89.7
+https://cast.audiostream.link/radio/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Skaraborg
+https://http-live.sr.se/p4skaraborg-mp3-128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", 89.7 Radio Söderhamn
+http://80.245.225.101:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Country Rocks Radio
+http://stream.dbmedia.se/crrMP3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Dansbandskanalen Julmusik
+http://stream.dbmedia.se/dbkjulMP3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Alkompis FM
+http://206.189.14.120:8500/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Bandit Rock FM 101.9
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", BitJam Radio
+http://marmalade.scenesat.com:8086/bitjam.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", BollywoodBio Sweden
+http://cora.cdnstream.com/1925_192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Dansbandsfavoriter
+http://wr15-ice.stream.khz.se/wr15_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636723
+#EXTINF:-1 tvg-logo="" group-title="Sweden", DistFM - 100% Rock!
+http://185.80.220.12/proxy/distfmsam192?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Dixie Radio
+https://n12a-eu.rcs.revma.com/wgp0gs0yra0uv
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Hamsafar Radio FM 94.2
+http://listen.shoutcast.com/Hamsafarradio
+#EXTINF:-1 tvg-logo="" group-title="Sweden", lugna favoriter 104.7FM
+https://fm03-ice.stream.khz.se/fm03_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Mix Megapol
+https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", NRJ
+https://edge-bauersefm-05-gos1.sharp-stream.com/nrj_instreamtest_se_aacp
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Power Hit Radio
+http://fm04-ice.stream.khz.se/fm04_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636863
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Ayeneh FM 97.3
+http://83.251.238.7/;&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Melody
+http://radio2.darub.se/melody.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Rangarang FM 94.6
+http://radio.rangarang.us:8000/stream/1/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Sydväst FM 88.9
+http://149.255.59.3:8049/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Rix FM
+http://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Rocket FM
+http://stream.thsradio.se:8000/rocket_hi.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Rockklassiker 106.7 FM
+https://edge-bauersefm-03-gos2.sharp-stream.com/rockklassiker_instream_se_aacp
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SceneSat
+http://salyut80.scenesat.com:80/scenesatmax
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SDX Synthetic Experience
+http://radio.dawnshadow.se:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Skärgårdsradion FM 90.2
+http://sgr.radioprod.se:8000/skargarden_hi
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P1
+https://http-live.sr.se/p1-mp3-128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P2 Alltid Musik
+http://http-live.sr.se/p2musik-mp3-192?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P3
+http://http-live.sr.se/p3-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P3 Din Gata
+http://http-live.sr.se/dingata-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Plus
+http://http-live.sr.se/srextra17-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Stockholm
+https://http-live.sr.se/p4stockholm-aac-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR Radio Finska
+http://http-live.sr.se/sisuradio-aac-32
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Star FM
+http://fm05-ice.stream.khz.se/fm05_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572637088
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Stockholm Närradio FM 101.1
+http://live.narradio.se:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Stockholm Närradio FM 88.0
+http://live.narradio.se:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Stockholm Närradio FM 95.3
+http://live.narradio.se:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Stockholmian Radio
+http://217.210.9.84:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Strul FM
+http://stream.streamaudio.de:8000/strul-fm
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Svenska Favoriter
+http://wr13-ice.stream.khz.se/wr13_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572637126
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Sweden Tamils FM
+https://www.radioking.com/play/sweden-tamils-fm/404626
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Vaanambadi Vaanoli
+http://192.95.39.65:25189/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Vinyl FM 107
+https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Prime FM 106.8
+http://berit.createam.se:8000/radioprime.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Västernorrland
+https://http-live.sr.se/p4vasternorrland-mp3-128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Fryksdalen 100,6
+http://webradio.radiofryksdalen.se:8000/RF_Live
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Berg
+http://62.20.28.156:80/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Nord FM 98.3
+http://radio.tabyenskilda.se:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Countrykanalen Sweden
+https://eu2.fastcast4u.com/proxy/counrtyk?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Tidaholm 101,6
+http://streaming.943.se/radiotidaholm
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Trelleborg 92,8 MHz
+http://stream.radiotrelleborg.se:8000/RaTbg_AAC_Lo
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Lite FM
+http://live.litefm.se:8000/stream_mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Trollhättan FM 90.6
+http://lyssna.fnf.nu:8080/radiotrollhattan.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Dagnys musikcafe
+http://streaming2.nordblommedia.se:443/dagny.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Bohuslän 106,2
+http://radio.itconnect.se:80/rb2
+#EXTINF:-1 tvg-logo="" group-title="Sweden", P4 Västerbotten
+https://http-live.sr.se/p4vasterbotten-aac-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Pop & Rock 102,3
+http://62.101.46.15:8000/poporock
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Lite FM
+http://stream.litefm.se:443/lite.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Wix FM 97.9
+https://s2.radio.co/s74d4d7992/listen
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Treby 
+http://stream1.bogalnet.se:443/vargarda.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Vara FM 87,8 Mhz
+http://lyssna.fnf.nu:8080/radiovara.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Vår Radio 93,7 MHz
+http://46.17.184.39:8000/airtime_128
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Gold 102,4 
+http://gold24.xnk.nu:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Visby
+https://radiovisby.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Gotland
+http://http-live.sr.se/p4gotland-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", SR P4 Kronoberg
+http://http-live.sr.se/p4kronoberg-mp3-192
+#EXTINF:-1 tvg-logo="" group-title="Sweden", Radio Active
+http://stream.nsp.se:8000/radioactive48

@@ -1,0 +1,2948 @@
+[
+  {
+    "tags": "Chile",
+    "name": "Radio Nahuel",
+    "url": "http://streaming.chiloestreaming.com:9142/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Mirasol FM",
+    "url": "http://104.131.18.232/proxy/mirasolfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Alternativa Radio FM 104.7",
+    "url": "http://sonando.us.digitalproserver.com:80/alternativa.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Estrella del Mar",
+    "url": "http://streaming.chiloestreaming.com:9630/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nuevo Stylo Chiloe",
+    "url": "https://stream.zeno.fm/nzk58p79b9quv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Genesis",
+    "url": "http://archi-us.digitalproserver.com/genesis-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "El Conquistador Angol",
+    "url": "https://audio5.tustreaming.cl/8070/losangeles",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Caramelo FM",
+    "url": "http://sonando.us.digitalproserver.com/caramelo_angol.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "AntofaPop",
+    "url": "https://sp1.streamingssl.com:7013/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Aun Estamos Vivos FM 99.9",
+    "url": "https://radio.tvstream.cl/8152/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bío-Bío FM 93.5",
+    "url": "https://redirector.dps.live/biobiopuertomontt/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Canal 95",
+    "url": "https://streaming.conectaapp.cl/canal95",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM 7 89.7",
+    "url": "http://158.69.116.4:8042/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Okey 89.3",
+    "url": "http://streaming.fmokey.cl/FmOkAT.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Plus",
+    "url": "https://streaming.conectaapp.cl/fmplus",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Quiero",
+    "url": "https://streaming.conectaapp.cl/fmquiero",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Omega Radio Antofagasta",
+    "url": "http://149.56.241.149:8196/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio 24/7 Antofagasta",
+    "url": "https://broadcast.radio247.net/radio/8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Desierto FM 92.1",
+    "url": "https://broadcast.radio247.net/radio/8100/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Jerusalen FM 90.1",
+    "url": "https://audio1.tustreaming.cl/7090/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sol Classic",
+    "url": "https://us9.maindigitalstream.com/ssl/radiosol",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sol FM 97.7",
+    "url": "https://us9.maindigitalstream.com/ssl/7389",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UA (Universidad de Antofagasta)",
+    "url": "http://185.105.4.100/proxy/radioua?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Zoom Radio",
+    "url": "https://stream.zeno.fm/bccsy18t25quv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Indómita",
+    "url": "http://stream5.eltelon.com/indomita.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Dance FM Chile",
+    "url": "https://video.mediawebchile.com:9332/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Digital FM",
+    "url": "http://mimix.mercurio.cl:8000/arica",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Disco FM",
+    "url": "https://stream.zeno.fm/btz4feezphruv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "M Radio",
+    "url": "https://stream.zeno.fm/mtu1g1sqks8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Perfeccion FM",
+    "url": "https://stream.zeno.fm/d00avdr8ptzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Perfección",
+    "url": "http://video.mediawebchile.com:18026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Siente",
+    "url": "https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio/5bedd217987abd4e5d9e04b1/5de5597e52a9da4517903734/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Amanda FM 94.9",
+    "url": "https://radio.datalivehd.com:7008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Buin Al Dia FM 107.5",
+    "url": "http://streaming.buinaldia.cl:8006/buinaldia128",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Estación Mix",
+    "url": "http://streaming.estacionmix.cl:8008/estacionmix128",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "HE Radio FM 88.3",
+    "url": "https://sonic.cabildostreaming.cl/8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Crystal FM 101.9",
+    "url": "http://radiolatina.live:9980/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Creación fm 99.3",
+    "url": "http://archi-us.digitalproserver.com/creacion-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Mundo 103.1",
+    "url": "http://ip.audiostreaming.cl:9310/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Alegria del Transporte",
+    "url": "http://157.245.89.117:8028/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Bellissima FM",
+    "url": "http://archi-us.digitalproserver.com/bellissima.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Trueno Chile",
+    "url": "https://sonic.portalfoxmix.club:7146/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Amiga FM 95.7",
+    "url": "http://stream5.eltelon.com:8000/amiga-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Amanecer",
+    "url": "http://66.165.231.118:9954/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Tamarugal",
+    "url": "http://192.99.18.164:9434/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Kawaii Anime Radio",
+    "url": "https://azura12.instainternet.com/radio/8030/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pastenina FM 95.7",
+    "url": "http://stream5.eltelon.com/pastenina-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Cartagena FM 107.5",
+    "url": "https://player.xcast.com.br/proxy/11340",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "En la Noticia Radio FM 106.1",
+    "url": "https://streaming.chiloestreaming.com:10998/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Chiloé AM 1030",
+    "url": "https://streaming.chiloestreaming.com:10997/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Dinastía FM",
+    "url": "http://archi-us.digitalproserver.com/dinastia.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Surcos FM 100.9",
+    "url": "http://archi-us.digitalproserver.com/surcos-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Chaitén",
+    "url": "http://5.9.65.9:8114/stream/1/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Corcovado",
+    "url": "http://149.56.175.167:5108/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Bahía",
+    "url": "http://198.204.234.10:8125/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Buena Nueva de Chanco FM 106.3",
+    "url": "http://stream5.eltelon.com:8000/buena-nueva-chanco.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Chanquina FM 104.1",
+    "url": "http://186.67.77.165:8003/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio FMTU 92.1",
+    "url": "http://190.13.191.75:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio LRP FM 107.5",
+    "url": "https://sonicpanel.chileservidores.cl/8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Solaustral FM 97.7",
+    "url": "https://audio4.tustreaming.cl/7040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Ventisqueros FM 102.1",
+    "url": "https://audio3.tustreaming.cl/7130/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Alborada FM 106.1",
+    "url": "http://stream6.eltelon.com/alborada.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Isadora FM 97.7",
+    "url": "http://streaming.comunicacioneschile.net:9326/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Discusión FM 94.7",
+    "url": "http://stream6.eltelon.com/radio-la-discusion.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Macarena FM 99.7",
+    "url": "http://66.165.231.118:9306/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ñuble AM 900",
+    "url": "http://streaming.comunicacioneschile.net:9358/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Cariñosa 92.1 FM",
+    "url": "https://archi-us.digitalproserver.com/carinosa-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Contacto FM 90.7",
+    "url": "https://streaming.comunicacioneschile.net/8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Contexto Ñuble",
+    "url": "https://streaming.viphosting.cl/8028/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio El Sembrador",
+    "url": "https://sonic-cl.streaming-chile.com:7035/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Interactiva FM 91.5",
+    "url": "http://streaming.comunicacioneschile.net:9324/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Stellar FM 102.5",
+    "url": "http://streaming.comunicacioneschile.net:9376/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UNACH FM 106.9",
+    "url": "https://streamingv2.shoutcast.com/radio-u-adventista",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Uno Radio",
+    "url": "https://stream.zeno.fm/ztf0pgyvfa0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Comunidad",
+    "url": "http://audio.streaminghd.cl:9068/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Artesanía",
+    "url": "http://200.24.229.253:8010/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Libertad 99.1 fm",
+    "url": "http://streaming.chiloestreaming.com:9148/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio San Carlos",
+    "url": "http://streaming.chiloestreaming.com:9146/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Contagio Radio FM 104.5",
+    "url": "http://192.99.18.164:9836/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Montserrat",
+    "url": "http://168.195.128.187:9302/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Cumbre 90.9 FM",
+    "url": "https://sonic.portalfoxmix.cl:7079/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Sureña",
+    "url": "http://envivo.radiodelsur.cl:8000/aire.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Coltauco",
+    "url": "https://servers58.com/proxy/sc_coltaucofm?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bio-Bio FM 98.1",
+    "url": "http://redirector.dps.live/biobioconcepcion/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Buenas Noticias",
+    "url": "http://sseg.us:8072/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "CCP Radio",
+    "url": "http://cast.grupoz.cl:8168/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Digital FM",
+    "url": "http://mimix.mercurio.cl:8000/concepcion1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "El Conquistador Concepción FM 98.9",
+    "url": "https://audio5.tustreaming.cl/8060/concepcion",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Estacion95",
+    "url": "http://sonando.us.digitalproserver.com/estacion95.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Femenina FM",
+    "url": "http://archi-us.digitalproserver.com/femenina.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Llacolén",
+    "url": "http://sonando.us.digitalproserver.com/radiollacolen.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Punto 7",
+    "url": "http://unlimited4-us.dps.live/p7concepcion/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Diferente",
+    "url": "http://streaming.comunicacioneschile.net:9948/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Entrelomas",
+    "url": "https://servidor17-2.brlogic.com:9226/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Interamericana",
+    "url": "https://sonando-us.digitalproserver.com/radiointeramericana.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Recital",
+    "url": "https://sonic01.zglobalhost.com/8054/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Restauracion 97.1 FM",
+    "url": "https://sonic.portalfoxmix.cl/8554/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sinfonia Online",
+    "url": "http://5.9.65.9:8240/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UdeC",
+    "url": "https://unlimited11-cl.dps.live/udec/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Under",
+    "url": "https://cheetah.streemlion.com:3055/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RDI FM 88.5",
+    "url": "http://sonando.us.digitalproserver.com/rdi.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Voz de Concón",
+    "url": "https://sonic.portalfoxmix.cl/9920/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Nueva FM",
+    "url": "http://audio5.tustreaming.cl:7010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pentagrama FM 104.3",
+    "url": "http://audio5.tustreaming.cl:8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Isabel FM 94.7",
+    "url": "http://stm5.xcast.com.br:9558/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Nostalgica FM 88.1",
+    "url": "https://redirector.dps.live/nostalgica/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Festiva",
+    "url": "http://s6.jcwebnew.com:8070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Maray",
+    "url": "https://stream.playhosting.cl/8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RCI Radio Chile",
+    "url": "http://23.239.68.75:8011/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Mi Radio La Serena",
+    "url": "http://s6.jcwebnew.com:9020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Once Coquimbo",
+    "url": "http://radiostreaming.cloudserverlatam.com/8018/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Riquelme AM 1350",
+    "url": "https://cp.streamchileno.cl/radio/8040/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Dinamica FM 100.7",
+    "url": "http://stream5.eltelon.com/dinamica.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Arcoiris FM 99.3",
+    "url": "http://5.9.65.9:8195/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Canal Sur Patagonia",
+    "url": "https://audio2.tustreaming.cl:10979/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio 45 Sur",
+    "url": "http://stream5.eltelon.com:8000/45-sur.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Apocalipsis FM 91.3",
+    "url": "https://audio5.tustreaming.cl:10995/radio-apocalipsis.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Genial",
+    "url": "https://audio1.tustreaming.cl/7555/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Paraiso FM",
+    "url": "http://190.3.169.87:9802/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Santa María FM 102.3",
+    "url": "http://archi-us.digitalproserver.com/santa-maria-am.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Ventisqueros",
+    "url": "http://archi-us.digitalproserver.com/ventisqueros-coyhaique.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Zona 11",
+    "url": "https://audio3.tustreaming.cl/7030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Colección FM 95.7",
+    "url": "http://archi-us.digitalproserver.com/coleccion.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "enigmadjradio",
+    "url": "https://srv6.sonicpanel.cl/8024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Rosario FM 107.5",
+    "url": "http://cast.radioservicios.cl:8402/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Inolvidable FM 89.1",
+    "url": "https://usa3.lhdserver.es:8037/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Lola FM 104.3",
+    "url": "https://centova.neonetwork.cl:9154/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Alfaomega",
+    "url": "http://5.135.183.124:8295/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Americana",
+    "url": "http://104.131.18.232/proxy/americana?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Condell FM 92.7",
+    "url": "http://5.9.65.9:8037/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Favorita FM 89.9",
+    "url": "https://zeus.miradio.pro/radio/8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Punto 9 Curico 99.9",
+    "url": "http://164.77.84.69:8000/punto9",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RTL 95.5 FM",
+    "url": "http://radio.mediadev.cl:8090/rtl_curico",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "VLN Radio FM 105.7",
+    "url": "http://streaming-us.vlnradio.cl/vln",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "C y S Radio",
+    "url": "http://streaming.chiloestreaming.com:9542/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Almeyda",
+    "url": "http://192.99.18.164:9974/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio El Bosque FM 107.9",
+    "url": "https://sonic.portalfoxmix.cl/8464/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Catalina FM 106.3",
+    "url": "https://streaming.comunicacioneschile.net/9398/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Acogida Puyehue FM 100.9",
+    "url": "http://streaming.chiloestreaming.com/8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Luna Tropical",
+    "url": "http://176.31.241.17:7008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Florida",
+    "url": "http://5.9.65.9:8151/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Amorosa FM 107.3",
+    "url": "https://sonic.portalfoxmix.club/8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Profeta",
+    "url": "http://stream5.eltelon.com/el-profeta.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Nuevo Amanecer FM 93.3",
+    "url": "https://radio.saopaulo01.com.br/8258/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio San Gabriel de Fresia FM 96.3",
+    "url": "http://archi-us.digitalproserver.com/san-gabriel-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Interradio TV",
+    "url": "https://radio.saopaulo01.com.br:10819/%20;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Futaleufu Radio 96.5",
+    "url": "https://sonic.portalfoxmix.club/8082/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Del Lago",
+    "url": "http://centova.wmchile.cl:7122/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Magistral",
+    "url": "http://www.magistralfm.cl:9110/galvarino",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Aku-Aku",
+    "url": "http://s45.myradiostream.com:19480/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Hualaihué",
+    "url": "http://sonic.portalfoxmix.cl:9934/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nuestra FM 98.7",
+    "url": "http://audio.streaminghd.cl:9016/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Renacer FM 101.7",
+    "url": "http://185.76.77.113:9374/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Odisea",
+    "url": "http://stream5.eltelon.com/odisea.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Choapa FM",
+    "url": "http://sonic.portalfoxmix.club:8106/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Illapel FM",
+    "url": "http://audio.streaminghd.cl:9080/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Juan Pablo II",
+    "url": "http://archi-us.digitalproserver.com/lasierra_coquimbo.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Iloka FM 95.5",
+    "url": "https://usa3.lhdserver.es:8041/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Isluga",
+    "url": "http://server2.mundonline.cl:9316/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Mega FM 102.7",
+    "url": "http://192.99.18.164:9704/;stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Nueva Super 91.9 FM",
+    "url": "http://stream.lanuevasuper.cl:9664/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Bravíssima FM 88.7",
+    "url": "http://176.31.248.14:35194/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Invasion Chile",
+    "url": "http://185.105.4.100/proxy/radioinv?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Paulina",
+    "url": "https://sp1.streamingssl.com/8058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Voltaje",
+    "url": "https://sonic.portalfoxmix.club/8056/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RadioGente.CL",
+    "url": "https://mdstrm.com/audio/5de27ed416dea236fa7b4309/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rax-Dio",
+    "url": "https://stream.zeno.fm/wnx0bsw541zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Tu Verdad FM",
+    "url": "http://192.99.18.164:9710/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Vilas Radio FM 100.1",
+    "url": "http://sonic.portalfoxmix.cl:8354/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Isla 106.3 FM",
+    "url": "http://190.3.169.87:9306/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Crystal FM 105.3",
+    "url": "http://radiolatina.live:9984/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Dulce FM",
+    "url": "http://200.24.229.253:8240/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Eclipse FM 103.9",
+    "url": "http://190.13.167.26/8026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Continente FM",
+    "url": "http://streamradio27.hostingstreaming.cl:9364/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Infinity",
+    "url": "http://198.204.228.202:8033/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio La Revuelta",
+    "url": "https://stream.zeno.fm/dpy9k8a43mruv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Montecarlo",
+    "url": "http://montecarloradiostation2.better-than.tv/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Omega Internacional",
+    "url": "http://c7.radioboss.fm:8003/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pinamar FM 107.9",
+    "url": "https://cp.streamchileno.cl/radio/8130/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Ruta Norte FM",
+    "url": "http://streamprivate.live:8130/RRN2021",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio RW",
+    "url": "https://sonic.portalfoxmix.cl:7118/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RSB 96.7 FM",
+    "url": "http://archi-us.digitalproserver.com/san-bartolome-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Universitaria FM (Universidad de La Serena)",
+    "url": "http://radio.cic.userena.cl:8000/radio-uls",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Vamos FM",
+    "url": "https://stream.zeno.fm/gs5utnbwx2quv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "X. FM 104.9",
+    "url": "https://audio5.tustreaming.cl/8160/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Concordia",
+    "url": "http://audio2.tustreaming.cl:8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio FM Mundo 91.5",
+    "url": "http://centova.wmchile.cl:8175/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Paraíso FM 99.1",
+    "url": "https://medios.liveweb.cl:9000/radioparaiso",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Lago Ranco FM 96.9",
+    "url": "http://5.9.65.6:9936/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Paula FM",
+    "url": "http://94.23.214.195:8500/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Lampa FM 94.9",
+    "url": "https://sonic.portalfoxmix.club/8232/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rapel FM 104.1",
+    "url": "https://centova.neonetwork.cl:9088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Lado B Classic Dance",
+    "url": "https://audio.streaminghd.cl:2000/stream/LadoBClassicDance",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Divina 106.7 FM",
+    "url": "http://s6.jcwebnew.com:7710/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Lautarisima FM 97.3",
+    "url": "http://190.3.169.87:9820/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Licantén FM",
+    "url": "http://s4.mediostream.cl:8185/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Haciendo Radio",
+    "url": "http://149.56.241.149:8092/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Latina",
+    "url": "http://200.24.229.253:8100/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Somos",
+    "url": "http://200.24.229.253:8230/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RadioMasChile.cl",
+    "url": "http://192.99.18.164:9378/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ancoa FM 95.7",
+    "url": "http://audio2.tustreaming.cl:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Buena Nueva",
+    "url": "http://stream5.eltelon.com:8000/radio-buena-nueva.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Ambrosio",
+    "url": "http://s4.mediostream.cl:8113/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Azúcar",
+    "url": "https://audio3.tustreaming.cl:10968/azucarlitueche",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rosario FM 92.7",
+    "url": "http://archi-us.digitalproserver.com/rosario_rancagua.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Más Longaví FM 99.9",
+    "url": "http://radio.mediadev.cl:8030/fmmas",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Via7 FM 104.9",
+    "url": "http://radio.mediadev.cl:8060/via7",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Okey 101.3",
+    "url": "http://streaming.fmokey.cl/FmOkIQ.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Alas de Aguila",
+    "url": "http://stream.alasdeaguilas.cl:9332/play;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bio Bio Los Ángeles FM 96.7",
+    "url": "http://unlimited4-us.dps.live/biobiolosangeles/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "LosAngeles.cl",
+    "url": "https://streaming.comunicacioneschile.net/9414/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Punto 7 Los Angeles 101.7",
+    "url": "https://unlimited1-eu.dps.live/p7losangeles/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio 1290 AM",
+    "url": "http://online.radiomagdalena.cl:5074/magdalena",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Angelina AM 730",
+    "url": "https://sonic.portalfoxmix.cl/8406/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nueva Auroora FM 105.3",
+    "url": "http://5.9.65.9:8277/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nueva Mia FM 89.3",
+    "url": "http://archi-us.digitalproserver.com/mia.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Principal FM 91.7",
+    "url": "http://stream.principalfm.com:9400/stream.mp3;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio San Cristóbal 97.5 FM",
+    "url": "https://archi-us.digitalproserver.com/sancristobal_losangeles.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sensacion 99.1",
+    "url": "https://rbx2.hnux.com/http://e10343.cloudrad.io:8216/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sur 92.1FM",
+    "url": "http://ww3.radiosur.cl:5074/rsur",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Violeta online",
+    "url": "https://server01.heplayer.com:10993/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Regina Coeli FM 95.3",
+    "url": "http://94.23.214.195:9352/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Luz 88.3",
+    "url": "https://stream.zeno.fm/g63k798vawzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Atractiva FM 101.3",
+    "url": "http://archi-us.digitalproserver.com/atractiva.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Los Lagos FM 93.7",
+    "url": "https://sonic.portalfoxmix.club/8318/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "El Carbón",
+    "url": "http://ice.digitalproserver.com/el_carbon",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nativa",
+    "url": "https://sonic01.zglobalhost.com/8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pajaritos FM",
+    "url": "https://streaming.comunicacioneschile.net/8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Maipu",
+    "url": "https://centova.streaming-chile.com/proxy/radiomaipu?mp=/radiomaipu_live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nueva Coya 92.5 FM",
+    "url": "http://104.131.18.232:8158/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Melinkana FM 101.3",
+    "url": "https://envivo.lamelinkanafm.cl/lamelinkanafm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Acuarela",
+    "url": "https://radioacuarela.dyndns.org/acuarela.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Azúcar FM 97.3",
+    "url": "https://audio1.tustreaming.cl:10949/azucarmelipilla",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Caricia FM 102.3",
+    "url": "https://sonic.portalfoxmix.club/8244/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Creativa",
+    "url": "http://sonando.us.digitalproserver.com/creativa",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Domina FM",
+    "url": "https://chileservidores.cl/audio/?p=9398&t=1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Siempre",
+    "url": "https://radio.tvstream.cl/8104/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Sombras 107.9",
+    "url": "https://ascl.denial.cl:2020/stream/8012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ignacio Serrano",
+    "url": "https://sonic.portalfoxmix.club/8242/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio del Maipo",
+    "url": "https://sonic.mallocohosting.cl/8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio San Bartolomé",
+    "url": "http://190.3.169.87:9968/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Nacimiento Radio",
+    "url": "http://stream5.eltelon.com:8000/archi-nacimiento.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bio Bio Osorno",
+    "url": "http://unlimited4-us.dps.live/biobioosorno/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Digital FM Osorno",
+    "url": "http://mimix.mercurio.cl:8000/osorno1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Palabra FM 101.5",
+    "url": "http://sonic.portalfoxmix.cl:9954/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Musicoop FM 96.5",
+    "url": "https://sonic.portalfoxmix.cl:7196/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RadioSago AM 780",
+    "url": "http://archi-us.digitalproserver.com/osorno-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Comunicativa",
+    "url": "http://5.9.65.6:9930/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Buenísima",
+    "url": "https://www.buenisima.cl/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Diferencia FM 95.3",
+    "url": "https://centova.neonetwork.cl:9017/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Fabula",
+    "url": "https://stream.zeno.fm/y9d0xar7pzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Voz de Paine FM 107.9",
+    "url": "https://streamingsonicpro.com:7104/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Mas+ FM 97.5",
+    "url": "http://streaming.radiomaspaine.cl:8004/mas128",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Golondrina",
+    "url": "http://streaming.radiogolondrina.cl:8012/golondrina128",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Estrella del Mar FM 95.1",
+    "url": "http://streaming.chiloestreaming.com:9622/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Plenitud FM 98.7",
+    "url": "http://stm5.miradio.com.es:7536/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Cristalina",
+    "url": "http://stream5.eltelon.com/cristalina.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Azul 100.5",
+    "url": "http://radio.mediadev.cl:8050/fmazul",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Óptima FM 99.3",
+    "url": "http://157.245.89.117:8034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pablo Neruda FM 96.7",
+    "url": "http://192.99.18.164:9552/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Alive Online",
+    "url": "http://209.126.119.28:8081/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Roca FM 92.3",
+    "url": "http://audio.streaminghd.cl:9068/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Simpatía FM 108.5",
+    "url": "https://radiolatina.info:10982/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Modelo FM 106.1",
+    "url": "https://mpc.mediacp.eu/stream/radiomodelo",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio MonteAlegre FM 99.1",
+    "url": "http://5.9.65.6:9938/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio San Andrés FM 99.5",
+    "url": "http://158.69.116.4:8032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio EntreOlas FM 93.1",
+    "url": "http://cast.radioservicios.cl:8110/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "SurfBeats FM 92.3",
+    "url": "http://archi-us.digitalproserver.com/surfbeaef_pichilemu.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pirque FM 107.9",
+    "url": "https://rpfm.gzn.cl/pirquefm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Universal",
+    "url": "https://s01.azuracast.cl/radio/8010/universal",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fueguina FM 96.9",
+    "url": "http://167.114.219.240:9031/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Tierra del Fuego 1500 AM",
+    "url": "https://srv6.sonicpanel.cl/8072/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nervios",
+    "url": "http://167.114.219.240:7003/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Nativa FM 98.5",
+    "url": "https://streamingsonicpro.com/8198/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "radio 104punto9 FM",
+    "url": "http://audio.streaminghd.cl:9040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pudeto de Ancud FM 98.1",
+    "url": "http://streaming.chiloestreaming.com:9696/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radiorama FM",
+    "url": "http://tunein.radiomaniacos.cl:80/radiorama.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RLN - Radio Las Nieves FM 102.9",
+    "url": "http://audio2.tustreaming.cl:8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Belén FM 92.3",
+    "url": "http://archi-us.digitalproserver.com/nueva-belen-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bio Bio Puerto Montt",
+    "url": "https://unlimited4-us.dps.live/biobiopuertomontt/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Millenium Radio Network",
+    "url": "http://5.9.65.9:8030/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Patagonia Radio 94.1 FM",
+    "url": "https://radio.saopaulo01.com.br:10818/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Castillo Fuerte Online",
+    "url": "https://ssl.aloncast.com:1467/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Frutillar FM 106.3",
+    "url": "https://sonicpanel.mediostream.cl:7064/stream/50/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Para Ti 96.5 FM",
+    "url": "http://5.9.65.9:8091/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Reloncavi",
+    "url": "http://5.9.65.9:8172/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sago",
+    "url": "http://archi-us.digitalproserver.com/sago-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Eva",
+    "url": "https://sonando.cabildostreaming.cl/radioeva",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Independiente FM 95.1",
+    "url": "http://167.114.219.240:8094/independienteaac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sur",
+    "url": "https://radiostreaming.cloudserverlatam.com:7040/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Acogida FM",
+    "url": "http://streaming.chiloestreaming.com/8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Navarino FM 89.5",
+    "url": "https://sonic.portalfoxmix.club/8130/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Meridional Radio FM 100.9",
+    "url": "https://sonic01.instainternet.com/8172/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Milodón",
+    "url": "http://168.195.128.187:9956/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "My Radio FM 95.9",
+    "url": "http://198.204.228.202:8175/mp3_live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "My Radio FM 97.7",
+    "url": "http://198.204.228.202:8166/mp3_live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Opus FM",
+    "url": "http://cdn1.onstream.audio:6509/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Polarisima FM 99.7",
+    "url": "http://cdn1.onstream.audio:8085/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Magallanes",
+    "url": "http://archi-us.digitalproserver.com/magallanes.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Presidente Ibañez",
+    "url": "http://audio.servercl.com:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Soberanía 94.1 FM",
+    "url": "http://cast.grupoz.cl:8188/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Web Sin Límites",
+    "url": "https://laradiossl.online:7193/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Stylo",
+    "url": "http://streaming.chiloestreaming.com:9122/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Coloane",
+    "url": "http://192.99.18.164:9960/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Okey",
+    "url": "http://streaming.fmokey.cl/moviles.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "PanalRadio",
+    "url": "https://sonic.portalfoxmix.cl/8448/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Crystal FM 89.1",
+    "url": "http://radiolatina.live:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Enigma",
+    "url": "http://185.76.77.113:9354/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Libra",
+    "url": "http://sonando.us.digitalproserver.com/libra.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Nexo",
+    "url": "http://sonando.us.digitalproserver.com/nexo.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Quillota",
+    "url": "http://stream5.eltelon.com/radio-quillota.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Chercan Radio",
+    "url": "https://stream.zeno.fm/es9h0crh74zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio El Camino",
+    "url": "https://servidor22-5.brlogic.com:7694/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Radio Quenac 107.1",
+    "url": "http://streaming.chiloestreaming.com:9612/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Loncura FM 107.7",
+    "url": "http://audio.crearchile.info:9394/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Producto Nacional FM 97.5",
+    "url": "https://radiolatina.live:10938/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Vive Radio",
+    "url": "https://radiolatina.live/9958/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Rancagua FM 99.5",
+    "url": "https://sonic-cl.streaming-chile.com/9324/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Zenior Radio",
+    "url": "https://c7.radioboss.fm:18037/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Entre Rios FM 104.9",
+    "url": "http://stream5.eltelon.com/entre-rios.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Matices FM 88.7",
+    "url": "http://5.9.65.9:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Rayen",
+    "url": "http://192.99.18.164:9996/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Montina",
+    "url": "http://audio2.tustreaming.cl:8070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Padre Antonio Ronchi",
+    "url": "http://192.99.18.164:9664/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Evocación",
+    "url": "http://radiolatina.live:8016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Diferencia FM",
+    "url": "https://sonic-cl.streaming-chile.com:7082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pulsar FM",
+    "url": "https://sonic01.instainternet.com/8166/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Chilena FM 101.9",
+    "url": "http://sonando.us.digitalproserver.com/chilenafm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pop FRM 105.5",
+    "url": "http://server4.veemesoft.com.ar:26952/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Prendida FM 101.1",
+    "url": "http://162.244.80.106:10963/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ocarina FM 104.3",
+    "url": "http://streaming.comunicacioneschile.net:9328/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Trinidad FM",
+    "url": "https://stream.zeno.fm/czvqtbx1bzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Interactiva FM 93.9",
+    "url": "http://streaming.comunicacioneschile.net:9976/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Azul",
+    "url": "http://streaming.fmokey.cl/razul.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Contemporanea",
+    "url": "http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM de los Recuerdos",
+    "url": "http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Lider FM 95.1",
+    "url": "http://radiolatina.live:9340/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Magiztral",
+    "url": "http://archi-us.digitalproserver.com/magiztral-fm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Aukan FM 87.7",
+    "url": "https://cloudstream2034.conectarhosting.com/8416/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Punto 9 FM 92.9",
+    "url": "http://164.77.84.69:8000/online",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RTL San Fernando",
+    "url": "http://radio.mediadev.cl:8110/san_fernando",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Motiva FM",
+    "url": "https://centova.neonetwork.cl:9315/motiva",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Motiva2 FM",
+    "url": "https://centova.neonetwork.cl:9315/motiva2",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Dimensión Primavera FM 107.9",
+    "url": "http://192.99.18.164:9998/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Popular",
+    "url": "http://livehd.cdn.felpysolutions.us/proxy/sc_relpcl?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rádio Éxodo",
+    "url": "http://audio2.tustreaming.cl:8088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sanfurgo",
+    "url": "http://176.31.241.17:7112/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "ADN",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Agricultura",
+    "url": "http://redirector.dps.live/agricultura/mp3/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Airport Scanner - Santiago",
+    "url": "http://s1.fmt2.liveatc.net/scel?nocache=2019080814520975002",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Alas de Águila FM 107.3",
+    "url": "https://sonic.portalfoxmix.cl:7052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Andromeda Rise",
+    "url": "https://sh4.radioonlinehd.com:8513/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bío-Bío FM 99.7",
+    "url": "https://redirector.dps.live/biobiosantiago/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Carabineros de Chile FM 98.1",
+    "url": "https://sonic01.instainternet.com/8374/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Colo Colo 880 AM",
+    "url": "https://audio2.tustreaming.cl:10997/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Concierto",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Cooperativa",
+    "url": "https://redirector.dps.live/cooperativafm/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "El Conquistador FM",
+    "url": "https://stream10.usastreams.com:10998/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Estilo FM",
+    "url": "https://audio2.tustreaming.cl:10984/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Experimental FM 106.9",
+    "url": "https://streaming01.xhost.cl/8044/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática CHILL",
+    "url": "https://ascl.denial.cl:2020/stream/8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática CL",
+    "url": "https://ascl.denial.cl:2020/stream/8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática DANCE",
+    "url": "https://ascl.denial.cl:2020/stream/8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática INDIE",
+    "url": "https://ascl.denial.cl:2020/stream/8008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática KPOP",
+    "url": "https://ascl.denial.cl:2020/stream/8026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Fanática POP",
+    "url": "https://ascl.denial.cl:2020/stream/8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Dos",
+    "url": "https://21933.live.streamtheworld.com/FMDOSAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Latina 89.1",
+    "url": "https://ballero.b-cdn.net/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Tiempo 95.9",
+    "url": "https://redirector.dps.live/fmtiempo/mp3/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Frecuencia Stereo",
+    "url": "https://stream.zeno.fm/72hnp85n21zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Futuro 88.9 FM",
+    "url": "https://22823.live.streamtheworld.com/FUTUROAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Infinita",
+    "url": "http://redirector.dps.live/infinita/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Morena",
+    "url": "https://sonicpanel.mediostream.cl/8068/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "LaRetro.cl",
+    "url": "https://s2.radio.co:80/s9ecef4f68/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Los 40 Chile FM 101.7",
+    "url": "https://20833.live.streamtheworld.com/LOS40_CHILEAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Mundo Stereo",
+    "url": "http://162.251.160.57:8094/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Nuevo Mundo AM",
+    "url": "http://190.82.105.90:8012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "One Play Radio",
+    "url": "http://5.9.65.9:8134/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pauta",
+    "url": "https://unlimited1-eu.dps.live/radiopauta/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Portales de Santiago",
+    "url": "http://s6.jcwebnew.com:8060/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Portales Digital",
+    "url": "https://stream3.polarhost.cl/portales2",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Portales Señal 2",
+    "url": "http://stream5.eltelon.com:8000/archi-portales2.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Pudahuel",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUELAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Alfa",
+    "url": "http://ascl.denial.cl:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Ciudad de Los Valles",
+    "url": "https://sonic.portalfoxmix.club/8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Corazón FM",
+    "url": "https://22823.live.streamtheworld.com/CORAZONAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Disney Chile",
+    "url": "https://unlimited4-us.dps.live/disney/mp364k/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Dixi FM 106.9",
+    "url": "https://sonic.portalfoxmix.cl/9940/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Emergencia Chile",
+    "url": "http://usa4.fastcast4u.com:5500/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Euro Éxtasis",
+    "url": "https://streamingraddios.online/proxy/angels?mp=/stream&1583228338172",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Fans LOS40",
+    "url": "https://stream.zeno.fm/nfgw9gm4rg5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio FM Dance",
+    "url": "https://sonic.portalfoxmix.cl:7034/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Horizonte",
+    "url": "https://mdstrm.com/audio/601415b58308405b0d11c82a/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Imagina FM 88.1",
+    "url": "https://24383.live.streamtheworld.com/IMAGINAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio La Mejor",
+    "url": "https://sonicpanel.mediostream.cl/8066/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio M",
+    "url": "http://c15.radioboss.fm:8285/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio María Chile",
+    "url": "http://dreamsiteradiocp.com:8066/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Milenaire FM 98.1",
+    "url": "https://stream.zeno.fm/ta3kttwu88quv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio NiTanRetro",
+    "url": "https://sonic.portalfoxmix.cl/8090/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pirinola",
+    "url": "http://curiosity.shoutca.st:6451/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Play FM",
+    "url": "https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/5c8d6406f98fbf269f57c82c",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Recuerdos Retro",
+    "url": "https://sonic.portalfoxmix.cl/8226/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Sinfonia Super Stereo",
+    "url": "https://sonic.portalfoxmix.cl:7163/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Uchile 102.5 FM",
+    "url": "https://streamuchile.teslati.com/liveruch",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Uno Chile",
+    "url": "https://play12.tikast.com/proxy/radiounochile?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Zeta",
+    "url": "http://unlimited3-cl.dps.live/radioz/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radioactiva FM 92.5",
+    "url": "https://20323.live.streamtheworld.com/ACTIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RIN FM Radio Isla Negra",
+    "url": "http://66.228.60.216:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rock & Pop FM 94.1",
+    "url": "https://21933.live.streamtheworld.com/ROCK_AND_POPAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Romantica FM 104.1",
+    "url": "http://unlimited4-us.dps.live/romantica/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ruidos FM",
+    "url": "http://192.99.18.164:9880/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "San Joaquín",
+    "url": "http://espora.org:8000/radiosanjoaquin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Sonar FM 105.3",
+    "url": "https://us-b4-p-e-ev5-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Super45.FM",
+    "url": "https://s4.radio.co/s421105570/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Tele13 Radio",
+    "url": "https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Universo FM 93.7",
+    "url": "https://unlimited4-us.dps.live/universo/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "VC Online",
+    "url": "http://192.99.18.164:9954/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "XKE",
+    "url": "http://192.198.83.247:8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Manantial FM 102.9",
+    "url": "https://sonic-cl.streaming-chile.com/8068/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Progreso FM 101.1",
+    "url": "http://audio5.tustreaming.cl:7240/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Corporación FM 102.5",
+    "url": "http://audio3.tustreaming.cl:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "El Conquistador Talca",
+    "url": "https://audio5.tustreaming.cl/8070/talca",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Marisol 101.5 FM",
+    "url": "http://192.99.18.164:9574/,",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Chilena del Maule 90.9 FM",
+    "url": "https://archi-us.digitalproserver.com/chilena_maule.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Contacto",
+    "url": "https://streaming.viphosting.cl/8138/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Contagio FM 88.1",
+    "url": "https://servers58.com/proxy/sc_radiocontagiofm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio FM+ 92.3",
+    "url": "http://audio5.tustreaming.cl:8010/fmmas",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Lautaro 970 AM",
+    "url": "http://stream6.eltelon.com/lautaro.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Paloma FM 97.5",
+    "url": "http://192.99.18.164:9622/,",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Universidad de Talca 102.1 FM",
+    "url": "http://iradio.utalca.cl:8000/fm",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UTalca - Folclore",
+    "url": "http://iradio.utalca.cl:8000/am",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Vivo",
+    "url": "https://sonicpanel.streaming10.net/8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Definicion FM 98.3",
+    "url": "https://streamingsonicpro.com:7102/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Taltal Radio online",
+    "url": "http://sonic.portalfoxmix.cl:9926/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Araucana FM 95.9",
+    "url": "http://audio.streaminghd.cl:9112/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Edelweiss",
+    "url": "https://stream.edelweiss.fm/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Creaciones",
+    "url": "https://player.datalivehd.com/proxy/7182",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Eclipse",
+    "url": "https://sonic.mallocohosting.cl/8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Esperanza FM 101.3",
+    "url": "http://audio2.tustreaming.cl:8048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Universal",
+    "url": "http://s01.azuracast.cl/radio/8010/universal",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Candelaria Radio Online",
+    "url": "https://stream.polarhost.cl/candelariaFm",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Candelaria Tropical Online",
+    "url": "http://archi-us.digitalproserver.com/candelaria-fm-tierra-amarilla.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Dulcemar FM 88.5",
+    "url": "https://stream.zeno.fm/4g8w8my7ybruv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Definitiva",
+    "url": "http://192.198.83.230:8772/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Hitmics Radio",
+    "url": "http://149.56.241.149:8076/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Continente FM 94.5",
+    "url": "https://streamingsonicpro.com:7101/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Extasis",
+    "url": "http://192.99.18.164:9746/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Aguamarina FM 100.5",
+    "url": "http://sonando.us.digitalproserver.com/aguamarina.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Amistad AM 1480",
+    "url": "http://streaming.radiolaamistaddetome.cl:9964/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Magistral Traiguen",
+    "url": "http://www.magistralfm.cl:9110/traiguen",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM Cordillera 93.1",
+    "url": "http://5.9.65.9:8082/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Austral AM",
+    "url": "http://archi-us.digitalproserver.com/austral.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Exquisita",
+    "url": "http://stream5.eltelon.com/exquisita.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Genoveva",
+    "url": "http://stream6.eltelon.com/genoveva.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Pilmaiquen",
+    "url": "https://streaming.chiloestreaming.com:10977/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Regional FM 98.1",
+    "url": "https://audio.divalstream.com:7000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Tornagaleones FM 105.3",
+    "url": "http://tornagaleones.ddns.net:9000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UACh",
+    "url": "http://centova.uach.cl:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Marcela",
+    "url": "http://archi-us.digitalproserver.com/marcelafm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Rdbradio Vallenar",
+    "url": "https://sonic.portalfoxmix.cl:7087/st",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Anime Para Ti",
+    "url": "https://stream.zeno.fm/acnhrkt8c4duv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Bio Bio Valparaiso",
+    "url": "https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "COBrOx RADiO",
+    "url": "http://135.181.78.169:8672/cobroxradio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Digital FM",
+    "url": "http://radio.digitalfm.cl:8000/valparaiso1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Portales AM 840",
+    "url": "http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Caracola",
+    "url": "http://185.76.77.113:9306/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Congreso",
+    "url": "http://stream5.eltelon.com/radio-congreso.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Islam Chile",
+    "url": "http://5.9.65.9:8031/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Placeres",
+    "url": "http://192.99.18.164:9856/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Recreo",
+    "url": "https://tvstreaming.cl:7004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Tsonami",
+    "url": "http://rr.radiotsonami.org:8000/radio_tsonami",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio USM FM 99.7",
+    "url": "https://streamssl.eu:1288/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "radiorara",
+    "url": "http://190.3.169.87:9952/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Ritoque FM 107.9",
+    "url": "http://sonando.us.digitalproserver.com/ritoquefm_aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "RVL 97.3fm",
+    "url": "https://audio.streaminghd.cl:2000/stream/RadioValentinLetelier/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Copihue FM 105.1",
+    "url": "http://archi-us.digitalproserver.com/copihue-fm-victoria.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio FM Entretenida",
+    "url": "http://sonic.portalfoxmix.cl:9844/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Espacio Regional Online",
+    "url": "https://stream.zeno.fm/udv4r5b6e2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "FM del Sol 100.3",
+    "url": "http://audio2.tustreaming.cl:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Correo del Lago",
+    "url": "https://sonic.portalfoxmix.cl/8524/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Lago FM 91.5",
+    "url": "http://192.99.18.164:9488/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "tvradio Volcan",
+    "url": "http://streamprivate.live:8176/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Cristiana",
+    "url": "https://streaming01.shockmedia.com.ar:10794/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Festival FM 93.7",
+    "url": "https://stream.festival.cl/1",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Quinta Region",
+    "url": "http://51.89.173.53:8404/live",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio UVM",
+    "url": "http://200.24.229.253:8020/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Radio Vistamar",
+    "url": "http://104.131.18.232/proxy/vistamar?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Retroclásicos Radio",
+    "url": "http://144.217.197.70:8094/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "UCV Radio",
+    "url": "https://sonando-us.digitalproserver.com/ucvradio",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "Viña FM",
+    "url": "http://200.24.229.253:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Chile",
+    "name": "La Voz De Yungay FM 102.7",
+    "url": "http://stream6.eltelon.com/archi-yungay.aac",
+    "logo": ""
+  }
+]

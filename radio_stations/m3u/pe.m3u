@@ -1,0 +1,511 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Estación Solar FM 89.7
+http://167.114.118.120:7330/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Izarra Digital 91.5 FM
+http://167.114.118.119:7440/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Apurimeña FM 97.3
+http://sonic.dattassd.com:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Aeroestereo FM 94.3
+https://stream.zeno.fm/8u6kahy9b9quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Kaprichos FM
+https://stream.zeno.fm/8bagnnetftzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Lidyi
+http://lidyi.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", NSE Radio
+https://shoutcast.tmcreativos.com/proxy/nsearequipa?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Manny FM
+https://stream.zeno.fm/hfqv7vne2mruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Maxima del Peru
+https://whmsonic.playerfullhd.com/9518/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Megatron Mix
+https://stream.zeno.fm/rw67aty148quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Melodia FM
+http://184.154.28.210:8214/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Misterio Rock and Pop
+https://stream.zeno.fm/9pwru594feruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Perfección
+https://stream.zeno.fm/n350ttc3u8quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio San Martin FM 97.7
+https://conectperu.com:7020/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Sobrevivientes Rock Pop
+https://stream.zeno.fm/b4822k4m8mzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Superstereo FM 105.5
+http://198.148.103.200:8052/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Asia FM 98.7
+http://167.114.118.120:7804/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Modamix FM 89.9
+https://sonic01.instainternet.com/8064/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio LD Stereo
+http://cp12.serverse.com:7098/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Coremarca 100.5 FM
+http://195.154.167.62:7044/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Estrella FM 98.3
+https://sonic-us.streaming-chile.com:7039/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Satelite FM 94.3
+https://streammedia.tk/radio/8030/radio.mp3/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Kiss FM 106.9
+https://sonic.dedicado.stream:7028/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Beta 101.3 FM
+http://167.114.118.120:7648/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Lider AM 970
+https://sonicpanel.streaming10.net/7058/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Onda Popular 96.5 FM
+https://envivo.top:8443/am
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Turbo Mix FM 92.5
+http://167.114.118.120:7624/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Urbana FM 100.9
+https://radio.sistemasandinos.org:10905/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Cordillera FM 102.9
+http://radio.sowertec.com:2002/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Cumbia FM 107.1
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7698/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Fenix FM 91.5
+http://oyotunstream.com:7322/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Reina de la Selva
+http://67.212.179.138:7046/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Sonrisa FM 96.1
+https://sonicpanel.globalstream.pro/8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Señal Pirata Radio
+https://conectperu.com/8082/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Nova Chiclayo FM 94.9
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7170/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Fuego FM 100.5
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7616/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Kaliente 92.1 FM
+http://167.114.118.120:7614/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Cumbe 1200 AM
+https://stream.zeno.fm/3b62621u97zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Onda 7 Radio
+http://62.210.141.243:8163/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Nova FM 104.3
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7166/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Kalle
+http://167.114.118.120:7448/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Andina 980 AM
+http://167.114.118.120:7058/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Bendición Cristiana 96.3 FM
+https://stream.zeno.fm/xztthzadfg8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Chota AM 1310
+http://167.114.118.120:7056/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Comas FM
+http://65.60.2.26:8044/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Perfeccion FM
+https://stream.zeno.fm/9cas4u74qtzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Jerusalen AM 630
+https://stream.zeno.fm/u49fd05h6gruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio la Soberana Calca
+http://23.239.68.71:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Rock
+http://172.104.217.55:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Sistemas FM 103.5
+http://stm.voxhd.com.br:7396/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tupac Amaru AM 750
+http://stm1.srvstm.net:7182/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Vida FM 90.7
+http://144.76.96.54:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Kuadra 103.5 FM
+https://dattavolt.com/8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Gigante Latina
+https://eu2.serviaudio.com:10842/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Zeta FM 88.5
+http://emiteradio.com:8091/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Imperio
+http://sseg.us:8036/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Rescate Rock & Pop
+https://cloudstream2032.conectarhosting.com/9558/streamwww
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Litoral FM 105.9
+http://67.212.179.138:7050/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Stereo 92
+https://stream.zeno.fm/c49wbe2r1f8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Laser Star FM 99.3
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7210/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Mega Stereo 98.5 FM
+https://stream.zeno.fm/mwy8dp14qzzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio 1550 La Radio Joven
+https://cloud9.ldwebstudios.net:7001/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Antena Sur FM 90.3
+https://stream.zeno.fm/tu63bf6g31zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Huancayo 104.3 FM
+https://cloud9.ldwebstudios.net:7000/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Red Vida
+http://radio.sistemasandinos.org:7192/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Rumbo
+http://167.114.118.120:7290/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Trueno 99.1 FM
+http://184.154.28.210:8400/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Elite FM 104.1
+https://radio.livestreamingmundial.com:7131/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Chevere FM 96.7
+https://radio.sistemasandinos.org:10992/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Huarmaca 98.1 FM
+https://stream.zeno.fm/5n83zhdpva0uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Altamar FM 102.3
+https://cloudstream2030.conectarhosting.com/9380/stream;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Astoria 94.9 FM
+http://51.38.74.200:8421/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Loreto FM 103.5
+https://sp.oyotunstream.com/8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tigre 100.5 FM
+https://sp.oyotunstream.com/9352/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Marañon AM 580
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7112/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Master FM 92.9
+http://ip.perustreaming.net:9740/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Ritmo97
+http://s2.free-shoutcast.com:18052/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Onda Popular Perú
+https://player.datalivehd.com/proxy/7008
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio San Pedro FM
+https://conectperu.com:7101/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", El Clásico FM
+https://eu1.serviaudio.com/8076/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Ruta 107.3 FM
+http://167.114.118.120:7426/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Recuerdos Junín
+https://eu1.serviaudio.com/8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Sabor FM 97.9
+http://167.114.118.120:7686/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Valentina FM 98.5
+http://82.145.59.200:5733/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Mia FM 92.1
+https://sonic.globalstreaming.net/8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Indie Perú Radio
+https://sonic01.instainternet.com:7025/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Lima
+http://d.liveatc.net/spjc1_twr
+#EXTINF:-1 tvg-logo="" group-title="Peru", AbbaPadreRadio.com
+https://stream.zeno.fm/6rrwumthg6quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", AOR Radio Rock Live
+http://188.40.135.197:8442/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Apata Radio
+https://stream.zeno.fm/09qzgfvm11zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Bethel Radio FM
+http://96.31.83.86:8158/stream?1574411238949
+#EXTINF:-1 tvg-logo="" group-title="Peru", Boleros Inolvidables
+https://stream.zeno.fm/5t45zksv7mruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Buenaza
+https://turadio.accesopanel.com:7241/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Buenos Momentos Radio
+https://conectperu.com/8156/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Buquetrece Radio
+https://ac.buquetrece.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Doble Nueve Live FM 99.1
+http://149.56.241.147:8002/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Peru", Estación 90s Radio
+http://radio.ancashserver.com:9552/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Filarmonia 102.7 FM
+http://c22.radioboss.fm:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", G-Radio
+https://streamer.radio.co/s108b75009/listen
+#EXTINF:-1 tvg-logo="" group-title="Peru", Generacion Kpop
+https://stream9.mexiserver.com/8242/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Herencia Rumbera Radio
+https://streamseguro.com/radio/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Imperio Kpop
+https://stream.zeno.fm/0uu6h6hdazzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Jazzcontempo
+https://conectperu.com:7023/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Jov Radio
+https://stream.zeno.fm/8hynxvbbyvduv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Kool Rock Radio
+http://stream.koolrockradio.com:8015/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Kpopway
+https://streamer.radio.co/s06b196587/listen
+#EXTINF:-1 tvg-logo="" group-title="Peru", La RocknPop
+http://167.114.118.119:7614/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", La Sanjuanera Radio
+http://65.60.2.26:8178/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", La Senda Antigua
+https://stream.zeno.fm/k71xz7yh64zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Latarima Radio
+https://streamprivate.live/8064/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Luz Divina
+https://servidor32-2.brlogic.com:7412/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Make It Funky
+http://stream.radiojar.com/a76zax9ur74tv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Mariella FM 104.1
+https://streamprivate.live/8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Mezclando Culturas
+https://stream.zeno.fm/721rccqzczzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Mezclando Culturas Old School
+https://stream.zeno.fm/rzygtnz63d0uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Onda Cero FM 98.1
+https://streaming.gometri.com/stream/8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Onda Digital
+https://conectperu.com:7089/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Onda Sureña
+https://sonicpanel.streaming10.net/7040/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Otro Sentido Radio
+https://sp2.servidorrprivado.com/8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", PBO Radio
+https://streamingv2.shoutcast.com/pbo-radiofm
+#EXTINF:-1 tvg-logo="" group-title="Peru", Pentagrama Latinoamericano Radio Folk
+https://via.vulstream.com/radio/8310/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Peruana Radio
+http://78.129.185.84:28123/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio 1160
+https://streaming.gometri.com/stream/8021/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Baladas del Recuerdo
+https://streamingv2.shoutcast.com/ROMANTICASINOLVIDABLES
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Bienestar AM 1360
+http://17963.live.streamtheworld.com/BIENESTAR.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Católica Fe y Caridad
+http://usa8.fastcast4u.com:5201/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio CCi
+http://stream.anonops.com:8080/AnonOps
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Cielo
+http://167.114.118.120:7342/;stream/1;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Cumbia Mix
+https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio del Amor
+https://stream.zeno.fm/qwwtnxn1fnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Disney 96.1 FM
+https://www.ujjina.net:2020/stream/radiodisneyperu
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Enamorados
+https://stream.zeno.fm/gnybbqc1fnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Exito 1060 AM
+http://67.212.166.178:7152/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Exitosa
+https://7.innovatestream.pe:2020/stream/exitosaoficial/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Fiel y Verdadero
+http://stream.radiojar.com/0ff3cw6gxbwtv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Folk Peru
+https://stream.zeno.fm/baxwy8zv3gruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Gozo
+http://radio.gisslive.com:9006/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Inca 540 AM
+http://14993.live.streamtheworld.com/CRP_INC.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Juerga Total
+https://sp.tvcontrolcp.com/9990/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Familia 105.1 FM
+http://65.60.2.26:6122/;stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Luz AM 1080
+http://radio.transmite.pe:9310/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Vaca
+https://streaming.gometri.com/stream/8007/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Latidos Peru
+http://ip.peruhits.com:7230/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Lima 89
+https://stream.zeno.fm/4hygmbuxr5quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Love - Classic Hits
+https://stream.zeno.fm/5115vsdnnnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Mágica 88.3 FM
+http://14533.live.streamtheworld.com/MAG_AAC.aac#20002
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio María Peru
+https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Misión Vida Internacional
+https://serverssl.innovatestream.pe:8080/http://167.114.118.119:7824/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Misterio Rock and Pop
+https://stream.zeno.fm/bwrw9xcgqeruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Moda
+http://18513.live.streamtheworld.com:80/CRP_MOD_SC#20002
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Nueva Q
+http://19233.live.streamtheworld.com:80/CRP_NQ_SC#20002
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Oriente
+http://radio.radiotel.net:9312/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Planeta FM 107.7
+http://16643.live.streamtheworld.com/CRP_PLAAAC.aac#20002
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Puente Piedra
+http://eu1.serviaudio.com:8024/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Puro Sur FM
+https://stream.zeno.fm/grxynbmuwneuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Retro
+https://stream.zeno.fm/v8b6uyvf9s8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Salsa Calle Latina
+https://stream.zeno.fm/erhrz6fdbnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Santa Rosa
+https://securestream.conectarhosting.com:8136/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Sonorama
+http://18573.live.streamtheworld.com:80/CRP_SON_S01_SC
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Stereo Network
+https://sonicpanel.globalstream.pro:10934/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", radio super amor
+http://167.114.118.119:7950/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Swing
+http://69.46.24.226:7288/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Synthpop
+http://stm29.srvstm.com:9268/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tiempo de Compartir
+https://cloudstream2034.conectarhosting.com/9700/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Unión FM 103.3
+http://67.212.179.138:7218/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", RadioTV ESN FM 97.7
+https://stream.zeno.fm/3khgtfrpktzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Red Radio 700 AM
+https://player.servidor.stream/secure-ssl/7006
+#EXTINF:-1 tvg-logo="" group-title="Peru", Retro Baladas en Inglés
+https://stream.zeno.fm/5115vsdnnnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Ritmo Romántica 93.1 FM
+http://18313.live.streamtheworld.com/CRP_RIT.mp3#20002
+#EXTINF:-1 tvg-logo="" group-title="Peru", Rock en Español - Radio la Ñ
+https://stream.zeno.fm/tk4wmqvnnnruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Rockola.Pe
+https://eu9.fastcast4u.com/proxy/rockolape?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Peru", Romanticas del Ayer
+https://stream.zeno.fm/8tx9pb0y31wtv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Romanticas en Ingles
+https://stream.zeno.fm/aes8wpeu92quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Romanticas Inolvidables
+https://stream.zeno.fm/6m1ba7yt3vduv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Sol Frecuencia Primera RTVN
+http://67.212.179.138:8084/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", SonoRadio
+https://stream.zeno.fm/5qns2ew24k8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Top Latino Radio
+http://online.radiodifusion.net:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Tor Radio
+https://stream.zeno.fm/k6mgwuqp0v8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Viva FM 104.7
+http://streamingargentino4.com.ar:5310/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Z Rock & Pop 96.1FM
+http://167.114.118.120:7440/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Zona Retro FM
+https://server.streamingradios.net/8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tropical FM 98.9
+http://eu2.serviaudio.com:8068/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Sotelo Llamellin 101.3 FM
+https://stream.zeno.fm/unde9yxcyzzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Xpression316
+http://198.204.234.10:8568/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Gaceta Ucayalina Radio
+https://station.gacetaucayalina.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Antankallo FM 104.5
+http://cast.az-streamingserver.com:9037/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Swing 88.9 FM
+http://oyotunstream.com:7292/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio la  Poderosa FM 98.2
+https://turadio.accesopanel.com:7101/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Fidelidad 99.9
+https://stream.zeno.fm/dg4u1cfm08quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Identidad Mollendo
+http://whmsonic.playerfullhd.com/8342/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Mix FM 103.5
+https://stream.zeno.fm/ug8papw4nbruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Platinum FM 102.9
+https://stream.zeno.fm/59sn98mhanruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Atmósfera FM 92.3
+https://eu2.serviaudio.com/8076/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Interactiva FM 92.9
+https://radio.livestreamingmundial.com/8070/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Moda Star
+https://sp.onliveperu.com/8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Girasol 90.1 FM
+https://miradioperu.com:7011/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tropicana 92.5 FM
+http://167.114.118.120:6010/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio MaxiMix
+https://stream.zeno.fm/znv7mhnuaxquv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Maranki 89.9 FM
+https://stream.zeno.fm/xdsxb993mp8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Bahia 103.1 FM
+http://167.114.118.119:7494/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Girasol 107.1 FM
+https://miradioperu.com:7009/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Nova Piura
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7174/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio FM Stereo FM 100.0
+https://conectperu.com/8210/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Vesanico
+https://server.streamingradios.net/8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Estacion.FM
+https://servidor15-2.brlogic.com:7502/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Onda Azul
+http://167.114.118.120:7160/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tabocas 92.1 FM
+https://sp.onliveperu.com:7045/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Panamericana
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Canto Grande FM 97.7
+http://65.60.2.26:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio San Miguel La Mar 106.1 FM
+https://stream.zeno.fm/eymwfyukb2zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Mya Radio
+https://stream.zeno.fm/pvz7n47we0quv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tabocas 92.1
+https://sp.onliveperu.com:7045/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Explosiva FM 101.1
+https://sp.onliveperu.com/8012/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Sol FM 94.9
+http://radio.sistemasandinos.org:7214/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", La Jefa
+http://167.114.118.119:7320/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Marcony Radio
+https://radio.datalivehd.com:7104/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Antena 10 Sullana
+https://miradioperu.com:7002/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Estrella FM 97.7
+https://radio.livestreamingmundial.com:7103/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio la capullana FM 95.7
+http://radio.ancashserver.com:9834/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio la Fuerte 95.5 FM
+http://167.114.118.119:7322/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Lancones 99.1FM
+https://radio.livestreamingmundial.com:7020/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Nuevo Horizonte
+https://stream.zeno.fm/vrkvms2ud5zuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", San Francisco
+http://167.114.118.119:7324/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Azretro
+https://stream.zeno.fm/v7kvqunmwzzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio RCC FM 99.3
+http://198.178.121.76:8084/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Retro
+http://stream.eistreaming.com:7068/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Tacna FM 104.3
+https://conectperu.com/8024/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Uno FM 93.7
+https://streamingv2.shoutcast.com/radiounotacna
+#EXTINF:-1 tvg-logo="" group-title="Peru", Fuego
+http://radio.ancashserver.com:9728/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Mejor 91.7 FM
+https://sonic.globalstreaming.net/8084/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Bethel Radio FM 91.1
+http://96.31.83.86:8158/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Play FM
+http://shoutcast.tmcreativos.com:8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Interactiva FM 98.3
+https://radio.livestreamingmundial.com/8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Karicia FM 107.5
+https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Red FM
+https://stream.zeno.fm/4rpmmy1fzs8uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Red FM - Full 80s
+https://whmsonic.playerfullhd.com:7313/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Tropical FM 99.1
+https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Turbo Laser FM 106.1
+https://turbolaser-muchikperu.radioca.st/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Alto Huallaga FM 103.1
+https://sonicpanel.tmcreativos.com/8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Muchik Radio
+http://fusion.shoutca.st:8055/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Peru Folk Radio
+https://perufolkradio.stream/radio/8040/live
+#EXTINF:-1 tvg-logo="" group-title="Peru", Profeta Sandra Rozo
+https://whmsonic.playerfullhd.com:7114/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Exito FM 97.9
+https://stream.zeno.fm/0smq0da8xa0uv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Libertad Mundo FM 92.1
+http://162.244.80.118:3727/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Nova Trujillo FM 105.1
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Rocksour Radio
+https://s2.radio.co/se3d84e29f/listen
+#EXTINF:-1 tvg-logo="" group-title="Peru", La Nueva 91.7
+http://167.114.118.120:7248/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Antena 10 FM 89.1
+https://radio.livestreamingmundial.com:7057/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Clasic Tumbes
+https://stream.zeno.fm/qehvhkg3czzuv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Hechicera FM 98.1
+http://67.212.179.138:9028/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Peru", Aerostereo
+https://stream.zeno.fm/wmma4stvbhruv
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Virustar FM 94.5
+https://sp.oyotunstream.com:7004/;
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Lider Yauyos 95.5FM
+https://dattavolt.com:7104/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio La Fabulosa FM 99.7
+https://sonic.dattassd.com:10967/stream
+#EXTINF:-1 tvg-logo="" group-title="Peru", Radio Amazonia FM 100.1
+https://cloudstream2032.conectarhosting.com:10747/live

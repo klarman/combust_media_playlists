@@ -1,0 +1,26 @@
+[
+  {
+    "tags": "Vanuatu",
+    "name": "Buzz FM 96.3",
+    "url": "http://103.75.20.93:9999/live",
+    "logo": ""
+  },
+  {
+    "tags": "Vanuatu",
+    "name": "FM 107",
+    "url": "https://s1.wohooo.net/proxy/islandm1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Vanuatu",
+    "name": "Paradise FM98",
+    "url": "http://radio.vbtc.media:7000/paradisefm",
+    "logo": ""
+  },
+  {
+    "tags": "Vanuatu",
+    "name": "Radio Vanuatu AM 1125",
+    "url": "http://radio.vbtc.media:7000/radiovanuatu",
+    "logo": ""
+  }
+]

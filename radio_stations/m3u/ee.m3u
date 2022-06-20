@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Kuressaare Pereraadio 88.7 FM
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio Kadi
+https://kadi.babahhcdn.com/kadi
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Crypto24Radio
+http://stream.radiojar.com/exrd1tp5mceuv
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Tre Raadio
+https://cdn.treraadio.ee/parnu-tre
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Tre Raadio
+https://cdn.treraadio.ee/rapla-tre
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Äripäev
+http://www.aripaev.ee/raadio/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", DFM 90.2 FM
+http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Klassikaraadio 
+http://icecast.err.ee:80/klassikaraadio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", MyHits
+http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Narodnoe Radio FM 100
+http://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Eesti loodus
+http://www.netiraadio.ee:8000/eestiloodus
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Folgi sõbrad
+http://www.netiraadio.ee:8000/folgisobrad
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Jaak Joala
+http://www.netiraadio.ee:8000/jaakjoala
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Jazzi värvid
+http://www.netiraadio.ee:8000/jazzivarvid
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Jõulud
+http://www.netiraadio.ee:8000/joulud
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Klassika
+http://www.netiraadio.ee:8000/klassika
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Klubi biit
+http://www.netiraadio.ee:8000/klubibiit
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Kullafond
+http://www.netiraadio.ee:8000/kuldsedajad
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Lahe Pop
+http://www.netiraadio.ee:8000/lahepop
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Puhas traat
+http://www.netiraadio.ee:8000/puhastraat
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Retro & Biit
+http://www.netiraadio.ee:8000/retro
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Sinu hetked
+http://www.netiraadio.ee:8000/sinuhetked
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Teistsugune
+http://www.netiraadio.ee:8000/teistsugune
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Tumedad lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1 tvg-logo="" group-title="Estonia", netiraadio Üllata mind
+http://www.netiraadio.ee:8000/yllatamind
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Nõmme Radio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1 tvg-logo="" group-title="Estonia", NRJ FM 93.2
+http://sky.babahhcdn.com/NRJ
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Power Hit Radio
+https://ice.leviracloud.eu/phr96-aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio 2 
+http://icecast.err.ee:80/raadio2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio 4 
+http://icecast.err.ee:80/raadio4.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio 7
+https://raadio7.babahhcdn.com/raadio7
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio Elmar FM 91.5
+https://le10.euddn.net/3d1fb6f903431a988f0679e0eaeaaec2707431f9f8fa7d64e2102e2a971e2300f11e7f3558263b839c8e95cbe7e24bfe01651a774261c53a7fc35fcbb597a34e0396dee6bd6fce3fa430ec53d3a0fa948b256ef48deb0187bdef83548ff3fc2356e3d1408733d299d1c8520cc5667b9f879a58c55fabc07dbef77c89ebe6984db0ce7b87bc48e41a67a9b3937681d240/elmar.aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio Kuku
+http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Raadio Tallinn
+http://icecast.err.ee:80/raadiotallinn.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Radio Volna
+https://ice.leviracloud.eu/volna96-aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Relax Cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Relax FM 88.3
+https://stream.relaxfm.ee/relax
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Relax Instrumental
+https://stream.relaxfm.ee/instrumental
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Relax International
+https://stream.relaxfm.ee/international
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Relax Русский
+https://stream.relaxfm.ee/vene
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Retro FM
+http://sky.babahhcdn.com/RETRO
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Retro FM Hõbe
+https://skymedia.babahhcdn.com/retro2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Retro FM Kuld
+https://skymedia.babahhcdn.com/retro1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Rock FM 88.8
+https://skymedia.babahhcdn.com/rck
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Rock FM Metal
+http://skymedia.babahhcdn.com/rckmetal
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Russkoe Radio ee
+http://rr.babahhcdn.com/RR?/russkoeradio_hi.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Dance
+https://skymedia.babahhcdn.com/SKYdance
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Gold
+https://skymedia.babahhcdn.com/SKYgold
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Plus
+http://skyplus.babahhcdn.com/SKYPLUS
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Plus Dance
+https://skyplus.babahhcdn.com/skyplusdance
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Plus Gold
+https://skymedia.babahhcdn.com/skyplus_gold.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Plus Top
+https://skymedia.babahhcdn.com/skyplus_top40.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sky Radio
+http://sky.babahhcdn.com/SKY
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Sooviraadio
+http://media.uunox.net:8888/;
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Staariraadio
+https://sky.babahhcdn.com/RETRO
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Star FM
+https://ice.leviracloud.eu/star96-aac
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Vikerradio
+http://icecast.err.ee:80/vikerraadio.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Estonia", XLtrax Estonia
+http://174.142.215.249:8300/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Pereraadio FM 89.0
+http://icecast.pereraadio.ee/Tartu
+#EXTINF:-1 tvg-logo="" group-title="Estonia", Ring FM
+http://sc2.treraadio.ee:8002/tre
+#EXTINF:-1 tvg-logo="" group-title="Estonia", TaifuunFM
+http://eagle.streemlion.com:4145/stream

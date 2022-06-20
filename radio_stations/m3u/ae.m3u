@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Capital Radio UAE
+https://streaming.broadcastradio.com:8695/cruae
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Howler Radio
+http://samcloud.spacial.com/api/listen?sid=74729&rid=131758&f=mp3,any&br=64000,any&m=sc
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Pravasi Bharathi 810 AM
+http://198.27.67.39:8000/pravasiradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Sky News Arabia FM 90.5
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Al Khaleejiya FM 100.9
+http://stream.radiojar.com/5wpf9e4erxquv
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Al Rabia FM 107.8
+https://s2.radio.co/s770fa24b6/listen
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Aloula Radio
+http://uk6.internet-radio.com:8103/stream
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Ananaz Radio
+http://37.59.28.208:8573/stream
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Big FM 106.2
+https://funasia.streamguys1.com/live4
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Club FM 99.6
+https://eu10.fastcast4u.com/clubfmuae
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", DIMusic Club
+http://stream1.dimusic.club:11496/live
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", DIMusic Club Trance
+http://stream2.dimusic.club:11499/dim2
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Dubai Holy Quran
+http://uk5.internet-radio.com:8079/stream
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Dubai Latin Radio
+https://cloud.intervalomedia.live:7002/live
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Dubai Radio
+http://dmirdo.mangomolo.com/dubairdo.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Mirchi FM 102.4
+https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Noor Dubai
+http://dmirdo.mangomolo.com/noordubairdo.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio AYK
+http://s3.streammonster.com:8117/;
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Gilli FM 106.5
+https://stream.zeno.fm/01azqh7hb2zuv
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Nursery
+http://samcloud.spacial.com/api/listen?sid=73201&rid=127760&f=mp3,any&br=128000,any&m=sc
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Optimist
+http://myradio24.org/s383718
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Sada
+http://192.99.8.192:3054/;
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Sawa Gulf
+http://mbn-channel-02.akacast.akamaistream.net/7/32/233451/v1/ibb.akacast.akamaistream.net/mbn_channel_02
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Russian Emirates Radio
+https://listen.myrh.ru/russianemirates
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Suno FM 102.4
+http://51.255.235.165:5476/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Tamil FM 89.4
+http://31.14.40.150:9000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", The Groove Society
+https://streamer.radio.co/s19873af1e/listen
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", The Tamil Radio Dubai
+https://listen.radioking.com/radio/378481/stream/429232
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Ullasam FM
+https://usa1.fastcast4u.com/proxy/ullasamfm?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Наши Эмираты
+http://nl1.streamingpulse.com:7062/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Fujairah FM – 92.6 FM
+http://ccfz.dyndns.org:4427/live
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Zayed Quran – 97.6 FM
+http://ccfz.dyndns.org:4427/zfm
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radioasia 1269 AM
+http://51.255.235.165:5480/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", RAK Rock Radio
+https://s5.radio.co/s7b588bca9/listen
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Online FM
+https://rbx2.hnux.com/http://149.202.22.75:9384/;
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Pulse 95 Radio
+https://l3.itworkscdn.net/pulse95live/pulse96/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Sharjah Quran Radio
+https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Sharjah Radio
+https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="United Arab Emirates", Radio Gilli FM 106.5
+http://live.rcast.net:8694/;stream.mp3

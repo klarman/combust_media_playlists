@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "Bhutan",
+    "name": "BBS1",
+    "url": "http://202.144.155.12/radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Bhutan",
+    "name": "BBS2",
+    "url": "http://202.144.155.12/radio2",
+    "logo": ""
+  },
+  {
+    "tags": "Bhutan",
+    "name": "Kuzoo FM Dzongkha",
+    "url": "http://43.241.137.236:8000/kuzoodzo",
+    "logo": ""
+  },
+  {
+    "tags": "Bhutan",
+    "name": "Kuzoo FM English",
+    "url": "http://43.241.137.236:8000/Kuzooeng",
+    "logo": ""
+  },
+  {
+    "tags": "Bhutan",
+    "name": "Radio Valley FM 99.9",
+    "url": "http://103.29.225.97:8000/radiovalley",
+    "logo": ""
+  }
+]

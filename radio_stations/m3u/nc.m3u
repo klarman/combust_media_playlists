@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", NIA Radio - Europe
+https://radio.nia.nc/radio/8010/europe-hq-stream.aac
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", NIA Radio - LoFi
+https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", NIA Radio - Pacifique
+https://radio.nia.nc/radio/8000/pacific-hq-stream.aac
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", Nouvelle Calédonie 1ere
+https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", NRJ FM 93.5
+http://testradio01.ice.infomaniak.ch/testradio01-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", Océane FM
+https://oceanefm.nc:8443/oceane
+#EXTINF:-1 tvg-logo="" group-title="New Calédonia", RRB Radio Rythme Bleu
+https://stream.rrb.nc/

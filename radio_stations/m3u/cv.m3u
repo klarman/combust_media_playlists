@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Radio Sal ONE
+http://streamingsal.radiocaboverdeinternational.com/
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Radio Morabeza
+http://95.217.75.38:7998/;
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Praia FM 94.1
+https://radios.vpn.sapo.pt/CV/radio4.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Radio Atlântico
+https://stream.zeno.fm/ermq92bxs5quv
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Radio Cidade FM 91.1
+http://hts02.kshost.com.br:9288/live
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", RCV 89.70
+http://radios.vpn.sapo.pt/CV/radio7.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cabo Verde", Radio Cabo Verde International
+http://streaming.radiocaboverdeinternational.com/
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", Rádio Nova
+http://radios.vpn.sapo.pt/CV/radio10.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", RCM
+http://109.71.41.6:8178/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", Rádio Comercial
+http://radios.vpn.sapo.pt/CV/radio9.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", Ribeira Brava FM
+https://stream.zeno.fm/ca6s5cwk1wzuv
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", RCSM FM 98.0
+https://blueeyecaboverde.com/shoutcast/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cape Verde", Rádio di Zona Web
+https://servidor33-4.brlogic.com:8012/live

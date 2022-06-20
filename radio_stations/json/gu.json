@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Guam",
+    "name": "Joy FM 91.9",
+    "url": "https://ice5.securenetsystems.net/JOYFM",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "Harvest Family Radio FM 88.1",
+    "url": "http://ic1.christiannetcast.com/khmg-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "Isla 63 - KUAM",
+    "url": "http://www.ophanim.net:9010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "KPRG-FM 89.3",
+    "url": "http://peridot.streamguys.com:5090/live",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "Boss 104.3 - KIJI",
+    "url": "http://backbonenetworks.streamguys.com:80/KIJI.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "Kat FM 105.1 - KGUM",
+    "url": "https://ice2.securenetsystems.net/KGUMFM",
+    "logo": ""
+  },
+  {
+    "tags": "Guam",
+    "name": "Star FM 101.1",
+    "url": "https://ice9.securenetsystems.net/KNUT",
+    "logo": ""
+  }
+]

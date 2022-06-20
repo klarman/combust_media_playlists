@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Caracol AM 1200
+https://rss7.domint.net:8164/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Bani FM
+https://via.vulstream.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fabulosa 967
+http://216.117.166.208:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Ultra FM 106.7
+http://72.29.87.97:8042/stream.mp3/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Cosmos FM 99.1
+https://radio4.domint.net:8104/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Emociones FM
+https://radio4.domint.net:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Enamorada FM
+http://radio7a.domint.net:8188/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Escala FM 106
+https://radio4.domint.net:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Mega FM
+http://radio7a.domint.net:8170/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Pesa 92.3 FM
+http://radio7a.domint.net:8176/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Palma 90.7 FM
+http://radio7a.domint.net:8162/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Urbana 96
+https://sp.sintonizapp.com:7012/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Brava 809
+http://rss4.domint.net:9056/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Pegá FM 88.7
+https://stream.zeno.fm/rsw5ssb47qruv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Eclipse 96.9
+http://72.29.87.97:8038/stream.mp3/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Clasica FM
+https://streamingv2.shoutcast.com/clasica-895-fm
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Kalor FM 90.3
+http://212.83.135.226:7840/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Nitida FM 106.3
+http://nitidafm.sytes.net:8050/nitida106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Azucar 89.1 FM
+http://178.32.62.172:9269/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Estrella FM 92.3
+http://c13.radioboss.fm:8187/live
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix
+https://c11.radioboss.fm:18269/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Americana
+https://c13.radioboss.fm:18188/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Bachatera
+https://c15.radioboss.fm:18221/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Cristiana
+https://c11.radioboss.fm:18211/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Merenguera
+https://c15.radioboss.fm:18223/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Mexicana
+https://c11.radioboss.fm:18212/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Romántica
+https://c15.radioboss.fm:18222/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Salsera
+https://c15.radioboss.fm:18230/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fieramix La Urbana
+https://c13.radioboss.fm:18182/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Magia FM
+https://c13.radioboss.fm:18195/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", MakaoRadio 89.5 FM
+https://c13.radioboss.fm:18194/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Ahora
+https://c11.radioboss.fm:18273/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Utopía
+https://c13.radioboss.fm:18183/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Tropicalisima 104
+https://stream.zeno.fm/96896vu8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", AIR Romana Latin Beats Radio
+https://samcloud.spacial.com/api/listen?sid=81970&rid=156773&f=mp3,any&br=192000,any&m=sc
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Amor FM
+http://radio.domiplay.net:9190/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", K107.5 FM
+http://radio.domiplay.net:9200/;stream.mp3;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Punto De Fe
+http://178.33.135.245:3590/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio VEN (Voz Evangélica Nacional)
+http://s1media.hosting.nassever.com:6004/radioven1055
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Tierra de Milagros Radio
+http://178.33.135.245:20004/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Canal 105.1 FM
+https://stream.zeno.fm/b94afcu8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Bachata
+http://perseus.shoutca.st:8312/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Olímpica 970 AM
+https://stream.zeno.fm/6va2xmv8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Real 1310 AM
+http://audio.domiradio.com:9214/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Santa María AM 590
+https://paginas.moisespaulino.com:9069/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Santa María Estudio 979
+http://paginas.moisespaulino.com:8067/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Super K 100.7 FM La Vega
+https://stream.zeno.fm/dbnpgku8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La 104 FM 104.7
+https://rss3.domint.net:8118/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Galaxia 97.3 FM
+http://212.83.135.226:9842/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Ideal 99.5 FM
+http://rgradio.net:8030/radioideal.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Dominicana 041
+https://stream.zeno.fm/t3zf1m0e32quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Tropicana 106
+https://stream.zeno.fm/tmxkd9u8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Nagua Online
+https://stream.zeno.fm/d8z02k0mad0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Trebol 99
+https://stream.zeno.fm/3bc8r1u8na0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Uva FM 97.3
+https://stream.zeno.fm/58wbgsxbya0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Bravisima FM
+https://radio.hostlagarto.com:7020/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Trueno FM
+https://rss3.domint.net:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Sabrosa RD
+https://stream.zeno.fm/n2g31m9ahhruv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Bendiciendote FM
+http://puertoplataradio.com:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Fantasia FM 90.5
+https://stream.zeno.fm/gegu7h89ma0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Melody FM 91.7
+http://puertoplataradio.com:8022/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Orbita 92.9 FM
+http://puertoplataradio.com:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio La Voz RD
+http://195.154.33.95:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Perla FM 106.3
+http://209.126.116.143:8216/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Reguepop
+http://radio.domiplay.net:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Punta Cana Hits
+https://radio4.domint.net:9036/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Kool 106.9 FM
+http://s3.voscast.com:9798/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Power 90.7
+https://radio.dominiserver.com/proxy/power?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Mayimba 89.5 FM
+http://stream2.alegrense.net:8116/stream/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Blu Radio Digital
+https://radio.305streamhd.com/radio/8240/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Útil FM 102.9
+https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", HIBI Radio 1070 AM
+https://radio5.domint.net:8048/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La H 102.3 FM
+http://radio7a.domint.net:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Naranjo Dulce Radio
+https://servidor37-2.brlogic.com:8518/live
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Ocoa 90.3
+https://via.vulstream.com/radio/8170/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Estación Joven
+http://82.145.41.107:32237/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Invasora 108
+https://stream.zeno.fm/g98vqh7a9yzuv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Reina 98.7 FM
+https://stream.zeno.fm/a82mzua362quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Tuya
+https://stream.zeno.fm/vqm9fk3h0mruv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Power FM 93.1
+http://radio7a.domint.net:8064/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Romance Digital
+https://stream.zeno.fm/40y6x7nktqzuv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Aguilas Cibaeñas Radio
+https://radio.voxstream.net:7154/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Amistad 101.9 FM
+http://amistad1019.com:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Disco 89
+http://radio2.rgradio.net:9020/disco89
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Discosuave
+http://149.56.147.197:9309/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Full 94.1 FM
+http://72.29.87.97:8052/;/;stream.ns
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Indetenible102
+https://stream.zeno.fm/2z0uxx7ctv8uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Bakana 105.9 FM
+https://radio4.domint.net:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Gigante Radio
+https://stream.zeno.fm/f0nqrwah9mzuv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Megaestación RD
+https://rss7.domint.net:8198/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Nueva KV 94.7 FM
+https://radio4.domint.net:8064/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Nueva Urbana Del Cibao
+https://radio.voxstream.net:7156/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Monumental FM
+http://stm2.grupointernet.com:8103/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", OyeLaRadio
+https://radio5.domint.net:8166/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Poder FM 98.7
+http://72.167.33.184:9000/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Rayo FM Santiago
+http://radio.hostlagarto.com/8042/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Rumba107
+http://perseus.shoutca.st:8308/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Sonido 104
+http://92.222.122.116:9998/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Suave 107
+https://radio.creele.club:10996/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Super Regional FM 103.9
+https://lanueva106.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Tu 106 FM 106.0
+https://streamssl.eu:1292/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Turbo 98 FM
+https://stream.zeno.fm/vf867714pa0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Urbe FM 97.5
+http://radio7a.domint.net:8002/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", 89.3 Neon FM
+https://rs5.domint.net:8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", AveriaMusicalRadio
+https://stream.zeno.fm/9yyubtvy9qzuv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Basto Studio Salsa
+http://eu3.fastcast4u.com:5514/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Be 99.7 FM
+http://ca5.rcast.net:8070/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Camino al Sol Radio
+https://audio.solucionessa.com/8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Digital 95.5 FM
+http://stm2.grupointernet.com:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Dominicana FM 98.9
+https://protvradiostream.com:8620/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", El Mensaje Del Amor
+http://paginas.moisespaulino.com:8027/autodj
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Escándalo FM 102.5
+https://rss3.domint.net:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Escape 88.9
+https://radio4.domint.net:8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Estacion 97.7 FM
+http://ca5.rcast.net:8072/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Estrella90 FM
+https://stream.zeno.fm/t8r7m90te0quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Kiss 94.9 FM
+http://72.29.87.97:8015/stream.mp3/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La 91 FM
+https://radio4.domint.net:8098/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Bakana FM 105.7
+https://radio4.domint.net:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Fuerte.FM
+https://radio.streamingcpanel.com/8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Mezcla
+https://stream.zeno.fm/ctwu1hfw0qruv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Presión Live Radio
+https://rss3.domint.net:8290/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", La Tremenda Radio
+https://streamingv2.shoutcast.com/la-tremenda-radio
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Latidos 93.7 FM
+http://72.29.87.97:8010/stream.mp3/
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Latina 104
+http://173.212.215.227:9056/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Los 40 FM 103.3
+https://radio4.domint.net:8114/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", NTI Sport Radio
+https://stream.zeno.fm/dbv2a11vm8quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Pio Deportes 1080
+https://radio.streamingcpanel.com:7006/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Poder FM
+https://stream.zeno.fm/hfgtmy4aybruv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Pura Vida 92.9 FM
+http://23.239.68.71:9700/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Quisqueya FM
+https://protvradiostream.com:8620/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio ABC
+http://paginas.moisespaulino.com:8006/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Amanacer FM 98.1
+https://sp.sintonizapp.com/9035/stream;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Amanecer
+https://sp.sintonizapp.com/9035/stream;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Antillas
+https://radio5.domint.net:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Disney FM 97.3
+http://rss5.domint.net:8062/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Eternidad
+https://ss.redradios.net:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Evangelistica
+https://ec1.everestcast.host:2825/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Popular AM 950
+https://rss7.domint.net:8060/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Santo Domingo
+https://protvradiostream.com:8630/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Ven 1200 AM
+http://s1media.hosting.nassever.com:6002/radioven1200
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Raíces Radio FM 95.1
+http://radio7a.domint.net:8120/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Ritmo 96
+https://stream.zeno.fm/r66bf38wd0quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Rumba FM 98.5
+https://radio5.domint.net:8226/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Salsa Con Sabor Radio
+https://stream.zeno.fm/heng1azd8f0uv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Ser Mejor Radio
+http://ca2.rcast.net:8068/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Snack Radio
+https://usa19.fastcast4u.com/snackradio809
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Súper 7 FM 107.7
+https://radio3.domint.net:8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Supra FM 101.7
+https://rss3.domint.net:8104/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Tiempo Extra
+https://stream.zeno.fm/4mtphmaa95quv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Top Latina 101.7 FM
+https://radio3.domint.net:8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Trespatines Radio
+http://149.56.155.73:8095/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", unikradio.net
+http://178.33.166.7:7002/;
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Z 101 FM
+http://23113.live.streamtheworld.com/Z101FM.mp3
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Zol 106.5 FM
+https://rss3.domint.net:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Live Radio RD
+http://edge.mixlr.com/channel/oudxg
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Música Maestro Radio
+http://195.154.133.107:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Devocional Cristiana
+https://stream.zeno.fm/c98mk1erdkeuv
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Samantha Radio Online
+http://radio.dominiserver.com:8041/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Live Musica Radio
+http://23.111.184.253:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Dominican Republic", Radio Romántica
+https://stream.zeno.fm/6fvxf1ck9mruv

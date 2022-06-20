@@ -1,0 +1,842 @@
+[
+  {
+    "tags": "Sweden",
+    "name": "Radio 45 FM 98.1",
+    "url": "http://streaming.nordblommedia.se:443/amal.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Avesta 103.5 FM",
+    "url": "http://test.radioavesta.se:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Narradion Boden",
+    "url": "http://radio.bodensradio.se:8000/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P1",
+    "url": "http://http-live.sr.se/p1-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Sjuhärad",
+    "url": "http://http-live.sr.se/p4sjuharad-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Dalarna",
+    "url": "http://http-live.sr.se/p4dalarna-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Gagnef",
+    "url": "http://stream.ueteknik.se:8000/gagnef",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Viking 101,4",
+    "url": "http://shoutcast1.crossnet.net:8000/radiovikinglive",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Falköping 90.8 FM",
+    "url": "http://lyssna.fnf.nu:8080/fnf.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Oldies FM",
+    "url": "https://listen.radioking.com/radio/366505/stream/417820",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Gävle FM 102.7",
+    "url": "http://kepler.shoutca.st:8271/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Gävleborg",
+    "url": "http://http-live.sr.se/p4gavleborg-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Kinnekulle 102,6 MHz",
+    "url": "http://83.223.7.233:8008/RadioK.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "GNF.NU 102,6 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf102.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "GNF.NU 103,1 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf103.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "GNF.NU 94,9 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf094.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "MNF",
+    "url": "http://radio.darub.se:8000/mnf.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "NRJ FM",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Farhang",
+    "url": "http://listen.shoutcast.com/radiofarhanggbg",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio GBG Laganini",
+    "url": "http://62.210.188.38:8050/relay3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio GBG Narodna",
+    "url": "http://62.210.188.38:8050/relay2",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio GBG Sevdah",
+    "url": "http://62.210.188.38:8050/relay4",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio GBG Zabavna",
+    "url": "http://62.210.188.38:8050/relay",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Payam",
+    "url": "https://streamingv2.shoutcast.com/RadioPayam",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Sedaye Ashena",
+    "url": "https://streamer.radio.co/saa2859a48/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Slay Radio",
+    "url": "http://relay3.slayradio.org:8100/",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Göteborg",
+    "url": "http://http-live.sr.se/p4goteborg-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Hallsta Sura Närradio 103.7",
+    "url": "http://46.105.126.68:6630/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Halmstad FM 88.6",
+    "url": "https://s5.voscast.com:10189/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Halland",
+    "url": "http://http-live.sr.se/p4halland-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Haninge FM 98.5",
+    "url": "http://213.115.49.175:1157/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Clubalicious Radio",
+    "url": "https://www.radioking.com/play/deejay-2",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Jonköping",
+    "url": "http://http-live.sr.se/p4jonkoping-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Vättervåg FM 98,5",
+    "url": "http://uk5.internet-radio.com:8199/live",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "KanonFM 98.6",
+    "url": "http://kanonfm.ddns.net:8000/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Kalmar",
+    "url": "http://http-live.sr.se/p4kalmar-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Kunskapsradion FM 92.2",
+    "url": "http://46.105.124.120:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "P4 Värmland FM 103.5",
+    "url": "https://http-live.sr.se/p4varmland-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR Sápmi - Sameradion",
+    "url": "http://http-live.sr.se/srsapmi-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Kristianstad",
+    "url": "http://http-live.sr.se/p4kristianstad-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Kumla Närradio FM 94.3",
+    "url": "http://81.94.175.226:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Mix Megapol",
+    "url": "http://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Pirate Rock",
+    "url": "http://stream.piraterock.se:8101/webradio",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Sotenäs FM 95.3",
+    "url": "http://sc1.radiosotenas.se/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Hitcity 94.5 ",
+    "url": "http://89.160.63.63:80/live",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio pE20",
+    "url": "https://streaming.943.se/radiope20",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Lidköping 93.8 MHz",
+    "url": "http://lyssna.fnf.nu:8080/lidkoping.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Linköping FM 95.5",
+    "url": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Norrbotten",
+    "url": "http://http-live.sr.se/p4norrbotten-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio AF 99.1",
+    "url": "http://live.radioaf.se:8000/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "The Weekend Radio Show",
+    "url": "http://13538.cloudrad.io:9324/live",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Disciples Radio",
+    "url": "https://s5.voscast.com:10033/live",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "BPM Malmö",
+    "url": "http://stream.radiojar.com/bbhah441b6quv",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Guldkanalen 60-tal ",
+    "url": "http://stream.dbmedia.se/gk60talMP3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Malmökanalen FM 89.2",
+    "url": "http://stream.nsp.se:8000/MNR89_AAC_Hi",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Retreat Radio",
+    "url": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Retro FM Malmö",
+    "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR Din gata",
+    "url": "http://http-live.sr.se/dingata-mp3-192?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Malmöhus",
+    "url": "http://http-live.sr.se/p4malmo-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Siljan FM 94.1",
+    "url": "http://stream.ueteknik.se:8000/siljan/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Voces Del Alba",
+    "url": "https://cloudstream2030.conectarhosting.com/9080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Östergötland",
+    "url": "https://http-live.sr.se/p4ostergotland-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Roslagen Live",
+    "url": "https://radio.daemon.nu/radio/8020/hq",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Nybro FM 98.1",
+    "url": "http://deb.patrikmalmgrenrask.se:8020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Öckerö",
+    "url": "http://radio.darub.se/ockero.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Örebro",
+    "url": "http://http-live.sr.se/p4orebro-aac-32",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Jämtland",
+    "url": "http://http-live.sr.se/p4jamtland-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Pite FM Studentradion 92,8",
+    "url": "http://pitefmstream.ltu.se:8000/pitefm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Mittradion",
+    "url": "http://stream.ueteknik.se:8000/mittradion",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Blekinge",
+    "url": "http://http-live.sr.se/p4blekinge-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio 88",
+    "url": "http://62.209.164.60:8000/mp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Sandviken FM 89.9",
+    "url": "http://rssand.se:4027/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Skellefteå FM 89.7",
+    "url": "https://cast.audiostream.link/radio/8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Skaraborg",
+    "url": "https://http-live.sr.se/p4skaraborg-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "89.7 Radio Söderhamn",
+    "url": "http://80.245.225.101:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Country Rocks Radio",
+    "url": "http://stream.dbmedia.se/crrMP3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Dansbandskanalen Julmusik",
+    "url": "http://stream.dbmedia.se/dbkjulMP3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Alkompis FM",
+    "url": "http://206.189.14.120:8500/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Bandit Rock FM 101.9",
+    "url": "https://fm02-ice.stream.khz.se/fm02_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "BitJam Radio",
+    "url": "http://marmalade.scenesat.com:8086/bitjam.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "BollywoodBio Sweden",
+    "url": "http://cora.cdnstream.com/1925_192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Dansbandsfavoriter",
+    "url": "http://wr15-ice.stream.khz.se/wr15_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636723",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "DistFM - 100% Rock!",
+    "url": "http://185.80.220.12/proxy/distfmsam192?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Dixie Radio",
+    "url": "https://n12a-eu.rcs.revma.com/wgp0gs0yra0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Hamsafar Radio FM 94.2",
+    "url": "http://listen.shoutcast.com/Hamsafarradio",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "lugna favoriter 104.7FM",
+    "url": "https://fm03-ice.stream.khz.se/fm03_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Mix Megapol",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "NRJ",
+    "url": "https://edge-bauersefm-05-gos1.sharp-stream.com/nrj_instreamtest_se_aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Power Hit Radio",
+    "url": "http://fm04-ice.stream.khz.se/fm04_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636863",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Ayeneh FM 97.3",
+    "url": "http://83.251.238.7/;&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Melody",
+    "url": "http://radio2.darub.se/melody.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Rangarang FM 94.6",
+    "url": "http://radio.rangarang.us:8000/stream/1/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Sydväst FM 88.9",
+    "url": "http://149.255.59.3:8049/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Rix FM",
+    "url": "http://fm01-ice.stream.khz.se/fm01_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Rocket FM",
+    "url": "http://stream.thsradio.se:8000/rocket_hi.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Rockklassiker 106.7 FM",
+    "url": "https://edge-bauersefm-03-gos2.sharp-stream.com/rockklassiker_instream_se_aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SceneSat",
+    "url": "http://salyut80.scenesat.com:80/scenesatmax",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SDX Synthetic Experience",
+    "url": "http://radio.dawnshadow.se:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Skärgårdsradion FM 90.2",
+    "url": "http://sgr.radioprod.se:8000/skargarden_hi",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P1",
+    "url": "https://http-live.sr.se/p1-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P2 Alltid Musik",
+    "url": "http://http-live.sr.se/p2musik-mp3-192?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P3",
+    "url": "http://http-live.sr.se/p3-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P3 Din Gata",
+    "url": "http://http-live.sr.se/dingata-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Plus",
+    "url": "http://http-live.sr.se/srextra17-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Stockholm",
+    "url": "https://http-live.sr.se/p4stockholm-aac-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR Radio Finska",
+    "url": "http://http-live.sr.se/sisuradio-aac-32",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Star FM",
+    "url": "http://fm05-ice.stream.khz.se/fm05_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572637088",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Stockholm Närradio FM 101.1",
+    "url": "http://live.narradio.se:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Stockholm Närradio FM 88.0",
+    "url": "http://live.narradio.se:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Stockholm Närradio FM 95.3",
+    "url": "http://live.narradio.se:8020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Stockholmian Radio",
+    "url": "http://217.210.9.84:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Strul FM",
+    "url": "http://stream.streamaudio.de:8000/strul-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Svenska Favoriter",
+    "url": "http://wr13-ice.stream.khz.se/wr13_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572637126",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Sweden Tamils FM",
+    "url": "https://www.radioking.com/play/sweden-tamils-fm/404626",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Vaanambadi Vaanoli",
+    "url": "http://192.95.39.65:25189/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Vinyl FM 107",
+    "url": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Prime FM 106.8",
+    "url": "http://berit.createam.se:8000/radioprime.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Västernorrland",
+    "url": "https://http-live.sr.se/p4vasternorrland-mp3-128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Fryksdalen 100,6",
+    "url": "http://webradio.radiofryksdalen.se:8000/RF_Live",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Berg",
+    "url": "http://62.20.28.156:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Nord FM 98.3",
+    "url": "http://radio.tabyenskilda.se:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Countrykanalen Sweden",
+    "url": "https://eu2.fastcast4u.com/proxy/counrtyk?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Tidaholm 101,6",
+    "url": "http://streaming.943.se/radiotidaholm",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Trelleborg 92,8 MHz",
+    "url": "http://stream.radiotrelleborg.se:8000/RaTbg_AAC_Lo",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Lite FM",
+    "url": "http://live.litefm.se:8000/stream_mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Trollhättan FM 90.6",
+    "url": "http://lyssna.fnf.nu:8080/radiotrollhattan.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Dagnys musikcafe",
+    "url": "http://streaming2.nordblommedia.se:443/dagny.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Bohuslän 106,2",
+    "url": "http://radio.itconnect.se:80/rb2",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "P4 Västerbotten",
+    "url": "https://http-live.sr.se/p4vasterbotten-aac-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Pop & Rock 102,3",
+    "url": "http://62.101.46.15:8000/poporock",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Lite FM",
+    "url": "http://stream.litefm.se:443/lite.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Wix FM 97.9",
+    "url": "https://s2.radio.co/s74d4d7992/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Treby ",
+    "url": "http://stream1.bogalnet.se:443/vargarda.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Vara FM 87,8 Mhz",
+    "url": "http://lyssna.fnf.nu:8080/radiovara.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Vår Radio 93,7 MHz",
+    "url": "http://46.17.184.39:8000/airtime_128",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Gold 102,4 ",
+    "url": "http://gold24.xnk.nu:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Visby",
+    "url": "https://radiovisby.radioca.st/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Gotland",
+    "url": "http://http-live.sr.se/p4gotland-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "SR P4 Kronoberg",
+    "url": "http://http-live.sr.se/p4kronoberg-mp3-192",
+    "logo": ""
+  },
+  {
+    "tags": "Sweden",
+    "name": "Radio Active",
+    "url": "http://stream.nsp.se:8000/radioactive48",
+    "logo": ""
+  }
+]

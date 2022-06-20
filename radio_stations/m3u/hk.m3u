@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", Apple-FM
+http://server20.applesources.net:8000/apple-fm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", AXR Hong Kong
+https://hongkongstream.axr.online/
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", BRC FM 105.1
+http://gfm.rastream.com/gfm-todaysmix
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", Capitaldisko
+http://sr2.inmystream.info:8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", CR2 FM 90.3
+https://gcdn.2mdn.net/videoplayback/id/d85b93619d5acff2/itag/43/source/doubleclick/requiressl/yes/ratebypass/yes/ip/0.0.0.0/ipbits/0/expire/2144448000/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass/signature/987691CEEB71D19AF4156A9F8DCBF0C741B0D884.084BFDD6F3DF04C792FCEFC7C89F11B3FC7686C0/key/ck2/file/file.webm
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", D100 HK Radio
+http://59.152.232.107:8000/Channel1-128MP3
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", DBC 5 Radio SMILES
+http://202.177.192.119/radio5
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", Fauve Radio
+https://streamer.radio.co/sde68d7e6b/listen
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", FM Belowground
+https://listen.belowground.fm/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", IMC Broadcasting
+http://server.jvhost.net:8021/live
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", RTHK Radio 1
+http://stm.rthk.hk/radio1
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", RTHK Radio 2
+http://stm.rthk.hk/radio2
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", RTHK Radio 3
+http://stm.rthk.hk/radio3
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", RTHK Radio 4
+http://stm.rthk.hk/radio4
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", RTHK Radio 5
+http://stm1.rthk.hk/radio5
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", 北京音乐广播 FM 97.4
+http://stm.rthk.hk/radiopth
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", 恐怖在線 Edmond poon
+https://acast01.kolorboxlab.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hong Kong", 講台 talkonly
+http://103.11.102.62:8000/talkonly.mp3

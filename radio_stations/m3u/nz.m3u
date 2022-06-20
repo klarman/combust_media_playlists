@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Alexandra & Cromwell 105.5 FM
+http://ais-sa1.streamon.fm/7655_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Central FM 91.9
+https://s27.myradiostream.com/:16248/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Ashburton 99.7 FM
+http://ais-sa1.streamon.fm/7653_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", 95bFM
+http://streams.95bfm.com/stream128
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Apna 990 AM
+http://69.30.243.166:12108/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Badradio
+https://s2.radio.co/s2b2b68744/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Base FM 107.3FM
+http://stream.basefm.co.nz:8000/BaseHi
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Coast FM 105.4
+http://ais-nzme.streamguys1.com/nz_011_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Dave FM
+http://s13.myradiostream.com:4618/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", East FM
+http://listen.eastfm.nz/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Flava FM 95.8
+http://ais-nzme.streamguys1.com/nz_010_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", George FM 96.6
+http://icecast.mediaworks.nz/george_128kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Hauraki FM 99.0
+http://ais-nzme.streamguys1.com/nz_009_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Humm FM 106.2
+https://cp12.serverse.com/proxy/hummfm?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Island Base FM
+http://stream.islandbasefm.com:8008/IBaacLo
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Just Jazz
+https://thebuzz.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", KFM 106.9
+http://s2.voscast.com:11614/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Life FM 99.8
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Mad FM Worldwide
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Magic Music Auckland
+https://tunein-icecast.mediaworks.nz/magic_128kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Magic Music FM
+http://103.8.17.9:9000/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Mai FM 88.6
+http://tunein-icecast.mediaworks.nz/maifm_128kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Muzza Power
+https://muzzapower3.radioca.st/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Neo Radio
+http://curiosity.shoutca.st:6383/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", New Zealand's Rhema
+http://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Newstalk ZB Auckland
+http://ais-nzme.streamguys1.com/nz_002_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Niu FM
+http://16613.live.streamtheworld.com/NIUFM.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Planet FM 104.6
+https://cp12.shoutcheap.com:18220/strem
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio 531pi
+http://19263.live.streamtheworld.com/531PI.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Adhurs
+http://188.165.192.5:8817/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio City
+http://54.251.110.128:8000/live
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio New Zealand National
+http://radionz-ice.streamguys.com:80/national.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Samoa AM 1593
+http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Tarana AM 1386
+http://peridot.streamguys.com:7150/Tarana.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Vox Brazil
+https://player-ssl.kshost.com.br:11354/live
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Waatea AM 603
+http://apple.irirangi.net:8000/I_Waatea.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio XPD
+http://radio.xpd.co.nz:8000/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Retro Hit Radio
+http://gemini.shoutca.st:8293/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", SANZLive
+https://s3.radio.co/s47a56becc/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Silhouette FM 107.0
+https://listen.openstream.co/3849/audio
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Star AM 882
+http://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", STATiC  88.1
+http://commsweb.aut.ac.nz:8000/live
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Breeze FM 93.4
+http://tunein-icecast.mediaworks.nz/breeze_128kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", West FM
+http://dledgar.dyndns.org:8000/westfm
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", ZFM – All The Hits
+http://nebula.shoutca.st:8545/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", ZM Online FM 91.0
+http://ais-nzme.streamguys1.com/nz_008_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Marlborough
+http://ais-sa1.streamon.fm/7103_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Kaos FM 87.8
+http://74.91.125.187:8068/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", 107.4 BFM
+http://91.121.65.37:21652/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", 8K.NZ
+http://radio8k.out.airtime.pro:8000/radio8k_a
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Christchurch
+http://ais-sa1.streamon.fm/7409_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Channel Z
+https://chz.radioca.st/streams/128kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Classic Gold Radio Redwood FM 107.5
+http://123.255.61.226:8020/;;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Newstalk ZB  Christchurch
+https://ais-nzme.streamguys1.com/nz_003_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Power Hit FM 87.8
+http://listen.powerhitfm.co.nz:16100/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Pulzar FM 105.7
+https://s2.reliastream.com/proxy/pulzarfm?mp=/pulzarfm
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", RDU 98.5FM
+http://live.outcastdigital.com:8000/rdu
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", XS80's FM 107.3
+https://s1.myradiostream.com/12508/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Awa Whanui Big River FM
+http://bigriver.broadcast.co.nz/bigriverfm
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", KiwiFolk Radio
+https://streamer.radio.co/sde527a41e/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio One 91 FM
+http://stream.r1.co.nz:8090/r1-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Total FM 107.3
+http://listen.totalfm.nz:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", NZCMR New Zealand Country Music Radio
+http://ec1.everestcast.host:1960/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Spellbound Radio FM 106.8
+https://s3.radio.co/s3620d3fd0/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Switch FM 87.9
+http://s8.myradiostream.com:56886/listen.m4a
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cave FM Gore
+http://103.242.48.2:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Hokonui FM 94.8
+https://ais-nzme.streamguys1.com/nz_013_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Robotic
+https://stream.zeno.fm/7zv3u6p951zuv
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio X
+http://16963.live.streamtheworld.com/SAM02AAC65.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Tainui Live 95.4 FM
+https://stream.iwi.radio/Tainui_Live.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Bay FM 100.7
+http://s38.myradiostream.com:8876/;;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Cheese
+http://thecheese.ddns.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Heads FM 106.4
+http://144.217.195.24:8760/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Wireless 90.4FM
+http://144.217.203.184:8045/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", World FM
+http://worldfm.radio:8882/worldfmstereo.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", ArrowFM
+http://125.236.212.158:8080/arrowfm
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Positively Morrinsville
+https://c24.radioboss.fm:18073/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Nelson
+http://ais-sa1.streamon.fm/7358_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Los Galanes
+https://c13.radioboss.fm:18096/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cruize FM 105.2
+http://cruizefm.out.airtime.pro:8000/cruizefm_a
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Most 100.4 FM
+http://gordon.mostfm.com:8000/high?.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Oamaru 88.8 FM
+http://ais-sa1.streamon.fm/7654_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Oamaru Heritage Radio
+http://freeuk15.listen2myradio.com:8288/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Real Classic Rock 104
+https://playoutonestreaming.com/proxy/real104/?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", High Country FM
+http://s40.myradiostream.com:13548/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Control
+http://ice1.outcastdigital.com:8000/radiocontrol
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Andhow.FM
+http://stream.andhow.org/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Rock It 107.5
+http://108.163.223.242:8368/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", RAG-FM 107.7
+http://sc7.shoutcaststreaming.us:8564/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Raglan Community Radio
+http://173.208.177.90:20712/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Tractor FM 88.2
+http://125.236.193.225:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Compass FM
+http://stream.compassfm.org.nz:8000/Compass_FM_104.9
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Rock FM 107.0
+http://www.radiorockfm.co.nz:8000/listenlive
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Ripple FM 107.5
+http://uk1.internet-radio.com:8066/live
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cruise FM 94.3 Taumarunui
+http://cruisefm.no-ip.info:8000/taumarunui
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cool Blue Taupo FM 107.5
+http://37.59.28.208:8166/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Ski FM
+http://s2.radio.co/s6436891bc/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Chill
+http://media-sov.musicradio.com:80/Chill
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Gaia FM 87.8
+http://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Station 105.4FM
+https://ais-nzme.streamguys1.com/nz_125_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Positively Te Aroha 88FM
+https://c24.radioboss.fm:18080/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Sleep Radio
+http://149.56.234.138:8169/;;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cruise FM 104.4FM Te Kuiti
+http://cruisefm.no-ip.info:8000/tekuGWS
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", 100.3FM South Canterbury
+http://uk4-vn.mixstream.net:8066/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Timaru
+http://ais-sa1.streamon.fm/7656_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Cruise FM 105.3 Tokoroa
+http://cruisefm.no-ip.info:8000/cruise.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", andHow.FM
+https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Waiheke Community Radio
+https://s47.myradiostream.com:9962/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Smooth FM 105.6
+http://smooth.radioca.st/streams/64kbps
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Auckland 80s
+https://streamer.radio.co/s81fc850fd/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Easy 80s
+http://procyon.shoutca.st:8032/;
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Wanaka
+http://ais-sa1.streamon.fm/7657_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Wanaka FM 92.2
+http://ais-nzme.streamguys1.com/nz_117_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Roy FM 104.2
+http://ais-nzme.streamguys1.com/nz_121_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", [MISC.WAV FM]
+http://streaming.radio.co:80/sac586d131/listen
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", KIX FM
+http://stream.amsmusic.co.nz:8178/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Mix FM 87.9
+https://stream.mixfm.nz/
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Newstalk ZB Wellington
+https://ais-nzme.streamguys1.com/nz_004_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Active FM 88.6
+https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", RNZ Concert FM 89.7
+https://stream-ice.radionz.co.nz/concert.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", RNZ National
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", RNZ Pacific
+http://radionz-ice.streamguys.com/international.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Te Ūpoko o te Ika FM 87.5
+http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", World FM
+http://www.worldfm.co.nz:8882/worldfm.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", One Double X - FM 90.5
+https://ais-nzme.streamguys1.com/nz_101_aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Brian FM Whanganui
+http://ais-sa1.streamon.fm/7100_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Reel World Radio
+http://ais-sa1.streamon.fm/7102_128k.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Beagle 88.1
+https://secure1.reliastream.com/beagleradio/stream
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Ngāti Hine FM
+http://apple.irirangi.net:8000/N_Ngati_Hene.aac
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", The Generator
+http://s1.myradiostream.com:14268/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", CFM Coromandel 95.1
+https://s47.myradiostream.com/8864/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="New Zealand", Radio Woodville FM 99.6
+http://103.146.193.211:88/broadwave.mp3

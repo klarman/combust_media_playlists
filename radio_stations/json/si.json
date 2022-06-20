@@ -1,0 +1,452 @@
+[
+  {
+    "tags": "Slovenia",
+    "name": "MOJ Radio",
+    "url": "http://eu4.fastcast4u.com:5692/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Brezice Eu",
+    "url": "http://stream.radiojar.com/a62vxp5uvueuv",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Celje",
+    "url": "http://live3.infonetmedia.si:8000/Radio1CE",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Fantasy",
+    "url": "https://live.radio.si/Fantasy",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Tomi",
+    "url": "http://93.103.130.12/tomi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Primorski val",
+    "url": "http://212.44.99.35:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Hit si",
+    "url": "http://stream03.exit.si:8000/radiohit?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Zeleni val",
+    "url": "http://37.187.93.104:8844/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Triglav",
+    "url": "http://live.radio.si/Triglav",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Univox",
+    "url": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "NORadio",
+    "url": "http://tigr.no-ip.org:8000/noradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Capodistria AM 1170",
+    "url": "http://mp3.rtvslo.si/capo",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Capris",
+    "url": "http://stream01.exit.si:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Ognijsce",
+    "url": "http://real.ognjisce.si:8000/ognjisce.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "RTV SLO Radio Koper",
+    "url": "http://mp3.rtvslo.si/rakp",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Kranj 97.3 FM",
+    "url": "http://live.radio-kranj.si/Kranj",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Muravidéki Magyar Rádió",
+    "url": "http://mp3.rtvslo.si:80/mmr",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Litija",
+    "url": "http://live3.infonetmedia.si/Radio1LI?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "ARS 3. program Radia Slovenija",
+    "url": "https://mp3.rtvslo.si/ars",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Mister Deejay Radio",
+    "url": "http://stream.mister-deejay.com:9010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1",
+    "url": "http://live.radio1.si/Radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 2",
+    "url": "http://live.radio.si/Radio2",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Aktual",
+    "url": "http://84.52.138.44:80/Aktual",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Bob 87.6 FM",
+    "url": "http://live.radiobob.si/Europa05",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Center",
+    "url": "http://stream2.radiocenter.si:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Center 80s",
+    "url": "https://stream.nextmedia.si/proxy/center80s3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Center Fresh Pop",
+    "url": "https://stream.nextmedia.si/proxy/centerpop3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Center Top 100",
+    "url": "https://stream.nextmedia.si/proxy/centerhit3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Center Yu",
+    "url": "https://stream.nextmedia.si/proxy/centeryu3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Ekspres",
+    "url": "http://stream2.radioekspres.si:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Ognjišče FM 104.5",
+    "url": "https://live.radio.si/ognjisce.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Salomon",
+    "url": "http://stream.radiosalomon.si/Salomon",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Slovenija A1 ",
+    "url": "http://mp3.rtvslo.si:80/ra1",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Student FM 89.3",
+    "url": "https://kruljo.radiostudent.si:8001/hiq",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Terminal",
+    "url": "https://air.radioterminal.si/",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Veseljak",
+    "url": "http://195.95.158.131/Veseljak?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Veseljak Ivanec",
+    "url": "http://europa.shoutca.st:8207/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Žica",
+    "url": "http://live.1chi.si/zica",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Rock Radio",
+    "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Rock Radio Best Ballads",
+    "url": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Rock Radio Classics",
+    "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Rock Radio Hard & Heavy",
+    "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Terra Relicta Radio",
+    "url": "https://studio20.radiolize.com/radio/8140/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "VAL 202",
+    "url": "http://mp3.rtvslo.si/val202",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Maxi",
+    "url": "http://live.radio.si/Maxi",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "ALTR",
+    "url": "http://stream.radiojar.com/zbuhcy7fsrquv",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Maribor",
+    "url": "http://live.radio1.si/Radio1MB",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Aktual",
+    "url": "http://stream.radioaktual.si/Aktual",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio City 100.6",
+    "url": "https://stream1.radiocity.si/CityMp3128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Mars ",
+    "url": "http://frekvenca.eu:8000/radiomars.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Net FM 100.2",
+    "url": "http://reflector.radionet.si:8000/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Nula",
+    "url": "http://streaming.radionula.com:8800/classics",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Slovenia International",
+    "url": "http://mp3.rtvslo.si/ra1",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Slovenske Gorice FM 96.4",
+    "url": "https://player.iradio.pro/radioslovenskegoric/",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Murski",
+    "url": "http://89.142.197.238:8000/mv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Robin",
+    "url": "http://live.radio.si/Robin",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Novo Mesto",
+    "url": "http://live.radio1.si/Radio1NM",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Krka",
+    "url": "http://84.52.138.44/Krka",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "MMR - Muravidéki Magyar Rádió",
+    "url": "http://mp3.rtvslo.si/mmr",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 94",
+    "url": "http://193.77.35.107:8443/radio94",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Ptuj",
+    "url": "https://live.radio.si/Ptuj",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Odprti Radio DAB+",
+    "url": "http://zvok.ragla.si/ord",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Dur",
+    "url": "http://zvok.ragla.si/gr",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Ribnica",
+    "url": "http://live3.infonetmedia.si/Radio1RIB?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Primorska",
+    "url": "https://live.radio.si/Radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Koper Sežana",
+    "url": "http://mp3.rtvslo.si:8000/rakp",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Sora",
+    "url": "http://radio-sora.si:8000/radio-sora.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Koroški Radio",
+    "url": "http://sc.sgn.net:8300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Rogla",
+    "url": "http://193.105.67.24:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Štajerski val",
+    "url": "http://stream.stajerskival.si:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Kum",
+    "url": "http://195.95.158.131:80/AktualK",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Gorenc ",
+    "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Moj Radio FM 107",
+    "url": "http://stream.linit.si:8006/",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio Velenje 107.8 FM",
+    "url": "http://212.18.39.42:8000/radiovelenje.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovenia",
+    "name": "Radio 1 Vrhnika",
+    "url": "http://live.radio1.si/Radio1VR",
+    "logo": ""
+  }
+]

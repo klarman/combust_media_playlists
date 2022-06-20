@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Cayman Islands",
+    "name": "BOB FM 94.9",
+    "url": "http://158.69.4.171:8058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "Irie FM 98.9",
+    "url": "http://158.69.4.171:8062/;",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "Rooster 101.9",
+    "url": "http://158.69.4.171:8064/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "STAR FM 92.7",
+    "url": "https://ssl.geckohost.nz/proxy/interac1?mp=/stream/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "Z99",
+    "url": "http://158.69.4.171:8066/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "Breeze FM 105.3",
+    "url": "http://ic.streann.com:8000/breezefm",
+    "logo": ""
+  },
+  {
+    "tags": "Cayman Islands",
+    "name": "Cayman FM",
+    "url": "http://ic.streann.com:8000/grandcayman",
+    "logo": ""
+  }
+]

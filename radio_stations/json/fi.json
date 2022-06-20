@@ -1,0 +1,566 @@
+[
+  {
+    "tags": "Finland",
+    "name": "Jaerviradio",
+    "url": "http://radio.6net.fi:8000/jarviradio",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Forssa",
+    "url": "http://stream.bauermedia.fi/iskelma/frs_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Janne",
+    "url": "https://stream.bauermedia.fi/iskelma/hml_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Hämeenlinna",
+    "url": "https://stream.bauermedia.fi/radiocity/hml_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Kaakko",
+    "url": "https://wr2.downtime.fi/kaakko.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "BassoRadio",
+    "url": "https://stream.bauermedia.fi/basso/bassoradio_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Finest Radio",
+    "url": "http://shoutcast.finestfm.fi/stream/1/:80/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "IDA Radio",
+    "url": "https://stream.radio.co/s435d71fd8/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Helsinki",
+    "url": "http://stream.bauermedia.fi/iskelma/hki_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Jouluradio",
+    "url": "https://c0.toivon.net/toivon/toivon_0?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kaaosradio 24/7",
+    "url": "http://kaaosradio.fi:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kaaosradio Chillout",
+    "url": "http://kaaosradio.fi:8000/chill",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kaaosradio Chiptune",
+    "url": "https://kaaosradio.fi:8001/chip",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kasari",
+    "url": "http://stream.bauermedia.fi/kasari/kasari_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kaupunki Kanava FM 107.4",
+    "url": "http://79.134.109.244:8000/Sport",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "KISS",
+    "url": "http://stream.bauermedia.fi/kiss/kiss_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "NRJ",
+    "url": "http://stream.bauermedia.fi/nrj/nrj_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Nuntii Latini",
+    "url": "https://cdnsecakmi.kaltura.com/p/1955031/sp/195503100/playManifest/entryId/1_22obeh7h/protocol/https/format/url/flavorIds/1_g50nlnfg/a.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City",
+    "url": "https://stream.bauermedia.fi/radiocity/radiocity_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Helsinki",
+    "url": "http://stream.bauermedia.fi/radiocity/hki_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Helsinki",
+    "url": "http://isojako.radiodei.fi:8000/helsinki",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Hear",
+    "url": "http://hear.fi:8000/hear.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Helsinki FM 89.7",
+    "url": "https://stream.radiohelsinki.fi/;",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Majava",
+    "url": "https://s3.radio.co/sd2b911168/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Nostalgia",
+    "url": "http://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Nova 106.2 FM",
+    "url": "http://stream.bauermedia.fi/radionova/radionova_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Nova Retro",
+    "url": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Patmos",
+    "url": "https://s3.yesstreaming.net:9011/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Santa Claus",
+    "url": "http://streaming.radiostreamlive.com/radiosantaclaus_devices",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio SuomiRock",
+    "url": "https://stream.bauermedia.fi/suomirock/suomirock_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Rakkaudesta Saristoon",
+    "url": "https://streaming.radio.co/sc46fb8389/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Rondo Classic Klasu",
+    "url": "http://rondo.iradio.fi:8000/klasupro-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Viva Classica",
+    "url": "http://rondo.iradio.fi:8000/viva-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Ysäri",
+    "url": "http://stream.bauermedia.fi/ysari/ysari_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Hyvinkää",
+    "url": "http://stream.bauermedia.fi/iskelma/hyv_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Inari",
+    "url": "http://radioinari.radioman.fi:8000/radioinari",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Rex",
+    "url": "https://stream.bauermedia.fi/iskelma/jns_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Jyväskylä",
+    "url": "http://stream.bauermedia.fi/iskelma/jkl_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Jyväskylä",
+    "url": "http://stream.bauermedia.fi/radiocity/jkl_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Keskisuomalainen FM 95.9",
+    "url": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Kajaani",
+    "url": "http://isojako.radiodei.fi:8000/kajaani",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Kemi",
+    "url": "http://stream.bauermedia.fi/iskelma/kem_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Kemi",
+    "url": "http://isojako.radiodei.fi:8000/tornio",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Kokkola",
+    "url": "http://isojako.radiodei.fi:8000/kruunupyy",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Kotka",
+    "url": "http://stream.bauermedia.fi/iskelma/ktk_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Kouvola",
+    "url": "http://stream.bauermedia.fi/iskelma/kvl_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Kouvola",
+    "url": "http://stream.bauermedia.fi/radiocity/kvl_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Kristiinankaupunki",
+    "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Kuopio",
+    "url": "http://stream.bauermedia.fi/iskelma/kuo_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Sandels",
+    "url": "http://37.187.5.67:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Savon Aallot FM 102.0",
+    "url": "https://cast.savonaallot.fi/savonaallot",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Lahti",
+    "url": "http://stream.bauermedia.fi/iskelma/lah_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Pasiradio FM 91.2",
+    "url": "http://releet.pasiradio.com:8002/main.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Lahti",
+    "url": "http://isojako.radiodei.fi:8000/lahti",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Voima",
+    "url": "https://cast2.radiovoima.fi/voima.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Lappeenranta",
+    "url": "http://stream.bauermedia.fi/iskelma/lpr_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Lappeenranta",
+    "url": "http://stream.bauermedia.fi/radiocity/lpr_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Queen Loviisa",
+    "url": "http://104.167.4.67:8173/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Mikkeli",
+    "url": "http://stream.bauermedia.fi/iskelma/mli_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Oulu",
+    "url": "http://stream.bauermedia.fi/iskelma/oul_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Oulu",
+    "url": "http://stream.bauermedia.fi/radiocity/oul_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Pooki",
+    "url": "https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Sea FM 88.8",
+    "url": "http://s3.myradiostream.com:4976/;",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Satakunta",
+    "url": "http://stream.bauermedia.fi/iskelma/rma_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Pori 89.4FM",
+    "url": "https://stream.bauermedia.fi/radiopori/radiopori_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Porvoo",
+    "url": "http://stream.bauermedia.fi/iskelma/prv_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Ramona",
+    "url": "http://185.123.117.122:8000/ramona.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Rovaniemi",
+    "url": "http://stream.bauermedia.fi/iskelma/rov_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Rovaniemi",
+    "url": "http://isojako.radiodei.fi:8000/rovaniemi",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Sastamala",
+    "url": "http://stream.bauermedia.fi/iskelma/sas_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Savonlinna",
+    "url": "http://stream.bauermedia.fi/iskelma/svl_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Seinäjoki",
+    "url": "http://stream.bauermedia.fi/iskelma/snj_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Pohjanmaa",
+    "url": "http://isojako.radiodei.fi:8000/lapua",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Kuopio Tower/Approach",
+    "url": "https://s1-bos.liveatc.net/efku",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Fun Tampere",
+    "url": "http://st.downtime.fi:80/fun.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Tampere",
+    "url": "https://stream.bauermedia.fi/iskelma/tre_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Pispalan Radio FM 99.5",
+    "url": "http://digiradio.xyz:8000/pispalanradio",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio 957",
+    "url": "https://stream.bauermedia.fi/radio957/radio957_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Tampere",
+    "url": "http://stream.bauermedia.fi/radiocity/tre_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Classic",
+    "url": "https://stream.bauermedia.fi/classic/classic_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Moreeni",
+    "url": "http://moreenistream1.uta.fi:8080/moreeni.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Musa",
+    "url": "http://n03.radiojar.com/n6yg5q0z8vzuv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio SUN",
+    "url": "http://st.downtime.fi:80/sun.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "SuomiRäp",
+    "url": "https://stream.bauermedia.fi/suomirap/suomirap_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Auran Aallot FM 90.5",
+    "url": "https://stream.bauermedia.fi/auranaallot/auranaallot_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Turku",
+    "url": "http://stream.bauermedia.fi/iskelma/tku_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio City Turku",
+    "url": "http://stream.bauermedia.fi/radiocity/tku_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Dei Turku ja Satakunta",
+    "url": "http://isojako.radiodei.fi:8000/turkueurajoki",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Gramofoni",
+    "url": "https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/live",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Iskelmä Vaasa",
+    "url": "http://stream.bauermedia.fi/iskelma/vaa_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Radio Vaasa",
+    "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Harmony Radio Helsinki",
+    "url": "http://stream.radiojar.com/0kv3turwx3duv",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "Roll FM",
+    "url": "http://stream.rollfm.fi/",
+    "logo": ""
+  },
+  {
+    "tags": "Finland",
+    "name": "SAYFM",
+    "url": "http://saysite.fi:8000/sayfm",
+    "logo": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "tags": "Turkmenistan",
+    "name": "Car Tarapdan",
+    "url": "https://radio.telecom.tm/tarap.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkmenistan",
+    "name": "Miras FM",
+    "url": "https://radio.telecom.tm/miras.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkmenistan",
+    "name": "Owaz FM",
+    "url": "http://217.174.238.20:8000/music.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkmenistan",
+    "name": "Watan FM",
+    "url": "https://radio.telecom.tm/watan.mp3",
+    "logo": ""
+  }
+]

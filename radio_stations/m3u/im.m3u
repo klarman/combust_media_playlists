@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", 3FM
+http://edge-audio-03-gos2.sharp-stream.com/3fmhigh.mp3
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", 1Mix Radio - EDM Stream
+http://fr1.1mix.co.uk:8060/320h
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", 1Mix Radio - Trance Stream
+http://fr1.1mix.co.uk:8060/320
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", Energy FM
+http://91.121.78.191:8096/stream
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", Manx Radio AM
+https://listen-manxradio.sharp-stream.com/manxradioam.aac
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", Manx Radio FM
+https://listen-manxradio.sharp-stream.com/manxradiofm.aac
+#EXTINF:-1 tvg-logo="" group-title="Isle of Man", The Sound
+https://s4.citrus3.com:8352/stream

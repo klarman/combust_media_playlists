@@ -1,0 +1,596 @@
+[
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Vega Blagoevgrad",
+    "url": "http://88.80.96.25:40070/vega.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "BNR Burgas",
+    "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Power FM",
+    "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Chanove",
+    "url": "http://radio.chanove.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Obshtinsko Radio Chepelare",
+    "url": "http://31.41.22.114:9000/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Dobrudja 91.9",
+    "url": "http://5.104.174.128:8000/radiodobrudja",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Avto Radio FM 93.3",
+    "url": "http://stream.radioreklama.bg/avtoradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Romsko Radio Bojia Sila",
+    "url": "https://stream.zeno.fm/6t0ec6rwtuquv",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Haskovo Net",
+    "url": "http://195.24.89.6:8000/",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Strimonika",
+    "url": "http://79.98.108.170:8009/live",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Mmirojv - Lagoshevtsi",
+    "url": "http://79.98.108.170:8277/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Ultra",
+    "url": "http://stream.teracomm.bg:8000/ultra_pernik.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "DJ Zone House Radio",
+    "url": "http://162.244.80.106:11181/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Katra FM",
+    "url": "http://www.katrafm.net:8000/live?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "XRaydio",
+    "url": "http://xraydio.ddns.net:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Millenium",
+    "url": "http://radiomillenium.radiomillenium.eu:8000/millenium?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Razgrad",
+    "url": "http://188.126.1.25:8000/razgrad",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Traffic Radio Station",
+    "url": "http://radio.networx.bg:8000/TrafficRadio",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Vega Sandanski",
+    "url": "http://stream.teracomm.bg:8000/vega_b.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Melodya FM 105.8",
+    "url": "http://g2.turbohost.eu:8010/stream128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Beinsa Duno Besedi",
+    "url": "http://87.126.166.233:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Beinsa Duno Muzika",
+    "url": "http://87.252.182.193:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "BG Estrada",
+    "url": "http://stream.metacast.eu/bgestrada.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "BG Radio",
+    "url": "http://149.13.0.81/bgradio128?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "bTV Radio FM 101",
+    "url": "http://live.btvradio.bg/btv-radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "ClassicFM 88.0",
+    "url": "http://46.10.150.123:80/classic-fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Coda Radio",
+    "url": "http://62.75.208.172:8000/codaradio",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Darik Nostalgie FM 90",
+    "url": "https://darikradio.by.host.bg:8000/Nostalgie",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Darik Radio",
+    "url": "https://darikradio.by.host.bg:8000/S2-128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Deep Radio Europe",
+    "url": "http://93.152.140.225:8000/stream/4/",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Detskoto Kids",
+    "url": "http://stream.bnr.bg:8013/detskoto-bnr.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Eko Road Radio",
+    "url": "http://stream.reakcia.net:8021/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Fan TV Radio",
+    "url": "http://stream.teracomm.bg:8000/fen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Folk Radio Cult",
+    "url": "http://stream.reakcia.net:8198/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Fresh!",
+    "url": "http://193.108.24.21:8000/fresh",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Helikon",
+    "url": "http://87.121.90.229:9000/live_128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Hit FM BG",
+    "url": "http://play.hitfmbg.com:8000/hitfm-low",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Horizont",
+    "url": "http://stream.bnr.bg:8011/horizont.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Hristo Botev",
+    "url": "http://stream.bnr.bg:8012/hristo-botev.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jazz FM 104",
+    "url": "http://live.btvradio.bg/jazz-fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jigga Radio Daylight",
+    "url": "http://jiggaradio.com:10080/play/daylight",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jigga Radio Mitches Of Rap",
+    "url": "http://jiggaradio.com:10080/play/mitchesofrap",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jigga Radio Nightlight",
+    "url": "http://jiggaradio.com:10080/play/nightlight",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jigga Radio Trap",
+    "url": "http://jiggaradio.com:10080/play/trap",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Jugomanija",
+    "url": "http://107.182.226.161:7051/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Melody",
+    "url": "http://pulsar.atlantis.bg:8000/melody",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Dance Radio",
+    "url": "http://5.63.151.52:7017/MDR",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Hits Radio",
+    "url": "http://5.63.151.52:7178/MHR",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Mega Beats Radio",
+    "url": "https://meg.novahost.bg/proxy/mega?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Radio Dance with me",
+    "url": "http://g5.turbohost.eu:8002/stream128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Radio Melodia",
+    "url": "http://g5.turbohost.eu:8010/stream128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Radio Silver",
+    "url": "http://fmsilver.leaderbg.net:8000/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Solid Rock Radio",
+    "url": "http://5.63.151.52/proxy/msrr?mp=/MSRR",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Virtuoso Radio",
+    "url": "http://5.63.151.52/proxy/mvr?mp=/MVR",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Metro Zoran Radio",
+    "url": "http://212.95.165.98:8001/;",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Music BG",
+    "url": "http://stream.reakcia.net:8243/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Music Station S9S",
+    "url": "http://streaming.sound9studio.com:80/musicstation",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Nova News 95.7",
+    "url": "http://stream.radioreklama.bg:80/novanews.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "NRJ Sofia",
+    "url": "https://play.global.audio/nrj.opus",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Payner HIT",
+    "url": "http://stream.reakcia.net:8271/paynerhit",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio 1",
+    "url": "http://stream.radioreklama.bg:80/radio1128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio 1 Rock",
+    "url": "http://play.global.audio:80/radio1rock128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio City",
+    "url": "http://stream.radioreklama.bg/citytv.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Family",
+    "url": "http://a1.virtualradio.eu:8000/family.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio FM+ 89.1",
+    "url": "http://193.108.24.21:8000/fmplus?file=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Focus Sofia",
+    "url": "http://online.focus-radio.net:8100/sofia",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Horo",
+    "url": "http://g5.turbohost.eu:8020/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Kanon",
+    "url": "http://79.98.108.170:8059/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Mania",
+    "url": "http://stream.reakcia.net:8032/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Maxx FM",
+    "url": "http://play.radiomaxxfm.com:8000/maxx",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Maxx FM Deluxe",
+    "url": "http://play.radiomaxxfm.com:8000/deluxe",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio N-Joy",
+    "url": "http://live.btvradio.bg/njoy.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Nova",
+    "url": "http://stream.radioreklama.bg:80/nova128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Sofia",
+    "url": "http://stream.bnr.bg:8030/radio-sofia.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Veronika",
+    "url": "http://stream.radioreklama.bg:80/veronika64",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Sladko izkushenie",
+    "url": "http://g5.turbohost.eu:8006/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Taganka",
+    "url": "http://streaming.radio.co/se0886fc22/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Tangra Mega Rock",
+    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Teen Station",
+    "url": "http://a1.virtualradio.eu:8000/teenstation",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Tvoeto Radio",
+    "url": "http://79.98.108.173:8010/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Xashove",
+    "url": "http://79.98.108.173:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Z-Rock",
+    "url": "http://193.108.24.6:8000/zrock",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Zorana FM 87.6",
+    "url": "http://stream.teracomm.bg:8000/zorana.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Stara Zagora",
+    "url": "http://82.103.99.99:8000/radiosz-low",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Jega",
+    "url": "http://g5.turbohost.eu:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Jega 2",
+    "url": "http://g5.turbohost.eu:8004/stream96_autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Targovishte",
+    "url": "http://79.98.108.170:8127/live",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Lele Male",
+    "url": "http://79.98.108.170:8332/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "OnlineDJRadio",
+    "url": "http://play.onlinedjradio.com:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "ORV Media",
+    "url": "http://radio.orvmedia.com:8005/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Energy",
+    "url": "http://149.13.0.80/nrj128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio fresh!",
+    "url": "http://193.108.24.21:8000/fresh_low",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Varna",
+    "url": "http://broadcast.masters.bg:8000/live?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "V2Beat Live",
+    "url": "https://de1se01.v2beat.live/icecast.audio?t=file.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "V2BEAT Radio & TV",
+    "url": "https://de1se01.v2beat.live/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "nRadio",
+    "url": "http://stream.nradio.online:8000/nRadio",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio Gama 96.7 FM",
+    "url": "http://g5.turbohost.eu:8003/gama128",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Hot FM 93.9",
+    "url": "http://77.76.184.254:8000/hfm-public",
+    "logo": ""
+  },
+  {
+    "tags": "Bulgaria",
+    "name": "Radio 999 ",
+    "url": "http://62.204.158.5:8081/live",
+    "logo": ""
+  }
+]

@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 100
+http://185.80.220.12:8124/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 100 Arif
+http://radio.flare.pk:8098/fm99
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM98 Lodhran FM 98.0
+http://158.69.227.214:8070/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Quran Radio
+http://s2.reliastream.com:8239/Tune-In%20Links/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Prime FM 92
+http://135.181.78.169:8849/primefm_live
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM-101
+http://203.124.35.147:8096/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Mast FM 103
+http://110.36.229.158:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Pakistan FM93
+http://203.124.35.147:8094/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM99GB
+http://176.31.98.109:3490/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Awaz FM 106
+http://158.69.4.171:8136/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Awaz
+http://158.69.4.171:8100/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Dhanak
+http://58.65.171.102:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", External Service
+http://203.124.35.147:8042/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", First Awaaz
+http://172.93.237.106:8239/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 100 Islamabad
+http://162.244.80.118:4900/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 101 Islamabad
+http://203.124.35.147:8006/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 98 Dosti Channel CRI
+https://stream.radio.gov.pk:9200/cri
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Jan FM 91.6
+http://212.83.138.48:8200/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", News and Current affairs channel
+http://58.65.171.102:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Power Radio FM 99
+http://23.235.206.127:8000/;?type=http&nocache=2341
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio FM World Pakistan
+http://radio.itelservices.net:8612/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Islamabad
+http://158.69.227.214:8155/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio1 FM 91 - Islamabad
+http://172.93.237.106:8191/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Regional Channel
+http://210.56.24.230:8008/
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Saut-ul-Quran
+http://58.65.171.102:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Shashka FM
+https://stream.zeno.fm/txbsg85tn2zuv
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", SUNO FM 89.4 Islamabad
+http://110.93.246.72:8000/SUNO
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Varsa
+http://210.56.24.230:8002/
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", World Service
+http://203.124.35.147:8008/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", 100.0 FM
+http://162.244.80.118:3024/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", 91.0 FM
+http://172.93.237.106:8147/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Apna Karachi 107
+http://72.255.62.220:7070/live107
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", City FM 89.0
+https://video1.getstreamhosting.com:8072/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 93 Karachi
+http://58.65.171.102:8038/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Hot FM 105
+http://172.93.237.106:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Jugnu ki Dunya
+https://stream.zeno.fm/xhvvvxzfr7zuv
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Mast FM 103.00
+http://110.36.229.158:8000/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Karachi FM 96
+http://s3.voscast.com:8450/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Pakwafa
+https://stream.zeno.fm/4b2f4f6kpz4tv
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Samaa FM 107.4
+https://samaakhi107-itelservices.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Suno FM 89.4 Karachi
+http://110.93.246.72:8000/Karachi
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 97
+http://s7.reliastream.com:8218/Tune-In%20Links/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 100.0
+http://162.244.80.118:3058/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Radio Mast FM 103
+http://110.36.229.158:8000/http://110.36.229.158:8000
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 101 Mirpur
+http://203.124.35.147:8030/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", AM 1170
+http://203.124.35.147:8088/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM101.5 Peshawar
+http://203.124.35.147:8052/relay
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", FM 99
+http://185.80.220.12:8136/;
+#EXTINF:-1 tvg-logo="" group-title="Pakistan", Dhamaal 94
+http://199.217.119.214:8000/dhamal94slk

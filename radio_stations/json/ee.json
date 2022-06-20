@@ -1,0 +1,374 @@
+[
+  {
+    "tags": "Estonia",
+    "name": "Kuressaare Pereraadio 88.7 FM",
+    "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio Kadi",
+    "url": "https://kadi.babahhcdn.com/kadi",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Crypto24Radio",
+    "url": "http://stream.radiojar.com/exrd1tp5mceuv",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Tre Raadio",
+    "url": "https://cdn.treraadio.ee/parnu-tre",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Tre Raadio",
+    "url": "https://cdn.treraadio.ee/rapla-tre",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Äripäev",
+    "url": "http://www.aripaev.ee/raadio/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "DFM 90.2 FM",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Klassikaraadio ",
+    "url": "http://icecast.err.ee:80/klassikaraadio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "MyHits",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Narodnoe Radio FM 100",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Eesti loodus",
+    "url": "http://www.netiraadio.ee:8000/eestiloodus",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Folgi sõbrad",
+    "url": "http://www.netiraadio.ee:8000/folgisobrad",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Jaak Joala",
+    "url": "http://www.netiraadio.ee:8000/jaakjoala",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Jazzi värvid",
+    "url": "http://www.netiraadio.ee:8000/jazzivarvid",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Jõulud",
+    "url": "http://www.netiraadio.ee:8000/joulud",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Klassika",
+    "url": "http://www.netiraadio.ee:8000/klassika",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Klubi biit",
+    "url": "http://www.netiraadio.ee:8000/klubibiit",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Kullafond",
+    "url": "http://www.netiraadio.ee:8000/kuldsedajad",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Lahe Pop",
+    "url": "http://www.netiraadio.ee:8000/lahepop",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Lastekanal",
+    "url": "http://www.netiraadio.ee:8000/lastekanal",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Puhas traat",
+    "url": "http://www.netiraadio.ee:8000/puhastraat",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Retro & Biit",
+    "url": "http://www.netiraadio.ee:8000/retro",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Sinu hetked",
+    "url": "http://www.netiraadio.ee:8000/sinuhetked",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Teistsugune",
+    "url": "http://www.netiraadio.ee:8000/teistsugune",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Tumedad lood",
+    "url": "http://www.netiraadio.ee:8000/tumedadlood",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "netiraadio Üllata mind",
+    "url": "http://www.netiraadio.ee:8000/yllatamind",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Nõmme Radio",
+    "url": "http://149.210.138.12:8000/nommeraadio",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "NRJ FM 93.2",
+    "url": "http://sky.babahhcdn.com/NRJ",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Power Hit Radio",
+    "url": "https://ice.leviracloud.eu/phr96-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio 2 ",
+    "url": "http://icecast.err.ee:80/raadio2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio 4 ",
+    "url": "http://icecast.err.ee:80/raadio4.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio 7",
+    "url": "https://raadio7.babahhcdn.com/raadio7",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio Elmar FM 91.5",
+    "url": "https://le10.euddn.net/3d1fb6f903431a988f0679e0eaeaaec2707431f9f8fa7d64e2102e2a971e2300f11e7f3558263b839c8e95cbe7e24bfe01651a774261c53a7fc35fcbb597a34e0396dee6bd6fce3fa430ec53d3a0fa948b256ef48deb0187bdef83548ff3fc2356e3d1408733d299d1c8520cc5667b9f879a58c55fabc07dbef77c89ebe6984db0ce7b87bc48e41a67a9b3937681d240/elmar.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio Kuku",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Raadio Tallinn",
+    "url": "http://icecast.err.ee:80/raadiotallinn.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Radio Volna",
+    "url": "https://ice.leviracloud.eu/volna96-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Relax Cafe",
+    "url": "https://stream.relaxfm.ee/cafe",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Relax FM 88.3",
+    "url": "https://stream.relaxfm.ee/relax",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Relax Instrumental",
+    "url": "https://stream.relaxfm.ee/instrumental",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Relax International",
+    "url": "https://stream.relaxfm.ee/international",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Relax Русский",
+    "url": "https://stream.relaxfm.ee/vene",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Retro FM",
+    "url": "http://sky.babahhcdn.com/RETRO",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Retro FM Hõbe",
+    "url": "https://skymedia.babahhcdn.com/retro2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Retro FM Kuld",
+    "url": "https://skymedia.babahhcdn.com/retro1.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Rock FM 88.8",
+    "url": "https://skymedia.babahhcdn.com/rck",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Rock FM Metal",
+    "url": "http://skymedia.babahhcdn.com/rckmetal",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Russkoe Radio ee",
+    "url": "http://rr.babahhcdn.com/RR?/russkoeradio_hi.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Dance",
+    "url": "https://skymedia.babahhcdn.com/SKYdance",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Gold",
+    "url": "https://skymedia.babahhcdn.com/SKYgold",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Plus",
+    "url": "http://skyplus.babahhcdn.com/SKYPLUS",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Plus Dance",
+    "url": "https://skyplus.babahhcdn.com/skyplusdance",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Plus Gold",
+    "url": "https://skymedia.babahhcdn.com/skyplus_gold.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Plus Top",
+    "url": "https://skymedia.babahhcdn.com/skyplus_top40.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sky Radio",
+    "url": "http://sky.babahhcdn.com/SKY",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Sooviraadio",
+    "url": "http://media.uunox.net:8888/;",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Staariraadio",
+    "url": "https://sky.babahhcdn.com/RETRO",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Star FM",
+    "url": "https://ice.leviracloud.eu/star96-aac",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Vikerradio",
+    "url": "http://icecast.err.ee:80/vikerraadio.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "XLtrax Estonia",
+    "url": "http://174.142.215.249:8300/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Pereraadio FM 89.0",
+    "url": "http://icecast.pereraadio.ee/Tartu",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "Ring FM",
+    "url": "http://sc2.treraadio.ee:8002/tre",
+    "logo": ""
+  },
+  {
+    "tags": "Estonia",
+    "name": "TaifuunFM",
+    "url": "http://eagle.streemlion.com:4145/stream",
+    "logo": ""
+  }
+]

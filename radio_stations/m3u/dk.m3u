@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Syd 
+http://live-icy.gss.dr.dk:8000/A/A12L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", ANR
+http://stream.anr.dk/anr
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Nordjylland 
+http://live-icy.gss.dr.dk:8000/A/A10L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio NORDJYSKE
+http://stream.anr.dk/nordjyske
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Østjylland 
+http://live-icy.gss.dr.dk:8000/A/A14L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", go!FM
+http://netradio.gofm.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio4
+http://netradio.radio4.dk/radio4.aac
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Ahenfo Radio Denmark
+https://s35.myradiostream.com/4702/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Amager Radio FM 103.4
+http://ca5.rcast.net:8058/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P1
+http://live-icy.gss.dr.dk:80/A/A03H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P2
+http://live-icy.gss.dr.dk:80/A/A04H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P3
+http://live-icy.gss.dr.dk:80/A/A05H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 København
+http://live-icy.gss.dr.dk/A/A08H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P5
+http://live-icy.gss.dr.dk:80/A/A25H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P6Beat
+http://live-icy.gss.dr.dk:80/A/A29H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P8Jazz
+http://live-icy.gss.dr.dk:8000/A/A22H.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", myROCK
+http://live-bauerdk.sharp-stream.com/myrock.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Nordic Lodge Copenhagen
+https://larry.torontocast.com:2095/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Nova FM
+http://stream.novafm.dk:80/nova128
+#EXTINF:-1 tvg-logo="" group-title="Denmark", PartyFM
+http://stream1.partyfm.dk/Party256?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Pop FM
+http://stream.popfm.dk:80/pop128?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio 100 FM
+http://onair.100fmlive.dk:80/100fm_live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio 208
+http://185.156.96.20:8010/radio208mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Folk
+http://player.radiofolk.dk:8000/danishfolk
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Jazz Copenhagen FM 102.9
+https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Klassisk
+http://onair.100fmlive.dk:80/klassisk_live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Mystic
+https://stream.zeno.fm/3q7v0aqkpm0uv
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Projekti 21 - 102.9 FM
+http://64.150.176.42:8178/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Soft
+http://onair.100fmlive.dk/soft_live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", The Lake Radio
+http://hyades.shoutca.st:8627/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", The Voice
+https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Uniradioen
+http://uniradio.out.airtime.pro:8000/uniradio_a
+#EXTINF:-1 tvg-logo="" group-title="Denmark", World Music Radio
+http://185.156.96.20:8010/wmrmp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Esbjerg 
+http://live-icy.gss.dr.dk:8000/A/A15L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Victoria
+http://stream.wlmm.dk:8000/stream/15/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Day And Night
+http://195.154.33.95:8096/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Faaborg
+http://78.129.139.48:8574/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Oestsjaelland FM 104.7
+http://stream.radiosolutions.dk/faxe
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Humleborg Jazzkanalen
+http://ca6.rcast.net:4058/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Boost FM 98.2
+http://149.202.22.75:8066/live/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Retro FM 105.3
+http://10336.cloudrad.io:9010/live
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Djursland
+http://stream.wlmm.dk/djurs
+#EXTINF:-1 tvg-logo="" group-title="Denmark", AllSoundfm
+https://solid9.streamupsolutions.com/proxy/jcdyacnj?mp=/;type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", AllSoundfm Worship
+https://solid33.streamupsolutions.com/proxy/grcweyyw?mp=/;type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio MFK
+https://stream1.radiomfk.dk/radiomfk
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Alfa Midtjylland
+http://89.249.7.68/alfamidt
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio M
+http://89.249.7.68/radiom
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Øst FM 95.0
+http://netradio.oestfm.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Skaga FM
+http://media.wlmm.dk:80/skagafm?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Holbæk Radio FM 104.7
+http://stream.holbaekradio.dk/webradio
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Weekend
+https://usa2.fastcast4u.com/proxy/rolars00?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Midt & Vest 
+http://live-icy.gss.dr.dk:8000/A/A09L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Klitholm
+http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Køge
+http://stream.wlmm.dk/stream/53/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio MidtSjælland FM 89.9
+http://netradio.radiomidt.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Viva Kolding
+http://stream.wlmm.dk/radioviva
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Skala.FM
+http://webradio.skala.fm/kolding
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Umlando Radio
+http://80.167.205.32:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Sjælland 
+http://live-icy.gss.dr.dk:8000/A/A11L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Næstved Lokal Radio
+https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio SLR
+http://netradio.radioslr.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Retro Radio
+http://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio SydhavsØerne
+http://netradio.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Limfjord Plus FM 94.7
+http://media.limfjordnetradio.dk/plus128
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Limfjord
+http://media.wlmm.dk:80/limfjord?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Fyn 
+http://live-icy.gss.dr.dk:8000/A/A07L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Nord
+http://netradio.radionord.dk:8000/RadioNord
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio ABC
+http://netradio.radioabc.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Alfa
+http://89.249.7.68/alfa
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Solo FM
+http://89.249.7.68/solo
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio 2000
+http://icecast3.radiostuff.dk:8000/radio2000
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Globus Guld
+http://stream.wlmm.dk:80/globusguld
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Globus
+http://stream.wlmm.dk:80/radioglobus
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Rønde - Syddjurslokalradio
+http://media.wlmm.dk/djurs
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Bornholm
+http://live-icy.gss.dr.dk:8000/A/A06L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Odsherred
+http://5.103.128.66:88/broadwave.mp3?src=1&rate=1&ref=
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Head FM.net
+https://443-1.reliastream.com/35/;
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Alfa Silkeborg
+https://radioserver.dk/alfasilk
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Playback.dk
+http://stream02.radioplayback.dk:80/stream
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Skive
+http://netradio.radioskive.dk/
+#EXTINF:-1 tvg-logo="" group-title="Denmark", FM 92.0
+http://stream.wlmm.dk:80/902fmmp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Als Classic FM
+http://webradio.classicfm.dk/classickolding
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Classic FM Struer
+http://netradio.vlr.dk/classicstruer
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Alfa Sydfyn
+http://icecast1.radiostuff.dk:80/Alfasydfyn128
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Diablo
+http://icecast1.radiostuff.dk:80/Diablo128
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Booster Radio
+https://stream.holbaekradio.dk/booster
+#EXTINF:-1 tvg-logo="" group-title="Denmark", DR P4 Trekanten 
+http://live-icy.gss.dr.dk:8000/A/A13L.mp3
+#EXTINF:-1 tvg-logo="" group-title="Denmark", VLR Vejle Lokal Radio
+https://webradio.vlr.dk/vlr
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Classic FM
+http://netradio.vlr.dk/classicviborg
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio Viborg
+http://netradio.radioviborg.dk/viborg
+#EXTINF:-1 tvg-logo="" group-title="Denmark", Radio 40plus
+http://stream.radiosolutions.dk/radio40plus

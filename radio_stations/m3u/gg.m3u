@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Guernsey", Quay FM 107.1
+http://quayfm.ci-servers.org:1071/quay-fm
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Guernsey", GNet Radio
+http://s2.radio.co:80/s3508e02d2/listen
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Guernsey", BBC Radio Guernsey
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Guernsey", Island FM 104.7
+https://n12a-eu.rcs.revma.com/epatpyebanzuv
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Jersey", BBC Radio Jersey
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Jersey", Channel 103
+https://n04a-eu.rcs.revma.com/1b7wddebanzuv
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Jersey", Liberation Radio Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIBRADIOCLASSICS_S01AAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Jersey", Liberation Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIBRADIOHITS_S01AAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Bailiwick of Jersey", SouledOutCI
+https://stream.zeno.fm/7wmgy60qgm8uv

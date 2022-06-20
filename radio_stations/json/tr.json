@@ -1,0 +1,2180 @@
+[
+  {
+    "tags": "Turkey",
+    "name": "Radyo Erkan",
+    "url": "http://sunucu2.radyolarburada.com:8095/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Güney FM 99.2",
+    "url": "http://sunucu2.radyolarburada.com:8250/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Hayat FM 94.5",
+    "url": "http://live4.radyotvonline.com:9450/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Seyhan Adana 103.3",
+    "url": "http://yayin2.yayindakiler.com:4000/test.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo STOP",
+    "url": "http://yayin.radyostop.com:9400/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Romantik Ses 92.7",
+    "url": "http://dinle.romantikses.com:5959/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Şahin FM",
+    "url": "http://yayin2.canliyayin.org:7200/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Gün FM",
+    "url": "http://radyo.yayin.com.tr:4032/stream/1/?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kolaylı Radyo FM 99.1",
+    "url": "http://45.32.154.169:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 03",
+    "url": "http://sunucu.radyodinle.com:1303/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Aksaray FM 99.5",
+    "url": "http://yayin.yayindakiler.com:4010/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dogan FM 93.5",
+    "url": "http://yayin.turkhosted.com:6046/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dim Radyo Alanya",
+    "url": "http://dimradyo.com:8000/mountpoint",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ankara Çağdaş Sanat Radyosu",
+    "url": "https://ip169.ozelip.com:10838/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Aşk FM 102.1",
+    "url": "http://yayin.asymedya.com:8020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "DamarFM",
+    "url": "http://yayin.damarfm.com:8080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dost FM",
+    "url": "http://yayin.dostfm.com:8920/;&amp;lang=auto&amp;codec=mp3&amp;tracking=true&amp;volume=65&amp;autoplay=false&amp;buffering=5",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Gri Balkon",
+    "url": "http://37.59.28.208:8762/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "KeyfekederFM",
+    "url": "http://46.105.37.166:9868/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "MaX FM 95.8",
+    "url": "http://live2.radyotvonline.com:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "MaX Jazz FM",
+    "url": "http://live.radyotvonline.com:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Meteorolojinin Sesi Radyosu",
+    "url": "http://radyomgm.canliyayinda.com/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mix 91.6 FM",
+    "url": "http://95.173.184.20:9598/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Orkun Radyo FM 106.7",
+    "url": "https://radio.mihr.com/radio/8020/radyoankara",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ostim Radyo FM 96.0",
+    "url": "http://yayin.asymedya.com:8079/1;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Park FM 96.9",
+    "url": "http://yayin.netradyom.com:8050/PARKFM",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Shema",
+    "url": "http://shoutcast.shemamedia.com:9030/shema",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Arkadaş",
+    "url": "https://ssl120.radyotelekom.com.tr/9998/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Avrasya Türk 107.1",
+    "url": "https://sslyayin.netyayin.net:10909/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Banko 99.1",
+    "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Bilim FM 97.0",
+    "url": "http://178.63.16.148:8750/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo C",
+    "url": "http://yayin.radyoc.com:8091/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Davulalan",
+    "url": "http://radyo.turkuradyo.net:4591/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Denge FM 92.1",
+    "url": "http://yayin1.canliyayin.org:8278/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ilef 91.0",
+    "url": "http://radyo.cc.ankara.edu.tr:8089/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Megasite 101.1",
+    "url": "http://mega.netradyom.com:7900/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Müzik",
+    "url": "http://46.20.7.103:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo ODTÜ FM 103.1",
+    "url": "https://stream.radyoodtu.com.tr/canli;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo ODTÜ Rock",
+    "url": "http://stream.radyoodtu.com.tr/rock",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo ON 100.7",
+    "url": "http://yayin.asymedya.com:8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Özgür 108.0 FM",
+    "url": "http://95.173.188.170:9898/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Trafik Ankara 88.4",
+    "url": "http://37.247.100.118/stream/462/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Vizyon",
+    "url": "http://yayin.netradyom.com:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo WOW",
+    "url": "http://92.42.36.188:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TRD 1",
+    "url": "https://live.streamlojik.com:8000/trd1.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TRD 1 Extra",
+    "url": "https://live.streamlojik.com:8000/trd1x.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TRD 2 Gold",
+    "url": "https://live.streamlojik.com:8000/trd2.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TRD 3 Classic",
+    "url": "https://live.streamlojik.com:8000/trd3.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TRD 4 Folk",
+    "url": "https://live.streamlojik.com:8000/trd4.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Hatay Dost FM 90.7",
+    "url": "http://yayin.netyayin.net:1515/streype=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Hatay Radyo Akdeniz 89.2",
+    "url": "http://yayin.netyayin.net:7077/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Melodi FM 98.5",
+    "url": "http://sunucu.radyodinle.com:9850/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Süper Show Radyo 97.3",
+    "url": "http://yayin.netyayin.net:6065/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "K1K4 Radio",
+    "url": "http://89.252.185.2/8112/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Olay FM 93.5",
+    "url": "https://shoutcast.shemamedia.com:9040/olayfm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Antalya",
+    "url": "https://my.radiolize.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Akdeniz 95.0 Mhz",
+    "url": "http://95.173.162.188:9310/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Bizim FM",
+    "url": "http://radyo.radyobizimfm.com:9212/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Secen",
+    "url": "http://yayin2.canliyayin.org:7878/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Talya",
+    "url": "http://sunucu2.radyosfer.com:9424/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo V FM 92.5",
+    "url": "https://edge1.socialsmart.tv/vtvradyo/bant1/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Stamp Turk FM 91.7",
+    "url": "https://ssl133.ozelip.com/asistan/stream/bb25e9f7d67fac5982586b5970058d30",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Universite FM 91.3",
+    "url": "http://www.mediasrv.akdeniz.edu.tr:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Wrong Soul Radio FM 93.3",
+    "url": "http://w2.ozelip.com:9950/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Aydın Flaş Radyo 88.4",
+    "url": "http://yayin.yayindakiler.com:4096/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Sezen Radyo",
+    "url": "https://radyo1.radyo-dinle.tc:7018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ayvalık",
+    "url": "http://89.252.185.2:8006/;.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Melodi FM 99.3",
+    "url": "http://yayin2.yayindakiler.com:4164/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Soylu FM 94.1",
+    "url": "http://yayin2.yayindakiler.com:4034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Karma Turk FM 99.0",
+    "url": "http://radyo1.radyo-dinle.tc:8056/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Lalegul FM 88.4",
+    "url": "http://live46.netmedya.net:443/lalegulfm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 10 Balıkesir",
+    "url": "http://sunucu2.radyosfer.com:9362/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Venüs FM 92.2",
+    "url": "http://45.32.154.169:8008/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Yüksel",
+    "url": "http://yayin2.canliyayin.org:8232/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Üni FM 94.0",
+    "url": "https://unifmcom.80.yayin.com.tr/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bergama FM 95.6",
+    "url": "https://radyo.radyohost.net:1330/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Arabesk FM",
+    "url": "http://yayin.arabeskfm.biz:8042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Live Istanbul",
+    "url": "https://my.radiolize.com/radio/8100/radio.mp3?1576855567",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ulusal Radyo",
+    "url": "http://162.254.207.45:9302/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bey FM 103",
+    "url": "http://45.32.154.169:9304/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Biga FM 94.2",
+    "url": "http://212.84.160.187:36076/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 11 Bilecik",
+    "url": "http://ip131.radyotelekom.com:9832/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bi̇ngöl FM 102.0",
+    "url": "http://yayin1.canliyayin.org:8844/;?type=http&amp;amp;nocache=210590",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bodrum FM 101.7 MHz",
+    "url": "http://nephelis.com:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Eko",
+    "url": "http://78.186.65.14:9002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Halikarnas",
+    "url": "http://78.186.65.14:9000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bolu FM 95.7",
+    "url": "http://yayin3.canlitv.com:8090/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Yankı 91.0",
+    "url": "http://159.253.39.179:9918/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo14 FM 92.3",
+    "url": "http://yayin.yayindakiler.com:4058/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Bozcaada",
+    "url": "http://radyobozcaada.canliyayinda.com:4000/stream/1/?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bursa FM",
+    "url": "http://yayin.bursafm.com.tr:1055/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Line FM 99.1",
+    "url": "http://radioline.fm:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 16 FM 96.3",
+    "url": "http://kaanhost.com:9630/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Aktif FM 92.6",
+    "url": "https://icecast.netmedya.net/radyoaktif",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Bu FM 95.4",
+    "url": "https://radyo.yayindakiler.com/stream/BursaRadyoBU/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo BursadaBugün FM 94.2",
+    "url": "https://radyo.bursadabugun.com/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Deniz FM 102.1",
+    "url": "http://yayin2.yayindakiler.com:4152/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Rahmet FM 103.3",
+    "url": "http://yayin.netyayin.net:1634/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo S  FM 95.7",
+    "url": "http://yayin3.canlitv.com:8110/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Sampiyon",
+    "url": "http://95.173.188.166:9782/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Turk 94.4",
+    "url": "https://radyo.yayindakiler.com/stream/bursaturk/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Uludağ FM 91.7",
+    "url": "https://icecast.netmedya.net/uludagfm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Çan FM 100.5",
+    "url": "https://ssl.radyosfer.com:7076/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Haber FM 106.9",
+    "url": "http://yayin.yayindakiler.com:4118/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Şeker 105.7",
+    "url": "https://ssl.radyosfer.com:7015/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Best 98.4 FM",
+    "url": "http://46.20.7.125/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Çorlu FM",
+    "url": "https://ssl.radyosfer.com:7124/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo GündemFM 92.8",
+    "url": "http://sr1.netmedya.org:443/radyogundem",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Melodi FM 104.0",
+    "url": "http://185.126.217.8:9980/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bizim iller Radyo",
+    "url": "http://yayin2.yayindakiler.com:4078/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Arkista",
+    "url": "http://andromeda.shoutca.st:8357/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ses FM",
+    "url": "http://95.173.188.166:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Amed",
+    "url": "http://radyo.amedradyotv.net:8000/listen.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Çağrı FM 99.0",
+    "url": "http://yayin1.canliyayin.org:8202/:stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Can Radyo",
+    "url": "http://yayin.yayindakiler.com:2028/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Özgür 92.9",
+    "url": "http://yayin.turkhosted.com:6072/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo AK 92.7",
+    "url": "http://radyoak.canliyayinda.com:8026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Trafik Marmara 94.7",
+    "url": "http://37.247.100.118/stream/68/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ezgi Radyo 88.0",
+    "url": "http://sunucu.radyodinle.com:1782/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Hit Fm 99.9",
+    "url": "http://95.173.188.166:9316/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mavi Radyo",
+    "url": "https://ssl.elazigmaviradyo.com/ssl/6066",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Kent Elazığ",
+    "url": "http://yayin.yayindakiler.com:4044/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 2000 90.8",
+    "url": "http://95.173.188.166:9310/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo FM 23",
+    "url": "http://radyo.yayin.com.tr:8280/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Hazar 92.0",
+    "url": "http://radyohazar.canliyayinda.com:8286/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Kulüp 96.0",
+    "url": "http://radyokulup.canliyayinda.com:8282/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Elbistan Kent FM",
+    "url": "http://dinle.elbistankentfm.com:4648/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kent FM",
+    "url": "http://95.173.162.182:9306/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dost Radyo",
+    "url": "http://yayin.yayindakiler.com:3156/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Erzincan Radyo Cem FM 95.5",
+    "url": "http://radyo.yayin.com.tr:9592/stream?type=http&nocache=211068",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "İncitek FM 98.0",
+    "url": "http://yayin2.yayindakiler.com:4204/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Tek 97.0 FM",
+    "url": "http://yayin2.yayindakiler.com:4202/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ritm 88.8",
+    "url": "http://radyo.yayin.com.tr:8091/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Üniversite FM 102.0",
+    "url": "http://radyo102.atauni.edu.tr:8000/arabellavie",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Esenler",
+    "url": "http://yayin2.canliyayin.org:9928/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo A 101.7",
+    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Frigya 95.0",
+    "url": "http://yayin2.yayindakiler.com:4126/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ses FM 98.9",
+    "url": "http://live2.radyotvonline.com:8095/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Yunus FM 94.0",
+    "url": "http://95.173.162.184:7350/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "TUR FM 95.0",
+    "url": "http://sunucu.radyodinle.com:4848/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Davet Radyo",
+    "url": "https://stream.zeno.fm/xzuwreqpfg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "HKÜ Radyo",
+    "url": "https://stream2.rtvtakip.com:7007/1",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kent FM 97.1",
+    "url": "http://www.radyokentfm.com:8000/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo İhya FM 100.4",
+    "url": "http://radyo.radyoihya.com:2727/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Kilim 100.0",
+    "url": "http://yayin.netyayin.net:2727/1",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Şafak FM 98.0",
+    "url": "http://yayin30.canliyayin.org:7070/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Şirinnar",
+    "url": "http://yayin.yayindakiler.com:4048/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bayram FM",
+    "url": "http://sunucu.radyodinle.com:3442/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Gebze FM 95.3",
+    "url": "http://gebzefm.radyotvyayini.com:9530/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Gul 91.7",
+    "url": "http://yayin2.canliyayin.org:8866/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Mavi 101.9",
+    "url": "http://sunucu.radyodinle.com:8070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Flash 106 FM",
+    "url": "https://sslyayin.netyayin.net/2384/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Gokceada",
+    "url": "http://radyogok.80.yayin.com.tr/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Göksun FM",
+    "url": "http://sunucu.radyodinle.com:7854/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Cagdas 89.5",
+    "url": "http://sr1.netmedya.org:443/radyocagdas",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Life FM 101.7",
+    "url": "http://yayin.netyayin.net:2629/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Antakya Asya Radyo",
+    "url": "http://sunucu.radyodinle.com:9850/asya",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Antakya Radyo Renk",
+    "url": "http://yayin1.yayindakiler.com:3016/renk",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Hınısım",
+    "url": "https://stream.zeno.fm/qve890ry4yzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Güneş FM 94.8",
+    "url": "http://yayin2.canliyayin.org:5024/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo SDÜ FM 97.0",
+    "url": "http://193.255.211.25:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Romantik Ses 92.5",
+    "url": "http://dinle.romantikses.com:9306/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "88.6 Istanbul FM",
+    "url": "http://45.32.154.169:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Açık Radyo",
+    "url": "http://stream.34bit.net/ar.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Alem FM 89.2",
+    "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Baba Radyo",
+    "url": "http://37.247.98.7:80/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Balkanlarin Sesi Radyosu",
+    "url": "http://yayin.liderhost.net:9800/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Best FM",
+    "url": "http://46.20.7.126/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Bizim Radio FM 104.4",
+    "url": "http://95.173.188.166:9986/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Cansuyu FM",
+    "url": "http://radyodinle.cansuyufm.com:17175/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "CRI Turk FM",
+    "url": "https://eapps-cs.herokuapp.com/http://162.254.207.45:9328/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Damar Türk FM",
+    "url": "https://live.radyositesihazir.com/7000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Damla FM",
+    "url": "http://yayin.rtmp.org:8750/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Deva",
+    "url": "https://yayin.radyomadyo.com:8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Caffe",
+    "url": "http://channels.dinamo.fm/caffe-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Deep",
+    "url": "http://channels.dinamo.fm/deep-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Discotheque",
+    "url": "http://channels.dinamo.fm/discotheque-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo FM 103.8",
+    "url": "http://channels.dinamo.fm/legacy-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Locodyno",
+    "url": "http://channels.dinamo.fm/locodyno-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo MMRadyo",
+    "url": "http://channels.dinamo.fm/mmradyo-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Sleep",
+    "url": "http://channels.dinamo.fm/sleep-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dinamo Smog",
+    "url": "http://channels.dinamo.fm/smog-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Dolunay Radyo",
+    "url": "http://yayin1.canliyayin.org:8318/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Fenomen Türkçe Rap",
+    "url": "https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "FG 93.7 Future Generation",
+    "url": "http://37.1.145.21:9001/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Frigbo Radio",
+    "url": "https://station.frigbo.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "HaYaTMix",
+    "url": "https://hayatmix.yayin.com.tr/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Hedef Radio FM 91.8",
+    "url": "http://wowza.radyogrup.com:4010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "İTÜ Radyosu Caz/Blues",
+    "url": "http://160.75.86.29:8088/itucazmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "İTÜ Radyosu Klasik",
+    "url": "http://160.75.86.29:8088/ituklasikmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "İTÜ Radyosu Rock",
+    "url": "http://160.75.86.29:8088/iturockmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "JazzOnBeatz",
+    "url": "http://shoutcast.gustospace.com:9998/stream/2/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Joy FM",
+    "url": "https://18463.live.streamtheworld.com/JOY_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Joy Turk Rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "JoyTurk FM 89.0",
+    "url": "https://17703.live.streamtheworld.com/JOY_TURKAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kral Pop Radyo",
+    "url": "http://46.20.3.202:80/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Lounge FM 96",
+    "url": "http://37.1.145.21:9003/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Medipol University Radio",
+    "url": "http://stream.medipol.edu.tr:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Metro FM",
+    "url": "http://17773.live.streamtheworld.com/METRO_FM_SC?",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mio Radio",
+    "url": "http://s2.myradiostream.com:13662/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Misk FM 94.5",
+    "url": "http://95.173.184.17:9958/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Moral FM",
+    "url": "http://yayin2.canliyayin.org:8886/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Nor Radyo",
+    "url": "http://www.norradyo.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Özgürüz",
+    "url": "http://ozguruz-radio.org:8000/ozguruz19",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "PAL Mina",
+    "url": "http://shoutcast.radyogrup.com:3070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Dance",
+    "url": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Deep",
+    "url": "https://listen.powerapp.com.tr/powerdeep/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power FM 100.00",
+    "url": "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Gold",
+    "url": "https://listen.powerapp.com.tr/powergold/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Greece",
+    "url": "https://listen.powerapp.com.tr/powergreece/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Love 100.20",
+    "url": "https://listen.powerapp.com.tr/powerlove/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Plus FM",
+    "url": "https://listen.powerapp.com.tr/powerplus/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Pop 101.00",
+    "url": "https://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Smooth Jazz",
+    "url": "https://listen.powerapp.com.tr/powersmoothjazz/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Türk 98.00",
+    "url": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Türk Akustik",
+    "url": "https://listen.powerapp.com.tr/powerturkakustik/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Türk En İyiler",
+    "url": "https://listen.powerapp.com.tr/powerturkeniyiler/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Türk Rap",
+    "url": "https://listen.powerapp.com.tr/powerturkrap/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power Türk Taptaze",
+    "url": "https://listen.powerapp.com.tr/powerturktaptaze/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Power XL",
+    "url": "http://powerextralounge.listenpowerapp.com/powerextralounge/mpeg/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio 5",
+    "url": "http://radio5tr.canliyayinda.com:5000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Corax",
+    "url": "http://stream.coraxonline.com/rdcx128.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Glamorize",
+    "url": "http://stream.radiojar.com/wqq9vqqgmzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Goldies",
+    "url": "http://cressida.shoutca.st:8440/stream?1573810927999.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Gozyasi",
+    "url": "http://yayin1.canliyayin.org:8700/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Keyf",
+    "url": "https://yayin.radyomadyo.com:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Keyf Slow",
+    "url": "https://yayin.radyomadyo.com:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio LTB",
+    "url": "http://strm.radioltb.com:8000/Main",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio LTB Electronica",
+    "url": "http://strm.radioltb.com:8000/Electronica",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio LTB Lounge",
+    "url": "http://strm.radioltb.com:8000/Lounge",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio LTB Rock",
+    "url": "http://strm.radioltb.com:8000/Rock",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio2019",
+    "url": "http://31.210.157.103/stream/494/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 34 88.0",
+    "url": "http://yayin1.canliyayin.org:7424/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 44",
+    "url": "http://radyo44.canliyayinda.com/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 45'lik",
+    "url": "https://stream.radyo45lik.com:4545/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 7",
+    "url": "http://46.20.3.251:80/stream/169/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Alaturka",
+    "url": "http://stream.radyoalaturka.com.tr:9100/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Arabesk",
+    "url": "https://yayin.radyoarabesk.com.tr:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ataşehir",
+    "url": "http://162.254.207.45:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo D 104",
+    "url": "https://radyo.duhnet.tv/radyod",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ekin 94.3",
+    "url": "http://yayin.turkhosted.com:6006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Fenerbahce 97.0",
+    "url": "http://91.232.174.18:8000/Stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Fenomen",
+    "url": "http://fenomen.listenfenomen.com/fenomen/256/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Gram",
+    "url": "http://31.210.157.98/stream/358/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Islam",
+    "url": "http://yayin.radyoislam.com:7676/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Mega",
+    "url": "http://radyo.yayin.com.tr:4052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Modyan",
+    "url": "https://stream.radio.co/s55d598f42/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Nostaljinin Sesi",
+    "url": "http://lyra.shoutca.st:8288/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Seymen",
+    "url": "http://yayin.radyoseymen.com.tr:1070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Sputnik FM 97.8",
+    "url": "https://sndria.gcdn.co/voicestm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Trafik Istanbul 104.2",
+    "url": "http://37.247.100.118/stream/157/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "RadyoBir",
+    "url": "http://46.165.240.92:8000/janrass",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Rock FM",
+    "url": "https://rockfm.rockfm.com.tr:9450/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Run On Air",
+    "url": "http://eu6.fastcast4u.com:5144/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Soft Radyo",
+    "url": "http://radyo.softradyo.com:1140/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "ST Endüstri Radyo",
+    "url": "http://45.32.154.169:9898//mp3/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Süper FM",
+    "url": "https://17703.live.streamtheworld.com/SUPER_FM128AAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Süper FM 90.8",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "tboradyo",
+    "url": "http://stream.coraxonline.com/radyovida.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "The Rock Radio",
+    "url": "http://therockradio.radyotvonline.net/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Uzman FM",
+    "url": "https://stream.zeno.fm/c1sphqvfhg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Virgin Radio TR",
+    "url": "https://18463.live.streamtheworld.com/VIRGIN_RADIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "X Radio",
+    "url": "https://stream.xradio.com.tr:8770/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Yön Radyo",
+    "url": "https://stream.radyolarburada.com/radio/8020/yonradyo",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Can Radyo 93.3",
+    "url": "http://yayin1.yayindakiler.com:3124/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo 35",
+    "url": "http://stream01.radyo35.com.tr:8000/radyo35",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Karavan",
+    "url": "http://s4.streammonster.com:8466/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Romantik Türk",
+    "url": "http://radyo.yayin.com.tr:6042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Trafik Izmir - 102.5 MHz",
+    "url": "http://37.247.100.118/stream/179/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mega FM",
+    "url": "http://46.105.35.48:9346/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Nikomedya FM 94.4",
+    "url": "http://yayin.netyayin.net:2631/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo İzmit 102.1 Mhz",
+    "url": "http://yayin1.yayindakiler.com:3074/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Raks FM 98.1",
+    "url": "http://yayin.netyayin.net:2633/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Damga FM 91.7",
+    "url": "http://95.173.162.183:9818/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mc Likya FM 95.1",
+    "url": "http://w3.ozelip.com:9940/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Soul Radio FM 93.3",
+    "url": "http://31.192.215.204:9950/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Sultan Radyo FM 93.2",
+    "url": "http://yayin.turkhosted.com:4949/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Extra FM 90.3",
+    "url": "http://46.105.35.48:9340/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kastamonu 105 FM",
+    "url": "http://54.38.202.32:6004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo37",
+    "url": "http://yayin1.yayindakiler.com:3192/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Deniz FM",
+    "url": "http://yayin1.yayindakiler.com:3180/test.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Enderun FM 88.2",
+    "url": "https://yayin2.canliyayin.org:10996/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kay Radyo",
+    "url": "http://yayin1.yayindakiler.com:3054/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kolej FM 96.9",
+    "url": "http://yayin.yayindakiler.com:4130/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Life",
+    "url": "http://yayin2.canliyayin.org:8698/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Keşan FM",
+    "url": "http://sunucu.radyodinle.com:2234/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Keskin FM",
+    "url": "http://www.keskinfm.com:1021/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kilis Sultan Radyo FM 106",
+    "url": "http://sunucu.radyodinle.com:7979/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Öz FM 99.3",
+    "url": "http://live.ozfm.com.tr:9914/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo K FM 92.3",
+    "url": "http://dinle.radyok.com:9950/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Serhat FM 91.5",
+    "url": "http://yayin.serhatfm.com:9150/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Konya FM 99.5",
+    "url": "http://212.175.65.102:8001/live",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Gençlik",
+    "url": "http://radyogenclik.com:9900/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Net FM",
+    "url": "http://yayin.yayindakiler.com:4032/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Üniversite",
+    "url": "http://yayin3.canlitv.com:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Ribat FM",
+    "url": "http://yayin1.canliyayin.org:7010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kozan FM",
+    "url": "http://sunucu.radyodinle.com:3401//;sazlisozlu.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Aktif FM 99.9",
+    "url": "http://yayin1.yayindakiler.com:3164/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Kurşunlu",
+    "url": "https://ip157.ozelip.com/8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kusadasi 105 FM",
+    "url": "https://ip169.ozelip.com:10820/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Lüleburgaz FM",
+    "url": "http://yayin.netyayin.net:3439/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Çağlar FM 95.3",
+    "url": "http://95.9.6.87:8788/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Fon FM 101.0",
+    "url": "https://ssl.radyosfer.com:7058/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Mega FM 101.7",
+    "url": "http://radyomega.ozelip.com:8210/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Zafer FM 98.3",
+    "url": "http://95.173.185.128:9686/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Manavgat FM 90.0",
+    "url": "http://sunucu.radyodinle.com:8355/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Hiraş 90.8",
+    "url": "https://radyo.wlsrv.com:9082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Alef FM",
+    "url": "http://shoutcast.shemamedia.com:9030/alef;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Zergan 106.0",
+    "url": "http://yayin1.yayindakiler.com:3194/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mayday Records",
+    "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1592246203",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Akdeniz FM 90.8",
+    "url": "http://95.173.162.186:9778/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kent Radyo",
+    "url": "http://37.59.205.232:7080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Metropol",
+    "url": "http://sunucu2.radyosfer.com:9312/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ülkü",
+    "url": "http://radyo.yayin.com.tr:4006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Alparslan",
+    "url": "http://shoutcast.alparslan.edu.tr:8000/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Hilal 105.5",
+    "url": "http://sunucu2.radyosfer.com:9314/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kapadokya FM 94.5",
+    "url": "https://icecast.netmedya.net/kapadokyafm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Niğde Tempo FM 104.0",
+    "url": "http://yayin2.canliyayin.org:8344/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Umut FM",
+    "url": "http://yayin1.canliyayin.org:8888/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Remix",
+    "url": "http://radyo.yayin.com.tr:8304/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Kent FM 99.0",
+    "url": "http://77.245.151.248:8000/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Slow Karadeniz FM",
+    "url": "https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kemençe FM 96.9",
+    "url": "http://dinle.kemencefm.net:6161//1/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Net FM 89.3",
+    "url": "https://ssl-radyo.yayin.com.tr:9990/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Secil Salihli",
+    "url": "http://185.26.144.136:9992/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Adige Radyo 96.0",
+    "url": "http://sunucu2.radyosfer.com:9434/1",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Haber Radyo FM 103.5",
+    "url": "http://178.32.4.127:8304/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kiss Love",
+    "url": "http://37.59.205.232:9828/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Kiss Radyo",
+    "url": "http://37.59.205.232:9824/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Klas Radio",
+    "url": "http://178.32.4.127:9040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Gerçek",
+    "url": "http://185.98.62.130:35257/;listen.pls",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Kulüp 104.0",
+    "url": "https://ssl.radyosfer.com:7048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ti",
+    "url": "http://37.59.205.232:8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Sam FM 98.0",
+    "url": "http://shoutcast.shemamedia.com:9030/samfm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Tutku Fm 105.0",
+    "url": "http://yayin2.yayindakiler.com:4038/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Slow Time",
+    "url": "http://37.247.100.118/stream/69/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Spor",
+    "url": "http://37.247.100.118/stream/70/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Küpe FM 89.7",
+    "url": "https://icecast.netmedya.net/kupefm",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Baris FM",
+    "url": "http://95.173.184.20:9588/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pi Cemiyeti",
+    "url": "http://95.130.169.218/stream/555/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Sivas FM",
+    "url": "http://yayin2.canliyayin.org:8180/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Cagri FM 89.9",
+    "url": "http://yayin2.canliyayin.org:8042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Sultan FM 94.5",
+    "url": "http://afyonradyosultan.ozelip.com:9920/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Mix A Mix FM",
+    "url": "http://radyo.yayin.com.tr:5998/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Can FM 93.4",
+    "url": "http://yayin2.yayindakiler.com:4174/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radio Wanderlust",
+    "url": "https://ssl-radyo.yayin.com.tr:5898/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Taka FM 98.5",
+    "url": "http://dj.msteknoloji.com:8586/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Munzur",
+    "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal Doğa FM 104.8",
+    "url": "http://shoutcast.radyogrup.com:1040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal FM 99.0",
+    "url": "http://shoutcast.radyogrup.com:1030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal Nostalji FM 99.2",
+    "url": "http://shoutcast.radyogrup.com:1010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal Orient",
+    "url": "http://shoutcast.radyogrup.com:1050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal Slow",
+    "url": "http://shoutcast.radyogrup.com:2020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Pal Station FM 106.0",
+    "url": "http://shoutcast.radyogrup.com:1020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Melodi FM 90.5",
+    "url": "https://stream.rcast.live/63956",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "OneyFlash FM 89.0",
+    "url": "http://yayin.yayindakiler.com:4192/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "SlowTürk",
+    "url": "https://radyo.duhnet.tv/slowturk",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Varto Radyosu",
+    "url": "http://95.173.162.182:9992/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Viransehir FM 100",
+    "url": "http://2.56.63.165:8001/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Gözde Fm Yalova 92.2",
+    "url": "https://gozdefm.80.yayin.com.tr/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Radyo Ozsen 94.4 FM",
+    "url": "http://radyo.yayin.com.tr:6006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "Yozgat FM 96.7",
+    "url": "https://sslyayin.netyayin.net:10921/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Turkey",
+    "name": "General FM 98.7",
+    "url": "http://37.59.205.232:9342/;",
+    "logo": ""
+  }
+]

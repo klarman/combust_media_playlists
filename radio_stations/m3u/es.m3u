@@ -1,0 +1,3325 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Coruña
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", CUAC FM
+https://streaming.cuacfm.org/cuacfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", InterCoruña 87.7fm
+http://topradio.one:8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero A Coruña
+http://icecast-streaming.nice264.com/acoruna
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Calle 52
+https://stream.zeno.fm/fhr27cw2h2zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Líder
+http://server9.20comunicacion.com:8200/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca FM 89.2
+https://22653.live.streamtheworld.com/RADIOMARCA_CORUNA_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz A Coruña
+http://live.radiovoz.es/mp3/stream_coruna.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Estrada
+http://srv0411.lcinternet.com:9012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Abrera FM 107.9
+http://streaming.enantena.com/radioabrera128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Abrucena Radio
+http://radioserver10.profesionalhosting.com:10452/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Axel 24
+https://nrf1.newradio.it:9788/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Latino Canarias FM 94.0
+http://str1.mediatelekom.net:8164/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Power On FM
+http://ns100.emisionlocal.com:8058/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sur Adeje
+http://streaming.enacast.com:8000/radiosuradeje56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Swing Latinos FM
+https://eu1.lhdserver.es:9033/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Luna Valencia FM 94.7
+http://radioserver11.profesionalhosting.com:9348/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Poniente
+http://212.83.164.82:8007/40poniente.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Municipal de Adra
+https://streaming.indalteco.net/proxy/radiomadra?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sió Agramunt FM 107.9
+https://streamingv2.shoutcast.com/radio-sio-agramunt-107-9fm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Planeta Gran Canaria
+http://srv0510.lcinternet.com:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tenerife Music
+https://sonicpanel.tucomunicas.cl/8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aguilás FM 88.5
+http://188.165.131.13:10004/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spectrum FM Costa Cálida
+https://eu8.fastcast4u.com/proxy/spectrumcalida2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Posada FM
+https://eu5.fastcast4u.com/proxy/posadafm?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sierra Norte
+https://eu1.lhdserver.es:8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Albacete 95 FM
+http://stream.emisorasmusicales.com:8005/ab95fm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena COPE Albacete
+https://wecast-m01-02.flumotion.com/copesedes/albacete.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Albacete FM 97.4
+https://wecast-b02-03.flumotion.com/copesedes/albacete.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio - Albacete
+http://82.223.28.73:8000/esradioalbacete.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Nova Onda Albacete 101.9FM
+https://sonic.mediatelekom.net:10971/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Albacete
+http://icecast-streaming.nice264.com/albacete
+#EXTINF:-1 tvg-logo="" group-title="Spain", One FM 88.7
+https://azuracast.idmradio.es/radio/8110/feria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Albacete Cadena SER
+https://22343.live.streamtheworld.com/SER_ALBACETE.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio SOL Albal
+http://emisora.radiosol.albal.es:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Albolote
+https://streaming2.elitecomunicacion.es:8144/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Music Live
+https://sonicpanel.streamsolutions.us/8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Almeria Radio
+http://stream.almeriaradio.live:8000/almeriaradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Breeze 97.7
+https://streamingv2.shoutcast.com/breeze-977
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Comarca 107.6
+https://secureradio.eu:2054/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Smooth Radio FM 89.8
+http://s4.radio.co:80/sb7c6c6e8c/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cehel FM 102.5
+https://topradio.one:8054/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Oromana Radio FM 92.8
+http://178.33.160.108:8162/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Henares
+https://22553.live.streamtheworld.com/SER_HENARES.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Furgo RUAH
+http://streaming.elitecomunicacion.es:8066/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Alcalá
+http://icecast-streaming.nice264.com/alcala
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Alcalá emisora municipal
+http://streaming5.elitecomunicacion.es:8076/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alcanar Ràdio FM 107.5
+https://relay.stream.enacast-cloud.com:40241/alcanarradioHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio La Comarca
+https://radioonlinelacomarca.net:8100/ser.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sintonía FM 107.8
+http://188.164.198.121:8093/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pez
+https://eu1.lhdserver.es:8059/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Alcázar
+https://22343.live.streamtheworld.com/SER_ALCAZAR.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Alcázar
+http://icecast-streaming.nice264.com/alcazar
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Madrid Norte
+https://20423.live.streamtheworld.com/SER_ASO_MADRID_NORTEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Bolero
+https://romanticafm.radioca.st/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Camilo Sesto
+http://163.172.209.91:9138/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Disco Melodiá FM 97.7
+http://107.150.53.50:5198/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alcúdia Radio FM 94.7
+http://streaming.enantena.com:8000/alcudiaradio56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Balear
+http://server6.20comunicacion.com:8076/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Rural FM 107.0
+https://stream.zeno.fm/u6z3zs9cgg8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Alfaguara 107.0 FM
+http://srv0410.lcinternet.com:8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Titoieta Ràdio
+http://195.154.33.95:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Algeciras
+http://icecast-streaming.nice264.com/algeciras
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Algeciras Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cerro Milano
+https://candilradio.com/liveradio/cerromilano/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Alhama
+https://20423.live.streamtheworld.com/SER_ASO_GRANADAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Espuña FM 88.7
+http://5.135.183.124:8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mega Radio
+http://streaming8.elitecomunicacion.es:8200//stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Alhendín
+https://streaming2.elitecomunicacion.es:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Activa FM Alicante
+https://stream.mediasector.es/radio/8000/activafm-alicante.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Bikini FM 106.8
+https://stream.mediasector.es/radio/8030/bikinifm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Alicante
+https://wecast-m01-04.flumotion.com/copesedes/alicante.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Esencia FM 90.7
+https://stream.mediasector.es/radio/8040/esenciafm-alicante.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Muy Buena
+https://stream.mediasector.es/radio/8010/muybuena-alicante.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Amistad Radio
+http://94.23.87.98:9195/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Alicante
+http://icecast-streaming.nice264.com/alicante
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Brand
+https://radiobrand.es:8084/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Costa Blanca
+http://149.202.22.75:8598/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mi Amigo International
+http://kepler.shoutca.st:8117/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio UA
+http://radio.eps.ua.es/EPSradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sunshine FM 102.8
+https://ice31.securenetsystems.net/SRFM
+#EXTINF:-1 tvg-logo="" group-title="Spain", Русская Волна Аликанте - Onda Rusa
+http://178.33.166.7:7600/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Almadén 103.8 FM
+https://22543.live.streamtheworld.com/SER_ASO_ALMADEN.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Almansa FM
+http://178.32.60.136:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", THD100TV FM 104.65
+https://stream.zeno.fm/t09swwabseruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Almendralejo FM 88.6
+https://streaming2.elitecomunicacion.es:8632/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Almendralejo
+http://212.83.160.191:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ser Tierra de Barros
+https://20723.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alhamilla Radio Mar
+http://srv0411.lcinternet.com:9008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Almería FM La Marinera
+https://stream.zeno.fm/srh79d52v7zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Almería
+http://212.83.164.82:8002/dial.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Almería
+https://23603.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Almería
+https://wecast-m01-01.flumotion.com/copesedes/almeria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dipalme Radio
+http://212.83.164.82:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Almería
+http://icecast-streaming.nice264.com/almeria
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mar
+http://212.83.164.82:8019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca
+http://212.83.164.82:8012/rmarcaalm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiolé Almería
+http://212.83.164.82:8005/radiole.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sí Radio
+https://broadcast.radioponiente.org:8030/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Smooth Living FM 89.8
+https://s4.radio.co/sb7c6c6e8c/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Zona Latina FM 105.2
+https://stream20.usastreams.com/8072/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Programas de Franco
+https://stream.zeno.fm/0ktx31e4td0uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Almódovar en la Onda FM 107.2
+https://nrf1.newradio.it:9972/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Más FM
+https://streaming2.elitecomunicacion.es:8142/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mega FM 92.6
+https://azuracast.idmradio.es/radio/8090/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Son Latino Almuñécar
+https://streaming.sonmedia.es/8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alpicat Radio
+http://streaming.enantena.com:8000/alpicatradio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Beleixe Irratia 107.3 FM
+http://server8.20comunicacion.com:8016/;stream.nsv;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Altafulla Ràdio
+http://streaming.enantena.com:8000/altafulla128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Altea 107.6 FM
+http://streaming.enantena.com:8000/radioaltea128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio BluesFlac
+https://streams.radiomast.io/radioblues-flac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alzira Radio FM 107.9
+https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Alzira
+http://icecast-streaming.nice264.com/alzira
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radioaire1
+https://stream.zeno.fm/48x8brq2tfeuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Amposta Ràdio
+http://endirecte.amposta.cat:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Andujar 92.9 FM
+http://srv01.redsanmarcos.com:9017/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Andújar
+https://20723.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda KV Radio
+http://str1.mediatelekom.net:8031/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", LOS40 Andalucia Centro 100.4 FM
+https://srv6021.dns-lcinternet.com:10206/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Andalucia Centro 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANTEQUERA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Sierra de Aracena
+http://server10.emitironline.com:10044/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Europa FM 99.0
+https://20133.live.streamtheworld.com/DIAL_ASO_MORON.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Aranda
+https://22713.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fuga
+http://radiogestion.com:7090/radiofuga
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Arbúcies
+http://streaming.enantena.com:8000/radioarbucies128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Arenys FM 91.2
+https://enacast.com/radioarenysdemar/streams/HD
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Arenys de Munt
+https://enacast.com/radioarenysdemunt/streams/HD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Argentona
+http://emisor.ample24.cat:8000/argentona
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mogan
+https://streaming2.elitecomunicacion.es:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Armilla
+http://radioserver10.profesionalhosting.com:40928/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Arnedo Cadena SER
+https://streaming.radioarnedo.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Lanzarote
+https://20853.live.streamtheworld.com/SER_LANZAROTE.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Crónicas Radio - COPE Lanzarote
+http://srv0435.lcinternet.com:9517/stream?
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mas Latina FM
+https://ssl.vocesparatumarca.co:7540/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mi Tierra FM
+http://server6.20comunicacion.com:8062/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", O2 Radio
+http://62.210.141.18:8000/o2radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Insular Lanzarote
+http://srv01.redsanmarcos.com:8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lanzarote Onda Cero FM 90.7
+https://topradio.one:8045/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 4G Valladolid FM 87.6
+https://streaming.enacast.com/radio4gvalladolid128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sansueña
+http://srv0435.lcinternet.com:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Artà
+http://91.121.156.27:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aspe FM 103.4
+http://streaming.enantena.com/radioaspe128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Astorga FM 87.6
+https://server8.emitironline.com:18926/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Casdena SER Ávila
+https://20043.live.streamtheworld.com/SER_AVILA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Ávila
+https://wecast-m01-04.flumotion.com/copesedes/avila.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Veritas
+http://srv0410.lcinternet.com:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", APQ Radio
+http://stm1.emiteonline.com:8012/apqradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Avilés
+https://21233.live.streamtheworld.com/SER_AVILES.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", CST Radio
+http://srv3021.lcinternet.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Avilés Radio
+http://5.135.183.124:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Avinyó
+http://s15.myradiostream.com:16904/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ser Costa de la Luz
+http://cervera.eldialdigital.com:8036/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kontrako Eztarrixe FM 94.2
+http://zerb01.baibalab.net:8000/keztarri.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Badajoz FM 91.3
+https://wecast-m01-01.flumotion.com/copesedes/badajoz.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Campus
+http://www.ondacampus.es:8000/ondacampus
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Extremadura
+https://21223.live.streamtheworld.com/SER_EXTREMADURAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vida
+http://srv0435.lcinternet.com:9502/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", CanalPlenitud Radio
+http://108.59.9.147:8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona Mar FM
+http://streaming.enantena.com:8000/onamar128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Ciutat de Badalona
+http://streaming.enantena.com:8000/radiob128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cancionero Radio - Ser
+http://89.140.229.4:8008/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Balaguer
+http://79.148.125.91:8020/stream/2/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Delreino Radio
+https://sonic.sistemahost.es/8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Balsareny FM 107.1
+http://streaming.enantena.com:8000/radiobalsarenyHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Barbastro-Aínsa
+https://streamingradio.radiohuesca.com:8071/radiobarbastro
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Somontano FM 107.4
+https://str1.mediatelekom.net:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Barbate FM 107.4
+http://radio.barbate.es:7545/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", 1000 Hits 90s
+http://213.32.121.35:8050/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", 1000 Hits Jazz
+http://213.32.121.35:8060/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", 7deRàdio Barcelona FM 99.2
+http://cast.7deradio.cat:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", 80s Super Dance Floor
+http://s41.myradiostream.com:33604/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Barcelona City FM
+https://s2.radio.co/sd9da54aa0/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Betevé 91fm
+http://77.226.219.101:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Boca Ràdio FM 90.1
+http://bocanord.qui.guifi.net:8000/bocaradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", BZN 704
+https://stream.zeno.fm/gh54q01dfwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", C/C Radio
+https://s5.citrus3.com:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena COPE Barcelona
+https://wecast-m01-04.flumotion.com/copesedes/barcelona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Catalunya Ràdio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Contrabanda FM 91.4
+http://www.contrabanda.org:8000/contrabanda
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cooltura FM
+https://server9.emitironline.com:19244/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Digital Hits FM
+http://digitalhits.frilab.com:8000/digitalhits
+#EXTINF:-1 tvg-logo="" group-title="Spain", dublab.es
+https://dublabbcn.out.airtime.pro/dublabbcn_b
+#EXTINF:-1 tvg-logo="" group-title="Spain", El Prat Radio
+http://streaming.enantena.com:8000/elpratradio56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", ELS40
+https://21223.live.streamtheworld.com/LOS40_CAT.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Equinox Radio Barcelone
+https://listen.radioking.com/radio/408085/stream/460546
+#EXTINF:-1 tvg-logo="" group-title="Spain", Flaix FM
+https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Flaixbac
+https://flaixbac.streaming-pro.com:8007/flaixbac.aacp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gallery of Ideas
+https://stream.zeno.fm/80mgufrm8yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gladys Palmera Radio
+http://54.247.76.135:8000/ch01?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gran Via Radio FM 91.2 DAB+ 9c
+https://antares.dribbcast.com/proxy/granviaradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hits Music Radio Barcelona
+http://hitsmusicradio.out.airtime.pro:8000/hitsmusicradio_b
+#EXTINF:-1 tvg-logo="" group-title="Spain", InOutRadio
+https://us1new.listen2myradio.com:2199/listen.php?port=8249&type=s1&mount=/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Itaca FM
+http://stream2.itacafm.com:8000/_a
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Marina FM 102.5
+http://endirecte.amcl.cat:8000/lamarinafm
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Xarxa
+https://radio.cdnmedia.tv/radio/8020/LaXarxa2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Luces en la Oscuridad 24h
+https://radioserver10.profesionalhosting.com:40972/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mighty Jesus Radio
+https://stream.zeno.fm/35e0myxbqnruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Montcada Radio
+http://streaming.enantena.com:8000/montcada128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona de Sants-Monrjuïc
+http://onastream.no-ip.info:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", OnaMomentsTVRadio
+https://streamingv2.shoutcast.com/nona-moments
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Barcelona
+http://icecast-streaming.nice264.com/barcelona
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Paz Barcelona FM 93.3
+http://srv0410.lcinternet.com:8002/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ondamar80
+https://antares.dribbcast.com/proxy/ondamar80?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", RAB Ràdio AMèrica Barcelona
+https://s3.radio.co/sf09831a0e/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", RAC1
+http://rac1.radiocat.net:80/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RAC105 fm
+http://streaming105.radiocat.net:80/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Amistad
+http://srv0410.radiostreaming.es:8026/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Barça
+http://www.movistar.es/estaticos/empresas/facturacion-y-consumo/media/consumos-ccli.flv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Barcelona
+https://stream.zeno.fm/fq3qwvw6g2zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Barcelona Cadena SER
+https://20133.live.streamtheworld.com/SER_BARCELONAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio BCN L'Italiana
+https://s1.audioroadie.com/radio-001
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Estel
+http://srv3021.lcinternet.com:8019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Horta-Guinardó
+https://s3streamingradio.desafiohosting.com:9011/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Hostafrancs FM 98.0
+https://streamserver2.radioproducciones.com:8102/radiohostafrancs
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Kanal Barcelona FM 106.9
+https://radioserver10.profesionalhosting.com:60970/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Barcelona
+http://radioweb.radiomarcabarcelona.com:9000/stream?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pi España
+https://stream.zeno.fm/kess34urbwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio PICA
+https://stream.zeno.fm/mgqsp0utpwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Primavera Sound RPS
+https://streamer.radio.co/s23e62020a/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", RCR Metro Barcelona FM 107.3
+http://streaming.enantena.com:8000/radioconstruyendorelaciones128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE - Rádio 5 FM 99.0
+https://crtve-ice-edge-2003-fra-eco-cdn.cast.addradio.de/crtve/rne5/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", Roca FM Barcelona
+http://pollux.shoutca.st:8968/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Santandance Ràdio
+http://195.154.33.95:8256/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sants 3 Ràdio
+http://radio.08-produccions.cat:8000/sants3radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", scannerFM
+https://eu10.fastcast4u.com/scannerfm
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Catalunya
+https://22713.live.streamtheworld.com/SER_CATAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash Dance
+http://c3.auracast.net:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tabarnia Radio
+http://188.164.198.121:8002/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", TeslaFM
+http://tesla1.teslafm.net:8000/tesla1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vuelo714 Radio
+https://stream.zeno.fm/1nvzr3e37qzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Baza
+https://stream.produccionesdale.com:8900/altacalidad
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Baza - Ser
+http://escuchar.radiogranada.es:8028/baza
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Gipuzkoa
+https://server8.emitironline.com:18399/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Begur 97.7
+http://streaming.enacast.com:8000/radiobegurHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", UABràdio
+http://nfmstream.uab.cat:8000/uabradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", FM Bierzo 101.3
+http://streaming12.elitecomunicacion.es:8648/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Finlandia FM 102.6
+http://streams.radio.co/s172910a74/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Rock 66
+http://streaming5.elitecomunicacion.es:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Benamocarra
+http://s42.myradiostream.com:28908/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Pirineos
+http://85.25.217.22:8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Zona FM 103.4
+http://5.135.71.2:9734/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Benicarló
+http://streaming.enacast.com:8000/radiobenicarlo128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Benidorm Seriously
+http://uk1.internet-radio.com:8203/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena 100 Benidorm 93.0 FM
+http://rsirena.dnsalias.com:8000/cad100benidorm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cool FM Radio
+http://104.251.118.50:8252/;stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fresh Radio Spain
+http://kepler.shoutca.st:8031/stream?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hot FM 96.2
+http://91.121.121.25:8097/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Frecuencia Benidorm
+https://stream.zeno.fm/mq9q4fk4sm0uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sirena COPE Benidorm
+http://rsirena.dnsalias.com:8000/rsirenacope
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spectrum FM Costa Blanca
+https://eu8.fastcast4u.com/proxy/spectrumcbn2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tu Radio 107.1 FM
+http://5.135.183.124:8133/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Harmony FM 96.7
+https://server8.emitironline.com:18064/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Litoral
+http://streamlit01.vpstec.ovh:8020/radiolitoral
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pure Gold FM 94.1
+https://streaming.galaxywebsolutions.com:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Txapa Irratia 97.2 FM
+http://halabedi.eus:8000/txapa.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Berja
+http://str2.mediatelekom.net:9896/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Activate FM
+https://streaming12.elitecomunicacion.es:8085/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Bilbo Hiria Irratia FM 96.0
+https://streaming.radiocast.pro:8443/bilbohiria
+#EXTINF:-1 tvg-logo="" group-title="Spain", BIZKAIA Irratia
+http://79.137.33.224:8000/bizkaiairratia2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Bilbao
+https://21223.live.streamtheworld.com/SER_BILBAOAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Bilbao
+https://wecast-m01-01.flumotion.com/copesedes/bilbao.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", EITB Musika
+http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Euskadi Irratia
+http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gaztea
+http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Irola Irratia 107.5 FM
+http://s.streampunk.cc/_stream/irola_irratia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ola AMérica 105.0fm
+https://server8.emitironline.com:18868/stream?1602790778503
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Bilbao
+http://icecast-streaming.nice264.com/bilbao
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Vasca
+https://live.ondavasca.com:8001/bizkaia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Oye Athletic FM 95.8
+http://87.106.225.186:8005/berrizfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 7
+https://radio7.streaming-pro.com:6146/radio7.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aljalia
+https://turadio.uno/8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Euskadi
+http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Bilbao FM 103.4
+http://stream.emisorasmusicales.com:8005/berrizfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nervión
+https://radionervion.streaming-pro.com:6132/radionervion
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Popular - Herri Irratia Bilbao
+http://79.137.33.224:8000/radiopopular1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tular Irratia
+http://51.255.235.165:5420/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Soft Radio
+https://listen.openstream.co/6263/audio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sur 20 Radio
+https://hoth.alonhosting.com:5435/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Blanes FM 97.7
+http://streaming.enantena.com:8000/radioblanes56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Marina
+http://streaming.enantena.com:8000/radiomarina128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Archipiélago
+http://78.129.185.84:36411/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", I-Radio FM 107.3
+http://84.78.32.52:8000/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Briviesca FM 107.3
+https://antares.dribbcast.com/proxy/radiobriviesca?mp=/briviesca
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE - Burgos
+https://wecast-b01-02.flumotion.com/copesedes/burgos.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Burgos
+https://wecast-b01-05.flumotion.com/promecal/radio1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Planet Music Radio
+https://sonicpanel.streamsolutions.us/8004/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Castilla Cadena SER
+https://21223.live.streamtheworld.com/SER_BURGOS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Evolucion Burgos 103.7 FM
+http://radioevolucion.freeddns.org:8001/fibra_baja
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vive Radio
+https://wecast-m02-05.flumotion.com/promecal/radio3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cabanes
+http://chrome.frilab.com:8000/radiocabanes;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cabanillas
+http://212.83.151.18:8076/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Futuro FM
+http://server1.emitironline.com:8040/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Foramontanos
+http://radio.foramontanos.fm:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fuego De Pasion
+https://sp.tvcontrolcp.com/8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Espacio
+https://eu1.lhdserver.es:8037/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Cáceres
+https://21223.live.streamtheworld.com/SER_CACERES.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Cádiz
+https://wecast-m01-02.flumotion.com/copesedes/cadiz.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Cádiz
+http://stream.produccionesdale.com:8899/cadiz
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cádiz Radio
+http://adc-radio-stream.flumotion.com/adc/live-radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Litoral Cádiz
+https://antares.dribbcast.com/proxy/ondalitoral2?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cádiz Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca
+http://94.23.85.189:9360/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", XtraHits Cadiz
+https://srv1.multiesfera.com:8020/hd
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ibiza Stardust Radio
+https://www.radioking.com/play/ibiza-stardust-radio-1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Calafell Ràdio 107.9FM
+http://streaming.enantena.com:8000/calafellradio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Rioja Baja
+http://server6.20comunicacion.com:8202/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Melodía FM Rioja Baja
+http://server6.20comunicacion.com:8204/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Rioja Baja
+http://server6.20comunicacion.com:8200/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Calamocha
+http://streaming.zarastudio.es/ondacerocalamocha.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Calatayud
+https://22713.live.streamtheworld.com/SER_CALATAYUD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Calatayud
+http://server6.20comunicacion.com:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Calella Televisió
+https://radio.cdnmedia.tv/radio/8000/radiocalellatv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Calvià
+http://91.121.156.27:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arousa Si Radio
+http://82.223.29.65:8080/arousa
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Cambrils FM 90.0
+https://radio.cdnmedia.tv/radio/8210/radiocambrils
+#EXTINF:-1 tvg-logo="" group-title="Spain", Live FM
+http://streaming.enantena.com:8000/livefm128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RM Radio Manchuela
+http://63.247.91.178:14085/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", RM Radio Quintanar
+https://cast.rmradio.es/radio/8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", RM Radio Utiel-Requena
+http://cast.rmradio.es:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Campillos
+http://195.154.54.163:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Abubilla Radio FM 107.9
+https://srv5021.dns-lcinternet.com:8525/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cañada Rosal FM 107.7
+http://str1.mediatelekom.net:8073/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RCC FM 94.6
+http://server1.iberteltelecom.es:3629/rcc
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Canet
+http://streaming.enacast.com:8000/radiocanetdemar128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cangas Reconquista
+http://82.223.8.42:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Cangas del Narcea 101.1FM
+https://icecast-streaming.nice264.com/cangasdenarcea
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cantillana
+http://s22.myradiostream.com:13956/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Capdepera Ràdio
+http://91.121.156.27:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Capellades FM 104.7
+http://212.83.138.48:8499/stream;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tendencia FM 104.1
+https://tendenciafm.es:8080/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Nordés
+https://20423.live.streamtheworld.com/CADENADIALAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nordés FM 92.2
+http://20873.live.streamtheworld.com/SER_ASO_CEE.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Bergantiños
+http://live.radiovoz.es/mp3/stream_carballo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Campos FM
+http://207.180.192.26:18022/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Carrizal
+http://streaming.enantena.com:8000/radiocarrizal128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Cartagena
+https://21223.live.streamtheworld.com/SER_CARTAGENA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Cartagena
+https://wecast-b01-02.flumotion.com/copesedes/cartagena.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Cartagena
+http://icecast-streaming.nice264.com/cartagena
+#EXTINF:-1 tvg-logo="" group-title="Spain", Orbita Hit FM 104.3
+https://sonic.mediatelekom.net/8022/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cartaya 107.2 fm
+http://5.135.183.124:8018/stream#.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Casares
+http://srv0435.lcinternet.com:9507/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Manchuela FM 107.0
+http://94.23.87.98:9225/index.html;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Benapup FM Radio
+https://eu1.lhdserver.es:9029/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Caspe
+https://radioonlinelacomarca.net:8104/caspe.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cassà
+https://eu1.lhdserver.es:9085/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda 15 Castalla
+https://radioserver11.profesionalhosting.com:59166/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Global FM Radio 98.3
+https://stream.zeno.fm/1hz7yeqrrv8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Platja d'Aro
+http://stream.internetgirona.com:8008/onair
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Castellar FM 90.1
+http://radioserver9.profesionalhosting.com:8145/radio_castellar
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Castelldefels
+http://streaming.enantena.com:8000/radiocastelldefels128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Castellón
+http://stream.radiocastellon.com/dial
+#EXTINF:-1 tvg-logo="" group-title="Spain", Formula Hit Castellon
+http://178.32.60.136:9930/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", LOS40 Castellón
+http://stream.radiocastellon.com/40
+#EXTINF:-1 tvg-logo="" group-title="Spain", LOS40 Classic Castellon
+http://stream.radiocastellon.com/40cl
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Castellón
+http://icecast-streaming.nice264.com/castellon
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Castellón Cadena SER
+http://stream.radiocastellon.com/ser
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Castellterçol
+http://radio.cdnmedia.tv/radio/8150/radiocastelltercol
+#EXTINF:-1 tvg-logo="" group-title="Spain", Real FM
+https://olive.torontocast.com:8130/realfm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Castro Urdiales
+https://21233.live.streamtheworld.com/SER_CASTRO_URDIALES.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Castro Punto Radio FM 88.2
+http://server8.emitironline.com:10891/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Castro Urdiales
+http://s1.radiosnethosting.com:9288/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Lola FM
+http://srv0510.lcinternet.com:8053/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tharsus - Canal 2
+https://guri.tepuyserver.net/8062/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nordés Cadena Ser
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CEE.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Celrà FM 107.7
+http://streaming.enantena.com:8000/radiocelra128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cerdanyola Ràdio FM 105.3
+https://wecast-b02-04.flumotion.com/ajcerdanyola/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Ceuta FM 89.8
+http://copeceuta.es:8000/copeceuta
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Ceuta
+http://icecast-streaming.nice264.com/ceuta
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Color
+https://streaming12.elitecomunicacion.es:8212/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ceuta Cadena SER
+https://22713.live.streamtheworld.com/SER_CEUTA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Blue Radio 90.2 FM
+http://62.210.146.131:9053/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Chiclana
+http://srv0435.lcinternet.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Chinchilla
+http://streaming.radioalba.es:8114/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Chipiona
+http://srv01.redsanmarcos.com:8021/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Arco Norte
+https://23543.live.streamtheworld.com/SER_ARCO_NORTEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Cieza
+http://5.135.183.124:8048/live2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Solo Exitos FM
+http://5.135.183.124:8048/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Solo Exitos FM Oldies
+http://5.135.183.124:8048/live3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Ciudad Real
+https://20423.live.streamtheworld.com/SER_CIUDAD_REAL.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Ciudad Real Puertollano
+https://wecast-b03-03.flumotion.com/copesedes/ciudadreal.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Ciudad Real
+https://stream.produccionesdale.com:8900/altacalidad
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Ciudad Real
+http://icecast-streaming.nice264.com/ciudadreal
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Ciudad Rodrigo
+http://radioserver11.profesionalhosting.com:9114/;audio.mp3?hash=1565446064232
+#EXTINF:-1 tvg-logo="" group-title="Spain", Club Nation
+http://46.4.48.7:9494/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Madrid Sierra
+http://20423.live.streamtheworld.com/SER_ASO_MADSIERRA_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE de la Sierra
+https://wecast-b03-04.flumotion.com/copesedes/villalba.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Villalba 107.4 FM
+http://srv0625.lcinternet.com:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cool Breeze Radio
+https://stream.zeno.fm/v9a1cgf0x1zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Juventud de Conil
+http://164.138.208.21:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Constantí Radio
+http://streaming.enantena.com:8000/radioconstantiSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Consuegra FM 107.1
+https://streaming12.elitecomunicacion.es:8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", radiONeria
+http://radioneria.ddns.net:8000/neria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Córdoba
+https://wecast-b03-01.flumotion.com/copesedes/cordoba.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Córdoba FM
+https://radioserver11.profesionalhosting.com/proxy/idvothgi?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Intimidad Radio 106.4 FM
+https://eu1.lhdserver.es:9119/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jelou Radio
+http://94.23.85.189:9180/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Córdoba
+http://stream.produccionesdale.com:8899/cordoba
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Metro 100.3 FM
+https://streaming12.elitecomunicacion.es:8254/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Latino Córdoba
+http://streaming5.elitecomunicacion.es:8034/stream;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Córdoba
+http://icecast-streaming.nice264.com/cordoba
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ondagongora.es
+https://eu1.lhdserver.es:9161/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Armonía
+https://liveradio.com.es:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Córdoba Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio M7
+http://eu6.fastcast4u.com:5004/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sol FM 94.4
+https://sonic.mediatelekom.net/9954/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Keicho
+https://centova.streamrdm.com:4177/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Roncudo 106.1fm
+http://radioron.ddns.net:8000/emision.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cortegana
+http://srv01.redsanmarcos.com:9013/stream?1515625406029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Feeling FM 107.6
+https://streaming12.elitecomunicacion.es:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hola FM
+http://5.135.183.124:8207/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", buzz fm
+https://n08.radiojar.com/ntd3s54rxeruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cubelles FM 107.5
+http://streaming.enantena.com:8000/cubelles128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canalpop
+http://188.93.75.97:8010/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Cuenca
+http://icecast-streaming.nice264.com/cuenca
+#EXTINF:-1 tvg-logo="" group-title="Spain", QD Radio
+https://radios.lamaster.es:8010/qdradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cullar FM 107.8
+https://streaming2.elitecomunicacion.es:8120/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cullera Online
+https://s11.ssl-stream.com/ssl/asociaci?mp=/mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Xuquer Radio
+https://s11.ssl-stream.com/ssl/asociaci?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Cunit FM 107.0
+https://enacast.com/radiocunit/streams/HD
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alizán Radio
+http://5.135.183.124:8044/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Luz FM 107.8
+https://broadcast.radioponiente.org:8034/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Comarca de Daroca
+http://myradio.doscast.com:8004/stream?1552485051223
+#EXTINF:-1 tvg-logo="" group-title="Spain", Aegean Lounge
+http://91.121.78.191:8469/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Vegas Altas
+https://20133.live.streamtheworld.com/SER_VEGAS_ALTAS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Don Benito Villanueva FM 101.1
+https://eu1.lhdserver.es:8013/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Plaza 1 Radio
+http://5.135.183.124:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Peter Club
+https://www.radioking.com/play/radio-peter-pan
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Mencía Radio
+https://streaming12.elitecomunicacion.es:8146/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", DH Radio
+https://streaming-audio-1.magentalabs.es:8000/epocafm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Durango Irratia
+https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Ecija FM 100.1
+https://sonic.mediatelekom.net/9336/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dial Andalucía Centro
+https://srv6021.dns-lcinternet.com:10203/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", EDT Radio
+https://stream.zeno.fm/1a9mmvvs35quv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Estado de Trance
+http://144.217.165.34:8080/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM - 96.9 FM
+http://stream.produccionesdale.com:8899/altacalidad
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arrate Irratia
+http://5.135.155.232:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena 100 Gipuzkoa 96.3 FM
+https://server8.emitironline.com:18196/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Eibar Cadena SER
+https://20043.live.streamtheworld.com/SER_EIBAR.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cinco Villas Cadena SER
+https://22333.live.streamtheworld.com/SER_CINCO_VILLAS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Onuba
+http://srv3021.lcinternet.com:8017/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio el Cogul FM 88.2
+https://stream.zeno.fm/q1mspxdctwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cuervo
+http://185.229.96.11:8100/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Poniente
+https://20873.live.streamtheworld.com/SER_ASO_PONIENTEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero El Ejido
+http://icecast-streaming.nice264.com/elejido
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Luz Classic FM 107.8
+https://broadcast.radioponiente.org:8034/;listen.pls
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Poniente
+https://broadcast.radioponiente.org:8036/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sintonía
+http://srv0411.lcinternet.com:9026/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Trendy FM 91.7
+https://broadcast.radioponiente.org:8038/index
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Morell FM 98.3
+http://streaming.enantena.com:8000/radiomorellSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Formentera Ràdio
+http://srv0411.lcinternet.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Baby Radio
+http://sd396babyradio1.lcinternet.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Puerto
+https://streaming.enacast.com/radiopuertoHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Jungla Radio
+http://5.175.47.12:8005/lajunglaweb
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio El Vendrell FM 107.1
+http://streaming.enantena.com:8000/rtvelvendrell128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Elche 100.8
+https://sonic.mediatelekom.net/9314/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Elchemania
+http://163.172.8.18:8136/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Elche
+http://icecast-streaming.nice264.com/elche
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mucho Elche
+http://emiteradio.com:8136/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nature
+https://stream.zeno.fm/sfpqezsh6f0uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sol FM 95.8
+https://eu1.lhdserver.es:9135/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Efecto FM 89.0
+http://directo.efectofm.es:19000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Zintzilik Irratia FM 100
+http://stream.piperrak.cc:8000/zintzilik.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Es Castell
+http://91.121.156.27:8050/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Luna FM 107.5
+http://topradio.one:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Espinosa Merindades
+http://srv3021.lcinternet.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Esplugues FM 99.7
+https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Mussol FM 94.2
+https://antares.dribbcast.com/proxy/radiomussol?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena 100 Estella
+http://server9.emitironline.com:9373/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Tierra Estella
+http://server1.emitironline.com:9866/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", LOS40 Andalucia Centro 92.5 FM
+https://srv6021.dns-lcinternet.com:10205/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Andalucia Centro FM 98.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ESTEPA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Estepona 107.2 FM
+https://streaming2.elitecomunicacion.es:8602/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Talk Radio Europe
+https://20103.live.streamtheworld.com:443/TALK_RADIO_EUROPE_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Veu del Baix Matarranya
+http://178.156.45.108:8000/lvbm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Falset
+https://radiofalset.streaming-pro.com:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fene
+http://srv0490.lcinternet.com:8002/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiofusion
+http://srv0411.lcinternet.com:9005/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Marina
+http://srv01.redsanmarcos.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Ferrol
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fórmula FUN Galicia
+http://s30.myradiostream.com:30464/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fórmula Hit
+http://s18.myradiostream.com:8074/;listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Filispim
+http://streaming.cuacfm.org/filispim.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Ferrol
+http://live.radiovoz.es/mp3/stream_ferrol.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", 17600 Radio
+https://servidor35-3.brlogic.com:8772/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Xiuxiu
+http://live.radioxiuxiu.com:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Comarca
+http://188.165.131.13:9302/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fraga FM 107.7
+http://streaming.enantena.com:8000/radiofraga128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Lionner Radio
+https://stream.zeno.fm/mdddu58h8yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Madrid Sur
+https://20853.live.streamtheworld.com/SER_ASO_MADRID_SURAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Fuenlabrada
+http://radioserver7.profesionalhosting.com:41008/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", MI 97.5 FM
+https://s3streamingradio.desafiohosting.com:9008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Canaria FM
+http://server8.emitironline.com:10864/radio?1557494799661
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Gáldar FM 107.9
+http://195.77.177.94:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", More FM 102.2
+http://stream-morefmalmeria.creativedork.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Gandia - 97.9 FM and TDT
+http://stream.radiogandia.com:8080/dial
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Gandia - 96.5 FM and TDT
+http://stream.radiogandia.com:8080/cuarenta
+#EXTINF:-1 tvg-logo="" group-title="Spain", Máxima FM Gandia - 95.5 FM and TDT
+http://stream.radiogandia.com:8080/maxima
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Gandia SER - 1584 AM / 104.FM and TDT
+http://stream.radiogandia.com:8080/ser_low
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Luz
+http://radioserver4.profesionalhosting.com:8132/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Gavà FM 91.2
+http://streaming.enantena.com:8000/radiogava56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ahora Radio
+http://srv0490.lcinternet.com:9707/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vinilo FM
+http://server9.emitironline.com:10923/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Gijón
+https://23543.live.streamtheworld.com/SER_GIJONAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Gijón
+https://wecast-b02-04.flumotion.com/copesedes/gijon.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", El Zol Radio FM 103.4
+https://eu1.lhdserver.es:9193/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Master FM - Asturias
+http://82.223.102.59:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Kras
+http://giss.tv:8000/RadioKras.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sporting
+http://5.135.183.124:8426/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", radioalcuadrado
+https://server.radioalcuadrado.es/radio/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Master FM 101.1
+https://radios.lamaster.es:8000/sevilla
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Girona
+https://wecast-m01-01.flumotion.com/copesedes/gerona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Girona Cadena SER
+https://20853.live.streamtheworld.com/SER_GIRONA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Staronlineradio
+http://163.172.209.91:9191/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Boom FM
+http://streaming.elitecomunicacion.es:8086/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Elite Granada 106,4 FM
+https://streaming2.elitecomunicacion.es:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Granada
+http://escuchar.radiogranada.es:8028/granada
+#EXTINF:-1 tvg-logo="" group-title="Spain", Classic Rock
+https://streaming2.elitecomunicacion.es:8054/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Granada
+https://wecast-b03-01.flumotion.com/copesedes/granada.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Década FM
+http://streaming5.elitecomunicacion.es:8230/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Diva Sound Radio
+http://streaming.elitecomunicacion.es:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Energy FM 92.3
+https://streaming.sonmedia.es:7001/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio FM 106.7
+https://server.spainbroadcast.net/8032/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hit FM Granada 97.4
+https://streaming12.elitecomunicacion.es:8502/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mega Hit Granada 100.1
+https://stream.andacast.es/radio/8030/megahit
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Granada
+http://icecast-streaming.nice264.com/granada
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pop FM Granada
+http://streaming5.elitecomunicacion.es:6104/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Positiva FM
+http://5.196.73.188:8000/320.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Almaina
+http://s.streampunk.cc/almaina.ogg
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cofrade 107.4 FM
+https://streaming2.elitecomunicacion.es:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Interconomía FM 98.2
+https://streaming2.elitecomunicacion.es:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Granada
+http://94.23.85.189:9350/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Viva Pop
+http://motivaradio.es:12245/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tiempo Tenerife
+https://eu1.lhdserver.es:9159/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Granollers FM 107.6
+https://radio.cdnmedia.tv/radio/8120/radiogranollers
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Graus-Benasque
+https://streamingradio.radiohuesca.com:8051/radiograus
+#EXTINF:-1 tvg-logo="" group-title="Spain", Globo FM 99.3
+http://162.244.80.52:6884/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Guadalajara
+https://20873.live.streamtheworld.com/SER_GUADALAJARA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Guadalajara
+https://wecast-m01-01.flumotion.com/copesedes/guadalajara.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Nueva Onda Yunquera FM 99.3
+https://stream.zeno.fm/ge454833wv8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Guadalajara
+http://icecast-streaming.nice264.com/guadalajara
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Arrebato
+http://srv0510.emisorasonline.com:8025/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Guadix
+https://wecast-b03-02.flumotion.com/copesedes/guadix.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Élite Radio
+http://62.210.167.140:8606/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_GUADIX.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Guadix CADENA SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Guardo FM 107.2
+http://server10.emitironline.com:10654/radi
+#EXTINF:-1 tvg-logo="" group-title="Spain", XRT FM 103.6
+http://server8.emitironline.com:10852/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Guillena
+http://w2.guillena.org:8000/ondaguillenaradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Haro - Cadena Ser
+http://streaming.capsulaimposible.com:8000/radioharo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Hellín
+http://srv0625.lcinternet.com:8009/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ser Los Pedroches
+http://srv01.redsanmarcos.com:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Radio Hornachos
+https://radioserver11.profesionalhosting.com/proxy/pkg111873?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio DOS 84 FM 105.9
+http://188.93.73.7:8064/stream?type=http&nocache=6
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Luna
+https://streaming.sonmedia.es:7004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Antena Huelva Radio
+http://stm1.emiteonline.com:8024/antenahuelva
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Huelva
+https://wecast-m01-02.flumotion.com/copesedes/huelva.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Huelva
+http://stm1.emiteonline.com:8001/europafmhuelva
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hispanidad Radio
+https://stm2.emiteonline.com:9002/hr
+#EXTINF:-1 tvg-logo="" group-title="Spain", Huelva FM 103.4
+http://server2.crearradio.com:8001/;stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", musicBox
+http://stm1.emiteonline.com:8025/musicbox
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Huelva
+http://icecast-streaming.nice264.com/huelva
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Flamenca
+http://antenahuelva.dyndns.org:8000/rflamenca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Huelva Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Occidente FM 94.6
+http://stm1.emiteonline.com:8946/occidente
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Romántica
+http://antenahuelva.dyndns.org:8000/romantica
+#EXTINF:-1 tvg-logo="" group-title="Spain", UniRadio Huelva
+http://radio2.uhu.es:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Candil Radio FM 87.6
+https://candilradio.com/liveradio/candil/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Aragón Radio
+https://cartv.streaming.aranova.es/mp3/live/aragonradio_huesca_96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Huesca
+http://streaming.radiohuesca.com:8010/radiohuescaam
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Huesca
+https://wecast-m01-01.flumotion.com/copesedes/huesca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hit Radio Huesca
+http://stm1.emiteonline.com:8003/hitradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Huesca
+http://icecast-streaming.nice264.com/huesca
+#EXTINF:-1 tvg-logo="" group-title="Spain", M80 Radio Andalucia Este
+http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ibi
+http://streaming.enantena.com:8000/radioibiSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Blue Marlin Ibiza
+https://ice1.viastreaming.net:8443/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Chillout
+https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Dance
+https://radio4.cdm-radio.com:18000/stream-mp3-Dance
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Deep House
+https://radio4.cdm-radio.com:18012/stream64k-AAC-Deep
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Funky
+https://radio4.cdm-radio.com:18008/stream64k-AAC-Funk
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Smooth Sax
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Del Mar - Zen
+https://radio4.cdm-radio.com:18004/stream-mp3-Zen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cotton FM
+https://usa7.fastcast4u.com/proxy/tqamqurl?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Efecto BAILE Radio Ibiza
+http://stream.emisorasmusicales.com:8030/efectobaileradioibiza.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", IB3 Ràdio - Eivissa i Formentera 93.7 FM
+http://streaming01.ib3radio.com:8000/ib3radio_pitiuses
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ibiza BPM Radio
+https://streams.radio.co/s3ed04b8f7/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ibiza Global Radio FM 100.8
+https://listenssl.ibizaglobalradio.com:8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ibiza Live Radio FM 103.7
+http://streams.radio.co:80/sdc9cfaf77/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ibiza Sonica
+http://s1.sonicabroadcast.com:7005/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Isla 106 Ibiza
+https://stream.isla106.com/isla106
+#EXTINF:-1 tvg-logo="" group-title="Spain", JFK Ibiza 105.2 FM
+https://stream.jfkradio.es/jfkibiza
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mambo Radio
+http://streamer.radio.co/sd7b28e5f3/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pure Ibiza Radio FM 97.2
+https://pureibizaradio.streaming-pro.com:8024/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", The ONE 101.1FM
+http://94.23.85.189:9330/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Llano Folklore Radio
+https://stream.zeno.fm/8a3q6hcftwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Música Hispana Radio YDR
+http://pr1cen101.emisionlocal.com:8034/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Noroeste FM
+http://server8.emitironline.com:10844/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tenerife Vip Radio
+https://chanlive.club/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ycoden Daute Radio FM 91.4
+http://pr1cen101.emisionlocal.com:8060/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Anoia Ràdio
+https://streamingv2.shoutcast.com/ANOIARADIO
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Igualada FM 103.2
+http://srv0411.lcinternet.com:9003/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Web Dummies Broadcasting
+http://listen.rwdb.net:8353/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 10
+http://80.59.241.240:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kiss FM 99.4
+https://garymelling.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ingenio FM 102.2
+https://stream.zeno.fm/972ksag0xqzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Irún Cadena SER
+https://20043.live.streamtheworld.com/SER_IRUN.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 4G Íscar 91.1 FM
+https://stm2.emiteonline.com:9005/radio4giscar
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Española FM 96.8
+https://stm2.emiteonline.com:9005/laespanola2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Eztanda Irratia
+http://51.68.46.71:9000/eztanda.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Iznajar
+http://srv0510.lcinternet.com:8035/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Jaca
+https://streamingradio.radiohuesca.com:8041/radiojaca
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Jaca
+https://wecast-m02-05.flumotion.com/copesedes/jaca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Luna FM 99.8
+http://streaming.sonmedia.es:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Jaén
+http://stream.produccionesdale.com:8899/jaen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Jaén
+http://icecast-streaming.nice264.com/jaen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Guadalquivir FM 106.2
+https://streamprivate.live/8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio J.
+https://diariojaenradio.streaming-pro.com:6125/diariojaenradio.aacp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Jaén Cadena SER
+https://20873.live.streamtheworld.com/SER_ASO_JAEN.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", UniRadio Jaén
+https://uniradio-endirecto.ujaen.es/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Esan Erran Irratia FM 107.9
+https://ametza.ga:8082/EsanErran-mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Jerez
+http://streaming6.elitecomunicacion.es:8638/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Jerez
+https://wecast-b02-03.flumotion.com/copesedes/jerez.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Jerez
+http://streaming6.elitecomunicacion.es:8634/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Jerez
+http://icecast-streaming.nice264.com/jerez
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Jerez Radio
+https://radio.ondajerez.com:8443/Ondajerez.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Jerez Cadena SER
+https://streaming2.elitecomunicacion.es:8642/stream?dist=cadenaser-web-live_streaming_play&stid=167083
+#EXTINF:-1 tvg-logo="" group-title="Spain", Clubbing Party Radio
+https://stream.zeno.fm/rnwawyvymxquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda 4 Jimena 107.3
+https://antares.dribbcast.com/proxy/onda4jimena?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Jódar Cadena SER
+https://20723.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Juneda 107.6fm
+https://stream.zeno.fm/tnnxu39g4p8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Antena Aldaia FM 107.0
+https://radioserver11.profesionalhosting.com/proxy/pkg79742?mp=/Antena_Aldaia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio l'Arboç
+http://185.73.170.43:1756/radiobaixpenedes.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Túria 90.6
+http://streaming.enacast.com:8000/radioturiaHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio l'Escala
+http://escala-garden.frilab.com:8000/escala
+#EXTINF:-1 tvg-logo="" group-title="Spain", Espluga FM Ràdio
+https://radio.cdnmedia.tv/radio/8180/efmr
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Hospitalet de l'infant
+http://streaming.enantena.com:8000/radiohospitalet128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Almunia Radio FM 107.4
+http://streaming.zarastudio.es/laalmunia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero La Bañeza y Astorga
+http://srv0625.lcinternet.com:8019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Carlota
+http://89.163.246.195:8101/radiocarlota
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Silenci
+http://streaming.enantena.com:8000/radiosilenci128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena 100 Gibraltar
+https://stream.zeno.fm/fkq1xae5bzzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Joven FM 107.3
+https://sv2.globalhostlive.com:7153/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Gibraltar
+https://stream.zeno.fm/vvevgprh0eruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Levante FM 102.4
+https://sonic.sistemahost.es:7029/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Bahía Libre
+http://srv0410.radiostreaming.es:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio la Llagosta
+http://62.210.30.186:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", 107.2 LLosa FM
+https://via.vulstream.com/radio/8260/radio.mp3?1556272144
+#EXTINF:-1 tvg-logo="" group-title="Spain", Som la Ràdio
+https://via.vulstream.com/radio/8270/radio.mp3?1554401715
+#EXTINF:-1 tvg-logo="" group-title="Spain", DUNAS FM
+http://178.32.60.136:9998/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Dreamer DJ
+http://78.129.159.25:8064/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Norte Tenerife
+http://radionortetenerife.sytes.net:8011/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pimienta FM 103.1
+https://cervera.eldialdigital.com:21182/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Taoro
+http://94.23.67.20:8066/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Punto40Radio
+https://antares.dribbcast.com/proxy/punto40radio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jucal Radio
+https://srv5021.dns-lcinternet.com:8531/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Global Radio FM
+http://185.50.198.204:8655/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Puebla FM 107.7
+http://5.83.86.35:8000/RadioPuebla.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Puebla
+http://62.210.25.63:41061/;stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sierra FM
+http://srv01.redsanmarcos.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Pasión
+http://srv0625.emisorasonline.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Mogent
+http://rpi.mogent.cat:8084/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Roda
+http://94.76.165.97:9830/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RàdioSeu
+http://streaming.enantena.com:8000/radiolaseu128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Union FM 107.9
+http://server8.emitironline.com:10826/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Lokura Virtual
+http://streaming.elitecomunicacion.es:8016/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Doble V Radio
+https://stream.zeno.fm/x7wm4rrv5yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", XtraFM 92.7
+http://node.xtrafm.es:80/xtrafm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lalín
+https://streaming2.elitecomunicacion.es:8104/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", KM 0 Radio
+https://eu1.lhdserver.es:9011/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Pro
+https://hoth.alonhosting.com:1045/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Asón FM 96.4
+http://ns100.emisionlocal.com:8064/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cool Coffee
+http://5.39.86.44:8006/stream-mp3-CoolCoffee
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cool Deep
+http://5.39.86.44:8017/stream-mp3-CoolDeep
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cool Music Radio FM 97.8
+http://5.39.86.44:8000/stream-acc-CoolMusic
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Costa Esmeralda
+http://s26.myradiostream.com:14264/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Laredo
+http://212.83.172.164:9960/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", X-Pat Radio 2 FM97.1
+https://icecast.xpbroadcasting.com:8002/xpr2
+#EXTINF:-1 tvg-logo="" group-title="Spain", X-Pat Radio One XPR1
+https://icecast.xpbroadcasting.com:8002/xpr1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Las Gabias
+http://streaming5.elitecomunicacion.es:8090/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Navas FM 107.8
+https://streaming12.elitecomunicacion.es:8620/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa FM 102.5
+https://server8.emitironline.com:18408/
+#EXTINF:-1 tvg-logo="" group-title="Spain", 7.7 Radio - Canarias
+http://195.154.33.95:8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", 9Radio
+http://88.198.10.229:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Bakanos FM 94.6
+https://stream.zeno.fm/cxmx1evtzwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Las Palmas
+https://22343.live.streamtheworld.com/SER_LAS_PALMASAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canarias Radio
+https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Las Palmas
+https://wecast-m01-04.flumotion.com/copesedes/laspalmas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", El Espejo Canario
+https://radioserver11.profesionalhosting.com/proxy/pkg1147232?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hen Latino
+https://stream.zeno.fm/pg9xrakc85quv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hen Radio
+https://stream.zeno.fm/6b1z7c9b85quv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Inolvidable FM 95.8
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Más Música FM
+http://str2.mediatelekom.net:9994/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Canarias
+http://icecast-streaming.nice264.com/canarias
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio ECCA
+http://audio1.ipercast.net/endirecto22.es/mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa Das Schlagerradio FM 105.3
+https://server8.emitironline.com:18734/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa FM 104
+https://server8.emitironline.com:18733/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Guiniguada 105.9 FM
+http://185.129.248.251:9874/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Las Palmas FM 97.3
+https://uk1.streamingpulse.com/ssl/radiolaspalmas
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio San Borondón
+http://srv0435.lcinternet.com:9516/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tamaran FM
+http://server2.20comunicacion.com:8038/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Azul
+https://20723.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cassette FM
+http://ns6.emisionlocal.com:8600/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Llodio M80
+http://v2.ayser.net:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Lebrija FM 102.9
+http://188.93.73.7:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Emisora Comunitaria de Leganés
+https://cervera.eldialdigital.com:25191/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", LGN Radio
+http://cent2.stream-es.com:5000/streamTitle1=testLength1=-1version=2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio León
+https://22343.live.streamtheworld.com/SER_ASO_LEON.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE León
+https://wecast-m01-02.flumotion.com/copesedes/leon.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 León
+http://www.radioleon.com:8000/radio?1486235615060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero León
+http://icecast-streaming.nice264.com/leon
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca León
+https://marcaleon.streaming-pro.com:6104/marca-le.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Universitaria de León
+http://radio.unileon.es:8000/radio-unileon-320
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiolé Costa de la Luz
+http://cervera.eldialdigital.com:8040/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Anda Onda Lerma
+http://streaming.andaonda.es:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Les Planes
+http://s1streamingradio.desafiohosting.com:8053/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio la Vall
+http://rlv.serverroom.us:6362/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Xorroxin Irratia 88.0FM
+https://xorroxinirratia.streaming-pro.com:6002/xorroxinirratia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", H Sound Radio
+http://www.stream.emisorasmusicales.com:8030/honrubia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Linares Cadena SER
+https://21233.live.streamtheworld.com/SER_LINARES.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Llagostera Ràdio 105.7 FM
+https://relay.stream.enacast-cloud.com:40248/llagosteraradioHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Llançà FM 90.0
+https://radio.cdnmedia.tv/radio/8010/radiollanca
+#EXTINF:-1 tvg-logo="" group-title="Spain", Flip Flap Ràdio 104.8FM
+http://flipflapradio2.ddns.info:7117/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Lleida
+http://icecast-streaming.nice264.com/lleida
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ua1 Lleida Ràdio - 104.5 FM
+https://panel.soydigital.fm:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Sur Extremadura
+https://radioserver11.profesionalhosting.com/proxy/pkg85740?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Nova Ràdio Lloret FM 90.2
+https://lloret.frilab.com:8443/lloret
+#EXTINF:-1 tvg-logo="" group-title="Spain", Recasound Radio
+http://91.121.156.27:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canal Ebro Radio
+http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero La Rioja
+http://icecast-streaming.nice264.com/logrono
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Ocio
+https://radioserver10.profesionalhosting.com:23334/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Logroño
+http://c217s2.dns-lcinternet.com:8000/soloradio_128
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Rioja SER FM 99.8
+https://20423.live.streamtheworld.com/SER_RIOJAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Loja
+http://5.196.73.188:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Lora del Río
+https://via.vulstream.com/radio/8300/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Área Lorca Radio Online
+https://str1.mediatelekom.net:8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", CA 107 (Cadena Azul Lorca)
+https://evcast.mediacp.eu:1980/cadenaazul
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Lorca
+https://wecast-m01-04.flumotion.com/copesedes/lorca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cristal FM 103.7
+https://stream.zeno.fm/04cgv25a1neuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los Mega Exitos
+https://c16.radioboss.fm:8025/autodj
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lorca Cadena SER
+https://20723.live.streamtheworld.com/SER_LORCA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sintonía Deportiva Radio
+https://sonic.mediatelekom.net/8058/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mueve FM
+https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ocean Gold FM 87.5
+https://ocean.canstream.co.uk:8002/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Peñes
+http://5.135.183.124:9279/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", DIAL Andalucia Centro 97.3 FM
+https://srv6021.dns-lcinternet.com:10204/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Andalucia Centro FM 95.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Lugo
+https://wecast-m01-03.flumotion.com/copesedes/lugo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Lugo Si Radio
+http://82.223.29.65:8080/Galicia
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero Lugo
+http://icecast-streaming.nice264.com/lugo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pontevedra Cadena SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Lugo
+http://live.radiovoz.es/mp3/stream_lugo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Actualidad
+http://94.177.245.40:8000/actualidadalmanzora
+#EXTINF:-1 tvg-logo="" group-title="Spain", Atlantis FM
+http://radionetz.de:8000/atlantisfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", AdagioRadio
+https://stream.tunerplay.com/radio/8010/adagioradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Agora Sol Radio
+https://cervera.eldialdigital.com:23141/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ayomts80s
+https://stream.zeno.fm/8g1pdg4bptzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", AyomtsVaried
+https://stream.zeno.fm/2zn92b4bptzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena 100
+http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Cope
+https://flucast-b03-01.flumotion.com/cope/madrid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial
+https://20723.live.streamtheworld.com/CADENADIALAAC_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Ser
+https://21233.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Capital Radio
+https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", China FM 97.4
+http://ns3.mycloud-apps.es:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Clásica FM Radio
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:-1 tvg-logo="" group-title="Spain", Control Music FM 88.2
+https://stream.zeno.fm/wrd048n55rquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Madrid
+https://flucast-b05-06.flumotion.com/cope/madrid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", EDM Radio FM 97.4
+https://eu1.lhdserver.es:9073/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", EFE Radio
+http://tunein.agencia-efe.direct.flumotion.com/tunein/shoutcast.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Esencia Radio
+https://stream.zeno.fm/qaxnuxap0rquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio 
+http://livestreaming3.esradio.fm/stream64.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Factory FM 102.4
+http://5.135.183.124:8210/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fiesta FM Madrid
+http://srv0410.lcinternet.com:8009/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Formula Disco
+https://cdn4.onstream.audio:9237/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Free FM
+http://pollux.shoutca.st:8968/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Free FM Rock
+http://tachyon.shoutca.st:8298/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Generación Radio
+http://5.39.71.159:8926/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Happy FM
+https://happyfm.streaming-pro.com:8010/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hit FM
+http://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", i Van Radio
+https://ivanradio.out.airtime.pro/ivanradio_a
+#EXTINF:-1 tvg-logo="" group-title="Spain", IberoamericaRadio.com
+https://stream.zeno.fm/k5kvmyu12tzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Inforadio UCM
+https://inforadio.ucm.es:8000/inforadio01
+#EXTINF:-1 tvg-logo="" group-title="Spain", JaJa MusiC Radio
+https://radioserver11.profesionalhosting.com/proxy/citiwckm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jazz FM Spain
+http://ns2.estaciondigital.es:8007/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kandela Estéreo FM 101.9
+https://securestream.radioshd.info:7067/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kiss FM
+http://pr1cen101.emisionlocal.com:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM
+http://stream.produccionesdale.com:8899/moviles
+#EXTINF:-1 tvg-logo="" group-title="Spain", La M Radio
+https://stream.zeno.fm/wnhu7dq6fd0uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Maldita Radio
+https://radioserver11.profesionalhosting.com/proxy/lkpjvjaq?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Suegra FM
+http://streaming.hdserver.biz:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Libertad fm 107.0
+https://endirecto.libertadfm.es/hq-libertadfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Libre FM
+https://stream.zeno.fm/4yv8mmea51zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca 80's
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca 90's
+http://s02.fjperezdj.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Ambient
+http://s02.fjperezdj.com:8036/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Big Room
+http://s02.fjperezdj.com:8005/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Chill out
+http://s02.fjperezdj.com:8006/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Dance
+http://s02.fjperezdj.com:8025/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Drum&Bass
+http://s02.fjperezdj.com:8065/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Dub Techno
+http://s02.fjperezdj.com:8066/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca FM
+https://locafm-live1.flumotion.com/locafm/live1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Hard
+http://s02.fjperezdj.com:8016/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca House
+http://s02.fjperezdj.com:8026/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Industrial
+http://s02.fjperezdj.com:8076/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Melodic Techno
+http://s02.fjperezdj.com:8056/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Remember
+http://s02.fjperezdj.com:8035/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Sessions
+http://s02.fjperezdj.com:8095/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Tech House
+http://s02.fjperezdj.com:8046/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Techno
+http://s02.fjperezdj.com:8050/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Trance
+http://s02.fjperezdj.com:8055/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Trap
+http://s02.fjperezdj.com:8060/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Locos Por El Remember Dance
+https://stream.zeno.fm/k2c9kp76xhruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Locos por el Rock
+https://stream.zeno.fm/m0zph766xhruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40
+https://21233.live.streamtheworld.com/LOS40.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Classic
+https://20723.live.streamtheworld.com/LOS40_CLASSICAAC.aac?csegid=12000&gdpr=1&gdpr_consent=BOppjzKOppjziAHABBNLCr-AAAArl7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-3zd4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9phP78k89r7337Ew-v-3o8LzBA&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=093018a4-29c6-459c-ab08-f294b71d0260
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Urban
+https://20723.live.streamtheworld.com/LOS40_URBANAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", M80 Radio
+http://mcrscast.mcr.iol.pt/m80
+#EXTINF:-1 tvg-logo="" group-title="Spain", Master FM
+https://radios.lamaster.es:8000/madrid
+#EXTINF:-1 tvg-logo="" group-title="Spain", MegaStarFM
+http://flucast-b01-06.flumotion.com/cope/megastar.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Melodía FM
+http://icecast-streaming.nice264.com:80/melodiafmback
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mindalia Radio
+http://188.165.131.13:8020/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mindalia Radio Voz
+http://188.165.131.13:8010/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Morning Factory Radio House
+https://stream.zeno.fm/0uc7xngg9yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Madrid
+http://icecast-streaming.nice264.com/ondacero
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Latina FM 87.6
+https://cervera.eldialdigital.com:21131/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Merlín Comunitaria
+https://cervera.eldialdigital.com:25131/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Orgullo
+https://streaming2.elitecomunicacion.es:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Radio Azul
+http://45.80.86.10:8075/autodj
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pagan Metal Radio
+http://94.23.83.207:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pepe Radio
+http://server10.emitironline.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 4G FM 105.1
+https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Almenara
+https://cervera.eldialdigital.com:25211/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Carcoma
+http://stream.radiocarcoma.com:8080/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio de la Paz
+http://109.169.23.97:19152/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Enlace
+https://cervera.eldialdigital.com:25121/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Exterior de España ( REE ) 12.302.88 MHz
+https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/aac/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fanática.com
+http://panelstream.live:8062/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Impacto Madrid
+http://radioimpactomadrid.net:8010/radioimpacto
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Intereconomia FM 95.1
+https://streaming.intereconomia.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Inter FM 93.5
+http://ns3.mycloud-apps.es:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Madrid Cadena SER
+https://20133.live.streamtheworld.com/SER_MADRIDAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca
+https://21233.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Maria España
+http://dreamsiteradiocp2.com:8030/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Relativa
+https://streamer.radio.co/sd6131729c/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vallekas FM 107.5
+https://cervera.eldialdigital.com:25111/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Viajera
+http://edge.mixlr.com/channel/imuks
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio YA
+https://s20.prositel.net:9085/RadioYA
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio24online.com
+http://icecast2.radio24online.com:9000/radio24online.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiolé
+https://21223.live.streamtheworld.com/RADIOLEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 1 Nacional
+https://crtve-ice-edge-2003-fra-eco-cdn.cast.addradio.de/crtve/rne1/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 2 Clasica
+https://crtve-ice-edge-2003-fra-eco-cdn.cast.addradio.de/crtve/rnerc/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 3
+https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rner3/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 4
+https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rner4/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 5
+https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rne5/main/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", Roca FM Clasicos de Siempre
+http://protostar.shoutca.st:8370/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Roca FM Madrid 100.9
+http://rocafmadrid.radioca.st:8968/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Rock FM
+http://flucast-b02-05.flumotion.com/cope/rockfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", rockSateliteONE
+https://stream.tunerplay.com/radio/8000/rocksateliteradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Studio Radio LC
+https://stream.zeno.fm/vy6dn9ah65quv
+#EXTINF:-1 tvg-logo="" group-title="Spain", todoexitos.com
+https://cervera.eldialdigital.com:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tonikz
+https://stream1.srvnetplus.com:18094/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Top Radio FM 97.2
+https://19003.live.streamtheworld.com/TOPRADIO_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tropical FM Madrid
+http://usa1.usastreams.com:8000/tropical
+#EXTINF:-1 tvg-logo="" group-title="Spain", Valencia Stereo
+https://sonicpanel.streaming10.net:10939/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vaughan Radio
+http://vaughanradioweb.streaming-pro.com:8057/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Viva Radio
+https://eu1.lhdserver.es:3019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vuelve El Remember
+https://streamtotal.net:4155/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", World Press Radio
+http://195.154.33.95:8154/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canal 4 Ràdio Menorca
+http://91.121.156.27:8011/stream#.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", IB3 Ràdio Menorca FM 88.6
+http://streaming01.ib3radio.com:8000/ib3radio_menorca
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Menorca
+http://icecast-streaming.nice264.com/menorca
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Menorca SER
+http://server10.emitironline.com:8040/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Corazón
+http://radioserver10.profesionalhosting.com:59032/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", 90 FM
+http://185.23.192.118:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", 93.6 Global Radio
+https://stream.entertainmenttechnologies.co.uk:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", BeachGrooves Radio
+http://stream.beachgrooves.com:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Málaga
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Central FM 98.6
+http://s29.myradiostream.com:4922/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Chanquete FM
+http://185.23.192.118:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Chocolate FM
+https://streaming2.elitecomunicacion.es:8082/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Chocolate FM HD
+http://streaming5.elitecomunicacion.es:8030/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Clubbers Radio
+http://s31.myradiostream.com:22720/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Málaga FM 89.8
+https://wecast-m01-02.flumotion.com/copesedes/malaga.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Elixir FM
+https://radio.grupoelixir.es:9006/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Emerald Connection
+https://stream.radio.co/s023a007ae/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio Málaga FM 91.3
+https://server.spainbroadcast.net/8038/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fiebre Latina Radio
+https://eu1.lhdserver.es:9035/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", High Radio
+https://stream.zeno.fm/trxabu96yg0uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jamm FM Radio
+http://stream.jammfmradio.com:8075/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Latino FM
+http://185.23.192.118:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", MegaDisco Radio
+http://stream.laut.fm/megadiscoradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Megahits
+https://stream.zeno.fm/6gx0489unrquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Málaga
+http://icecast-streaming.nice264.com/malaga
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Color
+https://streaming.integratec.es/radio/8000/ondacolor
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Marenga
+http://radioserver10.profesionalhosting.com:41251/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Only Hits Radio
+http://stream.laut.fm/onlyhitsradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Only Romantic Radio
+http://stream.laut.fm/only-romantic-radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Oxígeno Europa Radio FM 100.0
+https://usa3.lhdserver.es:8135/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Carnaval Málaga
+https://streaming2.elitecomunicacion.es:8108/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio El Rincón De La Boqueróna
+http://46.105.115.146:8074/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Malaka
+http://streaming12.elitecomunicacion.es:8256/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca
+http://malagafm.streaming-pro.com:8130/malagafmmobile
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Metropolitana
+http://streaming.enantena.com:8000/radiometropolitanamalaga128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Miramar FM 107.9
+http://5.135.183.124:8156/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Oro 95.2 FM
+http://185.23.192.118:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Planeta
+https://radioplaneta.emitironline.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Radio Network
+http://94.23.85.189:8000/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ritmo FM Costa del Sol
+https://eu1.lhdserver.es:8085/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", SML Radio FM 105.7
+https://radio13.pro-fhi.net/live/SmoothLoungeRadioChannel
+#EXTINF:-1 tvg-logo="" group-title="Spain", SportDirect Radio FM 89.1
+https://streaming12.elitecomunicacion.es:8036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tocata FM
+https://streaming12.elitecomunicacion.es:8098/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Todoexitos BeatZone
+http://www.todoexitos.com/m3u/todoexitos.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", ZonaDance FM
+https://stream.zeno.fm/b2sq1rmg0eruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona Malgrat
+http://streaming.enantena.com:8000/onamalgrat128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mix 106fm
+http://stream13.shoutcastsolutions.com:8121/mp3;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Manilva FM 100.9
+http://srv0435.lcinternet.com:9519/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Manises
+http://62.43.201.68:1152/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Manlleu
+http://streaming.enantena.com:8000/radiomanlleu128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Ràdio Manresa
+http://streaming.enantena.com:8000/taronjadigital-bages56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Styl Classics FM 95.2
+http://s2.nexuscast.com:8042/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Styl FM 103.3
+http://s2.nexuscast.com:8024/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Mancha FM
+http://5.135.183.124:8071/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Marbella Costa del Sol
+https://22343.live.streamtheworld.com/SER_MALAGAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Chilli FM 106.8
+https://playoutonestreaming.com/proxy/chilli?mp=/mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Marbella
+http://copemarb.duckdns.org:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Deep Nu House by SO&SO
+https://c4.radioboss.fm:18286/dnh
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kapricho FM 100.4
+http://188.165.131.13:9968/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mega Marbella 90.0 FM
+https://streaming2.elitecomunicacion.es:8200/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La xXL
+https://radio.laxxl.com/4g
+#EXTINF:-1 tvg-logo="" group-title="Spain", Memory FM
+http://94.23.85.189:8500/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", MuzON
+http://st.olivenet.es:8888/muzon
+#EXTINF:-1 tvg-logo="" group-title="Spain", Oh So Social Marbella Radio
+https://streamer.radio.co/s4c143c2fd/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Marbella
+http://icecast-streaming.nice264.com/marbella
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Costa Del Sol
+https://rbx2.hnux.com/149.202.22.75:8598/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marbella
+https://radiomarbella.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Oro 94.4 FM
+http://185.23.192.118:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Radionetwork
+http://94.23.85.189:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RusRadioMarbella
+http://streaming.enantena.com:8000/rusradiomarbellaSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spectrum FM Costa del Sol
+https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sunshine Radio FM 92.1
+https://newmusic.ie/radio/8030/128k
+#EXTINF:-1 tvg-logo="" group-title="Spain", Talk Radio Europe
+http://s1.yesstreaming.net:7014/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", The One
+http://94.23.85.189:9250/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tropical FM
+http://5.135.183.124:8127/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marchena 107.4 FM
+https://radioserver11.profesionalhosting.com/proxy/depynbpk?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marianda
+https://radiomarianda.recasound.es/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", ViniloFMcantabria
+http://server8.emitironline.com:10862/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Eup! Irratia 107.7 FM
+https://eup-irratia.info:8443/eup-irratia-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marmolejo
+http://176.56.108.133:62875/emision.ogg
+#EXTINF:-1 tvg-logo="" group-title="Spain", Osapong Radio
+http://s3.voscast.com:10190/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Martos
+https://streaming2.elitecomunicacion.es:8234/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Joventut FM 96.3
+https://srv6021.dns-lcinternet.com:10214/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", El Sur Digital GC
+https://streaming2.elitecomunicacion.es:8206/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fly FM 102.2
+http://server8.emitironline.com:8070/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Maspalomas Ahora Radio
+http://streaming.enantena.com:8000/maspalomasahoraradio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mix 101 FM
+http://radionetz.de:8000/mixfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Calima
+https://escucha.calima.fm/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Dunas
+https://turadio.accesopanel.com/8146/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa Schlager
+https://server8.emitironline.com:18734/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Maspalomas
+https://radioserver10.profesionalhosting.com:61972/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sol Maspalomas 94.8
+http://www.radiosolmaspalomas.com:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Top 21
+https://turadio.accesopanel.com/8098/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Standby Radio
+https://turadio.accesopanel.com/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Yuh FM Radio
+http://str1.mediatelekom.net:8075/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Merindad de Campoo
+http://45.80.86.10:8098/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mataró Ràdio
+https://radio.cdnmedia.tv/radio/8030/mataroradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Calida International Radio
+https://tucker-radiohosting2.radioca.st/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Voz de Mazarrón
+http://198.7.59.28/proxy/abalanza?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Medina del Campo
+http://server10.emitironline.com:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Tierras de Medina
+http://server6.20comunicacion.com:8100/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Medina Cadena SER
+https://22543.live.streamtheworld.com/SER_ASO_MEDINAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Medina Activa Radio
+https://eu1.lhdserver.es:9029/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Melilla
+http://radioserver4.profesionalhosting.com:8144/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Melilla
+http://radioserver4.profesionalhosting.com:8146/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Melilla Cadena SER
+https://20423.live.streamtheworld.com/SER_MELILLA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Mérida
+https://wecast-b02-02.flumotion.com/copesedes/merida.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Mérida
+http://icecast-streaming.nice264.com/merida
+#EXTINF:-1 tvg-logo="" group-title="Spain", RCFM Radio Crónica Folk Musical
+https://antares.dribbcast.com/proxy/rcfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ser Mérida
+https://20863.live.streamtheworld.com/SER_MERIDA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Meruelo
+https://ns100.emisionlocal.com/proxy/radiomeruelo?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Miajadas
+http://srv0410.lcinternet.com:8013/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Mieres
+http://62.210.11.129:8009/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Megahits
+https://streaming12.elitecomunicacion.es:8268/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Miranda
+https://20043.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Miranda Fm
+http://srv01.redsanmarcos.com:8007/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Moguer Radio FM 107.9
+https://streaming12.elitecomunicacion.es:8214/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canal 20 Radio FM 107.0
+https://radio.cdnmedia.tv/radio/8190/canal20radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Levante
+https://22333.live.streamtheworld.com/CADENASERAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Lite FM
+http://37.59.37.6:14954/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spectrum FM Almería
+https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Molins de Rei
+http://streaming.enantena.com/radiomolins.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Mollet
+http://streaming.enantena.com:8000/radiomollet56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Escuela Monesterio
+http://emisoras.dip-badajoz.es:8100/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Monesterio
+https://emisoras.dip-badajoz.es:58040/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", ECO FM Ribeira Sacra
+https://stream.zeno.fm/p708zapa04zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero Monforte
+http://icecast-streaming.nice264.com/monforte
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Monóvar 108.0 FM
+http://s2streamingradio.desafiohosting.com:8140/;stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Estilo FM 107.1
+https://streaming12.elitecomunicacion.es:8140/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Montblanc
+https://radio.cdnmedia.tv/radio/8130/radiomontblanc
+#EXTINF:-1 tvg-logo="" group-title="Spain", Montcada Radio
+http://streaming.enacast.com:8000/montcada128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Montealegre
+http://directo.radiomontealegre.es:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio Extremadura
+http://esradiomontijo.ddns.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Montornès FM 91.2
+http://188.165.187.84:8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Montoro FM 107.3
+http://streaming6.elitecomunicacion.es:8600/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Montserrat Ràdio 100,6 FM
+http://streaming.enantena.com:8000/radioabadiademontserrat96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Monzón
+https://streamingradio.radiohuesca.com:8091/radiomonzon
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mora
+http://server10.emitironline.com:9075/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mora d'Ebre - Cadena SER
+https://sermoradebre.streaming-pro.com:8043/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Móra la Nova 107.3 FM
+https://radio.cdnmedia.tv/radio/8170/moralanova
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Morata
+https://cervera.eldialdigital.com:25141/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Morón - SER 87.9
+https://20133.live.streamtheworld.com/SER_ASO_MORON.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aguacabra
+http://www.rtvaguacabra.com:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Madrid Oeste
+https://20873.live.streamtheworld.com/SER_MADRID_OESTE.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Unika FM Clubbing
+http://149.202.70.205:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Motril
+https://wecast-b03-02.flumotion.com/copesedes/motril.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mega FM 98.3
+https://azuracast.idmradio.es/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Motril
+http://icecast-streaming.nice264.com/motril
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Sur Motril 107.7 FM
+http://radio.telemotril.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Motril Cadena SER
+https://20423.live.streamtheworld.com/SER_ASO_MOTRILAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", X Time Radio
+https://sonic.sistemahost.es/8136/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Murcia San Javier
+https://wecast-m01-02.flumotion.com/copesedes/murcia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Es Música Radio FM 91.6
+https://sonic.mediatelekom.net/9014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", EsRadio Murcia
+http://5.135.183.124:8340/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fabulosa FM
+http://185.36.211.142:57320/fabulosa
+#EXTINF:-1 tvg-logo="" group-title="Spain", Metrópolis FM 92.6
+http://hydra.shoutca.st:8215/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", MoreFM 102.2
+https://stream-mmr.creativedork.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", MoreFM 70s
+http://stream-mmr70s.creativedork.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", MoreFM 80s
+http://stream-mmr80s.creativedork.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", OM Radio 97.1 FM
+https://cast.rmradio.es/radio/8090/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero
+http://icecast-streaming.nice264.com/murcia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Murcia Cadena SER
+https://21223.live.streamtheworld.com/SER_MURCIAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", raDIOSion
+https://eu1.lhdserver.es:9131/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sie7e Radio
+https://stream.andacast.es/radio/8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Urban Revolution
+https://st1.urbanrevolution.es:8443/directo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Voz FM
+http://185.36.211.142:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Wifon FM 97.5
+http://192.227.85.169:9177/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hit Navarres
+http://str1.mediatelekom.net:8823/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Negreira
+http://srv0411.lcinternet.com:9011/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nerja
+http://188.165.131.13:9974/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Minera FM 107.4
+http://srv3021.lcinternet.com:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Valdeorras
+http://live.radiovoz.es/mp3/stream_obarco.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Carballiño
+http://radio.copecarballino.es:8000/directo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Oleiros
+http://radiooleiros.streaming-pro.com:8034/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio 90 FM 101.4
+http://giss.tv:8000/r90.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Olot
+http://144.76.52.91:8000/radiolot
+#EXTINF:-1 tvg-logo="" group-title="Spain", Todoexitosradio FM 104.1
+http://stream11.shoutcastsolutions.com:9432/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio La Veu d'Ondara 107.4 FM
+https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Valley FM 94.5
+https://securestreams3.autopo.st:1365/;listen.pls?sid=1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radixu Irratia
+http://zuzenean.radixu.info:8000/radixu-live-128
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Interior Alicante
+http://stream.produccionesdale.com:8899/onil
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER - Radio Ontinyent OM
+https://directe.radioontinyent.com/serfm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Valley FM
+http://78.129.228.187:8098/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ordes
+http://radioserver10.profesionalhosting.com:8108/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Dulce Radio 107.4 FM
+http://emisoras.dip-badajoz.es:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Imagine Music Radio
+https://s43.myradiostream.com/20682/;?type=http&nocache=1609772268?0.33221972885200346
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Orihuela Cadena SER
+http://server9.emitironline.com:10957/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Siesta Radio
+http://178.33.166.7:7604/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiole Andalucia Centro 97.7 FM
+https://srv6021.dns-lcinternet.com:10207/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Ourense
+https://20873.live.streamtheworld.com/SER_ASO_OURENSEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Ourense
+https://wecast-m01-03.flumotion.com/copesedes/orense.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", ECO FM Galicia
+https://stream.zeno.fm/agn2wzka04zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Keimada Radio Sound
+https://streaming.keimada.live/radio/8080/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero Ourense
+http://icecast-streaming.nice264.com/ourense
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ourense Si Radio
+http://82.223.29.65:8080/Ourense
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Gallega
+http://server7.servistreaming.com:10002/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Asturiasfm
+https://stream.zeno.fm/g39zbahg7yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Asturias
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIAS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Carrusel FM
+http://server6.20comunicacion.com:8921/
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Oviedo
+https://wecast-b03-02.flumotion.com/copesedes/asturias.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", EsRadio Asturias
+https://server9.emitironline.com:8822/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Corredoria Suena FM 107.0
+https://server1.radiocast.es:8002/web
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Ventana Radio
+https://stream.zeno.fm/z3sx3aua0tzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Máster FM Asturias
+https://radios.lamaster.es:8000/asturias
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Oviedo
+http://icecast-streaming.nice264.com/oviedo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 4G Oviedo FM 107.0
+https://server1.radiocast.es:2000/stream/Radio4GOviedo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Asturias
+https://23543.live.streamtheworld.com/SER_ASO_ASTURIASAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio QK FM 107.3
+http://34.77.177.144:8000/radioqk_master.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sur FM 106.3
+http://81.33.23.66:7000/?hash=1571077790482.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Adaja
+http://67.212.165.106:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Palafrugell FM 107.8
+http://streaming.martiproduccions.com:8000/radiopalafrugell.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Palamós 107.5fm
+https://s5.reliastream.com/proxy/aespin04?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Palau FM 91.7
+http://radioserver7.profesionalhosting.com:8573/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", ACUP Radio Palencia
+https://s3streamingradio.desafiohosting.com:9036/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Palencia
+https://20873.live.streamtheworld.com/SER_PALENCIA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Palencia Palencia
+https://wecast-b03-02.flumotion.com/copesedes/palencia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Palencia
+http://icecast-streaming.nice264.com/palencia
+#EXTINF:-1 tvg-logo="" group-title="Spain", BN Mallorca
+http://91.121.156.27:8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canal 4 Radio
+http://91.121.156.27:8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Mallorca
+https://wecast-b03-04.flumotion.com/copesedes/mallorca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dale Caña FM 97.9
+https://broadcast.radioponiente.org:8032/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Das Inselradio Mallorca
+https://stream.inselradio.com/high.inselradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Es Radio Baleares
+http://server10.emitironline.com:9604/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fibwi Radio
+http://stream.fibwi.com:9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fiesta FM 87.6
+http://5.135.183.124:9510/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", IB3 Música
+http://91.121.156.27:8023/live?type=.mp3;
+#EXTINF:-1 tvg-logo="" group-title="Spain", IB3 Ràdio 
+http://streaming01.ib3radio.com:8000/ib3radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", IB3 Ràdio 106.8 FM
+https://icecast.ib3radio.com/ib3radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Italiana Mallorca
+http://94.177.198.233:8002/ita-mal-aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kinchore Radio
+https://radio.netyco.com:17394/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Luna Radio Mallorca
+https://s4.radio.co/s3c23253ba/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mallorca Sunshine Radio
+https://stream.inselradio.com/high.sunshine.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Musulmanes Radio
+http://redradioypc.com:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", OcioNews
+https://str1.mediatelekom.net:8046/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona Mediterrània
+http://streaming.enantena.com:8000/onamediterrania128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Islas Baleares
+http://icecast-streaming.nice264.com/mallorca?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Balear
+http://server2.20comunicacion.com:8076/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio EstrellaMania
+http://158.69.251.241:8044/index.html/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mallorca FM 96.1
+https://21223.live.streamtheworld.com/SER_MALLORCA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Murta
+http://91.121.156.27:8013/stream?_=2
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio One Mallorca
+http://80.32.132.126:8000/1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spectrum FM Mallorca
+https://eu8.fastcast4u.com/proxy/spectrummallorca2?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sputnik Radio 105.4 FM
+http://sputnikradio.es:8009/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", SuperYacht Radio
+https://stream.radio.co/s9be1fd909/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", The Club 89.8 FM
+https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ultima Hora Radio
+http://stream.fibwi.com:9020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vicious Radio Mallorca
+http://radiorobot.es:8000/nacionalweb
+#EXTINF:-1 tvg-logo="" group-title="Spain", Volcan Radio
+https://antares.dribbcast.com/proxy/volcanradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Palma
+https://22713.live.streamtheworld.com/CADENASER_ALT2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Capital de l'Empordà
+http://streaming.martiproduccions.com:8000/capitalhd
+#EXTINF:-1 tvg-logo="" group-title="Spain", 98.3 Radio
+http://s37.myradiostream.com/8638/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Atica FM
+https://server8.emitironline.com:18571/atica
+#EXTINF:-1 tvg-logo="" group-title="Spain", Caribe FM 91.7
+https://eu1.lhdserver.es:9127/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Pamplona
+https://wecast-m01-05.flumotion.com/copesedes/pamplona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Pamplona FM 101.2
+https://wecast-b02-03.flumotion.com/copesedes/pamplona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Eguzki Irratia
+http://51.68.46.71:9000/eguzki.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Euskalerria Irratia
+http://server4.beatproducciones.com:8014/
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Explosiva FM 103.9
+http://5.135.183.124:8125/stream?1566654578992
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cassette FM 95.4
+https://eu1.lhdserver.es:9145/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Navarra FM 101.9
+http://94.23.205.82:6040/;?type=http&nocache=1566653304?0.5806617032630064
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pamplona Cadena SER
+https://22343.live.streamtheworld.com/SER_PAMPLONAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Trak FM
+https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Parets - RAP107
+https://enacast.com/rap107/streams/HD
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Paterna FM
+http://5.135.183.124:8238/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Pego
+http://www.radiopego.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Peñafiel Cadena SER
+https://20873.live.streamtheworld.com/SER_ASO_PENAFIELAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Peñaranda
+http://server8.emitironline.com:10816/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero FM 101.1
+http://srv0625.lcinternet.com:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Petrer
+http://radioserver10.profesionalhosting.com:40969/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 90FM Valencia
+https://stream.zeno.fm/015h6n8vfzzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", X-Trema FM Valencia
+https://stream.zeno.fm/9k4n0kqd84zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio l’Om 94.7 fm
+http://radiolom.es:8800/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Piera
+http://listen.radiopiera.cat:8503/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Pineda FM 94.6
+http://streaming.enantena.com:8000/radiopineda56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pinoso FM 107.8
+http://server10.emitironline.com:9072/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Norte de Extremadura
+https://22543.live.streamtheworld.com/SER_NORTE_EXTREMADURA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Tagoror
+https://eu1.lhdserver.es:9137/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Llena
+https://server8.emitironline.com:18386/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Polinya y Valles 102.3 FM
+http://195.154.32.240:8031/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Pollença FM 107.9
+https://via.vulstream.com/radio/8130/radio.mp3?1555405465
+#EXTINF:-1 tvg-logo="" group-title="Spain", Amanacer Bierzo FM 96.3
+http://137.74.95.111:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Bierzo FM 101.6
+https://pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Bierzo Cadena SER
+https://21223.live.streamtheworld.com/SER_ASO_BIERZO.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Rock in Bierzo Radio FM 96.1
+https://stream.zeno.fm/24f7tufdfwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Nove Galicia
+https://radioserver11.profesionalhosting.com:19249/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Pontevedra
+https://wecast-b03-01.flumotion.com/copesedes/pontevedra.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero Pontevedra
+http://icecast-streaming.nice264.com/pontevedra
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cadena SER
+https://20853.live.streamtheworld.com/SER_ASO_PONTEVEDRAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Si Radio Condado
+http://82.223.29.65:8080/vcbm_siradio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Tenerife
+https://radioserver11.profesionalhosting.com/proxy/pkg90177?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Formula Hit
+http://server1.emitironline.com:9400/formulahit
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial Andalucia Este
+http://streaming8.elitecomunicacion.es:8226/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Comunicaciones Tian
+http://solid41.streamupsolutions.com:10054/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Pozoblanco
+http://srv01.redsanmarcos.com:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Kiss FM
+http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pozuelo Radio FM 91.5
+http://5.135.183.124:8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Funky Tracks Radio
+https://streaming2.elitecomunicacion.es:8134/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Premià de Mar
+http://streaming.enantena.com:8000/radiopremiademar128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Puente Genil FM 88.7
+https://eu4.fastcast4u.com/proxy/genilmed?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sintonía Puente Genil
+https://eu5.fastcast4u.com/proxy/sintoniapg?mp=/;&1589564544477
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gente Radio FM 95.6
+http://srv0411.lcinternet.com:9002/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Gigante Tenerife
+https://server8.emitironline.com:18163/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Juan
+http://radiojuanlanzarote.ice.infomaniak.ch/radiojuanlanzarote.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fuerteventura FM
+https://liveradio.com.es:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", HappyFM Fuerteventura 88.6
+https://happyfuerteventura.streaming-pro.com:6003/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Fuerteventura
+http://radio.ondafuerteventura.es:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Insular Fuerteventura
+https://radio.siete.online/radio/8020/directo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sintonía
+https://eu1.lhdserver.es:8055/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Xtra Musica
+http://s36.myradiostream.com:18372/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Puerto Real
+https://stream.zeno.fm/wzf9h9n96reuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Salvaje FM
+http://164.138.208.21:8154/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ciudad FM
+http://5.135.183.124:8069/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Puertollano Cadena SER
+https://20043.live.streamtheworld.com/SER_PUERTOLLANO.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Puig-Reig
+https://enacast.com/puigreig/streams/HD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Puigcerdà
+https://topradio.uno:8048/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Punta Radio
+https://cervera.eldialdigital.com:22111/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", cuRADIO
+http://81.25.127.148:8009/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tres Mares
+https://server8.emitironline.com:18237/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Reus Cadena SER
+https://22543.live.streamtheworld.com/SER_REUS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arousa Si Radio
+http://82.223.29.65:8080/SIRADIO24NEWS
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Riba-roja - Camp de Túria
+http://streaming.enantena.com:8000/radioribarroja128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Ribadeo
+https://wecast-m01-04.flumotion.com/copesedes/ribadeo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz
+http://live.radiovoz.es/mp3/stream_ribadeo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Ribadesella
+http://server8.emitironline.com:10812/;?1565460030396
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Barbanza FM 88.8
+http://live.radiovoz.es/mp3/stream_ribeira.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vale Radio
+http://streaming.zarastudio.es/radioricla.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Ripoll
+http://5.135.183.124:8151/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", FMWR FM 107.3
+http://streaming.elitecomunicacion.es:8136/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ripollet Ràdio
+http://51.254.131.199:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Espacio 4 FM
+http://radiogestion.com:7003/mount3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Cigüeña FM 98.4
+https://cervera.eldialdigital.com:25171/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Rociana
+http://streaming.radiorociana.com:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Energy Radionline
+http://streaming.enantena.com:8000/energyradionline96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Roda
+http://radioroda.ddns.net:12000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Big FM
+http://s7.myradiostream.com:16186/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Harmony FM
+https://server8.emitironline.com:18064/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Ronda
+http://83.61.19.89:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda 4 Ronda
+http://cervera.eldialdigital.com:8028/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Coca - Ser Ronda FM 88.3
+https://21223.live.streamtheworld.com/SER_ASO_RONDAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Coca Cadena SER
+https://22343.live.streamtheworld.com/SER_ASO_RONDAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ronda
+http://94.23.87.98:9150/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Roquetas
+http://212.83.164.82:8009/serroquetas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Poniente
+https://stream.produccionesdale.com:8900/altacalidad
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Roquetas
+http://sdst1001402.lcinternet.com:9300/ptp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Roquetas Fm 96.5
+http://radioserver7.profesionalhosting.com:8027/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Antena Caro
+http://streaming.enantena.com:8000/antenacaro128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Rosselló
+http://streaming.enantena.com:8000/radiorosselloSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", AFN The Eagle Rota
+https://20853.live.streamtheworld.com/AFNE_RTA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", OnaCat.Ràdio
+http://server8.emitironline.com:10824/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Rubí 99.7fm
+http://streaming.enantena.com:8000/radiorubi56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Rute FM 107.8
+http://5.196.73.188:8016/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Perfect Lovesongs
+https://stream.radiojar.com/httms151kwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Perfect Softrock
+https://stream.radiojar.com/eq8txpg1b5zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Perfect Soul Classics
+https://stream.radiojar.com/2n44t88fkzzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", 107.1 FM Sa Pobla Ràdio
+https://via.vulstream.com/radio/8320/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Can10fm
+http://195.154.33.95:8214/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ofa Radio
+https://stream.zeno.fm/8xs4messv4zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sabadell
+http://online.radiosabadell.fm:8013/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Torrente FM 101.3
+https://via.vulstream.com/radio/8190/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Sagunto
+http://icecast-streaming.nice264.com/sagunto
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arenisca FM
+https://srv1grupoexperiencia.com/radio/8020/ARENISCAHD
+#EXTINF:-1 tvg-logo="" group-title="Spain", Berea FM 92.1
+https://eu1.lhdserver.es:8039/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Salamanca
+https://22333.live.streamtheworld.com/SER_ASO_SALAMANCAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Salamanca
+https://wecast-m01-03.flumotion.com/copesedes/salamanca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Intereconomía Salamanca
+https://eu1.lhdserver.es:8077/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca FM Salamanca 108.0 FM
+http://s00.fjperezdj.com:8020/liveapp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca Urban Salamanca 87.5 FM
+http://s00.fjperezdj.com:8030/liveapp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Salamanca
+http://icecast-streaming.nice264.com/salamanca
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Oasis
+https://cervera.eldialdigital.com:21141/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tormes FM 102.6
+http://178.33.160.108:8738/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Universidad de Salamanca
+http://212.128.140.98:8000/usalradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Salobreña
+http://streaming.elitecomunicacion.es:8078/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gold FM 103.8
+https://panel.amediastream.eu:9500/goldfm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Holland FM
+https://panel.amediastream.eu:8500/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Faro FM 92.5
+https://turadio.opi-informatica.com/radio/8000/RadioFaro
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio PrimaVera GC 107.3 FM
+https://stream.radio-pv.com/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Yumbo FM
+https://panel.amediastream.eu:8600/yumbofm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Laguna FM 98.3
+http://server1.iberteltelecom.es:3664/lagunafm?1584709900441
+#EXTINF:-1 tvg-logo="" group-title="Spain", Puro Sabor FM
+http://37.187.76.127:8010/purosaborn
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Explora 95.4 FM
+http://207.180.192.26:18020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Isla
+http://server2.20comunicacion.com:8132/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", ActivaRadio.org
+https://servidor22-1.brlogic.com:7452/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio San Juan
+http://5.196.73.188:8014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Colección Gladys Palmera
+https://radio-online.gladyspalmera.com:8001/ch03
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gemologiayciencia radio
+http://sseg.us:8091/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 21
+https://stream.zeno.fm/q39semrpyk8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Madrid Sierra FM 107.3
+https://streaming12.elitecomunicacion.es:8070/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sierra Oeste Radio
+https://streaming12.elitecomunicacion.es:8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Reef FM
+http://84.16.229.114:7000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Talk Radio Europe
+http://s3.yesstreaming.net:7014/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Digital80Radio
+http://62.210.167.140:8242/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", DK Irratia 107.4 FM
+https://s35.myradiostream.com/:26100/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Habla Radio 92.9 FM
+https://s33.myradiostream.com/15294/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Aventura Americana Radio
+http://188.164.198.121:8054/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Naiz Irratia
+https://zuzenean.naiz.eus/naiz_irratia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero San Sebastián
+http://icecast-streaming.nice264.com/sansebastian
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda de Fe
+http://51.159.6.224:8010/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Vasca Herri Irratia Gipuzkoa
+https://live.ondavasca.com:8001/bizkaia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Donosti FM 98.5
+http://srv0410.lcinternet.com:8019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Hi!! FM 101.2
+https://stream.zeno.fm/rgdq8xgkmtzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Donostia
+https://marca-sansebastian.streaming-pro.com:6101/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio San Sebastián Cadena SER
+https://22343.live.streamtheworld.com/SER_SAN_SEBASTIAN.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ttan Ttakun Irratia
+https://ttanttakun.eus/stream/ttanttakun2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Utopía
+http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Occidental Cantabria
+http://server9.emitironline.com:10944/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Sanlúcar
+https://antares.dribbcast.com/proxy/ondasanlucar?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Esquina
+http://142.44.135.172:8138/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Exito
+https://stream.zeno.fm/3z03z7eh3qzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lokura Sanlucar
+https://stream.zeno.fm/ekcmq4x5cnzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sanlúcar Radio
+https://stream.zeno.fm/sp8zd54avqzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio La Mina FM 102.5
+https://cervera.eldialdigital.com:21121/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Andreu
+http://82.98.177.79:8000/online
+#EXTINF:-1 tvg-logo="" group-title="Spain", Balearic FM
+http://comet.shoutca.st:8487/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cafe Del Mar
+https://stream.zeno.fm/g1s30spcdxquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Boi
+http://streaming.enantena.com:8000/radiosantboi128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Ràpita
+http://streaming.enantena.com:8000/radiorapita56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Punt 7 Ràdio Sant Celoni
+http://streaming.enantena.com:8000/punt7radiosantceloni56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Educa Baix Montseny
+http://85.192.79.117:8084/stream#.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sant Cugat
+http://directe.cugat.cat/directeHQ.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Feliu de Llobregat
+http://streaming.enantena.com:8000/radiosantfeliu128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Fost
+http://radioserver11.profesionalhosting.com:9014/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio illa Formentera FM 107.9
+https://srv6021.dns-lcinternet.com:10220/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Fruitós FM 107.5
+https://radio.cdnmedia.tv/radio/8110/radiosantfruitos
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Esports
+http://streaming.enacast.com:8000/radioesportsSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Voltregà
+http://streaming.enantena.com:8000/radiovoltrega128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Iscle359 FM 92.8
+http://iscle359fm.cat:8880/iscle359.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Veu de Sant Joan
+https://enacast.com/laveu/streams/HD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sant Joan
+http://radiosantjoan.cat:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Despí
+https://streaming12.elitecomunicacion.es:8228/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Desvern
+http://streaming.enantena.com/radiodesvern.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sant Quirze
+http://streaming.enantena.com:8000/radiosantquirze56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Castellet Radio
+http://s4.myradiostream.com:4784/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Sant Vicenç
+http://radiosvh.frilab.com:8000/radiosvh;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio San Vicente 95.2 FM
+https://eu1.fastcast4u.com/proxy/webmatix?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Plana Ràdio
+http://streaming.enantena.com/laplanaradio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio TeleTaxi
+https://radiott-web.streaming-pro.com:6103/radiott.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Xallas
+http://radioserver11.profesionalhosting.com:9458/;stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", XtraFM Costa Brava
+http://stream.internetgirona.com:8000/onair
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE La Palma 95.1
+http://server8.emitironline.com:8740/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Plana Santa Cruz FM 107.4
+http://server9.emitironline.com:10985/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Atlantis FM 98.2
+http://213.175.217.198:8000/atlantis192
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Tenerife
+https://wecast-m01-04.flumotion.com/copesedes/tenerife.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Échale Salsita
+https://eu1.lhdserver.es:9167/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Experimental TV Radio
+http://91.121.178.222:8890/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Inter Radio Tenerife
+http://server8.emitironline.com:8200/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Fresca FM Tenerife
+http://stream.produccionesdale.com:8899/tenerife
+#EXTINF:-1 tvg-logo="" group-title="Spain", ladiez.
+http://panel.soydigital.fm:8012/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Motivate Radio
+http://85.214.86.4:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Muz.FM
+http://185.229.9.121:8000/muzfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ocean Radio 91.5
+http://ocean.canstream.co.uk:8001/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Colectiva Canaria Radio 93.0fm
+http://217.127.103.157:3030/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Puro Sabor FM
+http://37.187.76.127:8010/purosabors
+#EXTINF:-1 tvg-logo="" group-title="Spain", QFM 94.3
+http://51.255.235.165:5092/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Carnaval Tenerife
+https://eu1.lhdserver.es:2969/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Chinyero FM 92.2
+https://antares.dribbcast.com/proxy/radiochinyero?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Club Tenerife Cadena SER
+https://22733.live.streamtheworld.com/SER_TENERIFEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa Das Schlagerradio FM 98.6
+https://server10.emitironline.com:11057/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Europa Teneriffa FM 102.3
+https://server9.emitironline.com:19144/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Geneto FM 107.5
+https://cervera.eldialdigital.com:21171/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Tenerife
+https://cervera.eldialdigital.com:22131/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Unión Tenerife
+https://streamserver2.radioproducciones.com:8101/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ritmica FM
+https://dj91.hostingnuclear.com/8060/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Rumberos FM 90.6
+http://str1.mediatelekom.net:9952/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", ⚭ OpenLab ⚭ 106.4FM
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio 010
+https://radio010.radioca.st/;?_=1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Faro del Noroeste
+http://srv0490.lcinternet.com:9720/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Santa Perpètua 107.0FM
+http://80.38.68.14:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Topdisco Radio
+http://antares.dribb.com:5099/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arco FM 103.2
+http://arcofm.duckdns.org:8090/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cantabria FM 91.2
+http://topradio.uno:8057/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Santander Camargo
+https://wecast-m02-03.flumotion.com/copesedes/santander.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dance FM SuperMix
+http://5.135.183.124:8130/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dime Radio
+https://www.radioking.com/play/dime-radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Distinta FM
+http://ns100.emisionlocal.com:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", FM Blue 101.9
+https://streaming1.locucionar.com/proxy/fmblue?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Kalle FM 96.0
+https://sonic.dattassd.com/8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", OID Radio4G Cantabria
+http://ns100.emisionlocal.com:9428/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Antorva Canal 1
+http://str1.mediatelekom.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Antorva Canal 2 epocafm
+http://str1.mediatelekom.net:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Antorva Music
+http://str1.mediatelekom.net:8012/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Fútbol FM 87.7
+https://eu1.lhdserver.es:8007/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Cantabria
+https://ns6.emisionlocal.com/proxy/radiomarca?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Santander Cadena SER
+https://23543.live.streamtheworld.com/SER_SANTANDERAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Teiba FM 101.4
+http://teibafm.duckdns.org:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Santiago
+https://wecast-b03-01.flumotion.com/copesedes/santiago.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio Galicia
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Formula Exitos
+http://streamprivate.live/8070/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Galega
+http://wecast-b02-03.flumotion.com/radiogalega/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Galicia Cadena SER
+https://21223.live.streamtheworld.com/SER_GALICIAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Galicia Música
+http://wecast-b03-02.flumotion.com/radiogalega-musica/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Obradoiro
+http://s39.myradiostream.com:4360/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz Compostela FM 106.1
+http://live.radiovoz.es/mp3/stream_santiago.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RNE 5 Galicia
+https://crtve-rne5-lcg.cast.addradio.de/crtve/rne5/lcg/mp3/high
+#EXTINF:-1 tvg-logo="" group-title="Spain", Son Galicia
+http://wecast-b03-01.flumotion.com/songalicia/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Complices
+https://radioserver11.profesionalhosting.com/proxy/pkg118201b?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Santoña FM 107.3
+http://server10.emitironline.com:10212/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Santpedor
+http://95.61.35.253:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Stz Irratia FM 107.5
+https://secureradio.eu:6104/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Sariñena
+https://streamingradio.radiohuesca.com:8101/radiosarinena
+#EXTINF:-1 tvg-logo="" group-title="Spain", Classic Old Time Radio
+https://stream.zeno.fm/b6v6nu8uhnruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Segovia
+https://wecast-m02-04.flumotion.com/copesedes/segovia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", JAM Radio
+https://stream.zeno.fm/75beg1td7gruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Segovia
+http://icecast-streaming.nice264.com/segovia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Segovia - Ser
+https://22543.live.streamtheworld.com/SER_ASO_SEGOVIAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Segura Irratia FM 89.2
+http://s3streamingradio.desafiohosting.com:8013/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sentmenat
+http://streaming.enantena.com:8000/radiosentmenat96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Sevilla
+https://wecast-m01-01.flumotion.com/copesedes/sevilla.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", El Desmarque Radio
+http://eldesmarqueweb.streaming-pro.com:6034/directo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Elite Radiovision FM 100.8
+http://c747s1.dns-lcinternet.com:10103/STREAM
+#EXTINF:-1 tvg-logo="" group-title="Spain", EsRadio Sevilla
+https://libertaddigital-radio-live3.flumotion.com/libertaddigital/ld-live3-low.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Éxito Radio
+http://5.135.183.124:9252/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Indy Radio FM
+http://5.135.183.124:9237/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Integración Radio
+http://5.135.183.124:8023/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Intereconomia Sevilla FM 102.7
+https://streaming12.elitecomunicacion.es:8092/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Revoltosa Fm
+http://5.135.183.124:9283/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca FM Sevilla 97.4 FM
+https://locafm-live4.flumotion.com/locafm/live4.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mujeres Entre Mundos Radio
+https://cervera.eldialdigital.com:23151/stream?1606927357829
+#EXTINF:-1 tvg-logo="" group-title="Spain", Neo FM
+http://streaming.enacast.com:8000/neofm128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Capital
+https://capital.radiocast.es:8000/capitalweb
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Sevilla
+http://icecast-streaming.nice264.com/sevilla
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Joven Sevilla FM 100.1
+http://antares.dribbcast.com:6436/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Local de Andalucía - EMA-RTV
+http://sdst1001397.lcinternet.com:8320/ptp
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Sevilla Radio 106.2 FM
+https://streaming2.elitecomunicacion.es:8630/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Play FM
+https://radioplaneta.emitironline.com:9000/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Power FM 99.3
+https://eu1.lhdserver.es:2023/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Betis FM 96.8
+https://wecast-m02-01.flumotion.com/betistv/radio1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Giralda FM 88.0
+http://capital.radiocast.es:8002/giraldaweb
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca
+https://22333.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sevilla - SER
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sur FM 102.1
+https://eu1.lhdserver.es:9233/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radiopolis
+http://streaming.radiopolis.org:8000/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RFC Radio
+http://lyra.shoutca.st:8151/rfcmp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RocaFM Classicos Sevilla
+https://xxdelgado.radioca.st/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RTV Onda Vida
+http://whmsonic.playerfullhd.com:8102/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Rumbera
+http://streaming.enantena.com:8000/rumberasevillaHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ser + Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_SEVILLA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Stéreo Visión
+http://195.154.32.240:8110/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Eleeter Radio
+https://stream.zeno.fm/8vykrpsb51zuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Maricel de Sitges FM 107.8
+http://94.23.87.98:8065/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sitges
+https://s2.radio.co/s8e5dffe5e/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", Solsona FM
+https://streaming.enacast.com/solsonafmHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Soria
+https://20723.live.streamtheworld.com/SER_SORIA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Soria
+https://wecast-m01-02.flumotion.com/copesedes/soria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Rosa Negra Radio
+http://192.111.140.6:8084/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mambo FM Pallars
+http://c6.auracast.net/radio/8110/radio.mp3?1586891697
+#EXTINF:-1 tvg-logo="" group-title="Spain", Omega FM España
+http://c6.auracast.net:8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pallars FM
+http://c6.auracast.net:8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tampanada Ràdio
+https://c6.auracast.net/radio/8340/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vacío 104.1
+https://stream.zeno.fm/7qbu66b2kwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Soto
+http://108.178.57.196:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio la Estacion 80
+https://stream.zeno.fm/q4dkddt99yzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Súria 107.8 FM
+http://radiosuria.is-by.us:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tafalla Cadena SER
+https://22543.live.streamtheworld.com/SER_TAFALLA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Talavera
+https://20873.live.streamtheworld.com/SER_TALAVERA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Joven FM
+http://str2.mediatelekom.net:8038/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Unica FM
+http://5.196.73.188:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tamaraceite
+http://streaming.enantena.com:8000/radiotamaraceite128.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Taradell
+https://radio.cdnmedia.tv/radio/8200/radiotaradell
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tarancón Cadena SER
+https://20873.live.streamtheworld.com/SER_TARANCON.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Europa FM Ribera 99.1
+http://srv0625.lcinternet.com:8033/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Tarragona
+https://23603.live.streamtheworld.com/SER_TARRAGONA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Tarragona FM 93.5
+https://wecast-m02-02.flumotion.com/copesedes/tarragona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Tarragona
+http://icecast-streaming.nice264.com/tarragona
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Ciutat de Tarragona
+https://rctgn.streaming-pro.com:6150/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tarragona Ràdio
+http://streaming.enantena.com:8000/tarragona128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Tàrrega
+http://streaming.enantena.com:8000/radiotarrega128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial FM
+https://22333.live.streamtheworld.com/CADENADIALAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Formula
+https://laformula-zikoxweb2.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mix FM Radio
+http://server10.emitironline.com:8064/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Jazz, Rock & Blues
+https://stream.zeno.fm/0t4t0rz4f3quv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Alcorán FM 95.3
+http://212.40.232.38:8000/stream.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aventura Siglo 21
+https://relay.stream.enacast-cloud.com:40213/carmelomartinHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio PCL Radio
+http://server8.emitironline.com:10846/
+#EXTINF:-1 tvg-logo="" group-title="Spain", Wind Radio FM 97.5
+https://turadio.accesopanel.com/8382/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Creciendo en Cristo
+http://195.154.33.95:8286/stream?type=http&nocache=569
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Municipal de Terrassa FM 95.2
+http://radio.cdnmedia.tv/radio/8050/terrassa
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Star Terrassa
+http://streaming.elitecomunicacion.es:8202/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", RLM-Radio
+http://46.105.115.146:8258/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Teruel
+https://20873.live.streamtheworld.com/SER_TERUEL.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Teruel
+https://wecast-m01-06.flumotion.com/copesedes/teruel.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Teruel
+http://icecast-streaming.nice264.com/teruel
+#EXTINF:-1 tvg-logo="" group-title="Spain", Monster Radio
+http://radios.csdlanzarote.com:8001/monster
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tobarra Municipal
+http://server8.emitironline.com:9166/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Toledo
+https://wecast-b02-04.flumotion.com/copesedes/toledo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Intensa FM
+https://streaming12.elitecomunicacion.es:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Loca FM La Mancha
+http://185.50.198.204:8649/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Toledo
+http://icecast-streaming.nice264.com/toledo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Toledo
+http://giss.tv:8001/ot.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Puebla 107.2 FM
+http://server10.emitironline.com:9321/radio
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ataria irratia
+https://server8.emitironline.com:18444/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Aljarafe FM 92.0
+http://stream1.aljamir.com:8174/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Surco
+https://stream.zeno.fm/52vdh1y07qzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Tordera
+http://88.12.21.61:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Armonia Duero FM
+http://s4.myradiostream.com/13650/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Amblés FM
+http://178.33.135.246:5008/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona la Torre FM 107.0
+https://radio.cdnmedia.tv/radio/8070/onalatorre
+#EXTINF:-1 tvg-logo="" group-title="Spain", EMUN FM Ràdio Torrefarrera
+http://streaming.enantena.com:8000/emunfmradioSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Torrelavega
+https://20873.live.streamtheworld.com/SER_TORRELAVEGA_SBM
+#EXTINF:-1 tvg-logo="" group-title="Spain", LCR Los Cántabros Radio
+http://s11.myradiostream.com:8694/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mucho Rock Radio
+http://5.135.183.124:8438/stream?1565817455419
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Studio Cantabria FM 93.3
+http://144.91.95.169:8090/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Top Cantabria FM
+http://topcantabriafm.myddns.me:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ondatorre
+http://server9.emitironline.com:10932/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Digital FM
+http://fl2.sistelecom.es:8760/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", EDENEX
+http://popov.eldialdigital.com:8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Holland FM FM 98.5
+http://qxjr002.digiplay.nl:9070/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Nostalgia FM
+https://server.spainbroadcast.net/8028/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Azul Torrevieja FM 96.9
+https://ondaazulradio.es/wp-content/uploads/2020/04/ONDA-AZUL-Spot-1-aniversario.mp4
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Torrevieja
+http://icecast-streaming.nice264.com/torrevieja
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Costa International
+http://178.33.166.7:7602/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Speed.FM
+http://streaming03.zfast.co.uk:8055/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", TKO Radio FM 91.9
+https://tkomedia.radioca.st/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Torrevieja Radio FM
+https://sonicpanel.globalstream.pro:10973/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Torrox
+http://online.radiotorrox.es:8000/radiotorrox.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Imagina Ràdio 103.9 FM
+http://imaginaradio.streaming-pro.com:8018/imaginaradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Esencia Radio 94.5 FM
+https://stream.zeno.fm/51nrp77pbsquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Tudela
+https://22543.live.streamtheworld.com/SER_TUDELA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Tudela
+https://wecast-b03-01.flumotion.com/copesedes/tudela.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio Tudela FM 96.0
+https://server.spainbroadcast.net/9010/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tudela
+https://server.spainbroadcast.net:10973/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Sonora FM 97.7
+https://server.spainbroadcast.net:10972/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Municipal de Tui
+http://srv01.redsanmarcos.com:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", SER Baixo Miño
+http://20133.live.streamtheworld.com:80/SER_ASO_BAIXOMINO_SC
+#EXTINF:-1 tvg-logo="" group-title="Spain", Quality Music Ràdio
+http://163.172.198.16:8533/stream?1573934424548.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Úbeda Cadena SER
+https://22343.live.streamtheworld.com/SER_ASO_UBEDAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Comarca Sierra De Cadiz
+http://5.135.183.124:8353/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ubrique
+http://195.154.33.95:8024/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ujo
+http://91.126.223.105:8000/liveHD
+#EXTINF:-1 tvg-logo="" group-title="Spain", KKinZona Irratia
+http://51.77.145.229:8000/kkinzona_emisioa
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Utrera
+http://streaming.enantena.com:8000/copeutrera128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jazz En El Aire
+https://stream.zeno.fm/qv1nxqypwtzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Consolación
+https://streaming2.elitecomunicacion.es:8072/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Republicana
+https://radio.latina.red/radiorepublicana.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Val de Santo Domingo
+http://antares.dribbcast.com:5045/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Recuerdos FM
+http://streaming6.elitecomunicacion.es:8094/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Valdepeñas
+https://20133.live.streamtheworld.com/SER_VALDEPENAS.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Valdepeñas
+http://icecast-streaming.nice264.com/valdepenas
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Ser - Radio Valencia
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cope Valencia
+http://wecast-b02-01.flumotion.com/copesedes/valencia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fresh Radio
+https://stream.zeno.fm/gzaf75yevceuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gestiona Radio Valencia
+http://gestionaradiovalencia.emisionlocal.com:9080/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", iMusicaRock.com - Radio en Español
+https://stream.zeno.fm/4wu2dwa6krruv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Insomnia
+https://eu1.lhdserver.es:8095/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Jazz Vibes
+https://radio.hidestreaming.com:7038/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Keloke FM 92.9
+https://sonicpanel.streaming10.net/8024/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Maxi Radio
+http://174.138.13.113:8040/WEBAPP.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La MIX
+https://stream.zeno.fm/tdp0bsefmuquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", MDT Radio
+http://streams1.mdtradio.com:8020/mdtweb
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mente Positiva by Relax FM
+https://radio.hidestreaming.com:7033/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Nature by Relax FM
+https://radio.hidestreaming.com:7030/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Valencia
+https://icecast-streaming.nice264.com/valencia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Pequeradio FM 90.1
+http://stream.emisorasmusicales.com:8030/pequeradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Plaza Radio
+https://stream1.solstreaming.com:8112/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Quality Music Ràdio
+http://163.172.198.16:8533/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Klara 104.4 FM
+https://cervera.eldialdigital.com:21111/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Malva FM 104.9
+http://radiomalva.ddns.net:8000/rmbc.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Mandarina
+https://s3streamingradio.desafiohosting.com:9012/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Sapiens
+http://gnstreammedia.us:9994/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Seu
+http://streaming.enantena.com:8000/radiolaseu128.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Siete
+http://play.radiosiete.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioTimiBanat Eurodisco
+http://streaming5.elitecomunicacion.es:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Relajaciones para adultos by Relax FM
+https://radio.hidestreaming.com:7019/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Relajaciones para niños By Relax FM
+https://radio.hidestreaming.com:7034/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Relax FM
+https://server9.emitironline.com:19288/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Remember The Music FM 96.6
+https://stream.zeno.fm/2h5vfzf57vzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Soul Radio 101.9 FM
+http://stm1.emiteonline.com:8019/4gvalencia
+#EXTINF:-1 tvg-logo="" group-title="Spain", Spektrafm
+http://stm1.emiteonline.com:8008/spektrafm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Top Music Radio
+http://178.32.62.154:8794/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Top Remember FM 87.5
+https://eu1.lhdserver.es:3009/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tot Ràdio València
+http://totradio.com:8000/128kbps
+#EXTINF:-1 tvg-logo="" group-title="Spain", We Radio FM 97.9
+http://90.165.114.118:8085/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", WHO! Radio Valencia FM 104.1
+http://radiorobot.es:8000/valencialive
+#EXTINF:-1 tvg-logo="" group-title="Spain", Xtra Hits FM
+http://srv1.multiesfera.com:8020/hd
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Valladolid
+https://wecast-m01-01.flumotion.com/copesedes/valladolid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Delisvall Radio
+http://62.210.30.186:8013/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", esRadio Valladolid
+https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fabulosa FM 99.9
+https://cast2.vulnerados.es:8102/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Jungla Radio Valladolid 96.9 FM
+http://stm2.emiteonline.com:8006/ljvalladolid
+#EXTINF:-1 tvg-logo="" group-title="Spain", Mortal FM
+http://server6.20comunicacion.com:8044/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Valladolid
+http://icecast-streaming.nice264.com/valladolid
+#EXTINF:-1 tvg-logo="" group-title="Spain", PlayTrance Classics
+https://streaming.playtrance.com/playtrance-classics-high
+#EXTINF:-1 tvg-logo="" group-title="Spain", PlayTrance Radio
+https://streaming.playtrance.com/playtrance-main-high
+#EXTINF:-1 tvg-logo="" group-title="Spain", Power FM 96.4
+https://streaming.powerfmvalladolid.com:4430/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", R4G FM 91.3
+http://streaming.enantena.com:8000/radio4gvalladolid128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lokura Canción Española
+https://antares.dribbcast.com/proxy/radiolokuraespa?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lokura Recuerdos
+https://antares.dribbcast.com/proxy/radiolokurarecuerdo?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Lokura Valladolid
+https://antares.dribbcast.com/proxy/radiolokurava2?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Valladolid
+https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Valladolid Cadena SER
+https://21223.live.streamtheworld.com/SER_VALLADOLIDAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Who! Radio 94.1 FM
+http://51.178.8.193:8500/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Vallromanes FM 94.4
+http://188.165.187.84:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Hit103
+http://streaming.enantena.com:8000/radiovalls128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Valls Ràdio Ciutat
+https://streaming.enacast.com/rcvallsSD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Global FM 94.1
+https://stream.zeno.fm/pgkc2qrc5p8uv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Océano Radio
+http://radio3.oceanofm.com:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Faro
+https://turadio.opi-informatica.com/radio/8000/RadioFaro
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Las Tirajanas FM 98.3
+https://turadio.accesopanel.com/8088/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Las Medianias
+http://streaming.enantena.com:8000/lasmedianias128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Tinamar FM 89.0
+https://turadio.accesopanel.com/8396/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER La Janda
+http://5.135.183.124:8352/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Dial La Janda
+http://5.135.183.124:8327/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Los 40 Costa De la Luz
+http://5.135.183.124:8326/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio El Palmar 108 FM
+http://server11.emitironline.com:11320/
+#EXTINF:-1 tvg-logo="" group-title="Spain", 24FM Axarquía
+http://5.135.183.124:8020/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Axarquía
+https://secureradio.eu:2142/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Fusión Radio
+http://streaming.fusionradio.es:1907/fusion.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Axarquía Cadena SER
+https://22333.live.streamtheworld.com/SER_AXARQUIA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Moscatel FM 107.1
+https://eu1.lhdserver.es:9095/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Latina MX
+http://s1.xps-ip.eu:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", El 9 FM
+http://radio.el9fm.cat:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ona Digital
+https://relay.stream.enacast-cloud.com:40146/onadigital128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Vic
+http://streaming.enantena.com:8000/radiovic56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Gum FM
+https://s4.radio.co/sc1cb45a9f/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Vigo
+https://wecast-m01-04.flumotion.com/copesedes/vigo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", OndaCero Vigo
+http://icecast-streaming.nice264.com/vigo
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Vigo
+http://streaming.enantena.com:8000/radiomarcavigoHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Piratona FM 106.1
+http://s.streampunk.cc/radiopiratona.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz 103.8
+http://live.radiovoz.es/mp3/stream_vigo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", rkv radio
+http://radioserver10.profesionalhosting.com:40968/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", RocaFM Clasicos Vigo
+https://xxdelgado.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vía Radio Galicia
+https://relay.stream.enacast-cloud.com:40242/viaradioHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vicus Radio
+https://stream.zeno.fm/2tk45gqsy3duv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vila-Sacra 107FM
+https://frilab.wlan.cat/vila-sacra
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vilablareix FM 107.5
+http://streaming.enantena.com:8000/radiovilablareix128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Vila
+http://streaming.enantena.com:8000/radiovila56.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Vilafant FM 107.3
+https://sonic.mediatelekom.net/9986/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Penedès-Garraf
+https://20133.live.streamtheworld.com/SER_PENEDES_GARRAF.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Vilafranca
+http://194.32.133.102:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Radio Arosa
+https://20423.live.streamtheworld.com/SER_ASO_AROSAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Anoia Ràdio Vilanova
+https://streamingv2.shoutcast.com/ANOIARADIO
+#EXTINF:-1 tvg-logo="" group-title="Spain", Bear Radio Oso
+http://streamingv2.shoutcast.com./bear-radio-oso
+#EXTINF:-1 tvg-logo="" group-title="Spain", Ràdio Nova - Vilanova del Camí
+http://radio.08-produccions.cat:8000/rvilanova.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", CalamarRradio
+http://www.calamarrradio.org:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Canal Blau
+https://streaming.enacast.com/canalblau128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Vilassar Ràdio 98.1 FM
+http://relay.stream.enacast-cloud.com:30226/radiovilassardemarHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Óptima FM
+http://eu1.lhdserver.es:9202/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Villacañas
+http://server6.20comunicacion.com:8480/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena Dial FM 90.6
+https://streaming.cloud.innovasur.es/radio/listen/bd7ca9
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Creactividad
+http://europa.shoutca.st:9151/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Românul
+http://www.radioromanul.es:55556/web
+#EXTINF:-1 tvg-logo="" group-title="Spain", Alocada FM
+https://srv1grupoexperiencia.com/radio/8000/HD?1601905300
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Luna - Ser
+http://srv0625.emisorasonline.com:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena COPE Castellón
+http://wecast-m01-03.flumotion.com/copesedes/castellon.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vila-Real FM 92.2
+http://ns7.emisionlocal.com:9022/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Unika FM
+http://n03.radiojar.com/7qyvpnex9vzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Villena MQR FM 93.7
+http://94.23.87.98:9100/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Villena Cadena SER
+https://22533.live.streamtheworld.com/SER_VILLENA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Arribes FM
+http://195.154.33.95:8037/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vitigudino
+http://198.100.145.187:13840/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Vitoria FM 88.2
+https://21223.live.streamtheworld.com/SER_VITORIA.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Vitoria
+https://wecast-m02-05.flumotion.com/copesedes/vitoria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", EiTB Radio Vitoria
+http://mp3-eitb.stream.flumotion.com/eitb/radiovitoria.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Mega Vitoria
+http://5.135.183.124:8037/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio 4G Vitoria
+http://212.8.116.100:8000/test.aac;stream/1/;audio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Gorbea FM 93.1
+https://radiogorbea.streaming-pro.com:6134/radiogorbea.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Siberia FM 93.8
+https://stream.euskonet.eus:8443/siberia
+#EXTINF:-1 tvg-logo="" group-title="Spain", SpacegFM
+https://c6.auracast.net/radio/8120/SpacegFM
+#EXTINF:-1 tvg-logo="" group-title="Spain", BayRadio
+http://51.255.235.165:5146/;?1558605592340
+#EXTINF:-1 tvg-logo="" group-title="Spain", Costa Blanca Radio FM 97.6
+http://cast01.deepmedia.nl/costablancaradio_fm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Wonky Radio
+https://s4.radio.co/s29c43b3a8/listen
+#EXTINF:-1 tvg-logo="" group-title="Spain", RadioVoz A Limia FM 96.9
+http://live.radiovoz.es/mp3/stream_orense.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", PowerOn FM
+http://sc4.easywebcommunications.com:18034/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Arco Norte
+https://22343.live.streamtheworld.com/SER_ARCO_NORTEAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Yecla
+http://eu1.lhdserver.es:9168/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", La Jungla Yecla
+http://stm1.emiteonline.com:8007/yecla
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Yecla FM 90.4
+http://icecast-streaming.nice264.com/yecla
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Musical De Yecla FM 106.4
+https://stream.zeno.fm/89t31p4mdwzuv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Cadena SER Zafra Río Bodión FM 97.4
+http://83.56.8.228:8000/cadenaser
+#EXTINF:-1 tvg-logo="" group-title="Spain", COPE Zamora
+https://wecast-b03-04.flumotion.com/copesedes/zamora.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Zamora
+http://icecast-streaming.nice264.com/zamora
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Zamora
+https://eu1.lhdserver.es:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Abejar Radio FM
+http://stream.radioelabejar.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Aragón Radio
+https://cartv.streaming.aranova.es/mp3/live/aragonradio_aragonradio1_96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", K La Radio
+http://topradio.uno:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Latina 98.3 FM Zaragoza
+http://stream.latinafmzaragoza.com:8023/stream
+#EXTINF:-1 tvg-logo="" group-title="Spain", Love 90s
+http://c6.auracast.net:8090/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Cero Zaragoza
+http://icecast-streaming.nice264.com/zaragoza
+#EXTINF:-1 tvg-logo="" group-title="Spain", Onda Mediana
+http://servidor16.brlogic.com:7236/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Ebro FM 105.2
+http://s2.prositel.net:7010/ebrofm
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio La Granja FM 102.1
+https://radiobot.radioslibres.info/radio/8040/rlg.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio MAI
+http://radio.indaloweb.es:8001/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Marca Zaragoza
+http://c6.auracast.net:8020/rmzgz;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Natural
+https://stream.zeno.fm/whw0vn0e1xquv
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Power 96
+https://s15.myradiostream.com/7382/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Romantica
+https://streamtotal.net:4014/live
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Topo FM 101.8
+http://s.streampunk.cc/radiotopo.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Vip FM
+http://5.196.244.140:8003/;
+#EXTINF:-1 tvg-logo="" group-title="Spain", Radio Zaragoza Cadena SER
+https://22343.live.streamtheworld.com/SER_ZARAGOZAAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - 80s
+https://makri.cdnstream.com/1898_128
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Classical
+https://ais-sa2.cdnstream1.com/2208_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Coffee
+http://ais-sa2.cdnstream1.com/2345_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Jazz
+http://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Lounge
+https://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Love
+https://ais-sa2.cdnstream1.com/2210_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Splash - Spa
+http://ais-sa2.cdnstream1.com/2347_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Spain", Tea FM
+https://cervera.eldialdigital.com:21161/stream

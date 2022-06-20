@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Almalak Radio
+http://almalakradio.out.airtime.pro:8000/almalakradio_a
+#EXTINF:-1 tvg-logo="" group-title="Egypt", 9090 FM
+http://9090streaming.mobtada.com/9090FMEGYPT
+#EXTINF:-1 tvg-logo="" group-title="Egypt", 90s FM
+https://eu1.fastcast4u.com/proxy/prontofm?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Arab Mix FM
+https://stream.zeno.fm/efx5psd00qruv
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Hawak Radio راديو هواك
+https://radiohawak.com:3034/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Mahatet Masr
+https://s3.radio.co/s9cb11828c/listen
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Masr Elgdida راديو مصر الجديدة
+https://streaming.radio.co/scc13a6b96/listen
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Mega FM 92.7
+https://audiostreaming.twesto.com/megafm214
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Misrfone
+http://s2.voscast.com:8612/;
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Mix FM 87.8
+https://c34.radioboss.fm:18035/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Nagham FM 105.3
+https://ahmsamir.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Nile FM 104.2
+https://reach-audio.esteam.rocks/radio/8010/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Nogoum FM 100.6
+https://reach-audio.esteam.rocks/radio/8000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Quran FM 98.2 إذاعة القرآن الكريم
+http://n0d.radiojar.com/8s5u5tpdtwzuv
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio Al-Ahram
+http://196.219.246.24:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio Ma3ak
+http://www.radioma3ak.com:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio Masr FM 88.7
+https://live.radiomasr.net/RADIOMASR
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio Sotak
+http://serv02.streamsfortheworld.com:8000/radiosotak_hi
+#EXTINF:-1 tvg-logo="" group-title="Egypt", St. Mary Church Zeitoun
+https://cast.az-streamingserver.com/proxy/stmary?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", هواها بيطري
+https://s44.myradiostream.com/9204/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Egypt", El Gouna Radio FM 100
+http://82.201.132.237:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio Dahab
+http://stream.radiojar.com/2zdx7ns89uduv
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Sha3by FM
+http://178.32.62.154:9010/;
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Al-Abd Hob al Nabi
+http://s1.reliastream.com:8098/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Al-Abd Quran
+http://185.80.220.12:8048/stream
+#EXTINF:-1 tvg-logo="" group-title="Egypt", Radio 5:14
+http://stream.radiojar.com/ps7z45v12k8uv

@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "Papua New Guinea",
+    "name": "FM100",
+    "url": "http://95.154.193.6:8151/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Papua New Guinea",
+    "name": "Legend FM 101.1",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PNGLEGENDFM.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Papua New Guinea",
+    "name": "Nau FM",
+    "url": "https://18313.live.streamtheworld.com/NAUFMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Papua New Guinea",
+    "name": "Wantok Radio Light",
+    "url": "http://ca7.rcast.net:8060/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Papua New Guinea",
+    "name": "Yumi FM 93.0",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3",
+    "logo": ""
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Avtoradio Bishkek FM 107.8",
+    "url": "http://ic4.101.ru:8000/a100",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Hit FM",
+    "url": "http://radio.city.kg:8000/hitfm-bishkek.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Kyrgyzstan Obondoru",
+    "url": "http://31.192.250.52:8000/obondoru128",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "OK Radio FM 100.5",
+    "url": "http://stream.okradio.kg:8000/mp3-hq",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Radio Manas",
+    "url": "http://radio.mediamanas.kg:8000/online",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Radio Record FM 89.0",
+    "url": "https://air2.radiorecord.ru:9002/rr_128",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Sputnik Kyrgyzstan",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=34872596&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Tumar FM",
+    "url": "http://212.112.114.218:8000/online",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Санжыра радиосу",
+    "url": "http://81.88.192.51:8000/Sanjyra",
+    "logo": ""
+  },
+  {
+    "tags": "Kyrgyzstan",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "logo": ""
+  }
+]

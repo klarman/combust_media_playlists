@@ -1,0 +1,548 @@
+[
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Syd ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A12L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "ANR",
+    "url": "http://stream.anr.dk/anr",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Nordjylland ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A10L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio NORDJYSKE",
+    "url": "http://stream.anr.dk/nordjyske",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Østjylland ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A14L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "go!FM",
+    "url": "http://netradio.gofm.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio4",
+    "url": "http://netradio.radio4.dk/radio4.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Ahenfo Radio Denmark",
+    "url": "https://s35.myradiostream.com/4702/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Amager Radio FM 103.4",
+    "url": "http://ca5.rcast.net:8058/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P1",
+    "url": "http://live-icy.gss.dr.dk:80/A/A03H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P2",
+    "url": "http://live-icy.gss.dr.dk:80/A/A04H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P3",
+    "url": "http://live-icy.gss.dr.dk:80/A/A05H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 København",
+    "url": "http://live-icy.gss.dr.dk/A/A08H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P5",
+    "url": "http://live-icy.gss.dr.dk:80/A/A25H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P6Beat",
+    "url": "http://live-icy.gss.dr.dk:80/A/A29H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P8Jazz",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A22H.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "myROCK",
+    "url": "http://live-bauerdk.sharp-stream.com/myrock.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Nordic Lodge Copenhagen",
+    "url": "https://larry.torontocast.com:2095/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Nova FM",
+    "url": "http://stream.novafm.dk:80/nova128",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "PartyFM",
+    "url": "http://stream1.partyfm.dk/Party256?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Pop FM",
+    "url": "http://stream.popfm.dk:80/pop128?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio 100 FM",
+    "url": "http://onair.100fmlive.dk:80/100fm_live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio 208",
+    "url": "http://185.156.96.20:8010/radio208mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Folk",
+    "url": "http://player.radiofolk.dk:8000/danishfolk",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Jazz Copenhagen FM 102.9",
+    "url": "https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Klassisk",
+    "url": "http://onair.100fmlive.dk:80/klassisk_live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Mystic",
+    "url": "https://stream.zeno.fm/3q7v0aqkpm0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Projekti 21 - 102.9 FM",
+    "url": "http://64.150.176.42:8178/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Soft",
+    "url": "http://onair.100fmlive.dk/soft_live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "The Lake Radio",
+    "url": "http://hyades.shoutca.st:8627/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "The Voice",
+    "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Uniradioen",
+    "url": "http://uniradio.out.airtime.pro:8000/uniradio_a",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "World Music Radio",
+    "url": "http://185.156.96.20:8010/wmrmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Esbjerg ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A15L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Victoria",
+    "url": "http://stream.wlmm.dk:8000/stream/15/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Day And Night",
+    "url": "http://195.154.33.95:8096/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Faaborg",
+    "url": "http://78.129.139.48:8574/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Oestsjaelland FM 104.7",
+    "url": "http://stream.radiosolutions.dk/faxe",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Humleborg Jazzkanalen",
+    "url": "http://ca6.rcast.net:4058/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Boost FM 98.2",
+    "url": "http://149.202.22.75:8066/live/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Retro FM 105.3",
+    "url": "http://10336.cloudrad.io:9010/live",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Djursland",
+    "url": "http://stream.wlmm.dk/djurs",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "AllSoundfm",
+    "url": "https://solid9.streamupsolutions.com/proxy/jcdyacnj?mp=/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "AllSoundfm Worship",
+    "url": "https://solid33.streamupsolutions.com/proxy/grcweyyw?mp=/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio MFK",
+    "url": "https://stream1.radiomfk.dk/radiomfk",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Alfa Midtjylland",
+    "url": "http://89.249.7.68/alfamidt",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio M",
+    "url": "http://89.249.7.68/radiom",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Øst FM 95.0",
+    "url": "http://netradio.oestfm.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Skaga FM",
+    "url": "http://media.wlmm.dk:80/skagafm?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Holbæk Radio FM 104.7",
+    "url": "http://stream.holbaekradio.dk/webradio",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Weekend",
+    "url": "https://usa2.fastcast4u.com/proxy/rolars00?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Midt & Vest ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A09L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Klitholm",
+    "url": "http://stream.radioklitholm.dk:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Køge",
+    "url": "http://stream.wlmm.dk/stream/53/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio MidtSjælland FM 89.9",
+    "url": "http://netradio.radiomidt.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Viva Kolding",
+    "url": "http://stream.wlmm.dk/radioviva",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Skala.FM",
+    "url": "http://webradio.skala.fm/kolding",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Umlando Radio",
+    "url": "http://80.167.205.32:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Sjælland ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A11L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Næstved Lokal Radio",
+    "url": "https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio SLR",
+    "url": "http://netradio.radioslr.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Retro Radio",
+    "url": "http://streammp3.retro-radio.dk/retro-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio SydhavsØerne",
+    "url": "http://netradio.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Limfjord Plus FM 94.7",
+    "url": "http://media.limfjordnetradio.dk/plus128",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Limfjord",
+    "url": "http://media.wlmm.dk:80/limfjord?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Fyn ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A07L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Nord",
+    "url": "http://netradio.radionord.dk:8000/RadioNord",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio ABC",
+    "url": "http://netradio.radioabc.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Alfa",
+    "url": "http://89.249.7.68/alfa",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Solo FM",
+    "url": "http://89.249.7.68/solo",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio 2000",
+    "url": "http://icecast3.radiostuff.dk:8000/radio2000",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Globus Guld",
+    "url": "http://stream.wlmm.dk:80/globusguld",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Globus",
+    "url": "http://stream.wlmm.dk:80/radioglobus",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Rønde - Syddjurslokalradio",
+    "url": "http://media.wlmm.dk/djurs",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Bornholm",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A06L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Odsherred",
+    "url": "http://5.103.128.66:88/broadwave.mp3?src=1&rate=1&ref=",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Head FM.net",
+    "url": "https://443-1.reliastream.com/35/;",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Alfa Silkeborg",
+    "url": "https://radioserver.dk/alfasilk",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Playback.dk",
+    "url": "http://stream02.radioplayback.dk:80/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Skive",
+    "url": "http://netradio.radioskive.dk/",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "FM 92.0",
+    "url": "http://stream.wlmm.dk:80/902fmmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Als Classic FM",
+    "url": "http://webradio.classicfm.dk/classickolding",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Classic FM Struer",
+    "url": "http://netradio.vlr.dk/classicstruer",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Alfa Sydfyn",
+    "url": "http://icecast1.radiostuff.dk:80/Alfasydfyn128",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Diablo",
+    "url": "http://icecast1.radiostuff.dk:80/Diablo128",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Booster Radio",
+    "url": "https://stream.holbaekradio.dk/booster",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "DR P4 Trekanten ",
+    "url": "http://live-icy.gss.dr.dk:8000/A/A13L.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "VLR Vejle Lokal Radio",
+    "url": "https://webradio.vlr.dk/vlr",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Classic FM",
+    "url": "http://netradio.vlr.dk/classicviborg",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio Viborg",
+    "url": "http://netradio.radioviborg.dk/viborg",
+    "logo": ""
+  },
+  {
+    "tags": "Denmark",
+    "name": "Radio 40plus",
+    "url": "http://stream.radiosolutions.dk/radio40plus",
+    "logo": ""
+  }
+]

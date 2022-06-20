@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Falkland Islands", BFBS Falkland Islands
+http://edge-audio-02-gos1.sharp-stream.com:80/ssvcbfbs6.mp3
+#EXTINF:-1 tvg-logo="" group-title="Falkland Islands", Falklands Radio
+http://streaming.broadcastradio.com:8330/flklnd

@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Esquipulas
+https://stream.zeno.fm/3fqwpe6bmbruv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Metropolis FM 105.3
+https://polaris.hostingnica.net/8058/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Marimba
+http://stream.serverinfinity.com:7022/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Azúcar 99.9 FM
+https://radiostreamingaac.com:8570/azucarjutiapa
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Marimba
+http://stream.serverinfinity.com:7022/mountpoint
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Santa Cruz Barillas FM 106.5
+https://stream.zeno.fm/60sr43zew6duv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Balam FM 105.1
+https://cloudstream2032.conectarhosting.com/9996/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Solar 89.5 FM
+https://radiostreamingaac.com:8560/solarchiquimula
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Globo Oriente FM 94.7
+https://ais-sa2.cdnstream1.com/2532_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Milagro
+http://199.233.234.34:25454/live?1572854256065
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Minorias
+http://199.233.234.34:25191/live?1572854315868
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Salone
+http://199.233.234.34:25329/live?1572856225457
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Màxima GT
+https://ssl.dainusradio.com/shoutcast2/9984/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Indomable Coatepeque
+http://live.myradioserver.net:7582/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Gerardi FM 107.9
+https://aler.org:8445/gerardi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Buena 94.7 FM
+http://158.69.215.170:9300/stream/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Tezulutlán FM 103.9
+https://aler.org:8445/tezulutlan.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Peligrosa 99.1 FM
+https://dj91.hostingnuclear.com/8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Católica 97.1 FM
+https://diocesisdeescuintla.com/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Solar 104.9 FM
+https://radiostreamingaac.com:8566/solarpeten
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Interface FM 104.1
+http://69.175.20.242:8074/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", 949 Radio
+https://ais-sa2.cdnstream1.com/2528_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", actitud 100.9 FM
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Actitud FM Adoración (Worship)
+https://ss.redradios.net:8003/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Actitud Sin Comerciales
+https://ss.redradios.net:8004/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Alternativa Radio
+https://stream.zeno.fm/u6fwxw6uk2zuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Atmósfera FM 96.5
+https://stream.zeno.fm/pdkbxgv5f3quv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Caliente FM 102.9
+http://54.39.106.215:9304/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Católicos al Día
+https://cloudstream2032.conectarhosting.com/8074/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Clásica 106.5 FM
+https://ais-sa2.cdnstream1.com/2529_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Didactikos Radio
+http://cassini.shoutca.st:9376/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Emisoras Unidas FM
+https://stream.zeno.fm/x73b8q55puquv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Fama FM 102.5
+https://ais-sa2.cdnstream1.com/2525_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Federación Guatemalteca de Escuelas Radiofónicas FGER
+http://aler.org:8000/fgerenlinea
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", GCH Radio
+https://cloudstream2032.conectarhosting.com:10990/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Globo Centro FM 98.9
+https://ais-sa2.cdnstream1.com/2531_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Ilumina FM 98.1
+https://ss.redradios.net:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Intercop
+https://eu2.serviaudio.com/8124/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Red Deportiva
+https://ais-sa2.cdnstream1.com/2530_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Sabrosona FM 94.5
+http://54.39.106.215:9318/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Voz de los Chapines
+https://cloudstream2032.conectarhosting.com:10986/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Mas Musica FM 92.5
+http://54.39.106.215:9770/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", MEGA 107.7
+http://99.198.107.186:8564/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", My Energy Radio
+http://tecnoservix.stream:8011/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Nuevo Mundo Radio 96.1 FM
+http://54.39.106.215:9946/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radical Radiogt
+https://stream.zeno.fm/h8rg97u1w7zuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Católica Hosanna AM 1450
+http://99.198.107.186:8708/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Congreso
+https://streamingcwsradio30.com:7055/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Cristo Vive FM 88.9
+https://cloudstream2036.conectarhosting.com/8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Cultural TGN
+http://stream.serverinfinity.com:7054/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Estrella 89.3 FM
+https://ads91.radioonlinehd.com:8020/radioestrella
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fiesta Hit
+http://tecnoservix.stream:8008/live
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fráter Adoración
+https://ce.redconnections.net:8001/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fráter Clásica
+https://ce.redconnections.net:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fráter Inglés
+https://ce.redconnections.net:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fráter Instrumental
+https://ce.redconnections.net:8005/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Fráter Kids
+https://ce.redconnections.net:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Infinita FM 100.1
+https://streams.radio.co/see730c7ab/listen
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Maria Guatemala
+http://dreamsiteradiocp.com:8072/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Metanoeo
+http://cassini.shoutca.st:9376/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Mía 93.7 FM
+https://ais-sa2.cdnstream1.com/2526_32.aac
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Nacional De Guatemala
+https://stream.zeno.fm/ya08u5tkhvduv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Panamericana De Guatemala
+http://5.79.86.14:8011/live
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Revelacion y Verdad
+https://cloudstream2032.conectarhosting.com/8260/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Salmodiando
+https://aguila1.netkairos.com/8088/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Única 97.5 FM
+https://ns7.emisionlocal.com/proxy/radiounica0?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Vea 1570 AM
+https://ce.redconnections.net:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Visión Mies
+http://whmsonic.playerfullhd.com:9544/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Voz Evangelica Exodo
+http://sh4.radioonlinehd.com:8531/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radioamericaguatemala
+http://66.113.177.108:7060/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radioprogresoguatemala
+http://66.113.177.108:7050/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Beats
+https://stream.zeno.fm/2fzkfcmr9mruv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Hits 1
+https://stream.zeno.fm/95tuea0qrqzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Hits 2
+https://stream.zeno.fm/7u1s89yr6yzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Hits El Baúl De Los Recuerdos
+https://stream.zeno.fm/r2hyrn363mruv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Hits Radio
+https://sc10.conectarhosting.com/proxy/retrohitsgt?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retro Hits Vintage
+https://stream.zeno.fm/t0a1y4vvxwzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Retropicales
+https://stream.zeno.fm/vwk8k4n23mruv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", RH Ambiental Music
+https://stream.zeno.fm/1a92pdakbrzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Rhema Stereo 91.7 FM
+http://masterv2.shoutcast.com:8000/rhema-stereo-917-fm/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Rios Radio
+http://s2.yesstreaming.net:7121/autodj
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Romantica FM 105.3
+http://54.39.106.215:9314/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Shock
+https://streaming2.shock.fm:8040/normal
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Sónica FM 106.9
+https://s6.voscast.com:9039/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", TGW FM 107.3
+https://stream.zeno.fm/8827exas36duv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", UMG RADIO
+https://ce.redconnections.net:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Unión Radio
+https://stream20.usastreams.com/8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Universidad FM 92.1
+https://stream.zeno.fm/xqbz7b86a0quv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Upana Campus Radio
+https://streaming.radio.co/saeffb713f/listen
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Voz Diversa Radio
+https://stream.zeno.fm/vnbg37gvk2zuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Yosi Sideral FM 90.1
+https://stream.zeno.fm/t67dk5gm8ueuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estereo Nueva Jerusalem Guatemala 86.7FM
+https://stream.zeno.fm/15eret36vhruv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Stereo Mam FM 96.1
+http://198.7.59.204:25180/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Santo Hermano Pedro Radio 98.1 FM
+https://dj91.hostingnuclear.com/9962/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Solar 98.3 FM
+https://radiostreamingaac.com:8562/solarjutiapa
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Pura Candela 98.3 FM
+https://radiostreamingaac.com:8574/puracandela
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Uncion 88.7 FM
+https://cloudstream2032.conectarhosting.com/8268/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estudio De La Palabra Radio
+https://stream.zeno.fm/xtkv1tevw8quv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Cumbre
+https://stream.zeno.fm/ax9zzr2me6quv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Cumbre La Voz de Mixco
+https://turadio.accesopanel.com/8428/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Mixco
+https://stream.zeno.fm/c9pestzrgg5tv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", NV Radio
+https://stream.zeno.fm/wcbk3zzkx4zuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Bahia FM 107.9
+http://sh4.radioonlinehd.com:8541/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Banana FM 92.7
+https://sh4.radioonlinehd.com:8542/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Franja 96.3 FM
+http://live.myradioserver.net:8054/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Guacamaya 98.1 FM
+http://us3.streamingpulse.com:7000/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio FeLove
+https://felove-radiofelove.radioca.st/rfl
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", ELM Radio Quetzaltenango
+https://azuracast.laysquad.cloud/radio/8020/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Evolución FM 95.5
+https://sh1.radioonlinehd.com:8057/stream?1616836313793
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Presencia Radio
+https://ce.redconnections.net:8022/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", radio ati
+http://173.192.207.51:7116/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Esla
+https://stream.zeno.fm/wdr15uyuezzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Mágica FM
+https://azuracast.laysquad.cloud/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Stereo 100 100.3
+https://sh1.radioonlinehd.com:8056/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Visión Deportiva Radio
+https://stream.zeno.fm/3w7xdy7c9f0uv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Estereo Dios de Pacto
+https://ssl.voxhd.com.br:7996/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", La Cariñosa FM 90.7
+https://radio008.gt.gt/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Orion Stereo FM 102.7
+https://ss.redradios.net:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio La Exitosa
+https://stream.zeno.fm/t1wm21erdkeuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio La Nueva FM 107.7
+https://server.radiogs.net:7008/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Energy Radio
+https://www.radioking.com/play/energyrock/273676
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio la Puesta es Cristo
+https://turadio.accesopanel.com/8096/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Estrella
+http://arcamediagroup.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Quiche
+http://212.83.135.226:7310/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Cariñosa Radio
+https://stream.zeno.fm/zdbtsnxapzzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Estereo Impacto
+http://99.198.107.186:8604/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Sol De Justicia Guatemala
+http://server.radiogs.net/8338/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Sayaxché FM 91.7
+https://stream.zeno.fm/q6s7zesbnzzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estereo San Miguel 89.5 FM
+https://ssl.xcast.com.br:12076/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Estéreo Impacto 107.9 FM
+https://stream.zeno.fm/5km20ad7e2zuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", El Comandante FM 101.3
+http://173.192.207.51:7038/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Fuente de Vida
+http://c7.radioboss.fm:8063/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Jesus Nasaret Radio
+https://stream.zeno.fm/rv36ft1unqzuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Nueva Vida Ixmujil Tacana
+http://stm9.miradio.com.es:10380/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Cristo Sin Fronteras
+http://stm10.miradio.com.es:11058/;
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio La Ley FM 99.9
+https://stream.zeno.fm/gw5wdgw7814tv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio La Voz del Cuarto Angel
+https://stream.zeno.fm/576b0wh17reuv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Unica Tacana FM 97.5
+https://stream.zeno.fm/ucsuaavxq0quv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Radio Voz Catolica
+https://cloudstream2032.conectarhosting.com/8178/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Stereo Grandeza
+https://ssl.voxhd.com.br:8156/stream
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Universal Estereo FM 87.9
+https://stream.zeno.fm/n3fzzkx08s5tv
+#EXTINF:-1 tvg-logo="" group-title="Guatemala", Stereo Shaddai 103.5 FM
+https://ss.redradios.net:8028/stream

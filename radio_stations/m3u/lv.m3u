@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Ksenukai
+http://91.121.113.129:8936/;
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Kurzemes Radio
+http://80.70.23.50:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio SWH Spin
+http://87.110.219.34:8000/spinmp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Rietumu Radio FM 105.8
+https://n0a.radiojar.com/zv4vahasgnzuv.m4a
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Latgolys Radeja
+http://195.13.253.51:8000/128_mp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Crush FM 88.6
+https://radio.mixnews.lv/jumorfm_192
+#EXTINF:-1 tvg-logo="" group-title="Latvia", EHR FM 104.3
+https://stream2.superfm.lv:8000/ehr.aac
+#EXTINF:-1 tvg-logo="" group-title="Latvia", EHR Latviešu hiti
+http://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1 tvg-logo="" group-title="Latvia", EHR Russkie Hiti
+http://stream.ehrhiti.lv:8000/khr.aac
+#EXTINF:-1 tvg-logo="" group-title="Latvia", EHR SuperHits
+http://stream.ehrhiti.lv:8000/Stream_21.aac
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Jumor FM 88.6
+https://radio.mixnews.lv/jumorfm_192
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Latvijas Kristigais Radio
+http://91.228.7.124:7007/;
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Lounge FM 99.5
+https://radio.mixnews.lv/995
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Mix FM 102.7
+https://radio.mixnews.lv/MixFM
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Pieci.lv
+https://live.pieci.lv/live19-hq.mp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio Baltkom
+https://radio.mixnews.lv/baltkom
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio PIK 100 FM
+http://91.90.255.85:8000/01
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio SWH 105.1 FM
+https://live.radioswh.lv:8443/swhmp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio SWH Gold
+http://87.110.219.34:8000/goldmp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio SWH Rock FM 89.2
+http://87.110.219.34:8000/rockmp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio SWH+
+http://87.110.219.34:8000/plusmp3
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio Tev
+http://stream.radiotev.lv:8002/radiov
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Relax FM 94.9
+http://81.198.70.75:8000/01
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Retro FM
+https://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Skonto FM 107.2
+https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Star FM
+https://live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Top Radio
+http://195.13.200.164:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Latvia", XO FM
+https://live.xo.fm/xofm128
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Yacht Radio
+https://yacht-radio.lv:8005/radio
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Your City Radio
+https://c28.radioboss.fm:18234/stream
+#EXTINF:-1 tvg-logo="" group-title="Latvia", LustigsRadio
+https://stream.lustigsradio.lv/live
+#EXTINF:-1 tvg-logo="" group-title="Latvia", Radio 7
+http://stream.radio7.lv:8024/Radio7

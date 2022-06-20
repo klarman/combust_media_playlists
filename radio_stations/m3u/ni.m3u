@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Ometepe
+http://ngstreaming.info:8112/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", 105.5 Radio Unica FM
+http://46.4.33.73:9988/;
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", The Sound of the Caribbean Radio
+http://198.27.66.225:8324/;
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Camoapa Estéreo
+https://stream.zeno.fm/ss03fyv26k0uv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio ABC Stereo
+http://51.161.13.49:8029/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Stereo Mundo
+http://5.39.82.140:8138/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Stereo Beso 94.5 FM
+https://s30.myradiostream.com/31314/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Stereo Romance
+https://stereoromance.radioca.st/streams/128kbps
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Darío FM 89.3
+http://51.161.13.49:8014/live
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Advent Stereo 92.7fm
+http://streaming.admediasystem.net:9642/;
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Fiesta Latina 89.1 FM
+https://01.solumedia.com.ar:6600/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Happy Radio 96.7 FM
+https://01.solumedia.com.ar:6598/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", La Nueva Radio Ya
+https://stream.zeno.fm/axr92qawesmtv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", La Picosa FM 97.9
+http://radios-mp3-nc.cdn.nedmedia.io/nc-lapicosa.mp3
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Levántate El Show FM 106.7
+http://ngstreaming.info:8178/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Lite FM 107.1
+http://radios-mp3-nc.cdn.nedmedia.io/nc-lite.mp3
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Lo +90 Radio
+http://ngstreaming.info:8179/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio 7 Estrellas de David
+https://whmsonic.playerfullhd.com:7065/;
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Corporacion FM 97.5
+https://stream.zeno.fm/gwkd66k0a7duv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio La Primerisíma
+https://polaris.hostingnica.net/9000/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio República
+https://stream.zeno.fm/3kruxu5a9s8uv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Fiesta Norteña Radio
+https://stream.zeno.fm/a7dd1v857reuv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Hotmusic Radio Nicaragua
+https://stream.zeno.fm/dwmeq8xk2rquv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", My Music Collection
+https://stream.zeno.fm/93tt8dfvrreuv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Sendas FM 107.3
+https://s17.ssl-stream.com/proxy/radiosendasfm?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Mogotón 100.9 FM
+https://stream.zeno.fm/94vxz9gt5yzuv
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Stereo Resurrección
+https://c7.radioboss.fm:18161/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Visión de Dios Stereo FM 105.3
+http://198.204.234.10:8218/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Rumbos FM 96.9
+http://192.99.6.50:9788/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Andromeda
+http://c11.radioboss.fm:8071/stream
+#EXTINF:-1 tvg-logo="" group-title="Nicaragua", Radio Stereo Madriz
+https://stream.zeno.fm/w571q240kumtv

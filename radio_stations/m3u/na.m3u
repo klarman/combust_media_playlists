@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Namibia", AWR Zambezi
+http://s2.stationplaylist.com:7088/listen.aac
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Otji FM 107.6
+http://197.243.232.114:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Namibia", EFM Radio FM 91.3
+http://s2.stationplaylist.com:7026/listen.aac
+#EXTINF:-1 tvg-logo="" group-title="Namibia", West Coast FM 107.7
+http://s4.myradiostream.com:7648/;
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Longbeach Radio
+https://stream.radio.co/s543756e46/listen
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Namib Radio
+https://eu1.reliastream.com/proxy/namibrad?mp=/stream/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Adventist Radio
+http://s2.stationplaylist.com:7086/listen.aac
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Afrika-Boom
+http://stream.radio.co/se53fee01d/listen
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Channel 7 Oshiwambo FM 104.5
+http://zas2.ndx.co.za/proxy/k7oshiwambo?mp=/stream&1516050075350
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Connected Rhythm
+http://zas6.ndx.co.za:8019/;
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Eagle FM
+https://s2.stationplaylist.com:7030/listen.aac+
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Energy 100 FM
+https://s2.stationplaylist.com:7094/listen.aac
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Fresh FM 102.9
+https://ice31.securenetsystems.net/FRESHFM
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Hitradio Namibia FM 99.5
+http://85.25.217.22:8000/hitradio-namibia.mp3
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Kosmos Radio FM 94.1
+http://edge.iono.fm/xice/88_medium.aac
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Nam-Radio
+https://music-station.live/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Nova FM 103.5
+https://ice31.securenetsystems.net/JACCFM
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Omulunga Radio FM 100.9
+https://ice31.securenetsystems.net/OMULUNGA
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Radio Wave FM 96.7
+https://ice31.securenetsystems.net/967FM
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Shipi FM 103.6
+http://s2.stationplaylist.com:7048/listen.aac+?
+#EXTINF:-1 tvg-logo="" group-title="Namibia", Urban Cafe Radio
+https://eu1.fastcast4u.com/proxy/urbancaferadio?mp=/1

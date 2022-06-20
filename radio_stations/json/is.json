@@ -1,0 +1,110 @@
+[
+  {
+    "tags": "Iceland",
+    "name": "80s Bylgjan",
+    "url": "http://ice-11.spilarinn.is/z80s",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Apparatið",
+    "url": "http://ice-11.spilarinn.is/zapparatid",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Bylgjan FM 98.9",
+    "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "FlashBack FM 91.9",
+    "url": "http://www.radio.is:443/flashback",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "FM Extra",
+    "url": "http://ice-11.spilarinn.is/zfmextra",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "FM Xtra",
+    "url": "http://radio.is:443/fmxtra",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "FM957",
+    "url": "http://ice-11.spilarinn.is/tfm957",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "K100 FM 100.5",
+    "url": "https://k100straumar.mbl.is/kaninnmobile",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Kiss FM 104.5",
+    "url": "http://stream.radio.is:443/kiss",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Retro FM 89.5",
+    "url": "http://radio.is:443/retromobile",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "RÚV Rás 1",
+    "url": "http://netradio.ruv.is/ras1.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "RÚV Rás 2",
+    "url": "http://netradio.ruv.is/ras2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Trax FM",
+    "url": "http://traxfm.radioca.st/stream?a=b",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Útvarp Boðun FM 105.5",
+    "url": "http://radio.bodun.is:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Útvarp Saga FM 99.4",
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "X-ið FM 97.7",
+    "url": "http://icecast.365net.is:8000/orbXid.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "Suðurland FM 96.3",
+    "url": "http://178.19.58.119:1818/;",
+    "logo": ""
+  },
+  {
+    "tags": "Iceland",
+    "name": "FM Trölli",
+    "url": "https://hb.trolli.is/stream",
+    "logo": ""
+  }
+]

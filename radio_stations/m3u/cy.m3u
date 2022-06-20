@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", East Coast Radio Cyprus
+https://stream.zeno.fm/28b33bqkyk8uv
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Epistrofi
+http://78.46.75.125:8100/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", All Time Greatest Radio
+https://listen.openstream.co/3126/audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Choice FM 104.3
+http://eco.onestreaming.com:8364/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", CooL Radio FM 91.6
+http://live3.istoikona.com:8169/stream
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Cut Radio
+http://stream.radiojar.com/cut-radio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Kanali 6
+http://stream.dnsgb.net:8012/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Sama
+http://serv02.streamsfortheworld.com:8000/radiosama_hi
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Rock Inferno
+https://stream.shoutcastradio.co.uk/8028/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Russian Wave FM 105.7
+http://52.71.142.21:1057/ruwave1057_128
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Εκκλησία Ερήμης
+https://stream.zeno.fm/1b1k768ykwzuv
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Ιερά Μητρόπολις Λεμεσού
+http://93.109.209.123:9080/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", 96.8 FM Sfera
+http://r1.phileradio.com:8193/sfera
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Active 107.4
+http://phileradio.com:8193/active
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Astra FM 92.8
+https://securestreams2.autopo.st:1106/stream
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Bayrak FM 92.1
+http://sc.brtk.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Bayrak International FM 105.0
+http://sc.brtk.net:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Bayrak Klasik FM 88.4
+http://sc.brtk.net:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Bayrak Radyosu FM 102.0
+http://sc.brtk.net:8002/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Bayrak Türk Müziği FM 94.6
+http://sc.brtk.net:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", BFBS Cyprus
+http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Capital Turk 107.1 FM
+http://159.253.37.137:9960/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", CCN Radio
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", CyBC Radio 1
+http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", CyBC Radio 2
+http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", CyBC Radio 3
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Dance 95.5 FM
+http://scserv.nrgplay.com/stream/1/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Kanali 7 FM
+http://live.kanali7.com:4012/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Kiss FM 89.0
+https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Klik FM
+http://eco.onestreaming.com:8310/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Lemoni Radio
+https://n0e.radiojar.com/mw1xsf0dpnruv
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Mix FM 102.3
+http://eco.onestreaming.com:8127/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Njoy
+http://shout.kalsedia.com:9950/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", NRG 99.1
+http://88.99.254.110/stream/5/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", NRG Türk
+http://88.99.254.110/stream/2/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", NRJ Cyprus
+http://52.71.142.21:1045/energy1045_128
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Pafos 92.5 FM
+http://live.iteam4media.com:1818/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Proto 99.3 FM
+http://live3.istoikona.net:8191/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Ubuntu
+http://5.189.184.146:8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radyo Juke FM 90.9
+http://yayin.netradyom.com:9990/RADYOJUKE
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", RIK Radio 4 88.2 Λευκωσία
+http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Super Radio 104.7
+http://eco.onestreaming.com:8175/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Super Sport FM
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Zenith 96.4
+http://eco.onestreaming.com:8023/;
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Πολίτης 107.6
+https://cdn.istoikona.com/politis/live/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Radio Cosmos FM 95.2
+http://server.webradioserver.gr:9249/stream
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Rock FM 98.5
+http://live3.istoikona.net:8278/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Viva FM
+https://ec1.yesstreaming.net:1850/stream
+#EXTINF:-1 tvg-logo="" group-title="Cyprus", Politeia FM 106.7
+http://108.178.13.122:8157/stream

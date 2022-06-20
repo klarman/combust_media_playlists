@@ -1,0 +1,415 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Alamor
+https://sv2.globalhostlive.com:7099/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Ambato
+http://190.99.72.142:8000/radioambato
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Primicias de la Cultura 104.1 FM
+http://radio.cedia.org.ec/uta
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Vicio del Ecuador
+https://stream.zeno.fm/e55bmus0dnzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Ultra Online
+https://cloudstream2032.conectarhosting.com/9534/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Santa María AM 1490
+http://158.69.116.4:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Libre FM 93.9
+http://charlesescobar.com:8000/libre939
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", LVC Radio
+https://securestream.hdserver.biz:9368/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", El Rocio AM 1370
+http://streamingecuador.net:8215/rocio
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Roja de Cañar FM 101.7
+http://ovz.arcoshost.com:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", María Auxiliadora
+https://streamseguro.com/radio/8410/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Boquerón FM 93.7
+http://streaming.radioestacion4.com:9834/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Web Viva Catamayo
+https://streamseguro.com/radio/8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio WG Milenio FM 92.5
+https://streamseguro.com/radio/8170/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Coqueta FM 96.5
+http://cloudstream2032.conectarhosting.com:8214/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Volante Stereo FM 107.7
+https://cloudstream2032.conectarhosting.com/9466/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Cosmos FM
+http://makrodigital.net:8215/radiocosmos
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Cosmos IR
+http://makrodigital.net:8215/CosmosIR
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Cosmos Soft
+http://makrodigital.net:8215/CosmosSoft
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Excelencia Radio 100.1 FM
+http://makrodigital.net:7006/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Exposhow Radio
+https://grupomundodigital.com:8718/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La 96.1
+http://www.makrodigital.net:7644/radiola961
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La FM Ecuador
+https://streamingecuador.net:7031/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Voz del Tomebamba
+http://makrodigital.com:8074/lavozdeltomebamba
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Maggica FM 92.1
+https://dattavolt.com/8192/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Maxima Xe Radio
+https://dattavolt.com/8196/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Multimpactos Radio
+https://stream.zeno.fm/s64v9a8an0quv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Antena 1
+https://dattavolt.com/8202/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Candela Online
+https://dattavolt.com/8318/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Católica Cuenca 98.1 FM
+https://radiohdstreaming.com/radio/8230/catolica
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Complice
+http://makrodigital.com:8258/radiocomplice
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Dance Cuenca
+https://stream.zeno.fm/8yadm9tfxzzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Equidad
+http://173.212.232.133:8000/equidad.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Ondas Azuayas AM 1110
+https://stream.zeno.fm/nf4tpnuxm7zuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Studio54
+https://dattavolt.com/8194/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sur 91.7 FM
+http://freeus2.listen2myradio.com:23079/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radioactiva FM88
+http://streamingecuador.net:9350/FM_88
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Sonido 102
+http://streamingecuador.net:8019/sonido102
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Super FM 94.9
+http://makrodigital.com:8015/super949
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Vision FM 106.1
+https://dattavolt.com/8200/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio La Voz de su Amigo - 96.3 FM
+http://ecuastream.net:8138/VozAmigo
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Majestad
+http://142.4.217.133:9653/majestad_uio
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", UCSG Radio
+https://ecuastream.net:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio La K-Riñosa
+https://stream.zeno.fm/wf2hexe8pzzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Guaranda
+https://streamingecuador.net:9032/radioguaranda
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", 11Q FM
+https://streamingecuador.net:8012/radio11q
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", America FM 93.3
+https://streamingecuador.net:9101/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", CaféClub Radio
+http://64.31.33.226:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", DiBlu FM 88.9
+http://www.makrodigital.com:8137/radiodiblu
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Ecuador Comunicación Radio
+https://securestreams.servers58.com:8462/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", i99 FM 98.9
+https://streamingv2.shoutcast.com/i99
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Infinito Music Radio
+https://stream.zeno.fm/09y60h3vphruv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", JG Radio Tu Angel
+http://makrodigital.com:9352/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", KCH 90.9 FM
+https://streamingecuador.net:7075/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Radio Redonda 99.3fm
+https://us9.maindigitalstream.com/ssl/7187
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Memory
+https://stream.zeno.fm/cr5yykw9ed0uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", NRM Radio
+https://stream.zeno.fm/wsctdnb6vwzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Onda Positiva FM 94.1
+http://streamingecuador.net:8011/radioondapositiva
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Antena 3
+http://makrodigital.net:9368/radioantena3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Atalaya AM 680
+https://streaming.ecuastreaming.com/9978/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Bacana Stereo
+https://cloudstream2032.conectarhosting.com/8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Caravana AM 750
+http://www.makrodigital.com:8006/radiocaravana
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Centro Guayaquil
+https://streamingecuador.net:8133/RadioCentroGuayaquil
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Chicha Online
+http://makrodigital.net:9094/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Cupido 95.3 FM
+http://makrodigital.com:8008/radiocupido
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Disney Ecuador
+http://makrodigital.com:8001/radiodisneyecuador
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Fuego 106.5 FM
+http://makrodigital.com:8005/radiofuego
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio HCJB-2
+http://makrodigital.net:8013/hcjb2
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Huancavilca AM 830
+https://streamingecuador.net:7078/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio La Estacion
+http://makrodigital.com:9022/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Mágica 87.7
+http://198.27.83.198:5140/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio MakroDigital
+http://makrodigital.net:7000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Pasion
+http://makrodigital.net:7500/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Punto Rojo
+http://makrodigital.com:9086/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Romance
+http://makrodigital.com:9090/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Rumba Network FM 107.3
+http://makrodigital.com:8078/Radio_Rumba
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sucre 700 AM
+http://makrodigital.com:8075/radiosucre
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Tropicana 96.5 FM
+http://makrodigital.com:8167/radiotropicana
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Urbana FM 96.1
+http://server.3hostingnica.com:8062/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", UCSG Radio AM 1190
+http://ecuastreamhd.com:8022/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", UPS en línea
+http://www.upsenlinea.net:8000/ups
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", America Ibarra
+https://streamingecuador.net:9103/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Exa Ibarra FM 93.9
+https://streamingecuador.net:7030/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Latina Stereo FM
+https://stream.zeno.fm/rg0zums1a5zuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sport.EC
+http://190.110.206.70:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Señal Pirata Ibarra
+https://radios.sonidoshd.com/8060/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Kachwa FM 101.1
+http://ecuamedios.net:8048/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Latacunga AM 1080
+http://aler.org:8000/amLatacunga
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Novedades AM 1100
+https://stream.zeno.fm/318z0dy95f8uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Limón
+https://stream.zeno.fm/ab7s6nvkmfeuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Carjocosa Radio
+https://stream.zeno.fm/ndv28qvrpqzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Clinicasa Radio
+https://streamssl.hospedandosites.com.br/sc_clini.php/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Ecuasur 102.1 FM
+http://streaming.radioestacion4.com:9578/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", ElectroFactory
+https://streamseguro.com/radio/8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Kocodrilo Radio 104.5
+https://streamssl.hospedandosites.com.br/sc_kocod.php
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Voz del Santuario FM 89.3
+http://streaming.radioestacion4.com:9842/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Café Online
+https://server4.hostradios.com/8632/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Luz y Vida
+https://streamseguro.com/radio/8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Poder 95.3 FM
+http://streamingecuador.net:7044/radiopoder
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Zapotillo 96.1
+http://ecuamedios.net:8049/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", RallyLoja Radio
+https://stream.zeno.fm/er47yvrvpqzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", SR Radio
+http://streaming.radioestacion4.com:9872/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Súper Laser 104.9 FM
+http://online.radiodifusion.net:8052/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Olimpica FM 97.7
+https://ecuamedios.net/9314/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Bendicion Stereo
+https://sv2.globalhostlive.com:7006/stream2?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Polémica
+http://servidor17.brlogic.com:7566/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Salsa
+http://usa15.fastcast4u.com:8515/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sentimiento Latino
+https://eu4.fastcast4u.com/proxy/sentimie?mp=/1/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Modelo FM 97.7
+https://usa3.lhdserver.es:8197/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Ultimito Mix
+https://stream.zeno.fm/8nxfkehdh24tv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Mira 90.5 FM
+https://streamingecuador.net:7017/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sucumbíos FM 105.3
+http://aler.org:8000/radiosucumbios.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Ilumán
+http://makrodigital.net:9016/radioiluman?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Paltas Stereo FM
+https://radio.kapchosting.com:7006/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Intag 96.7 FM
+http://aler.org:8000/radiointag.ogg
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Elite FM 102.7
+http://makrodigital.com:8028/elite
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Impacto 107.9
+https://ssl.painelcast.com:7064/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Lluvia
+https://streamingecuador.net:7007/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", CNTN Radio TV Online
+https://stream.zeno.fm/0zh8bs4qyd0uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", San Gregorio Radio FM 106.1
+https://streamingecuador.net:7019/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Scandalo FM 103.7
+http://str.manaideas.com:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Sono Onda
+http://5.135.183.124:8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Santa Cruz
+https://streamingecuador.net:8007/radiosantacruz
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Supertropicanafm
+https://s34.myradiostream.com/13606/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Ondas Quevedeñas
+http://makrodigital.com:7009/ondasquevedenas
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", RVT Satelital 91.5 FM
+http://rvtradio.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", ALER Satelital
+http://aler.org:8000/alersat
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", America Estereo FM 104.5
+https://streamingecuador.com:9100/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", AΩ Talisman Radio Online
+https://streamingv2.shoutcast.com/talisman
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Blue Radio
+https://streamingecuador.net:7061/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Ciberadio
+http://grupomundodigital.com:8549/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Concordia Radio TV
+http://82.223.25.215:8010/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", CORAPE
+http://makrodigital.com:8054/radio_corape
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Cotaesg Radio Station
+https://s31.radiolize.com/radio/8090/radio.mp3?1587547519
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Exa FM 92.5
+http://playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR_SC
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", FM Mundo
+http://makrodigital.com:8066/fmmundo
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", HCJB 2
+http://makrodigital.com:8013/hcjb2
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", HCJB FM 89.3
+https://streamingecuador.net:8287/hcjb
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Hot 106
+http://198.204.234.10:8313/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", JC Radio La Bruja
+http://209.95.50.223:8040/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Otra FM 91.3
+https://us9.maindigitalstream.com/ssl/7712
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Pipol Online
+https://cloudstream2032.conectarhosting.com/8160/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Rumbera FM 99.7
+http://209.126.107.201:7670/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Super Estacion
+https://stream.zeno.fm/ugcz4z9n88quv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Latina FM 88.1
+https://usa3.lhdserver.es:8087/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Mach Deportes FM 92.9
+https://ecuastream.net:8186/Machdeportes
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Majestad FM 89.7
+http://142.4.217.133:9653/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Mi Radio
+https://server6.hostradios.com/8516/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Pichincha Universal FM 95.3
+http://181.196.48.61:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Pública FM 105.3
+https://juancamoran.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Armonica FM 98.9
+https://us9.maindigitalstream.com/ssl/7108
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Avenida Tropical
+https://stream.zeno.fm/suwq7hwzququv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Católica Nacional FM 94.1
+http://186.4.136.144:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio CCE 940 AM
+https://grupomundodigital.com:9200/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio CRE FM 105.7
+http://ecuastreamhd.com:8040/CREHD
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Cultura FM 100.9
+https://grupomundodigital.com:8700/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Distrito FM 102.9
+http://grupomundodigital.com:8577/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio EnergiaFm
+http://servers58.com:9840/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Eres FM 93.3
+https://sv70.ecuaradiotv.net:8000/eres933
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Francisco Stereo
+https://streamingecuador.com:8004/franciscostereo
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Gitana
+http://makrodigital.com:8298/radiogitana
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Irfeyal 1090 AM
+http://aler.org:8000/radioirfeyal.ogg
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio La Vida - Francia
+http://98.142.109.211:8001/autodj
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio La Vida - Voces De Italia
+http://98.142.109.211:8003/autodj
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Los 40
+https://streamingecuador.com:7051/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio María Ecuador FM 100.1
+https://radioserver11.profesionalhosting.com:19069/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Mundo Deportivo
+http://makrodigital.net:7003/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Platinum FM 90.9
+https://streamingecuador.net:8160/radioplatinum
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Positiva AM 860
+http://streamingecuador.net:8046/Radio_Positiva
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Quito AM 760
+https://streamingecuador.net:8160/radioplatinum
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Raiz 1140 AM
+https://cloud37.ecuatel.com:8000/raizam
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Redonda FM 96.9
+https://us9.maindigitalstream.com/ssl/7001
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Serenidad
+https://usa3.lhdserver.es:8103/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sonorama
+https://streamingecuador.net:7013/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Sucesos FM 101.7
+http://95.111.251.90:8162/live
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Unica 94.5 FM
+https://streamingecuador.net:8035/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Vigia
+https://streamingecuador.net:9070/radiovigia?1568283163925
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Vision
+https://streamingecuador.net:7014/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Zona FM 88.7
+https://stream.zeno.fm/1ek6c8hkeg8uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Republica FM Ecuador
+https://turadio.accesopanel.com/8478/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Sensacion 800 AM
+https://streamingecuador.net:7027/stream?1569479310728
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Somos FM
+https://stream.zeno.fm/f9hxd03sfy8uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Somos FM Clasicos
+https://stream.zeno.fm/tbbk01ukhy8uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Stereo Jesus Is Life
+https://stream.zeno.fm/xgc6665m3p8uv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Swing Latino Ec
+https://stream.zeno.fm/qmcefxgmerruv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Bonita 89.3 Riobamba
+http://192.99.16.207:8168/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Oxígeno FM 102.1
+https://aguila1.netkairos.com:7019/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Mundial FM 96.1
+http://server.datalivehd.com:7060/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Stereo Familiar FM 107.3
+https://aguila1.netkairos.com:7014/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", RG Radio Donde Sea
+https://stream.zeno.fm/7u6yb6zc42quv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Rocafuerte
+https://usa3.lhdserver.es:8085/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Chola FM 94.1
+https://streamingecuador.net:8020/lacholafm?1569999384815
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Náutica FM 97.3
+http://streamingecuador.net:7060/radio_nautica
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Antena 3
+https://streamingecuador.net:9368/radioantena3?1571125347799
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", La Voz de Galápagos
+https://server01.heplayer.com:7020/;
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Spazio FM 104.7
+http://grupomundodigital.com:9001/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio ESPE
+http://radio.espe.edu.ec/radioeskpe
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", BP Radio
+https://audio.bpweb.cc/radio/8000/bpradio
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", BP Radio Classic
+https://audio.bpweb.cc/radio/8020/bpradioclassic
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", BP Radio Latin
+https://audio.bpweb.cc/radio/8010/bpradiolatin
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Macarena FM 92.1
+https://radiomacarena.com/st-alta
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Autentica 97.7 FM
+http://ecuamedios.net:8060/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Huallíl Radio Digital
+https://stream.zeno.fm/d0c9px7yb5zuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio America Tulcan
+https://streamingecuador.net:9104/stream
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Eiffel FM 90.3
+http://www.radioeiffel.com:8000/eiffel
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Creart Radio
+https://stream.zeno.fm/pxeu9r4h8yzuv
+#EXTINF:-1 tvg-logo="" group-title="Ecuador", Radio Samantha FM 89.9
+https://usa3.lhdserver.es:8071/stream

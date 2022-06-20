@@ -1,0 +1,134 @@
+[
+   {
+    "tags": "Guadeloupe",
+    "name": "Vogue Radio Guadeloupe",
+    "url": "https://vogueradio2.ice.infomaniak.ch/vogueradio2-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radio Haute Tension",
+    "url": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "RCI Guadeloupe FM",
+    "url": "https://n02a-eu.rcs.revma.com/v4hf7bwspwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "RFO Guadeloupe",
+    "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "RHT Guadeloupe",
+    "url": "http://haute-tension.ice.infomaniak.ch:80/haute-tension-high",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Trace FM",
+    "url": "http://stream.trace.tv/trace_fm_guadeloupe-midfi.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Zouk & New'Z 94.6",
+    "url": "http://zouknews.ice.infomaniak.ch/zouknews-192",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Bel Radio Guadeloupe",
+    "url": "https://n03a-eu.rcs.revma.com/a7qacprtpwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Grand Bay REBM",
+    "url": "http://s10.myradiostream.com:4212/listen.m4a",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Jobs et Musik 99.4 FM",
+    "url": "http://51.178.136.146/1",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "NRJ ANTILLES",
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radio Souffle de Vie 101.4 FM",
+    "url": "https://radio.rsv-gpe.info/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radio Vie Meilleure FM 93.3",
+    "url": "http://guadadvent.org:8000/rvm",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Confiance",
+    "url": "http://37.187.90.196:9002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Saphir FM 89.4",
+    "url": "https://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "RCO FM 93.7",
+    "url": "http://streamantille.com:8150/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radio Gayak FM",
+    "url": "http://streamantille.com:8230/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radyo Tanbou 105.0 FM",
+    "url": "http://radyotanbou.myvnc.com:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Telus FM",
+    "url": "https://www.radioking.com/play/telus-fm-une-radio-pour-les-antillais-du-monde-entier",
+    "logo": ""
+  },
+  {
+    "tags": "Guadeloupe",
+    "name": "Radio Sofaia Altitude",
+    "url": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Saint Barthélemy",
+    "name": "Radio St Barth",
+    "url": "http://2stream.dyndns.org:8000/rsb",
+    "logo": ""
+  },
+  {
+    "tags": "Saint Barthélemy",
+    "name": "Radio Tropik FM",
+    "url": "http://149.202.185.104/TROPIKFM",
+    "logo": ""
+  }
+]

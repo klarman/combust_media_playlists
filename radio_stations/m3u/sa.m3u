@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Verse 24/7 Holy Quran
+http://149.28.52.216:3344/listen.mp3?sid=1
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Studio 1 Saudi Aramco
+https://ice31.securenetsystems.net/STUDIO1
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Studio 2 Saudi Aramco
+https://ice31.securenetsystems.net/STUDIO2
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Mix FM
+http://s2.voscast.com:11376/live
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Al Haramayn Voice
+http://212.32.255.144:9300/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Radio Sunna
+http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Alharamayn For Sunnah
+http://212.32.255.144:9304/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", 1 Malayali Radio
+http://ra.alfahhad.info:8000/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", Miraath Al Anbiyya
+https://radio.al7eah.net/8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Saudi Arabia", The Tamil Radio Saudi Arabia
+https://listen.radioking.com/radio/378490/stream/429259

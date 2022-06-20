@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Nouradio
+https://stream.zeno.fm/y16v3p6qgzzuv
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Radio Moris
+http://cc.radiomoris.com:443/autodj
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Wazaa FM 100.5
+http://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Discover Mauritius™ Radio
+https://streamer.radio.co/s7207b77cd/listen
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", HitFM Mauritius
+https://stream.zeno.fm/8e5h28q71bwtv
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Louange Maurice webradio
+https://www.radioking.com/play/louange-maurice
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", NRJ Maurice FM 92.4
+https://f5-pa6.nrjaudio.fm/mu/55802/aac_64.mp3?cdn_path=adswizz_lbs8&adws_out_b2&access_token=5bd1beaf08c04bdfa2f589da4500cd75
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Radio 230
+https://streamingv2.shoutcast.com/Radio230webradio
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Radio Moris
+http://cp.radiomoris.com:443/stream
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Radio One FM 100.8
+http://45.15.168.50:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Radio Plus FM 88.6
+https://stream.radio.co/s8cc7a5da4/listen
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Rock Mauritius Radio
+http://n10.radiojar.com/2v1ydmukb.m4a
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Top FM 104.4
+http://s3.voscast.com:10152/;
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Zero Alpha Radio
+http://listen.spacial.com/api/listen/?sid=5692&method=sc&rid=853926
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", FERadio
+https://stream.zeno.fm/xesauwewfzzuv
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Faith Radio
+http://mu1stream.mushost.com:8230/128kbps
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Wazaa FM 100.5
+https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Biltong.mu Radio
+https://s3.radio.co/s135e9edde/listen
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", DreamSky Radio
+http://91.121.134.182:8000/;stream
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", Faith Radio
+http://mu1stream.mushost.com:8230/128kbps/;
+#EXTINF:-1 tvg-logo="" group-title="Mauritius", OUI Radio
+http://mu1stream.mushost.com:8080/stream

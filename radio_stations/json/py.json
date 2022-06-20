@@ -1,0 +1,794 @@
+[
+  {
+    "tags": "Paraguay",
+    "name": "La Exitosa 103.3",
+    "url": "https://stream.radiosenpy.net/8094/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "ABC FM 98.5",
+    "url": "https://rds3.desdeparaguay.net:8002/abcfm",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "AMérica 1480 AM",
+    "url": "https://radioiglesia.com/audio.php",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Cardinal 730 AM",
+    "url": "http://sc.abc.com.py:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Concert 107.7 FM",
+    "url": "http://107.182.231.73:7052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Corazón 99.1 FM",
+    "url": "https://corazon.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "E40 91.1FM",
+    "url": "https://14083.live.streamtheworld.com/ESTACION40AAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Farra 101.3 FM",
+    "url": "https://rfs1.farra.com.py:9433/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM 90.7 Radio Ysapy",
+    "url": "https://streamsoymedios.com/8014/stream/",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM Horizonte 97.5",
+    "url": "http://streaming.camaronhosting.com:9888/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "GO Radio FM 92.3",
+    "url": "https://rds3.desdeparaguay.net:8002/go",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "La Deportiva 1120 AM",
+    "url": "http://142.4.217.133:8750/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Los Angeles FM",
+    "url": "http://streaming.camaronhosting.com:9996/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Montecarlo FM 100.9",
+    "url": "https://montecarlo.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Ñandutí 1020 AM",
+    "url": "http://107.182.231.73:7048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Obedira FM 102.1",
+    "url": "http://play.obedira.com.py:8300/live",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Palma FM 106.5",
+    "url": "https://18573.live.streamtheworld.com/PALMA_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "PDS Radio",
+    "url": "https://radio.host.com.py/8104/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Popular 103.1 FM",
+    "url": "https://gruponacion.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio 1000 AM",
+    "url": "https://streaming.radio1000.com.py/streaming",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Cáritas AM 680",
+    "url": "http://200.1.201.244:8000/680AM",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Disney 96.5 FM",
+    "url": "https://rds1.radiomagic.com.py:9433/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio María 107.3 FM",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Monumental AM 1080",
+    "url": "http://16693.live.streamtheworld.com/MONUMENTAL_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Urbana FM 106.9",
+    "url": "https://17833.live.streamtheworld.com/URBANAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "RNP 920 AM",
+    "url": "http://audio.radionacional.gov.py:8085/920",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "RNP 95.1 FM",
+    "url": "http://audio2.radionacional.gov.py:8084/951fm",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Rock & Pop 95.5 FM",
+    "url": "http://107.182.231.73:7044/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "San Pablo 87.9 FM",
+    "url": "https://stream.zeno.fm/8eb9mfdw1f8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Siete FM 107.7",
+    "url": "https://rss1.siete.com.py:9433/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Universo 970",
+    "url": "https://universopy.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Uno 650 AM",
+    "url": "https://rus1.radiouno.com.py:9433/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Corpus 94.5 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Belén 89.3 FM",
+    "url": "https://stream.radiosenpy.net/8246/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Mundo Radio 88.5 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8628/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Centenario 99.5 FM",
+    "url": "https://stream.radiosenpy.net:7007/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Clasica FM 92.7",
+    "url": "http://ca3.rcast.net:8030/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Fiesta 102.9 FM",
+    "url": "http://stream.radiios.com:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Horizonte FM 106.3",
+    "url": "https://stream.radiosenpy.net:7018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Más 102.3 FM",
+    "url": "http://stream.radiios.com:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Onda Verde 91.1 FM",
+    "url": "http://stream.radiios.com:8812/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Virtual FM 106.9",
+    "url": "https://cdn.panelinfinity.com:27002//;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "La Caapuqueña",
+    "url": "https://stream.zeno.fm/sv7e6xa3puquv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Yerutí 103.9 FM",
+    "url": "https://stream.radiosenpy.net/10390/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Capiatá Digital",
+    "url": "https://radio.streamingparaguay.com:9004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Unica 95.7 FM",
+    "url": "http://192.64.118.215:9998/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Carapegua FM 90.5",
+    "url": "https://streamsoymedios.com/8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "94.3 FM",
+    "url": "http://radio.cdehosting.net:8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Corpus 89.5 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8024/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Educación FM 99.7",
+    "url": "http://198.50.206.237:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "El Verbo",
+    "url": "http://167.114.116.223:9404/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM del Este 94.3",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8040/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Integración 104.3 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Itapirú 96.1 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Rádio Mundial FM",
+    "url": "http://radio1.suaradionanet.net:10040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Parque 102.5 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8032/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Positiva FM",
+    "url": "https://ssl.srvstm.com:7320/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Universo 92.5 FM",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Friesland FM 101.7",
+    "url": "http://64.31.33.226:8164/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Mbaracayu 101.1 FM",
+    "url": "https://streamsoymedios.com/8048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Guaraní FM 103.3",
+    "url": "https://stream.zeno.fm/u6bce7ppvzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Aquidaban FM",
+    "url": "https://stream.zeno.fm/u6bce7ppvzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Tropicana FM 91.1 ZPC342",
+    "url": "https://radio.host.com.py:7088/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Marandú FM 88.7",
+    "url": "https://usa6.fastcast4u.com/proxy/gasote03?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Caaguazú Digital",
+    "url": "http://streaming.camaronhosting.com:9840/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Rádio Escola Coronel",
+    "url": "https://ssl.xcast.com.br:12458/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Popular FM 95.5",
+    "url": "https://stream.radiosenpy.net:7022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM Arandu 105.3",
+    "url": "http://63.247.65.202:8632/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Espiritu Santo 90.9 FM",
+    "url": "https://stream.radiosenpy.net:7043/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Estrella 104.3 FM",
+    "url": "https://stream.radiosenpy.net/9350/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Pop 93.3 FM",
+    "url": "https://rps1.radiopop.com.py:9433/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Encarnación 95.7 FM",
+    "url": "http://37.59.41.148:6646/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Escobar 87.7 FM",
+    "url": "https://stream.radiosenpy.net:7023/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "La Voz del Chaco Paraguayo 610 AM",
+    "url": "http://184.154.43.106:8019/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "RCC Radio FM 101.7",
+    "url": "http://streaming.camaronhosting.com:9526/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Sur FM 101.7",
+    "url": "https://stream.radiosenpy.net:7041/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Yvy Pyta FM 94.1",
+    "url": "https://radio.hostingparaguay.net:9022/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Horqueta FM 88.5",
+    "url": "https://stream.radiosenpy.net:7054/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Itá FM 90.3",
+    "url": "https://streamsoymedios.com/8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio 3 de Febrero",
+    "url": "https://streamsoymedios.com/8022/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Katueté FM",
+    "url": "https://stream.radiosenpy.net:7000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Colmenar FM 92.5",
+    "url": "http://server.datalivehd.com:7152/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Cardinal AM 730",
+    "url": "http://200.3.249.91:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Esto Es Cumbia Con Monchi Bogarin Radio",
+    "url": "https://stream.zeno.fm/kd0p50swchruv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "KoejuFM",
+    "url": "https://sonicpanel.streaming10.net:10941/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Exitos de Ayer",
+    "url": "https://stream.zeno.fm/hvnh6d5uebruv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Vallenatos Clasicos",
+    "url": "https://stream.zeno.fm/z07vyxbqz8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio 20 96.5 FM",
+    "url": "https://stream.radiosenpy.net:7063/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM Azul y Oro",
+    "url": "http://aliasdns.info:8068/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Maramburé Online",
+    "url": "http://35.196.244.149:8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Soy",
+    "url": "https://streamsoymedios.com/8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Kokue Poty FM 97.9",
+    "url": "https://radio.host.com.py:7089/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "La Radio de Mariano 87.9 FM",
+    "url": "https://radio.host.com.py:7192/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Estación 101.3 - ZPV532",
+    "url": "https://sonic.playerfullhd.com/8028/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Piro'y FM",
+    "url": "http://www.genexservicios.com:8016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Naranjaty 103.3 FM",
+    "url": "http://35.211.228.170/radio/8000/player.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Suceso FM 97.1",
+    "url": "https://player.srvstm.com/proxy/7722",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Neuland 91.9 FM",
+    "url": "https://radio.host.com.py/8058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Amambay 570 AM",
+    "url": "https://cast.direcnode.com:9055/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Amambay FM 100.5",
+    "url": "https://cp9.serverse.com/proxy/fmamambay?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Cerro Corá FM 91.5",
+    "url": "http://108.178.57.196:8038/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Futura 97.5 FM",
+    "url": "https://radio.streamingparaguay.com:9001/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Impacto FM 95.3",
+    "url": "http://streaming.camaronhosting.com:9714/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Imperio FM 103.1",
+    "url": "https://cast.direcnode.com:9078/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Oasis FM 94.3",
+    "url": "https://radio.streamingparaguay.com:9008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Tu Radio FM PJC",
+    "url": "https://stream.zeno.fm/z6repe2u72quv",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "RNP Pilar AM 700",
+    "url": "http://audio.radionacional.gov.py:8085/700am",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Pa'i Puku AM 720",
+    "url": "http://185.129.248.251:9982/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM Continental 90.3",
+    "url": "http://216.104.43.226:8714/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "FM 100.1 Repatriación",
+    "url": "https://stream.radiosenpy.net/3050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Pionera 95.3 FM",
+    "url": "http://server3.webradios.com.br:9396/9396",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Tapiracuai FM 88.7",
+    "url": "https://stream.radiosenpy.net:7021/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Santani Comunicaciones FM 98.1",
+    "url": "http://stream.radiios.com:7404/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Emisora Líder FM 102.3",
+    "url": "https://stream.radiosenpy.net:7069/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Suceso FM 99.7",
+    "url": "https://ssl.srvstm.com:7020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Sonica Paraguay",
+    "url": "https://streamsoymedios.com/8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Progreso 88.3 FM",
+    "url": "http://streaming.camaronhosting.com:9882/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Emanuel 102.3",
+    "url": "https://stream.radiosenpy.net:7016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Luz 102.3 FM",
+    "url": "http://167.114.116.223:9960/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Santa Rita FM",
+    "url": "http://questreaming.info:28466/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Monte Horeb FM",
+    "url": "http://104.245.35.2:8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Digital 90.3 FM",
+    "url": "https://stream.radiosenpy.net:7042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Yrenda FM 103.9",
+    "url": "https://stream.radiosenpy.net:7027/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio SOL FM 89.9",
+    "url": "https://whd1.webradios.com.br:18576/8576",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Mensajero 100.9 FM",
+    "url": "https://radio.host.com.py:7146/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "CarBo Radio",
+    "url": "https://stream.radiosenpy.net/8278/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Satelital 91.3 FM",
+    "url": "https://radio.host.com.py/8102/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Visión 97.5 FM",
+    "url": "https://stream.radiosenpy.net:7045/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Ybytyruzu 100.7 FM",
+    "url": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8024&type=ice&mount=stream&1618075717254",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "ZP6 Radio Guaira AM 840",
+    "url": "http://server.datalivehd.com:7150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio La Paz FM 93.3",
+    "url": "https://sonic.playerfullhd.com:7002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Paraguay",
+    "name": "Radio Vy'a Renda",
+    "url": "https://stream.radiosenpy.net/8124/;",
+    "logo": ""
+  }
+]

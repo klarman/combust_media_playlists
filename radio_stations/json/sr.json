@@ -1,0 +1,134 @@
+[
+  {
+    "tags": "Suriname",
+    "name": "Neutralradio",
+    "url": "https://larry.torontocast.com:1795/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Ishara FM 100.7",
+    "url": "http://nickerie.webhop.net:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Beat FM 92.1",
+    "url": "http://168.195.218.193:8000/radio2-2",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Pipel 94.1 FM",
+    "url": "https://rs.suricloud.com/radio/8010/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio 10 Magic FM 88.1",
+    "url": "https://streams.radio.co/s28bc986cd/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio 9 Suriname",
+    "url": "https://rs.suricloud.com/radio/8060/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio ABC FM 101.7",
+    "url": "http://bombelman.com:5472/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Apintie FM 97.1",
+    "url": "http://apintie.sr:7000/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Garuda FM 105.7",
+    "url": "http://162.244.80.245:8012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Immanuël FM 95.9",
+    "url": "http://bombelman.com:3052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Kabar Katresnan FM 90.9",
+    "url": "http://server.jvhost.net:8120/stream?1594024946067",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Koyeba FM 104.9",
+    "url": "http://162.244.80.245:8020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Rapar 91.3 FM",
+    "url": "http://168.195.218.193:8000/radio1-1",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Sangeetmala FM 99.3",
+    "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Shruti",
+    "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio SRS Suriname FM 96.3",
+    "url": "https://stream.zeno.fm/mv614v9dxtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Radio Trishul",
+    "url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "RP 98.7 FM",
+    "url": "http://168.195.218.193:8000/radio1-3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "SCCN Radio B104.1 FM",
+    "url": "http://38.96.175.21:5600/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Shalom Radio FM 94.5",
+    "url": "http://162.244.80.245:8014/;",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Suri-Lite",
+    "url": "http://144.217.129.213:8221/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Suriname",
+    "name": "Surjavibes Radio",
+    "url": "https://streamingv2.shoutcast.com/surjavibes",
+    "logo": ""
+  }
+]

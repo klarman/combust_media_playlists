@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio 105
+http://radio105.makbots.com:21010/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio 106 Bitola
+http://stream.zemi.mk:8003/1
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Time FM
+http://stream.zemi.mk:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Kochani 91.4FM
+http://stream.zemi.mk:8012/stream
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Bravo 88.5 FM
+http://80.77.157.10:8000/stream/2;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Bravo Blues & Jazz
+http://80.77.157.13:8000/stream/2;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Bum 104,2 FM
+http://hyades.shoutca.st:8533/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Puls Radio
+http://pulsradio.mk:8000/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Meff
+http://s32.myradiostream.com:16040/;*.mp3
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Pela FM 96.8
+https://stream.zeno.fm/b5grz1xr5f0uv
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Kanal 77
+https://live.kanal77.com.mk:8089/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", UGD FM 91.0
+http://ugdfm-stream.ugd.edu.mk:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Antenna 5 Radio Network
+http://antenna5stream.neotel.mk:8000/live128
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Antoris Radio
+https://rbx2.hnux.com/http://e12833.cloudrad.io:8000/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Capitol 106.5 FM
+http://89.205.127.244:8002/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", City Radio FM 94.7
+http://176.9.117.123:9998/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Club FM 103.4
+http://176.9.117.123:9996/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Hit Radio Skopje
+http://88.85.99.43:8000/hitportal
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", JustMusicRadio
+http://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Kanal 103
+http://radiostream.neotel.mk/kanal103
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Lider FM 107.4
+http://liderfm.ipradio.mk:10002/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Life Radio FM 89.1
+http://liferadio.ddns.net:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Metropolis Radio Network
+https://eu4.fastcast4u.com/proxy/metradio?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Music Garden Radio
+https://stream.zeno.fm/52y3vrsyy1zuv
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Bubamara
+http://88.85.99.2/live-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Fortuna FM 96.8
+https://radiofortuna.ipradio.mk/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio MOF
+http://stream.radiojar.com/8e4wzvre1d0uv
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", RadioBar
+https://radiobar.radiokitstream.org/radiobar.mp3
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Sky Radio 102.5
+http://89.205.123.70:8002/;
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Urban FM Radio 90.8
+http://streamingv2.shoutcast.com/urban-fm-908-skopje
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Vink Radio
+http://eu4.fastcast4u.com:5724/stream/4/
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Zona M1 Radio
+http://89.205.86.241:8000/1
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Radio Rrapi 107.5 FM
+https://stream.zemi.mk:8069/stream
+#EXTINF:-1 tvg-logo="" group-title="North Macedonia", Plus Forte Radio 102.3 FM
+http://chandra.shoutca.st:10362/stream
+#EXTINF:-1 tvg-logo="" group-title="Republic of North Macedonia", Gradski Media Service
+http://eu2-centova.serverse.com:7324/stream
+#EXTINF:-1 tvg-logo="" group-title="Republic of North Macedonia", Super Radio FM 97.0
+http://eu9.fastcast4u.com:6908/stream.mp3

@@ -1,0 +1,4016 @@
+[
+  {
+    "tags": "Russia",
+    "name": "Radio Sibir FM 103.7",
+    "url": "https://ctv7.ru/radio/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Хакасия FM 91.5",
+    "url": "http://194.28.241.173:8000/kh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "РТС радио",
+    "url": "https://tvrts.ru:8443/kp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Родных Дорог",
+    "url": "https://stream1.radiord.ru:8000/live128.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus",
+    "url": "http://ep128.hostingradio.ru:8030/ep128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Purga",
+    "url": "https://radiostream.chukotnet.ru/RadioPurga_48",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Mega FM 106.4",
+    "url": "http://s0.radioheart.ru:8000/RH23554",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "PriMuzFM",
+    "url": "https://listen2.myradio24.com/8118",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio AVN FM 101.0",
+    "url": "http://77.34.60.115:13838/AVN?1570778147754",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радиостанция Звук",
+    "url": "http://s2.radioheart.ru:8016/ZVUK",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Altynkel FM",
+    "url": "https://a1.radioheart.ru:9001/altynkel",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Rock FM",
+    "url": "http://radio.dline-media.com/rockfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DNB FM",
+    "url": "http://go.dnbfm.ru:8000/play",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Yuzhnaya Volna",
+    "url": "https://213.80.160.102/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Zero Music",
+    "url": "http://radio.4nmn.com:3333/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Heart FM",
+    "url": "http://gtrk22.ru:8000/HFMhigh",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Mayak Barnaul",
+    "url": "http://gtrk22.ru:8000/mayak22",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio - Barnaul",
+    "url": "http://russkoe.ipfm.net:80/RusRadio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио DFM 102.4",
+    "url": "http://176.118.30.252:8000/dfm_brn",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио КП-Барнаул FM 106.8",
+    "url": "https://kpradio.hostingradio.ru:8000/barnaul.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Shanson",
+    "url": "http://listen1.myradio24.com:9000/7552",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://listen2.myradio24.com:9000/7551",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Belyi Gorod",
+    "url": "https://belnovosti.cdn.easyhoster.ru:8443/belmedia",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Gora - ATD",
+    "url": "http://listen.radiogora.ru:8000/atd320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Radio",
+    "url": "http://play.radioradio.ru/bgd",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Маруся ФМ",
+    "url": "http://radio-holding.ru:9000/marusya_default",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Мир Белогорья FM 100.9",
+    "url": "https://mirbelogorya.ru:8001/nonstop2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Win-Win Radio",
+    "url": "http://s02.radio-tochka.com:4630/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Интернет радио Волна",
+    "url": "https://listen.myrh.ru/id035455",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "FM Birobidzhan 87.7",
+    "url": "http://31.173.143.103:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Отличное Радио",
+    "url": "http://listen1.myradio24.com:9000/8234",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DFM - FM-Продакшн",
+    "url": "https://cast.fmprod.ru/dfm_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Авторадио",
+    "url": "https://cast.fmprod.ru/auto_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Дорожное Радио",
+    "url": "https://cast.fmprod.ru/dorojnoe_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Мир",
+    "url": "https://cast.fmprod.ru/mir_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Дача",
+    "url": "http://31.43.196.116:8000/dacha",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ретро FM",
+    "url": "https://cast.fmprod.ru/retro_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русское Радио",
+    "url": "https://cast.fmprod.ru/rus_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Юмор FM",
+    "url": "https://cast.fmprod.ru/humor_bsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Blagoveshchensk",
+    "url": "http://ic4.101.ru:8000/region_avto_23",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Trassa",
+    "url": "http://c2.radioboss.fm:8082/RadioTrassa",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Klen FM 91.6",
+    "url": "http://87.251.174.226:8008/klenfm.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Golos Angary",
+    "url": "http://91.189.162.134:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Staroe Dobroe Radio",
+    "url": "http://91.189.162.134:8008/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Chistye klyuchi",
+    "url": "https://listen6.myradio24.com/djmakc",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DJ Radio",
+    "url": "http://31.132.166.7:8000/djradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Bugulma FM 99.4",
+    "url": "https://listen7.myradio24.com/23738",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Hit FM Bugulma",
+    "url": "https://listen7.myradio24.com/68383",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Shanson FM Bugulma",
+    "url": "https://listen7.myradio24.com/40899",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Chuvash National Radio",
+    "url": "http://icecast.ntrk21.ru:8000/nacradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Orthodox Chants",
+    "url": "http://orthodox-chants.ru:8000/128kb",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tavan Radio",
+    "url": "http://icecast.ntrk21.ru:8000/tavan",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kometa FM",
+    "url": "http://online.kometa.fm:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Chelyabinsk 95.3 FM",
+    "url": "https://kpradio.hostingradio.ru:8000/chelyabinsk.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "L-radio",
+    "url": "https://96mp3.lradio.ru/lradio.stereo.96.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Continental ",
+    "url": "http://stream01.radiocon.ru:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Olimp 104.5 FM",
+    "url": "http://188.128.117.99:8000/olimp_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Transmit",
+    "url": "http://95.182.123.24:8000/transmit",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak",
+    "url": "http://gtrkchita.ru:8100/mayak128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii",
+    "url": "http://online.gtrkchita.ru:8100/radiorus128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sibir",
+    "url": "http://185.108.196.182:8090/HQ",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vesti",
+    "url": "http://gtrkchita.ru:8100/vestifm64aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dalmatovo",
+    "url": "http://free.radioheart.ru:8000/dalmatovo",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DLS FM",
+    "url": "http://dls-fm.ru:8000/dls",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Byt' Dobru!",
+    "url": "http://link.radiojar.com:80/rn1yqex0ufeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ЯсенБит",
+    "url": "http://radio.yasenbit.net:8000/yasenbit128k",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Маяк Калмыкии FM 102.2",
+    "url": "http://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио России Калмыкии FM 102.7",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Кавказ Хит",
+    "url": "http://58a9044b8d48.sn.mynetname.net:3304/radio_mount",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Соль FM 101.6",
+    "url": "http://solfm.ru:8000/gubaha",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Gukovo FM 104.9",
+    "url": "http://den.101.ru:4000/ar_61_04",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio in the East",
+    "url": "http://online.958fm.ru:8000/RADIO958FM",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио ИГРИМ FM 102.2",
+    "url": "http://radioigrim.ru:8000/live.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Energy FM 106.4",
+    "url": "http://91.185.32.165:8988/Energy_irk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/irkutsk.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio MCM",
+    "url": "http://webradio.mcm.fm:10000/hit128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Radio",
+    "url": "http://play.radioradio.ru:80/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii AM 1282",
+    "url": "http://radio.irktv.ru:8000/vesti.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Виктори",
+    "url": "http://46.105.180.202:8092/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dacha",
+    "url": "http://stream.radiodacha.ru/14_dacha_28",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Hit Navigator",
+    "url": "http://navigator-rg.dynalias.org:8005/hit-navigator.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Net37 Disco 80",
+    "url": "http://net37.ru:8000/net37ru_disco80.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Иваново FM 106.7",
+    "url": "http://91.219.74.220:8000/IvanovoFM.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Izhevsk 107.6FM",
+    "url": "https://kpradio.hostingradio.ru:8000/igevsk.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Moya Udmurtia ",
+    "url": "http://radio.myudm.ru:10010/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Новый мир 103.6 FM",
+    "url": "http://62.109.27.159:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "http://den.101.ru:4000/ar_39_01",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Baltic Plus",
+    "url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Business FM",
+    "url": "http://aska.ru-hoster.com:8065/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda 107.2",
+    "url": "https://kpradio.hostingradio.ru:8000/kaliningrad.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Вести FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русский Край",
+    "url": "http://78.36.202.78:8000/RusKray128kb",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "AvtoRadio Kaluga",
+    "url": "http://ic4.101.ru:8000/v3_1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "BigTunes Radio House",
+    "url": "http://bigtunesradio.com:8000/house.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "KUFM Komplete Ultimate Radio",
+    "url": "http://85.21.240.53:8000/kufm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 40",
+    "url": "http://195.112.119.187:8000/Radio40",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/russiafm_kaluga",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ника FM Калуга 103.1 FM",
+    "url": "https://radio.nikatv.ru/;.mp4",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dorognoe Radio Kamensk",
+    "url": "http://s0.radioheart.ru:8000/RH23233",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Компас",
+    "url": "http://nk.kamensktel.ru:8004/;stream.nsv?57",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kamyshin FM",
+    "url": "http://85.172.122.226:8000/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "http://den.101.ru:4000/ar_24_01",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "http://ic4.101.ru:8000/region_avto_66",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Bim Radio",
+    "url": "http://av.bimradio.ru:8066/bim_mp3_128k",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gimadut Radio",
+    "url": "http://gimadut.ddns.net:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gimadut Radio Book",
+    "url": "http://gimadut.ddns.net:8000/book",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kuray",
+    "url": "http://av.bimradio.ru:8066/kurai_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Millenium FM",
+    "url": "http://skycaster.ru/8106/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tartip FM",
+    "url": "http://radio.tatmedia.com:8800/tartipfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tatar Radiosi",
+    "url": "http://stream.tatarradio.ru:2068/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tatarstan Avazy",
+    "url": "http://94.180.249.164:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "AvtoRadio Kemerovo",
+    "url": "http://ic6.101.ru:8000/stream/air/aac/64/100",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pravilnoe Radio",
+    "url": "http://78.41.94.37:8332/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Кузбасс FM",
+    "url": "http://94.127.94.107:8000/KuzbassFM",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_202",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Horoshego Nastroeniya",
+    "url": "http://188.93.129.110:8000/fm1018",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Khabarovsk 88.3FM",
+    "url": "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Mix FM 102.7",
+    "url": "http://radio.gubernia.com:8000/radio3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Solyanka Stream",
+    "url": "http://lexxya.ru:8000/64",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Беху",
+    "url": "http://lexx.sytes.net:8000/USSR64",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Восток России 103.7 МГц",
+    "url": "http://sc1.ftw.monster/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Теос 1134 AM",
+    "url": "http://stream.teos.fm:8004/aac_hq",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Югра",
+    "url": "http://ugra.cdnradio.ru/radiougra",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Подмосковные вечера",
+    "url": "http://setmedia.ru:8000/high5",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио КАРЛ",
+    "url": "http://air.volna.top/Karl",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kirishi",
+    "url": "http://83.171.111.109:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus Kirov",
+    "url": "http://185.76.147.85:8000/europapluskirov",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Maria FM",
+    "url": "http://mariafm.ru:8000/maria-fm-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8003/russia.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Blago",
+    "url": "http://www.radioblago.ru:3281/broadwavehigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Energy",
+    "url": "http://ic4.101.ru:8000/a99",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 2 FM 106.3",
+    "url": "http://212.19.18.133:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Рады Музыке",
+    "url": "https://stream.zeno.fm/ksuraxtgdd0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Podsolnuh Media",
+    "url": "https://live.podsolnuh.media:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Staroe Radio",
+    "url": "http://195.91.237.50:8000/ices128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Noise FM",
+    "url": "http://play.sas-media.ru/play_256",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Шансон Кострома 95.6 FM",
+    "url": "http://radio.nmg-media.ru:8021/shanson_k",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ХИТ-FM 104.0 Кострома 104.0",
+    "url": "http://radio.nmg-media.ru:8021/hit",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Kotlas FM 107.5",
+    "url": "http://pub0102.101.ru:8000/stream/reg/mp3/128/region_avto_83",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "https://pub0201.101.ru/stream/reg/mp3/128/region_avto_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DFM106.ru FM 106.0",
+    "url": "http://195.128.153.151:8000/dfm_krasnodar",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus",
+    "url": "http://online2.gkvr.ru:8000/europa_krd_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kazak FM",
+    "url": "http://193.242.149.55:8000/kfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda",
+    "url": "https://kpradio.hostingradio.ru:8000/krasnodar.radiokp64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pervoe FM",
+    "url": "http://188.170.219.153:8000/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Piligrim",
+    "url": "http://www.radiopiligrim.ru:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pioneer Krasnodar",
+    "url": "http://pub0202.101.ru:8000/stream/personal/aacp/64/1697726",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 107",
+    "url": "http://62.183.34.109:8000/radio107.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Shanson Krasnodar",
+    "url": "http://195.128.153.153:8005/shanson",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Zvezda FM 87.5",
+    "url": "http://195.128.153.151:8007/zvezda_krasnodar",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Rock'n'Roll FM",
+    "url": "https://listen.myrh.ru/rnr_fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Veda Radio",
+    "url": "http://listen.vedaradio.fm:8000/high",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoritetnoe Radio",
+    "url": "http://84.22.142.130:8000/arstream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Krasnoyarsk FM",
+    "url": "https://online.krasnoyarskfm.ru/krasnoyarskfm_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ FM Krasnoyarsk",
+    "url": "http://den.101.ru:4000/nrj_24_02",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 99.1 FM",
+    "url": "http://188.128.117.99:8000/99i1_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kraskp.ru:8000/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Romantika",
+    "url": "http://den.101.ru:4000/rom_24_03",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Актан",
+    "url": "http://195.191.78.200:8081/mp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kungur FM 106.9",
+    "url": "https://smi59.ru:8443/kfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Love Radio 102.3 FM",
+    "url": "http://radiokruf.ru:49296/love-kungur",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Авторадио 107.6 FM",
+    "url": "http://den.101.ru:4000/ar_59_03",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Первое Кунгурское радио 100.3",
+    "url": "https://1kradio.ru:8443/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Соль FM 91.5",
+    "url": "http://solfm.ru:8000/kungur",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesti Kurgan",
+    "url": "http://gtrk-kurgan.ru:8000/blueboar",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Za Oblakami FM 101.5",
+    "url": "http://195.88.63.114:8000/zaoblakami",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Humor FM",
+    "url": "http://medialipetsk.ru:9000/humorfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Lipetsk FM",
+    "url": "http://media.lipetsktime.ru:8008/r_lt.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/lipetck.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "The First Network",
+    "url": "http://streamer.radiovseti.ru:8000/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Livny",
+    "url": "https://a1.radioheart.ru:9001/radiolivny",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mix",
+    "url": "http://media.luga.ru:8002/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Etalon Radio",
+    "url": "http://radio.dline-media.com/etalon",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Авторадио Лянтор",
+    "url": "http://a2.radioheart.ru:8015/relay",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио 100.3 FM Лянтор",
+    "url": "http://a2.radioheart.ru:8015/admin",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Karibu Art 104.2 FM",
+    "url": "http://online.karibu.ru:8010/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kolyma 107,5 FM",
+    "url": "https://radio.kolymaplus.ru:8443/kolyma",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ingushetiya",
+    "url": "http://77.87.97.62:8086/ingradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Drugoye Radio",
+    "url": "https://stream.gtf.club:8035/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Seven Skies Radio 1",
+    "url": "https://server.seven.eu.com/radio/8000/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Seven Skies Radio 2",
+    "url": "https://radio.seven.eu.com:7777/stream2.1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Seven Skies Radio 3",
+    "url": "https://radio.seven.eu.com:7777/stream3.1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Priboy",
+    "url": "http://77.232.167.247:1007/admin",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Assa FM 104.8",
+    "url": "http://stream3.radiostyle.ru:8003/radioacca",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Capital",
+    "url": "http://skycast.su:2007/3894",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vatan",
+    "url": "http://stream1.radiostyle.ru:8001/radiovatan",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Страна гор",
+    "url": "https://vod.rgvktv.ru:8443/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Phoenix FM",
+    "url": "http://85.10.202.119:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Govorit Maykop",
+    "url": "http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Day",
+    "url": "http://air.radioday.fm/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Cultura",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "101.RU - CCCP 30-50",
+    "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/46",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "101.RU - CCCP 50-70",
+    "url": "http://pub0201.101.ru:8000/stream/pro/aac/64/47",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "101.RU - Jazz",
+    "url": "http://ic4.101.ru:8000/a85",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "101.RU - Russian Rap",
+    "url": "http://ic6.101.ru:8000/stream/pro/aac/64/43",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "101.RU - Дискотека СССР",
+    "url": "https://pub0201.101.ru/stream/pro/aac/64/144",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "117-2 Сто семнадцать и два",
+    "url": "http://s2.myradiostream.com:4722/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "404Радио",
+    "url": "https://stream.404radio.ru/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "4duk.ru",
+    "url": "http://radio.4duk.ru/4duk128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "AngelsRadio",
+    "url": "http://channel.angelsradio.ru:9000/angels",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avsim Radio",
+    "url": "http://radio.avsim.su:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avto Radio 90.3 FM",
+    "url": "http://ic7.101.ru:8000/v3_1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtorskaya 101.ru",
+    "url": "http://ic7.101.ru:8000/a35",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Bars El",
+    "url": "http://136.243.5.105:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Best FM 100.5",
+    "url": "http://nashe1.hostingradio.ru:80/best-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Biker FM",
+    "url": "http://stream1.radiostyle.ru:8001/biker-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Book Aloud",
+    "url": "http://soyuztop.ru:4000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Business FM",
+    "url": "http://bfm.hostingradio.ru:8004/fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Capital FM 105.3",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Comedy Radio",
+    "url": "http://pub0101.101.ru:8000/stream/air/aac/64/202",
+    "logo": "https://bfd-main-space-amsterdam.ams3.digitaloceanspaces.com/blackflame.tv-live/radio/logos/ru_comedy_radio.png"
+  },
+  {
+    "tags": "Russia",
+    "name": "Detskoe Radio",
+    "url": "http://pub0302.101.ru:8000/stream/air/aac/64/199",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DFM 101.2",
+    "url": "https://dfm.hostingradio.ru/dfm96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Direct Drumz FM",
+    "url": "https://streamer.radio.co/sd9fef18ef/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dorognoe Radio",
+    "url": "http://dorognoe.hostingradio.ru:8000/dorognoe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "EuropaRussia Radio",
+    "url": "http://europarussia.ru:8000/live?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "French Touch FM",
+    "url": "http://92.63.102.253:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Garage FM",
+    "url": "http://213.189.208.146:8005/Garagefm192",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "GTI Radio",
+    "url": "http://radio.globaltranceinvasion.com:8000/radiohi",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Hit FM 107.4",
+    "url": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.08274040077536204",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Humor FM",
+    "url": "http://pub0101.101.ru:8000/stream/air/aac/64/102",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Hype FM",
+    "url": "https://hfm.volna.top/HypeFM",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "InSTYLE",
+    "url": "http://s02.radio-tochka.com:5060/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kommersant FM",
+    "url": "http://kommersant77.hostingradio.ru:8016/kommersant64.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Like FM",
+    "url": "http://pub0101.101.ru:8000/stream/air/aac/64/219",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "M.Deep Radio",
+    "url": "https://deephouse.ovh/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Megapolis FM 89.5",
+    "url": "http://mgps.fmstream.ru:8010/megapolis-48.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "MGDC FM Club Channel",
+    "url": "http://radio.mgdcfm.com:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "MGDC FM Russian Dance Channel",
+    "url": "http://radio.mgdcfm.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "MIRadio",
+    "url": "http://s02.radio-tochka.com:6090/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Monaco FM",
+    "url": "http://c22.radioboss.fm:8188/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Moskva FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/moscowfm128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nashe Dejavu",
+    "url": "https://myradio24.org/23297",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nashe Radio",
+    "url": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "New New World Radio",
+    "url": "https://nnw.out.airtime.pro/nnw_a",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NewTONE FM",
+    "url": "http://play.newtone.fm/live_01",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Novoe Radio",
+    "url": "http://c26.radioboss.fm:8185/online",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ FM - Electronic",
+    "url": "http://ic4.101.ru:8000/a132",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ Moscow FM 104.2",
+    "url": "http://ic6.101.ru:8000/stream/air/aac/64/99",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Orpheus FM 99.2",
+    "url": "https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pioner FM",
+    "url": "https://radio-node-2.dline-media.com/ppr128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "PROMODJ Strange",
+    "url": "http://radio.promodj.com/strange-192",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 1",
+    "url": "http://cdn.radio1.news:8000/rtvp_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Chanson",
+    "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Chocolate 98 FM",
+    "url": "http://choco.hostingradio.ru:10010/fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dacha",
+    "url": "http://31.173.136.137:8000/stream947",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Esssential",
+    "url": "https://a9.radioheart.ru:9010/radioessential",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Glagol",
+    "url": "http://s02.radio-tochka.com:4140/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Iskatel",
+    "url": "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Jazz 89.1",
+    "url": "http://jazz.streamr.ru/jazz-128.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Karnaval",
+    "url": "http://online.carnivalfm.ru:8000/stream/2/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kniga",
+    "url": "http://bookradio.hostingradio.ru:8069/fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8003/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Maximum",
+    "url": "https://maximum.hostingradio.ru/maximum96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Militsejskaja Volna",
+    "url": "http://radio.mvd.ru:8000/mv128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio MIR",
+    "url": "http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mixa Dance FM",
+    "url": "https://stream.mixadance.fm/mixadance",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Monte Carlo - Bossa Nova",
+    "url": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Monte Carlo - Sweet",
+    "url": "https://mc-mcsweet.hostingradio.ru/mcsweet96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio MUZKOM",
+    "url": "http://stream10.radiostyle.ru:8010/radiomuzkom",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Neformat",
+    "url": "http://178.33.138.231:8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio New Life",
+    "url": "http://ic2.christiannetcast.com/nlradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Premium",
+    "url": "http://listen.rpfm.ru:9000/premium128?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Romantika FM 98.8",
+    "url": "http://ic7.101.ru:8000/v4_1?",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii - Радио России",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/rrzonam",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Seven FM 104.7",
+    "url": "http://radio7server.streamr.ru:8040/radio7256.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Silver Rain",
+    "url": "http://213.59.4.27:8000/silver128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sport FM 93.2",
+    "url": "https://icecast-studio21.cdnvideo.ru/S21cl_1p",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Ultra",
+    "url": "http://nashe2.hostingradio.ru/ultra-192.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vera FM 100.9",
+    "url": "http://radiovera.hostingradio.ru:8007/radiovera_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "RadioK",
+    "url": "http://radiok.pro:8000/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "RadioUNOST",
+    "url": "http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "RCM — Deep",
+    "url": "http://getradio.me/rcm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Relax FM",
+    "url": "http://ic7.101.ru:8000/a200",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Relax FM 90.8",
+    "url": "http://ic7.101.ru:8000/v13_1?",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM ",
+    "url": "http://retroserver.streamr.ru:8043/retro128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro Hit",
+    "url": "https://retro.volna.top/Retro",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "reVoice",
+    "url": "http://revoice.ru:8000/ocean.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Rock FM 95.2",
+    "url": "https://nashe1.hostingradio.ru:80/rock-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sideline FM",
+    "url": "https://air.volna.top/SideLineHD",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Soundpark Deep",
+    "url": "https://r163-172-186-238.relay.radiotoolkit.com:30003/spdeep",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Spravedlivoe Radio",
+    "url": "http://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik Arabic",
+    "url": "http://icecast-ruvr.cdnvideo.ru/rian.voicearb",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik Chinese",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=82344508&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik International",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=40881855&amp;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik Mundo",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=58982499",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Staroe Junior Radio",
+    "url": "http://195.91.237.50:8000/detskoe64",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Studio 21 FM 92.3",
+    "url": "http://icecast-studio21.cdnvideo.ru/S21cl_1s",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Synthradio",
+    "url": "http://195.91.220.35:8005/live192",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Taxi FM 96.4",
+    "url": "http://stream2.n340.com/13_taxi_64",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "TNT Music Radio",
+    "url": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "TrueColors Radio",
+    "url": "http://46.174.49.15:8007/pelman?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vibe FM",
+    "url": "http://c32.radioboss.fm:8054/vibefm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Voice of Russia in English",
+    "url": "http://audio2.video.ria.ru/voiceeng?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "XCV Radio",
+    "url": "http://radio.bless-it.ru:8000/xcv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Zvezda FM",
+    "url": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Авторская Песня",
+    "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/35",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Афиша FM",
+    "url": "http://s0.radioheart.ru:8000/RH27606",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Говорит Москва",
+    "url": "https://www.govoritmoskva.ru/radio/rufm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Дети FM",
+    "url": "http://ic6.101.ru:8000/stream/air/aac/64/199",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Междугородье",
+    "url": "http://a.mgradio.ru:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "НОД",
+    "url": "http://stream.volnorez.com:8001/live-app/855343",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Нямкин FM",
+    "url": "https://radio.nyamkin.ru/radio/8000/64aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Disney",
+    "url": "https://disney.hostingradio.ru:8060/disney",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Движение",
+    "url": "http://c4.radioboss.fm/stream/218",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Классик",
+    "url": "http://cfm.jazzandclassic.ru:14536/rcstream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Культура",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps?msk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Пассаж ",
+    "url": " Radio Passazh",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русская Волна",
+    "url": "https://ru2.volna.top/RuWave48",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русский Мир",
+    "url": "https://a5.radioheart.ru:9043/RH4272",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Свобода — Svoboda",
+    "url": "http://svoboda.fvds.ru:8000/svoboda128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Сказочное радио ГАМАЮН",
+    "url": "http://gamaun.online:8010/radio?msk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Станция 3.0",
+    "url": "https://myradio24.org/station30",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ЯпаРадио",
+    "url": "https://listen.myrh.ru/yaparadio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Bol'shoe Radio",
+    "url": "http://listen.myradio24.com:9000/8286",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Power Hit Radio",
+    "url": "https://radio-node-1.dline-media.com/powerhit128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak Murmansk FM 103.5",
+    "url": "https://radio.murman.tv/mayak/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Поэзия на Classic",
+    "url": "http://jfm1.hostingradio.ru:14536/pcstream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Muzhi FM 103.4",
+    "url": "https://pub0101.101.ru/stream/reg/mp3/128/region_avto_447",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kunel Radiosi - үңел Радиосы",
+    "url": "http://live.kunelradio.ru:8000/128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "UrbanTatar: Progressive",
+    "url": "http://perseus.shoutca.st:8787/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "UrbanTatar: Tatar Vinyl",
+    "url": "http://5.39.71.159:8283/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Берег: Евангелие",
+    "url": "http://radio-tochka.com:6095/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Берег: Повествования",
+    "url": "http://radio-tochka.com:6180/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesti KBR",
+    "url": "http://31.41.56.29:8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nara FM 100.7",
+    "url": "http://109.232.105.227:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sever FM",
+    "url": "http://sever-radio.mediacdn.ru:8000/sever",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Piramida",
+    "url": "http://91.211.56.218:8080/piramida/nazarovo",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Republic Radio FM 102.4",
+    "url": "http://media.zaoitt.ru:8080/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Милицейская волна 87.9 FM",
+    "url": "http://omnicomm1.alensio.net/live_aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русское радио Нефтеюганск",
+    "url": "http://omnicomm1.alensio.net/rus_aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русские Песни",
+    "url": "http://ic6.101.ru:8000/stream/pro/aac/64/41",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Визави",
+    "url": "http://94.250.249.126:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Отличное 105.6 ФМ",
+    "url": "http://icecast01.msk.d-net.pro:8000/Russia-Nizhneudinsk-105.6-Otlichnoe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Югра 105.9",
+    "url": "https://ugra-tv.ru/radiougra_proxy/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Earth Plus",
+    "url": "http://listen.eaplfm.com:5555/earthplusfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Keygen FM",
+    "url": "http://95.143.216.164:8082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Nizhny Novgorod",
+    "url": "https://kpradio.hostingradio.ru:8000/nnovgorod.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NN Radio",
+    "url": "http://cast.r52.ru:8000/nrd",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://nnovgorod.radiokp128.mp3.streamr.ru/",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak Nizhny Novgorod",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayak_nn",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Obraz",
+    "url": "http://213.177.106.78:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Record",
+    "url": "https://online2.gkvr.ru:8001/record_nno_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Soviet Wave",
+    "url": "https://station.waveradio.org/soviet",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ekoradio",
+    "url": "http://109.198.108.42:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio-N",
+    "url": "http://online.radio-n.ru:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Контур",
+    "url": "http://misato.ru-hoster.com:8029/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Apeks Radio",
+    "url": "http://webcast.apexradio.ru:8000/NvkzMp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Novaya Rossiya FM 104.0",
+    "url": "http://91.194.120.107:8000/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Love Radio FM 101.0",
+    "url": "https://listen6.myradio24.com/12218",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Novosibirsk",
+    "url": "https://pub0101.101.ru/stream/reg/mp3/128/region_avto_122?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjkyLjEwOS4xNzUuNjMiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC84NC4wLjQxNDcuMTA1IFNhZmFyaVwvNTM3LjM2IiwidWlkX2NoYW5uZWwiOiIxMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNTk4MDAwNzU5fQ.ZlWMCW4WGYtHR9gusNkr0bpJcdS-y9bp-9TXttx0Cms",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gorodskaya Volna",
+    "url": "http://online.gorvolna.ru:8000/gorvolna",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda Novosibirsk",
+    "url": "https://kpradio.hostingradio.ru:8000/novosibirsk.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ FM Novosibirsk",
+    "url": "http://ic7.101.ru:8000/region_energy_32",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio BSJ",
+    "url": "https://cast1.asurahosting.com/proxy/yuri/radiobsj",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Humor FM",
+    "url": "http://ic4.101.ru:8000/stream/reg/mp3/128/region_humor_16",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Muskom",
+    "url": "http://stream5.radiostyle.ru:8005/theatre",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Shanson",
+    "url": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Unikid",
+    "url": "http://listen1.myradio24.com:9000/2455",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM 97.0",
+    "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "RTFM.fm",
+    "url": "https://stream.rtfm.fm/aac256",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe radio",
+    "url": "http://gmedia54.fvds.ru:8000/rusradio_nsk_low",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Uniton FM 100.7",
+    "url": "https://online.uniton.ru/uniton",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио 54 Новосибирск 106.20 FM",
+    "url": "http://91.202.68.50:8000/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sigma",
+    "url": "http://195.191.130.125:8000/sigma",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Ноябрьск",
+    "url": "http://5.53.18.252:8000/RadioNoyabrsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Privet FM 104.4",
+    "url": "http://62.16.41.97:8000/radioprivet",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dorozhnoe",
+    "url": "http://www.omskfm.ru:8000/881-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Record",
+    "url": "http://www.omskfm.ru:8000/1044-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sibir",
+    "url": "http://stream-2.radiosibir.ru:8090/om3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sport FM",
+    "url": "http://79.133.160.197:8000/8950-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Старое радио - Музыка",
+    "url": "http://195.91.237.50:8000/music128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Orekhovo FM 92.6",
+    "url": "http://ic4.101.ru:8000/region_avto_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Orenburg",
+    "url": "http://ic4.101.ru:8000/region_avto_tz_2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DFM Orenburg",
+    "url": "http://echomsk.1743.ru:8000/dfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dorognoe Radio Orenburg",
+    "url": "http://radio.omg56.ru:8000/Dorognoe_Oren",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Of Moscow Orenburg",
+    "url": "http://radio.omg56.ru:8000/Echo_msk_Oren",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus Ural",
+    "url": "http://echomsk.1743.ru:8000/europa",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ Orenburg",
+    "url": "http://radio.omg56.ru:8000/NRJ_Oren",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak Orenburg",
+    "url": "http://213.135.124.30:8000/maiak.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Record",
+    "url": "http://air.radiorecord.ru:805/rr_320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii Orenburg",
+    "url": "http://213.135.124.30:8000/russia.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii Orenburg FM 91.0",
+    "url": "https://radio-translation.vestirama.ru:8443/russia.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM Orenburg",
+    "url": "http://echomsk.1743.ru:8000/retro",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio Orenburg",
+    "url": "http://radio.omg56.ru:8000/Russkoe_Oren",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tochka Ru",
+    "url": "http://dotru.trkeurasia.ru:8000/dotru128aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Ural",
+    "url": "http://ic7.101.ru:8000/region_avto_133",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dance FM 104.1",
+    "url": "http://icecast.ural56.cdnvideo.ru:8000/radio_dfmorsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Love Radio",
+    "url": "http://love.trkeurasia.ru:8000/love24aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Planeta FM",
+    "url": "https://radio.dline-media.com/planetafm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Chanson",
+    "url": "http://95.129.234.118:8000/chanson.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dacha",
+    "url": "http://dacha.trkeurasia.ru:8000/dacha24aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio HIT",
+    "url": "http://hit.trkeurasia.ru:8000/hit128aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio Orsk",
+    "url": "http://radio.omg56.ru:8000/Russkoe_Orsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Tochka RU",
+    "url": "http://dotru.trkeurasia.ru:8000/dotru128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Ekspress",
+    "url": "http://159.253.18.97:8000/128kbit.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Horoshee",
+    "url": "http://radio.horoshee.fm:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Most Radio",
+    "url": "http://94.181.181.72:8002/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Express Penza",
+    "url": "http://misato.ru-hoster.com:8028/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Comedy Radio",
+    "url": "http://den.101.ru:4000/com_59_01",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DFM 102.7",
+    "url": "http://46.146.243.43:8000/dfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Perm FM 92.1",
+    "url": "https://online.echoperm.ru:8000/echoperm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "PPIR FM",
+    "url": "https://stream.zeno.fm/71t04ekh5gruv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Alpha 104.1 FM",
+    "url": "https://online.alfafm.ru/alfa",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Bolid FM 88.0",
+    "url": "http://icecast-bulteam.cdnvideo.ru/bolid128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Energy",
+    "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_26",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/perm.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Interra FM",
+    "url": "http://ice.interra.fm:8000/barix",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Gold FM 98.1",
+    "url": "http://79.172.8.46:8000/radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kamchatka Live",
+    "url": "http://radio.kamchatkalive.ru:8103/dance",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Kamchatka Rock",
+    "url": "https://radio.kamchatkalive.ru:8103/rock",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Svoe FM",
+    "url": "http://radio.r41.ru:8000/SvoeFM",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "GTRK Kareliya - Karelian Radio",
+    "url": "http://212.109.14.73:8585/mayakkarelia.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Maximum",
+    "url": "http://217.77.59.76:8000/RM-128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://217.77.59.76:8000/RR-128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Книга",
+    "url": "http://bookradio.hostingradio.ru:8069/fm?plo",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NG radio show",
+    "url": "http://listen2.myradio24.com:9000/8840",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Priozersk FM",
+    "url": "http://213.141.133.1:8000/stream?autoplay=1",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "7 Nebo",
+    "url": "http://91.201.117.219:8000/stream64",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Pskov",
+    "url": "http://echo.pln24.ru/echo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Angel",
+    "url": "http://stream11.radiostyle.ru:8011/radio-angel",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vesti",
+    "url": "https://pvi.ru:8443/rrp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ramenskoe Radio",
+    "url": "http://radio.ramns.ru:8000/boss",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Autoradio Roslavl FM 107.5",
+    "url": "https://pub0301.101.ru:8443/stream/air/mp3/256/100",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vanja Roslavl FM 104.1",
+    "url": "https://radiokrug.ru/radio/vanya/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Voice of Truth",
+    "url": "http://stream0.radiostyle.ru:8000/golos-istiny",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Первое Интернет-Радио",
+    "url": "http://onair.1rad.io:7000/live128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Хит FM",
+    "url": "http://178.248.87.50:8000/Hitfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio OK",
+    "url": "http://radiook.nlink.ru:8000/OKradio128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ТКР FM 93.2",
+    "url": "http://176.118.220.124:8010/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dance Wave!",
+    "url": "http://dancewave.online/dance.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dancefloor",
+    "url": "http://media.xseu.net/Dancefloor",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "DEEP ONE radio",
+    "url": "http://stream.deep1.ru:8000/deep1mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Deepa.Net FM",
+    "url": "http://radiodeepanet.xyz:9500/dnnr",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Drop The Bass Radio",
+    "url": "http://icecast.dropthebass.ru:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Eldo Radio 101.4 FM",
+    "url": "http://emgspb.hostingradio.ru/eldoradio64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus",
+    "url": "http://emgspb.hostingradio.ru/europaplusspb128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Freelance FM",
+    "url": "http://radio.freelance.fm:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Deep",
+    "url": "https://icecast228.ptspb.ru:8443/deep_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Dream Pop",
+    "url": "https://air.radiorecord.ru:805/dreampop_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Innocence",
+    "url": "https://air.radiorecord.ru:805/ibiza_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Lo-Fi",
+    "url": "https://air.radiorecord.ru:805/lofi_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Pirate Station",
+    "url": "http://air.radiorecord.ru:8102/ps_320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Record",
+    "url": "https://icecast228.ptspb.ru:8443/rr_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Record 80-x",
+    "url": "https://air.radiorecord.ru:805/1980_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gop FM - Tech House",
+    "url": "https://air.radiorecord.ru:805/techouse_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Grad Petrov",
+    "url": "http://www.grad-petrov.ru:8093/mp3-40",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Modnoe Radio - Disco",
+    "url": "http://cast.modnoeradio.ru:8000/mp128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Motoradio.Online",
+    "url": "http://stream.motoradio.online:8000/std-mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NDH FM Online",
+    "url": "https://stream.ndhradio.online:8015/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NHI FM",
+    "url": "https://s3.radio.co/sb260bd9e3/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Polygon.FM",
+    "url": "https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Go Russia",
+    "url": "http://s2.radioheart.ru:8009/hbg",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Hermitage FM 90.1",
+    "url": "http://hermitage.hostingradio.ru/hermitage128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Maria",
+    "url": "https://dreamsiteradiocp4.com/proxy/rmrussia2?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Monte Carlo",
+    "url": "https://icecast227.ptspb.ru:8443/monte",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Piter FM 100.9",
+    "url": "http://78.140.208.20:8800/pfm_320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Record",
+    "url": "http://air2.radiorecord.ru:9003//rr_320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Russia FM 66.3",
+    "url": "https://www.rtr.spb.ru:8443/live1.m4a",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Voshod",
+    "url": "http://46.105.180.202:8077/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio ZapliN",
+    "url": "http://radiozaplin.com:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Zenit",
+    "url": "http://ic6.101.ru:8000/stream/trust/mp3/256/269",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Real FM",
+    "url": "http://realfm.net:9500/rflv",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Real FM - Lights",
+    "url": "http://realfm.net:9500/rfl",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Real FM - Relax",
+    "url": "http://realfm.net:9500/rfr",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Regress Radio",
+    "url": "http://live.regress-radio.com:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Regress Radio - Lite",
+    "url": "http://live.regress78.com:8000/ltlive",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Rekord",
+    "url": "http://air2.radiorecord.ru:805/rr_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM",
+    "url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM 70s",
+    "url": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM 80s",
+    "url": "http://retro80.hostingradio.ru:8025/retro80-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM 90s",
+    "url": "http://retro90.hostingradio.ru:8025/retro90-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "San FM",
+    "url": "http://sanfm.ru:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Teodor Radio",
+    "url": "http://air.radiorecord.ru:8102/teo_320?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "TM Radio",
+    "url": "http://185.229.9.72:8001/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "YO!FM",
+    "url": "http://air.radiorecord.ru:8102/yo_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Комсомольская правда - Петербург",
+    "url": "http://kpradio.hostingradio.ru:8000/spb.radiokp64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Мариинский FM",
+    "url": "https://radio2.mariinsky.ru/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Православное Радио",
+    "url": "http://radio-spb.rusk.ru:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Ностальгия",
+    "url": "http://c12.radioboss.fm:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Теос",
+    "url": "https://stream.teos.fm/mp3_hq",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ШОК",
+    "url": "http://spb.radioshock.ru/radioshock",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Атаман FM 88.0",
+    "url": "https://listen5.myradio24.com/ataman",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Samara FM 104.8",
+    "url": "http://ic4.101.ru:8000/region_avto_153",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Samara 98.2FM",
+    "url": "https://kpradio.hostingradio.ru:8000/samara.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Maximum FM 104.3",
+    "url": "http://85.236.172.22:8000/maximum",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Megapolis",
+    "url": "https://online.radio-megapolis.ru/megapolis",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radiola",
+    "url": "http://online.gkvr.ru/radiola_sam_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Energy FM 87.9",
+    "url": "https://pub0101.101.ru/stream/reg/mp3/128/region_energy_20",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Humor FM",
+    "url": "http://pub0102.101.ru:8000/stream/reg/mp3/128/region_humor_28",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Saratov 90.6 FM",
+    "url": "https://kpradio.hostingradio.ru:8000/saratov.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radiola 103 FM",
+    "url": "http://online1.gkvr.ru:8000/radiola_srt_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Русское Радио",
+    "url": "http://online2.gkvr.ru:8000/rusradio_srt_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Umnoe Radio",
+    "url": "https://radio.sarov.info/radio/8010/clever-radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "MDS-station",
+    "url": "http://mds-station.com:8000/mds",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vanya FM 104.1",
+    "url": "http://77.40.123.94:8000/stream1041",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Волны Байкала 103.3 ФМ",
+    "url": "http://31.134.47.205:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Modern Severodvinsk 102.4 FM",
+    "url": "https://radiokrug.ru/radio/modern-severodvinsk/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sever FM",
+    "url": "https://radio.dline-media.com/severfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Типичное FM",
+    "url": "http://play.tipfm.ru:9000/9696",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Atmo radio",
+    "url": "http://185.53.169.117:8000/320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio DFM",
+    "url": "http://92.241.103.200:8081/dfm_sm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mir",
+    "url": "http://92.241.103.200:8083/mir_sm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesna FM",
+    "url": "http://91.203.176.214:8000/vesnafm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Maks FM 107.4",
+    "url": "https://mxsel.maksmedia.ru:8443/maks320",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Patriot",
+    "url": "http://misato.ru-hoster.com:8048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио 7 Ветров",
+    "url": "http://radiowinds.ru:1077/alphamusic",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Solikamsk FM 100.5",
+    "url": "http://178.47.143.60:9400/skfm2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Соль FM 99.1",
+    "url": "http://solfm.ru:8000/online128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Baltic Beach",
+    "url": "http://91.203.171.138:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Radio",
+    "url": "https://play.radioradio.ru/sto",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Hit FM",
+    "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/stavropol.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "AvtoRadio Sterlitamak",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_avto_tz_2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus FM 104.4",
+    "url": "http://strezhi.ru:1044/1044",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "ChilloutFM",
+    "url": "http://chilloutfm.ru:8000/play",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Suzun FM 101.3",
+    "url": "http://listen1.myradio24.com:9000/6666",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "New Radio",
+    "url": "http://icecast.newradio.cdnvideo.ru/newradio2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio",
+    "url": "https://pub0101.101.ru/stream/reg/mp3/128/region_avto_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "AvtoRadio Syzran",
+    "url": "https://pub0101.101.ru/stream/reg/mp3/128/region_avto_178",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donskoe Radio FM 106.3",
+    "url": "http://106-3.tagan.ru:8000/DRadio128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "TVS Radio",
+    "url": "http://radio.dline-media.com/tvsradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Energy Тамбов",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_energy_133",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Vesti Tambov",
+    "url": "http://icecast.gtrktambov.cdnvideo.ru/rricecast",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Авторадио Тамбов",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_avto_181",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Детское радио Тамбов",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_deti_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Маяк Тамбов",
+    "url": "https://icecast-gtrktambov.cdnvideo.ru/rmicecast",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио России",
+    "url": "http://icecast.vgtrk.cdnvideo.ru:8000/rrzonam_mp3_128kbps?Tara",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Autoradio FM 103.9",
+    "url": "http://ic7.101.ru:8000/a100",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Temryuk",
+    "url": "http://s1.radioheart.ru:8001/radiotemryuk_128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 106.9",
+    "url": "https://online.106i9fm.ru/106i9",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Tomsk 105.4FM",
+    "url": "https://listen.radio.tomsk.ru/autoradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Blagovest",
+    "url": "http://176.65.38.3:8000/blagovest",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Comedy Radio Tomsk 90.3FM",
+    "url": "https://listen.radio.tomsk.ru/comedy",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Tomsk",
+    "url": "http://109.194.47.19:8000/echotomsk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Humour FM Tomsk 104.2FM",
+    "url": "http://109.194.47.19:8000/humour",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Love Radio Tomsk 95.7FM",
+    "url": "http://109.194.47.19:8000/loveradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nashe Radio Tomsk 90.7FM",
+    "url": "http://109.194.47.19:8000/NasheRadio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NRJ Tomsk 106.1FM",
+    "url": "http://109.194.47.19:8000/nrj",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio DFM 103.8FM",
+    "url": "http://109.194.47.19:8000/dfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Hit FM Tomsk 101.7FM",
+    "url": "http://109.194.47.19:8000/hitfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Maximum Tomsk 98.8FM",
+    "url": "http://109.194.47.19:8000/maximum",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mayak Tomsk",
+    "url": "http://www.tvtomsk.ru:8000/mayak",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio MIR Tomsk 91.5FM",
+    "url": "http://109.194.47.19:8000/mir",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Rossii Tomsk",
+    "url": "http://www.tvtomsk.ru:8000/russia",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sibir 1",
+    "url": "http://stream.radiosibir.ru:8090/HQ",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vanya Tomsk 96.5FM",
+    "url": "https://listen.radio.tomsk.ru/vanya",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio Tomsk 102.1FM",
+    "url": "http://109.194.47.19:8000/russkoe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио JAZZ Томск 99.6 FM",
+    "url": "http://109.194.47.19:8000/jazz",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donat FM - Зарубежные хиты",
+    "url": "http://c6.radioboss.fm:8089/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donat FM - Музыка СССР",
+    "url": "http://c6.radioboss.fm:8098/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donat FM - Русская поп-музыка",
+    "url": "http://c6.radioboss.fm:8099/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donat FM - Русский рок",
+    "url": "http://c6.radioboss.fm:8097/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Donat FM - Шансон",
+    "url": "http://c6.radioboss.fm:8096/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Classic",
+    "url": "http://jfm1.hostingradio.ru:14536/rcstream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio Tver",
+    "url": "http://pub0201.101.ru:8000/stream/reg/mp3/128/region_avto_182",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "KP Radio",
+    "url": "http://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pilot Radio",
+    "url": "http://online.tv-pilot.ru:1027/pilotradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Dipol FM",
+    "url": "http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio City 100.6",
+    "url": "https://online.100i6fm.ru/city",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vera",
+    "url": "http://s.djstation.ru/vera",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Red Army",
+    "url": "http://live.rzs.ru/ka.96.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://s.djstation.ru/rr",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ребячья Республика FM 89.2",
+    "url": "http://live.radio7.su:9000/deti",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ashkadar",
+    "url": "https://radio.mediacdn.ru/ashkadar.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Business FM 107.5",
+    "url": "http://92.50.139.190:8005/bfmufa",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "FM 101.6 Radio 1",
+    "url": "http://46.191.234.120:55000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Roksana Radiosi",
+    "url": "https://listen1.myradio24.com/2761",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://92.50.177.134:8000/rr_ufa",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik FM",
+    "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Uldash",
+    "url": "https://radio.mediacdn.ru/uldash.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ватан интернет-радио",
+    "url": "https://listen6.myradio24.com/vatan",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Barguzin FM",
+    "url": "https://stream.baikal-media.ru:8001/barguzin-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Buryad FM",
+    "url": "http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Sibir",
+    "url": "http://92.124.196.44:8000/radiosibiruu",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus Ulyanovsk",
+    "url": "http://radio.uwll.ru:8888/europa-ul",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Lounge Beats",
+    "url": "https://myradio24.org/loungebe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 2x2",
+    "url": "http://95.104.192.220:8001/radio2x2.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Ulyanovsk FM 104.2",
+    "url": "https://online.ulskfm.ru/104i2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Культура",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps?Uskela",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио приморская волна 101.9",
+    "url": "http://inhold.org:8000/primvolna-nhk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russia radio",
+    "url": "http://193.33.233.109:8082/rr.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Mart",
+    "url": "https://online.lyubimyehity.ru:8005/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Varna Radio",
+    "url": "https://radio-node-3.dline-media.com/vradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio 53",
+    "url": "http://84.242.241.66:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Kids Hits",
+    "url": "http://92.255.229.74:8000/kids-hits-junior",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Григорий Гладков для детей",
+    "url": "http://ic7.101.ru:8000/a94",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Детские Песни",
+    "url": "http://ic4.101.ru:8000/a93",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Колыбельная",
+    "url": "http://ic4.101.ru:8000/a95",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Гамаюн",
+    "url": "http://gamaun.online:8010/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Сказка за сказкой",
+    "url": "http://ic7.101.ru:8000/a222",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Старое Детское Радио",
+    "url": "http://195.91.237.50:8000/detskoe128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Alania FM 104.5",
+    "url": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Caucasus Radio FM 90.8",
+    "url": "http://radio.alania.net:8000/kvk",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "City FM 87.5",
+    "url": "http://radio.alania.net:8000/radiocity",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus",
+    "url": "http://78.111.244.206:80/europa.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Gorod",
+    "url": "https://radiosolo.ru/radio/radiogorod/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio MCC FM 104.9",
+    "url": "http://85.172.206.196:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Retro FM",
+    "url": "http://78.111.244.206:80/re96.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Road Radio FM 91.2",
+    "url": "http://stream1.hostingradio.ru:8010/15_aac_96",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Fresh FM",
+    "url": "http://s02.radio-tochka.com:4500/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "GTRK Vladivostok",
+    "url": "http://mp3.ptr-vlad.ru:8000/Radio96",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda - Vladivostok 90.4 FM",
+    "url": "https://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Mayak",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio VBC",
+    "url": "http://air.radiovbc.ru:8000/Radio256?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://194.58.122.69:8000/rrvl",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "vladivostok fm 106.4",
+    "url": "http://vladfm.com:8000/vfm.web",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Autoradio",
+    "url": "http://listen.vdfm.ru:8000/autoradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Europa Plus",
+    "url": "http://listen.vdfm.ru:8000/europaplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Record",
+    "url": "http://listen.vdfm.ru:8000/record",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Shanson",
+    "url": "http://listen.vdfm.ru:8000/shanson",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio",
+    "url": "http://listen.vdfm.ru:8000/rusradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Volgograd 101.1",
+    "url": "https://online.echovolgograd.ru/echovolgograd_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Maximum Volgograd FM 99.2",
+    "url": "http://92.39.96.58:8100/maximum",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nashe Volgograd FM 97.2",
+    "url": "http://92.39.96.58:8100/nashe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Novaya Volna FM 102.0",
+    "url": "http://volgograd.sv-veter.ru:8008/nv_online",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "RockTime Radio",
+    "url": "https://listen.myrh.ru/rocktimeradio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Volgograd FM 105.6",
+    "url": "http://92.39.96.58:8100/russkoe",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik FM",
+    "url": "http://online.sputnikfm.ru:8000/sputnik_mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Volgograd FM 101.5",
+    "url": "https://online.volgogradfm.ru/vfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "VFM Online",
+    "url": "http://player.vfmradio.ru/stream.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/vologda.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Avtoradio FM 91.0",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_avto_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Blagovestie",
+    "url": "http://live.borneo.ru:8888/bv128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda  - Voronezh 97.7 FM",
+    "url": "https://kpradio.hostingradio.ru:8000/voroneg.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Melodiya",
+    "url": "http://icecast.mediaalliance.cdnvideo.ru/mediaalliance",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Borneo",
+    "url": "http://live.borneo.ru:8888/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Gubernia",
+    "url": "http://www.gubernia-media.ru:8000/gubernia",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Russkoe Radio - Voronezh",
+    "url": "http://live.borneo.ru:8888/rus128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio STV",
+    "url": "http://stv-radio.ru:8000/STV-Radio96k",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Саха Радио FM 107.1",
+    "url": "https://icecast-saha.cdnvideo.ru/saha",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Komsomolskaya Pravda Yaroslavl",
+    "url": "https://kpradio.hostingradio.ru:8000/yaroslavl.radiokp64.mp3?radiostatistica=radio.garden",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Dacha FM 103.3",
+    "url": "http://stream2.n340.com/12_dacha_28_reg_13746",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Звезда",
+    "url": "http://89.208.99.16:8088/zvezda_128?yaroslavl",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Радонеж",
+    "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128?yaroslavl",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Echo Yekaterinburg 91.4",
+    "url": "https://online.echoekb.ru/echoekb_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Gorod FM",
+    "url": "http://radio.gorodfm.ru:8000/gorodfm?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Jam FM 102.5",
+    "url": "http://188.128.117.99:8000/jam",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pilot FM 100.4",
+    "url": "https://online.pilotfm.ru/pilot_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio KP",
+    "url": "http://kpradio.hostingradio.ru:8000/ekaterinburg.radiokp128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Si 103.7",
+    "url": "http://online.radioc.ru:8000/radioc_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Tower",
+    "url": "http://stream.vyshka24.ru/192",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radiola 106,2 FM",
+    "url": "http://online1.gkvr.ru:8000/radiola_eka_64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Rock Arsenal FM 104.5",
+    "url": "https://online.rockarsenal.ru/rockarsenal_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sputnik 107.0",
+    "url": "https://online.sputnik107.ru/sputnik107_aacplus",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Voskresenie",
+    "url": "http://217.24.181.164:8000/stream.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Discover Trance Radio",
+    "url": "http://paris.discovertrance.com:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Energiya Zhizni",
+    "url": "http://zv.nirenr.ru/128",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Humor FM",
+    "url": "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_tz_0",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Metr FM",
+    "url": "http://metr12.ru:8000/metrfm",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Metr Golden Hits",
+    "url": "http://178.208.82.95:8000/MGH",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Puls-Radio FM 103.8",
+    "url": "http://178.208.85.117:8000/puls",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Марий Эл Радио 105.5 FM",
+    "url": "http://178.208.82.95:8000/mer",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Autoradio 102.1 FM",
+    "url": "http://pub0202.101.ru:8000/stream/reg/mp3/128/region_avto_tz_2",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Nord FM",
+    "url": "http://194.58.102.16:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Стимул",
+    "url": "http://s02.radio-tochka.com:4530/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "NR Astrology",
+    "url": "https://listen.myrh.ru/nrastrology",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio ASTV 105.5",
+    "url": "https://icecast-astvru.cdnvideo.ru/astvru",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Sova Internet Radio",
+    "url": "http://live.sovaradio.ru/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Pervoe Setevoe",
+    "url": "http://streamer.radiovseti.ru:8000/192",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Радио Заречный",
+    "url": "http://85.234.36.51:8000/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Belka FM",
+    "url": "http://141.105.25.5:8000/zar",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Radio Vanya FM 103.7",
+    "url": "http://31.173.136.137:8001/stream1037",
+    "logo": ""
+  },
+  {
+    "tags": "Russia",
+    "name": "Zhelezo FM",
+    "url": "http://94.102.16.36:8000/96",
+    "logo": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "tags": "Mozambique",
+    "name": "LM Radio Mozambique 87.8 FM",
+    "url": "http://sc13.shoutcaststreaming.us:8003/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "Rádio Alfa & Ómega",
+    "url": "http://s40.myradiostream.com/16710/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "Radio Cidade 97.9 FM",
+    "url": "https://stream.zeno.fm/25vdzcus7a5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "Radio Maria Mozambique",
+    "url": "http://dreamsiteradiocp2.com:8088/;",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "RM Antena Nacional 92.3",
+    "url": "https://node.stream-africa.com:8443/AntenaNacional",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "RM EP Nampula",
+    "url": "https://node.stream-africa.com:8443/Nampula",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "Rádio Zumbo FM 89.6",
+    "url": "https://paineldj6.com.br:20045/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "RM EP Sofala",
+    "url": "https://node.stream-africa.com:8443/Sofala",
+    "logo": ""
+  },
+  {
+    "tags": "Mozambique",
+    "name": "RM EP de Gaza",
+    "url": "https://node.stream-africa.com:8443/Gaza",
+    "logo": ""
+  }
+]

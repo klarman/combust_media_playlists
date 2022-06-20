@@ -1,0 +1,128 @@
+[
+  {
+    "tags": "Kazakhstan",
+    "name": "Radio Aksai",
+    "url": "http://s0.radioheart.ru:8000/RH16238",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Avtoradio FM 105.4",
+    "url": "http://95.56.234.40:8080/AVTORADIO_AAC",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Bulbul FM",
+    "url": "http://stream.laut.fm/radiobulbul",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Business FM",
+    "url": "http://94.247.130.243:5050/business",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Classic FM",
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Dala FM",
+    "url": "http://95.56.234.40:8080/DALA_320",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "LuxFM 87.7",
+    "url": "https://icecast.luxfm.kz/luxfm",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "NRJ Almaty",
+    "url": "http://89.219.34.117:8008/NEWENERGY_256k",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Radio NS",
+    "url": "http://89.219.35.26:8000/radions",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Radio Tengri FM 107.5",
+    "url": "http://91.201.214.229:8000/tengrifm",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "StarKids.FM",
+    "url": "https://c24.radioboss.fm:18223/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Жулдыз ФМ",
+    "url": "http://91.201.214.229:8000/zhulduz",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "РетроFM Казахстан",
+    "url": "https://europaplus.hostingradio.ru:8014/retro320.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Русское Радио Азия",
+    "url": "http://31.148.22.35:9000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Astana FM",
+    "url": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Orda FM 103.2",
+    "url": "https://edge01.daitsuna.net/orda/orda/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Qazaq Radiosy",
+    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Shalkar - Kazakh Шалқар",
+    "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Sputnik Kazakhstan",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=68862011&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Радио КН 101.5",
+    "url": "http://radiokn.ddns.net:7000/56",
+    "logo": ""
+  },
+  {
+    "tags": "Kazakhstan",
+    "name": "Radio Ice",
+    "url": "http://onair.radioice.ru:8000/mp3_192",
+    "logo": ""
+  }
+]

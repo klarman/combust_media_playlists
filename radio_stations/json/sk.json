@@ -1,0 +1,314 @@
+[
+  {
+    "tags": "Slovakia",
+    "name": "Infovojna",
+    "url": "http://live.infovojna.sk:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Lumen",
+    "url": "http://audio.lumen.sk:8000/live64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Regina Banská Bystrica",
+    "url": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Regina Stred",
+    "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Slobodný vysielač",
+    "url": "http://78.47.79.190:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Beta",
+    "url": "http://109.71.67.102:8000/beta_live_low.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Beta Ceske a Slovenske Hity",
+    "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Beta Hity 80s a 90s",
+    "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Beta Hrame Jubilantom",
+    "url": "http://109.71.67.102:8000/beta_jubilanti.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Beta Sla'daky",
+    "url": "http://109.71.67.102:8000/beta_sladaky.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Best FM ",
+    "url": "http://stream.bestfm.sk:80/128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Europa 2",
+    "url": "http://stream.radioservices.sk/europa2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Fresh Rádio",
+    "url": "http://78.129.150.144:3478/live.mp3?typeportmount=s2_3478_stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Fun Rádio",
+    "url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Hitradio Slovakia",
+    "url": "https://stream.zeno.fm/npnqq0uvbg8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Jemnø Melødie",
+    "url": "http://stream.jemne.sk/jemne-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio 7",
+    "url": "https://play.radio7.sk/128",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Anténa Rock",
+    "url": "https://stream.radioservices.sk/antena-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Devin",
+    "url": "http://live.slovakradio.sk:8000/Devin_32.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Expres",
+    "url": "https://stream.expres.sk/64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Jemné",
+    "url": "http://stream.radioservices.sk:8001/jemne-lo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Junior",
+    "url": "http://live.slovakradio.sk:8000/Junior_32.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Litera",
+    "url": "http://live.slovakradio.sk:8000/Litera_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Mária Slovensko",
+    "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Patria",
+    "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Pyramída",
+    "url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Slovakia International",
+    "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Slovensko",
+    "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio The End FM 97.2",
+    "url": "http://stream.theend.sk:8000/theend_192",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Viva",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Vlna",
+    "url": "https://stream.radioservices.sk/vlna-hi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio_FM",
+    "url": "http://live.slovakradio.sk:8000/FM_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "SRo 2 Rádio Regina Západ",
+    "url": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "TLIS Rádio",
+    "url": "https://stream.tlis.sk/tlis.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio KIKS",
+    "url": "https://stream.radiokiks.sk/kiks_hq.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Kosice",
+    "url": "http://stream.alternet.sk:8000/radiokosice-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Regina Východ",
+    "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio VALEC",
+    "url": "http://radiovalec.out.airtime.pro:8000/radiovalec_b",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Liptov ",
+    "url": "http://shout.alconet.sk/radioliptov",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Rebeca",
+    "url": "http://allnet.radionet.sk:8000/radiorebeca.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Modra",
+    "url": "http://185.98.208.12:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Plus",
+    "url": "http://stream.sepia.sk:8000/plus128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Pieštany",
+    "url": "http://live.radiopiestany.sk:8000/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Sky Rádio",
+    "url": "http://stream.skyradio.sk:8000/sky128",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "NON-STOP Radio",
+    "url": "http://nonstop.out.airtime.pro:8000/nonstop_a",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Záhorácke Rádio",
+    "url": "http://live.zahorackeradio.sk:8000/zr128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio WOW",
+    "url": "http://stream.sepia.sk:8000/wow320.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Aetter",
+    "url": "http://stream.aetter.sk:8000/aetter",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Trnavské Rádio",
+    "url": "https://stream.trnavskeradio.sk/trnavske.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Frontinus",
+    "url": "https://stream.frontinus.sk:8888/frontinus128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Rádio Pohoda",
+    "url": "http://mpc.mediacp.eu:18111/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Slovakia",
+    "name": "Radio Pohoda 2",
+    "url": "http://62.210.77.209:18214/stream",
+    "logo": ""
+  }
+]

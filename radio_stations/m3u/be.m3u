@@ -1,0 +1,531 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Belgium", City Music
+http://stream.intronic.nl/citymusic
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Goeiedagradio 105.1 FM
+https://goeiedag.radiostudio.be/aalst
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Studio Ajoin
+http://stream.intronic.nl/ajoinmusic
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Komilfoo FM 106.9
+http://5.63.151.52/proxy/mbogae00?mp=/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", MooyZo FM 107.1
+http://5.255.85.19/mooyzo
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Frequence Plus Andenne FM 106.6
+http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Webradioexpress.be
+https://s3.radio.co/s3a3e2e82b/listen
+#EXTINF:-1 tvg-logo="" group-title="Belgium", AudioDrama Radio
+http://frits.servebeer.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", C-Dance Retro
+http://s45.myradiostream.com:18304/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Crooze FM
+http://streams.crooze.fm:8400/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Jouwradio
+http://82.94.204.71/?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Maeva
+http://341.cloudrad.io:8598/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra - New Wave
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFNEWWAVE.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra - NLtalig
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFNL.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra - Party
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFPARTY.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra - Relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra - Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFROCKS.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra 60 - 70
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF6070.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra 80
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Extra 90
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF90.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Vlaanderen
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radio_garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", NRJ België
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radio-garden
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Centraal 106.7
+http://streams.movemedia.eu/centraal
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio FG
+http://radiofg.impek.com:80/fga
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Minerva
+http://icecast.movemedia.eu/minerva
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Park FM
+https://streams.movemedia.eu/parkfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Stad
+http://stream2.radiostad.org:8344/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Ratelki
+http://icepe8.infomaniak.ch/ratelkiradio-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Sportpaleis FM
+https://sportpaleisfm.live-streams.nl/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Story FM
+http://82.94.204.95:80/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Studio FM Music
+http://studiofmmusic.shoutcaststream.com:8230/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 2 Antwerpen
+http://icecast.vrtcdn.be/ra2ant-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Willy
+https://22713.live.streamtheworld.com/WILLY.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", ARL Radio
+http://arlradio.ice.infomaniak.ch/poste01.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - 60s
+https://streamingp.shoutcast.com/Nostalgie60
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - 70s
+https://streamingp.shoutcast.com/Nostalgie-70
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - 80s
+https://streamingp.shoutcast.com/Nostalgie80
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - 90s
+https://streamingp.shoutcast.com/Nostalgie90
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Camping
+https://streamingp.shoutcast.com/gen4
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Chansons Françaises
+https://streamingp.shoutcast.com/NostalgieChansonsFrancaises
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Cinema
+https://streamingp.shoutcast.com/NostalgieCinema
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Dance 80s
+https://streamingp.shoutcast.com/NostalgieDance80
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Dance 90s
+https://streamingp.shoutcast.com/NostalgieDance90
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Italia
+https://streamingp.shoutcast.com/NostalgieItalia-aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Jazz
+https://streamingp.shoutcast.com/NostalgieJazz
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Johnny Hallyday
+https://streamingp.shoutcast.com/NostalgieJohnnyHallyday
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Le Meilleur de Nostalgie
+https://streamingp.shoutcast.com/NostalgieLeMeilleur-aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Love
+https://streamingp.shoutcast.com/NostalgieLove
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - New Wave
+https://streamingp.shoutcast.com/NostalgieNewWave
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Pop 80
+https://streamingp.shoutcast.com/NostalgiePop80
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Pop 90
+https://streamingp.shoutcast.com/NostalgiePop90
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Rock 80
+https://streamingp.shoutcast.com/NostalgieRock80
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Rock 90
+https://streamingp.shoutcast.com/NostalgieRock90
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Rock Classics
+https://streamingp.shoutcast.com/NostalgieRockClassics
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie - Soul Party
+https://streamingp.shoutcast.com/NostalgieSoulparty
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Vivacité Luxembourg
+https://radios.rtbf.be/vivalux-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Max FM
+http://ks393340.kimsufi.com:9290/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio BaHeNa FM 106.7
+http://stream.bahena.be:8000/bahena.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nuts Radio
+https://www.radioking.com/play/nuts-radio
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Organroxx
+http://radio.organroxx.com:8000/freestream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Mi Amigo 40
+https://s19.myradiostream.com/18068/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Emotion FM 104.9
+http://87.98.189.101/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Park FM
+http://streams.movemedia.eu:8000/parkfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Roya
+http://46.17.3.52:8397/roya4
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Trans World Radio
+https://twrbe.out.airtime.pro/twrbe_a
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VBRO
+http://stream.vbro.be:9100/vbro
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Villa Bota
+https://caster04.streampakket.com/proxy/8186/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 2 West-Vlaanderen
+http://icecast.vrtcdn.be/ra2wvl-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", 2bfm
+https://igor.torontocast.com:1560/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Air Libre 87.7 FM
+https://streaming.domainepublic.net/radioairlibre.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", AraBel FM 106.8
+http://www.arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Bel RTL
+http://audiostream.rtl.be/belrtl128
+#EXTINF:-1 tvg-logo="" group-title="Belgium", BRUZZ 98.8 FM
+http://rrr.sz.xlcdn.com/?account=fmbrussel&file=BRUZZ_HQ&type=live&service=icecast&port=8000&output=m3u
+#EXTINF:-1 tvg-logo="" group-title="Belgium", BXFM
+https://bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Cabaret Del Diavolo
+https://stream.zeno.fm/ys1shq2k7yzuv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Depeche Mode Radio
+http://eu2.radioboss.fm:8124/stream?1495181893881.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", DFR
+http://stream-mq.radiodfr.be/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", DH Radio FM 101.4
+https://stream.rcs.revma.com/anew1ctrgzzuv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", dTER
+https://stream-hq.dter.be/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Dynamic One
+http://stream-hq.dynamicone.be/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Farouche
+http://178.63.44.94:8000/airtime_128
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Free Radio
+http://freeradiobe.ddns.net:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Fun Radio Belgique
+http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Gold FM 106.1
+http://onair.goldfm.be:1061/goldfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Harmony Radio
+http://server1.harmonyradio.be:8000/harmonyradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Kente FM
+https://stream.zeno.fm/zxks2rff8f0uv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Kiosk Radio
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Klara Continuo
+http://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Musiq3 Beethoven250
+https://radios.rtbf.be/wr-pr-m3-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Nostalgie Belgique
+http://streamingp.shoutcast.com/NostalgiePremium
+#EXTINF:-1 tvg-logo="" group-title="Belgium", NRJ Belgique
+https://streamingp.shoutcast.com/NRJ
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Pure FM
+https://radios.rtbf.be/pure-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Alma
+http://shoutcast2.wirelessbelgie.be:8310/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Campus FM 92.1
+https://www.radiocampus.be/stream/stream.aacplus
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Contact RnB
+https://contact2.ice.infomaniak.ch/contact2-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Judaica Bruxelles
+http://radiojudaica.ice.infomaniak.ch/radiojudaica-128
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Panik
+http://streaming.domainepublic.net:8000/radiopanik.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Vibration
+http://vibrationbelgique.ice.infomaniak.ch:80/vibrationbelgique-high?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", ROXX Radio Brussel
+http://www.clubfmserver.be:8000/roxx.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Classic 21
+https://radios.rtbf.be/classic21-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Classic 21
+https://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Classic 21 60's
+https://radios.rtbf.be/wr-c21-60-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Jam
+https://radios.rtbf.be/jam-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF La 1ère
+https://radios.rtbf.be/laprem1ere-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Musiq3
+https://radios.rtbf.be/musiq3-128.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Pure
+https://radios.rtbf.be/pure-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Tarmac
+https://radios.rtbf.be/tarmac-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF VivaCité Bruxelles
+https://radios.rtbf.be/vivabxl-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", SIS Radio
+https://stream.rcs.revma.com/95m12ehhbm0uv.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Sunset Radio
+http://centova2.whsh4u.com:9028/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", The Word Radio
+http://thewordradio.out.airtime.pro:8000/thewordradio_a
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Viva+
+http://radios.rtbf.be/vivaplus-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Ketnet Hits
+http://icecast.vrtcdn.be/ketnetradio-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Klara
+http://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT MNM
+http://icecast.vrtcdn.be/mnm-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT MNM Hits
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 1
+http://icecast.vrtcdn.be/radio1-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 1 Classics
+http://icecast.vrtcdn.be/radio1_classics_high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 2 Vlaams-Brabant
+http://icecast.vrtcdn.be/ra2vlb-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Studio Brussel
+http://icecast.vrtcdn.be/stubru-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Studio Brussel - De Tijdloze
+http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", J600
+https://streamingv2.shoutcast.com/radio-j600
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Mixx FM 107.6
+http://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Italia Charleroi
+https://str01.fluidstream.net/ric.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Quartz
+http://91.121.29.128:8026/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF VivaCité Charleroi
+https://radios.rtbf.be/vivacharleroi-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Libellule FM 107.8
+https://manager5.streamradio.fr:1665/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Gaver Omroep FM 105.7
+https://s43.myradiostream.com/18192/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Tequila 105.1 FM
+http://s43.myradiostream.com:20542/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", TROS FM
+http://s16.myradiostream.com:9362/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio VRD
+http://live.radiostudio.be:8000/vrd
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Fiesta Radio
+https://media1.hostin.cc/fiestaradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Aktief Gold
+http://www.clubfmserver.be:8000/aktief.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Club FM
+http://www.clubfmserver.be:8000/clubfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Family Radio
+http://www.clubfmserver.be:8000/family.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RadioAngel D.C.N.
+https://server6.inetcast.nl:1595/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Frequence Eghezee
+http://stream.fr-eghezee.be:8054/FE
+#EXTINF:-1 tvg-logo="" group-title="Belgium", 100,5 Das Hitradio
+http://stream.dashitradio.de/dashitradio/mp3-128/?ref=L1St3N
+#EXTINF:-1 tvg-logo="" group-title="Belgium", BRF1 Radio
+https://streaming.brf.be/brf1-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", BRF2 Radio
+https://streaming.brf.be/brf2-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Paradise FM
+http://fmradio.hopto.org:7000/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Contact Ostbelgien NOW
+http://radio-contact.dh-media.net:7000/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Music Sambre
+http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Néo Radio
+http://8500.go2stream.fr:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Geel FM 107.0
+http://geelfm.nsupdate.info:8080/geelfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Internazionale
+http://wma07.fluidstream.net:8080/fluid713.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio MIG
+http://178.21.16.120:8018/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Superstar
+http://178.32.62.163:8411/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Superstar Classics
+https://masterdomains.be:8000/stream/2/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Top Radio
+https://str.topradio.be/topradio.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Urgent FM 105.3
+http://urgentstream.radiostudio.be:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 2 Oost-Vlaanderen
+http://icecast.vrtcdn.be/ra2ovl-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Zen FM
+http://lb.zenfm.be/zenfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", 7FM
+https://7fm.ice.infomaniak.ch/radio7fm-192.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio 854
+https://jenny.torontocast.com:8034/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio PROS
+http://live.radiostudio.be/prosaac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Victoria
+http://shoutcast.radiovictoria.be:8000/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Stadsradio FM 105.6
+http://stadsradiohalle.no-ip.org:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Trendy FM
+http://stream.trendyfm.be/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Hasselt1 FM 107.2
+http://live.radiostudio.be/hasselt1
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Versuz Radio
+http://versuzradio.live-streams.nl/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", VRT Radio 2 Limburg
+http://icecast.vrtcdn.be/ra2lim-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", De Goeie Ouwe Tijd
+https://16963.live.streamtheworld.com/SAM03AAC392.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Magic Radio
+http://shoutcast.movemedia.eu/pdgfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Omroep Neteland FM 107.4
+https://media1.hostin.cc/omroepneteland.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Star 106.5 FM
+http://stream.radiostar.be:8000/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Sport FM Continu 106.9
+https://stream.zeno.fm/kkbcxquzs4zuv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio 5FM
+https://stream.bahena.be/5fm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio I.R.O.
+http://stadsradio-iro.be:3001/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Totaal FM 105.9
+https://live.radiototaal.be/radiototaal-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Yesterdayland
+https://server.yesterdayland.stream/radio/8000/listen
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Monza
+http://stream.intronic.nl/radiomonza
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Kompas FM 105.8
+http://mediaserv33.live-streams.nl:8052/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", FM Kortrijk
+https://stream.twinmedia.be:8443/random_stream_path
+#EXTINF:-1 tvg-logo="" group-title="Belgium", KL85
+http://s19.myradiostream.com:18068/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Quindo
+https://stream.quindo.be/high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio 19
+https://audiostream.radio19.fm:8200/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio MBC
+https://listen.radioking.com/radio/181348/stream/223093
+#EXTINF:-1 tvg-logo="" group-title="Belgium", LRL 106fm
+https://live.lokaleradiolanaken.be/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Ma Radio FM 90.1
+http://maradio2.ice.infomaniak.ch/maradio2-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Chevauchoir FM 105.5
+http://radio10.pro-fhi.net/flux-nqjpklks/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Maria
+http://stream.radiomaria.be:8000/RadioMaria-96
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Scorpio
+http://193.190.253.57:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Retro Radio Singjaal
+http://ice.cr1.streamzilla.xlcdn.com:8000/sz=radiosingjaal=radiostream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RGR FM
+http://stream.intronic.nl/rgrfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", 48FM
+https://stream.48fm.com:8443/48fm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Equinoxe FM
+http://equinoxefm.ddns.net:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Maximum FM
+https://n05a-eu.rcs.revma.com/vnmbzemrmm0uv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Prima FM 107.4
+http://37.187.114.62:8002/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF Vivacité Liège
+https://radios.rtbf.be/vivaliege-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Warm FM
+http://stream05.warm.fm:9002/warm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Hitalia FM 106.7
+http://wma02.fluidstream.net:8130/;stream.nsv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Sunshine 97.5 FM
+http://streamlive.syndicationradio.fr:8158/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Maaskant FM 106.7
+https://antares.dribbcast.com/proxy/maaskant?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Zoe FM
+http://shoutcast.movemedia.be/zoe128
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Mooi Radio
+http://mooiradio.live-streams.nl/live
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Opsinjoor
+http://streams.movemedia.eu:8800/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Reflex
+http://shoutcast2.wirelessbelgie.be:8514/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Valencia
+http://radiovalenciafm.shoutcaststream.com:8140/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", JessFM 89.9
+http://95.85.21.223:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Familieradio Enjoy FM
+http://live.radiostudio.be/enjoyfm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio FM Gold
+http://fmgold.mvserver.be:3181/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Melinda FM 107.8
+http://vps.melindafm.be:8000/1
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Gompel
+http://caster05.streampakket.com:8916/radiogom
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Milo
+https://centova.zenon.media:8011/stream2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Mol
+http://radiomol.ice.infomaniak.ch/radiomol-192.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", M Radio FM 99.9
+http://icepe2.infomaniak.ch/mradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Phare FM
+http://str0.creacast.com:80/pharefm_mons?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF VivaCité Hainaut
+https://radios.rtbf.be/vivahainaut-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", YouFM
+http://youfm.ice.infomaniak.ch/youfm-96.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Planktuin
+http://planktone.ddns.net:2500/planktuin
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RLM FM 107.9
+http://philae.shoutca.st:8278/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RQC 95 FM
+http://5.39.80.55:8000/live;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Must FM
+https://stream.rcs.revma.com/cm96zpmrmm0uv
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Contact FM 100.4
+http://audiostream.rtl.be/contactfr192
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Equinoxe FM 106.4
+http://live.equinoxenamur.be:8000/Equinoxe.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RCF Sud Belgique FM 106.8
+https://rcf.streamakaci.com/rcfdigital.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF VivaCité FM 98.3
+https://radios.rtbf.be/vivanamurbw-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RUN FM 88.1
+http://stream.run.be:8000/run128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Beach FM 106.1
+https://s47.myradiostream.com/:10592/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Mélodie FM
+http://188.165.35.60:8008/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Ultrason
+http://ultrason.ice.infomaniak.ch/ultrason-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RGR FM 107.7 Oostkamp / Brugge
+http://www.mvserver.be:3191/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Passion FM 106.5
+http://radiopassionfm.ice.infomaniak.ch/radiopassionfm-32.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Be One
+https://live.radiostudio.be/beone
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Noordzee 105FM
+https://stream.noordzee105.be/noordzee-192
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Noordzee Info
+http://stream.noordzee105.be:8000/noordzee_info
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radiostudio Oostende
+https://olive.torontocast.com/radio/8090/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Antipode
+http://streaming.antipode.be:8000/antipode.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Noorderkempen Online
+http://streams.movemedia.eu:8000/noorderkempen
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Stereo FM 106.8
+http://streams.movemedia.eu:8054/stereofm
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Benelux
+http://remote.radiobenelux.be/MP3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", FM Goud
+https://fmgoud.level27.be/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", UpRadio
+http://upradio.ovh:8034/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Paloma FM 106
+http://84.80.98.187:8000/paloma106
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Bingo
+http://audiostreamen.nl:8044/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Wradio 106.3 FM
+http://stream.wradio.es:9000/index
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Demerstad
+https://stream.radiodemerstad.be/radiodemerstad.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Goldies Radio
+http://5.63.151.52:7064/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Land Van Waas
+https://stream.rlvw.be/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Trudo FM
+http://198.143.144.226:8068/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Quartz FM 93.9
+http://manager2.streaming-ingenierie.fr:8026/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Ourthe Amblève
+https://roa1062fm.ice.infomaniak.ch/roa1062fm-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Tamara
+http://audiostreamen.nl:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio 4910
+http://94.23.221.158:9073/stream2
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Meteor
+http://streams.movemedia.eu:8000/meteor
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Joe - 60's 70's
+https://22713.live.streamtheworld.com/JOE_70S.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Joe - 80's 90's
+https://20723.live.streamtheworld.com/JOE_80S.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Joe - Lage Landen
+https://20103.live.streamtheworld.com/JOE_LAGE_LANDEN.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Joe - Top 2000
+https://23603.live.streamtheworld.com/JOE_TOP2000.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Joe FM Live
+http://icecast-qmusic.cdp.triple-it.nl:80/JOEfm_be_live_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Qmusic
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_64.aac?rnd=6891931899801267
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Waregem1
+http://streaming.waregem1.eu/waregem1.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RTBF VivaCité Brabant Wallon
+http://radios.rtbf.be/vivabw-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Golden Flash
+http://uplink.intronic.nl/goldenflash
+#EXTINF:-1 tvg-logo="" group-title="Belgium", WFM 105.4
+http://178.19.116.3:8094/1
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Apollo 
+http://37.59.195.28:8045/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Rivierenland FM 104.9
+http://randstad.wirelessbelgie.be:8334/;;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio RSJ
+http://cc6.beheerstream.com:8621/;
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Oost West
+http://streams.movemedia.eu:8550/
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Addictive 50s
+http://hazel.torontocast.com:3040/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio Eurodance Classic
+http://hazel.torontocast.com:1310/stream
+#EXTINF:-1 tvg-logo="" group-title="Belgium", RBS Radio FM 107.0
+http://luister.rbs-radio.be/rbs
+#EXTINF:-1 tvg-logo="" group-title="Belgium", Radio M fm
+http://149.202.22.75:8248/live

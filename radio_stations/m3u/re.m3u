@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Radio Optimum FM 974
+https://str2b.openstream.co/1472
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Radio Des Makes
+http://manager3.streamradio.fr:1120/stream
+#EXTINF:-1 tvg-logo="" group-title="Réunion", RSL Radio
+http://rslradio.ice.infomaniak.ch/rslradio-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Azot Radio
+https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Radio Sud Plus FM 106.4
+http://srv1.coollabel-productions.com:8040/stream?type=http&nocache=156
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Konect Radio
+https://listen.radioking.com/radio/129973/stream/169819
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Les Uragans
+https://listen.radioking.com/radio/297382/stream/343921
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Capital FM 90.2
+http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Exo FM 105.9
+http://exofm.ice.infomaniak.ch/exofm-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Free Dom 1 FM 97.4
+http://freedomice.streamakaci.com/freedom.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Free Dom 2 FM 94.5
+http://freedomice.streamakaci.com/freedom2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", R.i.L FM 96.2
+http://manager2.streaming-ingenierie.fr:8068/;
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Radio Est Reunion FM 105.5
+http://rerreunion.ice.infomaniak.ch/rerreunion-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Réunion 1ère Radio FM 89.2
+https://reunion.ice.infomaniak.ch/reunion-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", RTL Réunion FM 107.7
+http://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac
+#EXTINF:-1 tvg-logo="" group-title="Réunion", SWR Studec Reunion
+http://studecwebradio.ice.infomaniak.ch/studecwebradio-96.aac
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Top FM
+http://91.121.67.95:9070/;
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Radio Pikan FM 89
+https://sv3.vestaradio.com/RADIOPIKAN
+#EXTINF:-1 tvg-logo="" group-title="Réunion", sensuelle radio
+http://streamfwd.com/YARoM
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Khoja Radio 1
+https://sv1.vestaradio.com/KHOJARADIO
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Khoja Radio 2
+https://sv1.vestaradio.com/KHOJARADIO2
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Khoja Radio 3
+https://sv1.vestaradio.com/KHOJARADIO3
+#EXTINF:-1 tvg-logo="" group-title="Réunion", Khoja Radio 4
+https://sv1.vestaradio.com/KHOJARADIO4quran

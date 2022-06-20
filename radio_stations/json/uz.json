@@ -1,0 +1,68 @@
+[
+  {
+    "tags": "Uzbekistan",
+    "name": "Pink Unicorn Radio",
+    "url": "https://listen6.myradio24.com/unicorn",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "See The Sea FM",
+    "url": "https://listen5.myradio24.com/seethesea",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Islom.uz",
+    "url": "http://radio.islom.uz:8000/islomuz",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Life FM",
+    "url": "http://lifefm.uz:8000/radio-64.aac?68",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Navruz FM",
+    "url": "http://navruzfm.uz:9000/navruz_low",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Navruz FM - Hikmatli Dunyo",
+    "url": "http://navruzfm.uz:9000/navruz_hikmatlidunyo",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Oriat Dono 102.4FM",
+    "url": "http://46.8.35.26:8012/dono",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Oriat FM 100.5",
+    "url": "http://46.8.35.26:8012/oriat",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Quran.uz radio",
+    "url": "https://radio.islom.uz/quranuz",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Radio Uzbegim Taronasi FM 101.0",
+    "url": "https://fm101.uz:9943/fm101_low.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Uzbekistan",
+    "name": "Аъло ФМ",
+    "url": "http://tabassum.uz:9000/alo_low",
+    "logo": ""
+  }
+]

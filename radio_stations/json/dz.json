@@ -1,0 +1,380 @@
+[
+  {
+    "tags": "Algeria",
+    "name": "Radio Adrar",
+    "url": "https://adrar.ice.infomaniak.ch/01.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Ain Defla",
+    "url": "http://aindefla.ice.infomaniak.ch/44.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Ain Timouchent",
+    "url": "https://aintemouchent.ice.infomaniak.ch/46.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Jow Radio",
+    "url": "http://str0.creacast.com/jowradio?_=1434135211",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Chaîne 1",
+    "url": "http://ch1.ice.infomaniak.ch/ch1-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Chaîne 2",
+    "url": "http://ch2.ice.infomaniak.ch/ch2-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Chaîne 3 (Français)",
+    "url": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Coran",
+    "url": "http://coran.ice.infomaniak.ch/coran.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Culture",
+    "url": "https://culture.ice.infomaniak.ch/culture.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie El Bahdja",
+    "url": "http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Internationale",
+    "url": "http://rai.ice.infomaniak.ch/rai-64.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Algérie Jil FM",
+    "url": "http://jil-fm.ice.infomaniak.ch/jilfm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Al-Andaloussia",
+    "url": "https://radio-algerienne.com/radio/8060/andaloussia",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Aures",
+    "url": "https://radio-algerienne.com/radio/8090/aures",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Chaabia",
+    "url": "https://radio-algerienne.com/radio/8010/chaabia",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Dzaïr",
+    "url": "https://radio-algerienne.com/radio/8000/dzair",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Izuran",
+    "url": "https://radio-algerienne.com/radio/8070/izuran",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Orientale",
+    "url": "https://radio-algerienne.com/radio/8100/oriental",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Raïna",
+    "url": "https://radio-algerienne.com/radio/8020/raina",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Dzaïr - Sahara",
+    "url": "https://radio-algerienne.com/radio/8050/sahara",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Hawana",
+    "url": "https://streamingv2.shoutcast.com/Radio-Hawana",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Skyrock Alger",
+    "url": "https://skyrock.fm/stream_webradio.php/radiogarden_alger_64aac.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Annaba",
+    "url": "https://annaba.ice.infomaniak.ch/23.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Batna",
+    "url": "http://batna.ice.infomaniak.ch/05.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Bechar",
+    "url": "https://bechar.ice.infomaniak.ch/08.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Bejaia",
+    "url": "https://bejaia.ice.infomaniak.ch/06.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Biskra",
+    "url": "https://biskra.ice.infomaniak.ch/07.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Blida",
+    "url": "https://blida.ice.infomaniak.ch/09.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Bordj Bou Arreridj",
+    "url": "https://bba.ice.infomaniak.ch/34.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Bouira",
+    "url": "https://bouira.ice.infomaniak.ch/10.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Boumerdes",
+    "url": "https://boumerdes.ice.infomaniak.ch/35.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Chlef FM 87.7",
+    "url": "https://chlef.ice.infomaniak.ch/02.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Constantine",
+    "url": "https://constantine.ice.infomaniak.ch/25.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Djelfa",
+    "url": "https://djelfa.ice.infomaniak.ch/17.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio El Bayadh",
+    "url": "https://bayadh.ice.infomaniak.ch/32.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio El Oued",
+    "url": "https://eloued.ice.infomaniak.ch/39.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio El Tarf",
+    "url": "https://eltarf.ice.infomaniak.ch/36.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Guelma",
+    "url": "https://guelma.ice.infomaniak.ch/24.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Jijel",
+    "url": "https://jijel.ice.infomaniak.ch/18.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Khenchla",
+    "url": "https://khenchla.ice.infomaniak.ch/40.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Laghouat",
+    "url": "https://laghouat.ice.infomaniak.ch/03.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio M'sila",
+    "url": "https://msila.ice.infomaniak.ch/28.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Mascara",
+    "url": "https://mascara.ice.infomaniak.ch/29.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Médéa",
+    "url": "https://medea.ice.infomaniak.ch/26.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Mila",
+    "url": "https://mila.ice.infomaniak.ch/43.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Mostaganem",
+    "url": "https://mostaganem.ice.infomaniak.ch/27.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Naâma",
+    "url": "https://naama.ice.infomaniak.ch/45.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Oran FM 92.7",
+    "url": "https://oran.ice.infomaniak.ch/31.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Ouargla",
+    "url": "https://ouargla.ice.infomaniak.ch/30.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Oum Bouaghi",
+    "url": "https://oeb.ice.infomaniak.ch/04.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Relizane",
+    "url": "https://relizane.ice.infomaniak.ch/48.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Saïda",
+    "url": "https://saida.ice.infomaniak.ch/20.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Sétif",
+    "url": "https://setif.ice.infomaniak.ch/19.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Sidi Bel Abbès",
+    "url": "https://sidibelabbes.ice.infomaniak.ch/22.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Skikda",
+    "url": "https://skikda.ice.infomaniak.ch/21.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Souk Ahras",
+    "url": "https://soukahras.ice.infomaniak.ch/41.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tamenrasset",
+    "url": "https://tamanrasset.ice.infomaniak.ch/11.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tebessa",
+    "url": "https://radiotebessa.ice.infomaniak.ch/12.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tiaret",
+    "url": "https://tiaret.ice.infomaniak.ch/14.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tipaza",
+    "url": "https://tipaza.ice.infomaniak.ch/42.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tissemsilt",
+    "url": "http://tissemsilt.ice.infomaniak.ch/38.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tizi Ouzou",
+    "url": "http://tiziouzou.ice.infomaniak.ch/15.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Algeria",
+    "name": "Radio Tlemcen FM 100.4",
+    "url": "https://tlemcen.ice.infomaniak.ch/13.aac",
+    "logo": ""
+  }
+]

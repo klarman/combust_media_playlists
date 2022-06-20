@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "Belize",
+    "name": "Love FM 95.1",
+    "url": "http://159.65.32.199:8052/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Belize",
+    "name": "Radio Turquesa Belize 91.5 FM",
+    "url": "https://stream.miradio.in:9414/live",
+    "logo": ""
+  },
+  {
+    "tags": "Belize",
+    "name": "501 Nation",
+    "url": "http://159.65.32.199:8066/streambel",
+    "logo": ""
+  },
+  {
+    "tags": "Belize",
+    "name": "Fiesta FM 106.7",
+    "url": "http://159.65.32.199:8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Belize",
+    "name": "Love FM 98.1",
+    "url": "https://www.lovefm.com/stream/audio.mp3?_=2",
+    "logo": ""
+  }
+]

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Saint-Pierre et Miquelon", Archipel FM 103.3
+http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saint-Pierre et Miquelon", Radio Atlantique FM 102.1
+https://s7.voscast.com:10433/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saint-Pierre et Miquelon", St-Pierre-et-Miquelon 1ere FM 98.9
+https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3

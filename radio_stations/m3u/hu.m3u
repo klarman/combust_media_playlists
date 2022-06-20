@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Bajai Rádió FM 89.8
+http://92.61.114.191:9950/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Megafon FM 95.7
+http://79.172.201.173:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Dráva Hullám
+http://hosting2.42netmedia.com:13070/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio 1 Békéscsaba FM 104.0
+http://stream4.radio1.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Argentine Tango Radio
+http://listen.argentinetangoradio.com/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", BDPST Rock Rádió
+https://bdpstrock.hu/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Best FM Budapest 99.5
+https://stream1.bestfmbudapest.hu/bestfm_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Buddha FM
+http://libretime.buddhafm.hu:4000/buddhafm
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Chaos FM
+http://chaosserv.sytes.net:8000/chaosfm
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Civil Radio
+http://civilradio.hu:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Club Dance Online
+http://s01.diazol.hu:35000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Cool FM 107.3
+http://mediagw.e-tiger.net:8000/stream/coolfm?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Danubius Radio
+http://nonstopradio.hu/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Dunayskaya Volna
+http://stream.diazol.hu:35210/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", EPER fm
+http://radio.elte.hu:8000/eper2
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Ez az a nap! Rádió
+https://www.radioking.com/play/ez-az-a-nap-radio
+#EXTINF:-1 tvg-logo="" group-title="Hungary", FM 99.5 Retro Radio
+http://stream.retroradio.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", FRESH FM Budapest
+http://137.74.85.85:8000/freshmobil.aac
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Hit FM
+http://radio.hitfm.hu/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Hit Rádió
+http://live7.hit.hu:8080/high
+#EXTINF:-1 tvg-logo="" group-title="Hungary", InfoRadio 88.1
+http://stream.infostart.hu/lejatszo/index.html?sid=1
+#EXTINF:-1 tvg-logo="" group-title="Hungary", IngressFM
+http://stream.ingress.fm/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Jazzy 90.9
+https://s04.diazol.hu:9502/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Jazzy Cool
+https://s04.diazol.hu:9532/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Jazzy Groove
+https://s04.diazol.hu:9512/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Jazzy Soul
+https://s04.diazol.hu:9522/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Karc FM
+http://hosting2.42netmedia.com:13100/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Katolikus Rádió
+http://katolikusradio.hu:9000/live_hi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Klasszik Rádió 92.1
+http://www.klasszikradio.hu/klasszik.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Klubrádió FM 92.9
+http://hu-stream02.klubradio.hu:8080/bpstream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Kontakt Radio
+http://164.68.119.133:8000/kontaktradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Közös Hang Rádió
+https://stream.rcast.live/65828
+#EXTINF:-1 tvg-logo="" group-title="Hungary", KSzE Radio God
+http://r.krisztusszeretete-egyhaz.hu:8000/decseretek.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Lahmacun
+https://streaming.lahmacun.hu/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Látszótér Rádió
+http://stream.latszoter.hu:8000/radio
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Laza Rádió
+http://stream.lazaradio.com/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Luxfunk Blackmix
+http://stream1.virtualisan.net:5000/luxfunkblackmix.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Luxfunk Dance
+http://stream1.virtualisan.net:5000/luxfunkdance.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Luxfunk Radio
+http://stream1.virtualisan.net:5000/luxfunkradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Magyar Evangeliumi Radio
+https://stream.radio.co/s3fd8d173f/listen
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Manna FM 98.6
+http://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mária Rádió 
+http://www.mariaradio.hu:8000/mr
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MegaDance Rádió
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mercy Radio
+http://stream.mercyradio.eu/mercyradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mex Rádió
+http://stream.diazol.hu:31000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mex Rádió Deejay
+http://stream.diazol.hu:31040/deejay.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mix FM Rádió
+http://radio.mixfm.hu/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MixRadio
+http://91.227.139.87:8000/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR Duna World Radio
+http://mr-stream.mediaconnect.hu/4761/dwr.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR1 Kossuth Radio
+http://icast.connectmedia.hu/4726/mr1ex.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR2 Petofi Radio
+http://mr-stream.mediaconnect.hu/4738/mr2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR3 Bartok Radio
+http://stream002.radio.hu:80/mr3.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR4 Danko Radio
+http://mr-stream.mediaconnect.hu/4748/mr7.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR5 Parlamenti adasok
+http://stream002.radio.hu:80/mr5.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR6 Nemzetisegi adasok
+http://mr-stream.mediaconnect.hu/4744/mr4.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Music FM 89.5
+http://stream.dancewave.online:8080/dance.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Next FM
+https://stream.nextfm.hu/radio/8000/nextfmhu.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Open Air Radio
+http://79.172.209.223:9200/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Pesti Kabaré
+http://radio.pestikabare.hu/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Poptarisznya Main Station
+http://adas.poptarisznya.hu:8200/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Power Dance FM
+http://stream1.nexusradio.fm/nexusdance.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Bézs
+http://195.210.29.82:8002/bezs
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Bézs 2
+http://195.210.29.82:8002/bezs2
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio Croatica
+http://195.38.126.74:8000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Groove
+http://stream.unrealhosting.hu:35110/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio Inside
+http://radioinside.eu/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", RADIO1
+http://stream6.radio1.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Relax Radio Budapest
+https://s5.voscast.com:9615/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Retro Rádió
+http://stream.retroradio.hu/high.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Retro Star Radio
+http://188.165.11.30:4120/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", RiseFM
+http://risefm2.stereoplayer.hu:8080/risefm_hq
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rocker Rádió
+http://rockerradio.online/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Sláger FM 95.8
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Sola Radio 101.6
+http://188.165.11.30:7000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Spirit FM 87.6
+https://stream3.hit.hu:8080/spirit1
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Sztráda Rádió
+http://stream.diazol.hu:35080/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Takk-R
+http://178.128.253.170/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", TelStar Rádió
+http://radio.telstar.hu/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Tilos Radio
+http://stream.tilos.hu:80/tilos_128.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", TOP FM — Base
+http://live.topfm.hu:8000/base.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", TOP FM — Comedy
+http://live.topfm.hu:8000/comedy.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", TOP FM — Oldies
+http://live.topfm.hu:8000/oldies.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", TOP FM — Rádió
+http://live.topfm.hu:8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Treasure Radio
+http://radio.treasure-radio.hu:7390/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Trend FM 94.2
+https://radio.nordtelekom.hu:8443/gazdasagiradio
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Cegléd Rádió
+http://stream.cegledradio.hu:4387/mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Best FM 104.6
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", City Radio
+https://stream.zeno.fm/n4ys5uyffseuv
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Debrecen Rádió FM95
+https://cdn-node-44.hififm.hu:8080/debrecenradiofm95
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Európa Rádió FM 94.4
+http://193.6.173.93:8005/debrecen
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Folkrádió
+http://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Hobby Rádió
+http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Lépés Rádió
+https://lepesradio.hu/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR6 Radio Debrecen
+http://stream002.radio.hu:80/mr6d.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio 24 Dunaujvaros
+http://137.74.85.85:7320/hq
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Líceum Rádió
+http://stream.liceumradio.hu:8880/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio Eger 
+http://stream.radioeger.hu:18000/
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Szent István Rádió
+http://online.szentistvanradio.hu:7000/adas
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio E
+http://www.radioe.net:8080/efm_high
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Erd FM 101.3
+http://stream.erdfm.hu:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Maria Radio Gyál
+http://www.mariaradio.hu:8000/regio_gyal
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Győr Plusz Radio
+https://stream.42netmedia.com:8443/sc_gyor1
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR6 Radio Győr
+http://stream002.radio.hu:80/mr6g.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió 1 Győr
+http://stream8.radio1.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Regina Radió Győr
+http://proxima.shoutca.st:8023/live
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Retro Rádió Győr
+https://stream6.retroradio.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Szünet Rádió
+http://92.61.114.191:1101/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", X Rádió
+http://87.98.148.88:7774/play.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", pszicho Rádió
+http://188.165.11.30:4270/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Korona Rádió 
+http://82.141.165.6:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Most - Kaposvár
+http://stream.radiomost.hu:8200/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Gong Radio
+http://sms.gongradio.hu:8000/gong-fm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Speed FM
+http://stream.diazol.hu:7060/speedfm-hq
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Smile FM 89,9MHz 
+http://radiosmile.hu:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Sirius Rádió
+http://siriusradio.hu:8500/relay_911.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Halas Rádió FM 92.9
+http://92.61.114.191:8110/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Friss FM
+http://stream.frissfm.hu:10050/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Forrás Rádió FM 90.5
+https://cloudfront44.lexanetwork.com:1540/forrasradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió7
+http://netradio.radio7.hu:8300/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Civil Radio Miskolc
+http://cirmi.org:8000/live?1570280929694
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Classic Goa Trance
+http://cirmi.org:8000/goa
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Dark wave Gothic Post punk
+http://cirmi.org:8000/dark
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Folklor
+http://cirmi.org:8000/folk
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Hardcore
+http://cirmi.org:8000/hard
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Indie rock
+http://cirmi.org:8000/indie
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Jazz Blues Soul Funk
+http://cirmi.org:8000/jazz
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Magyar alternativ 2000s
+http://cirmi.org:8000/alter2000s
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Magyar alternativ 80s 90s
+http://cirmi.org:8000/alter80s90s
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI New wave
+http://cirmi.org:8000/newwave
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Punk
+http://cirmi.org:8000/punk
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Ska
+http://cirmi.org:8000/ska
+#EXTINF:-1 tvg-logo="" group-title="Hungary", CIRMI Synth wave
+http://cirmi.org:8000/synth
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Európa Rádió FM 90.4
+http://193.6.173.93:8005/miskolc
+#EXTINF:-1 tvg-logo="" group-title="Hungary", FM 103 Csillagpont Radio
+http://streamer1.borsodweb.hu:48000/csillagpont
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR6 Radio Miskolc
+http://stream002.radio.hu:80/mr6m.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio M
+http://hosting2.42netmedia.com:10060/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mária Rádió Mór
+http://mariaradio.hu:8000/mr_mor
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Európa Rádió FM 100.5
+http://193.6.173.93:8005/nyiregyhaza
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Mustár FM Rádió 89.6
+http://193.138.125.14:8500/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Retro Rádió 103.9 fm
+https://stream1.retroradio.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Sunshine Rádió 99.4 fm
+http://stream.composeit.hu:8100/sunshine
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Paks FM 96.3
+http://stream.42netmedia.com:8000/paks_fm
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Maria Radio Pécel
+https://stream.mariaradio.hu:8000/mr
+#EXTINF:-1 tvg-logo="" group-title="Hungary", I Love Pécs!
+http://radio.ilovepecs.hu:8200/ilp.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Pannónia Rádió
+http://kft.kesintisizyayin.com:8130/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", PécsFM 101.7
+http://pecs.fm:8000/1017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio 1 Pécs
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Európa Rádió FM 100.0
+http://193.6.173.93:8005/satoraljaujhely
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Balaton Rádió FM 88.7
+http://radioe.net:8080/fm887
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Danko Radio FM 93.6
+http://mr-stream.mediaconnect.hu/4747/mr7.aac
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MoMo Rádió
+https://stream.diazol.hu:7092/zene.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió 1 FM 94.1
+http://sopronradio.hu:8000/napradio
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Szarvas
+https://cloudfront44.lexanetwork.com:1540/radioszarvas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", MR6 Radio Szeged
+http://stream002.radio.hu:80/mr6s.mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Panda Radio
+http://mediaserver.tippnet.rs:8000/pandastream.oga
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió 1 Szeged
+https://adas.radio1szeged.hu/radio1
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio 88
+http://stream.radio88.hu:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Fehérvar Radio 94.5
+http://stream5.radio1.hu/mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", FeZen
+http://enyingfm.com:8080/fezen_bk
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Sansz
+https://cloudfront44.lexanetwork.com:1540/radiosansz_02.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Taska Radio 97.5
+http://live.taskaradio.com:7070/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Vörösmarty Rádió 99.2
+https://qt.istenek.info:8001/vorosmarty_mid.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Rádió Antritt
+http://stream.radioantritt.hu:8000/Antritt
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Radio Szentendre
+http://92.61.114.191:13040/stream
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Lakihegy Rádió
+http://stream.composeit.hu:8300/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Aktív Rádió
+http://aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Tamási Rádió
+http://92.61.114.191:10030/;
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Callisto Rádió
+http://188.165.11.30:4500/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Forrás Rádió Mount FM 97.8
+http://91.82.85.44:1630/forrasradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Maria Radio Varpalota
+https://stream.mariaradio.hu:8000/mr
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Méz Rádió
+http://stream.mezradio.hu:7812/mezfm128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hungary", Egerszeg Rádió FM 95.1
+http://hosting2.42netmedia.com:9310/;stream.mp3

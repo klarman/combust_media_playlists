@@ -1,0 +1,1322 @@
+[
+  {
+    "tags": "Uruguay",
+    "name": "FM 101.5 Integración",
+    "url": "http://gnstreammedia.com:8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Enkantada",
+    "url": "http://radio1.cli110.it3b.com:8000/enkantada.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Amatista FM",
+    "url": "http://usa15.ciudaddigital.com.uy:8116/AmatistaFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Artigas FM 106.3",
+    "url": "http://emisiones.com.uy:5108/artigas",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La voz de Artigas",
+    "url": "http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Cuareim 1270AM",
+    "url": "http://usa15.ciudaddigital.com.uy:29028/Cuareim",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Terminal FM 95.9",
+    "url": "https://server-usa2.radioseninternet.net/8048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Atlantida FM 89.9",
+    "url": "http://server-uk1.radioseninternet.net:8034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Onda 21",
+    "url": "http://sseg.us:8136/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Universo 103.7",
+    "url": "http://63.247.65.202:8430/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Milenium FM 92.1",
+    "url": "http://emisiones.com.uy:8092/mile",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Norte F.M. 105.5",
+    "url": "http://usa15.ciudaddigital.com.uy:8044/NorteFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Esteña FM 103.1",
+    "url": "https://streamingraddios.online/proxy/juanedu1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Faro FM 98.1",
+    "url": "http://streaming.capasiete.com:9456/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Universo",
+    "url": "https://streamingraddios.online/proxy/universoam?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Coronilla FM 102.3",
+    "url": "https://securestreams5.autopo.st:1953/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Nueva Onda FM 105.3",
+    "url": "https://stream.zeno.fm/47gdym5z6k0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Oceánica FM 89.3 Mhz",
+    "url": "http://oceanica.duckdns.org:8000/oceanica.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Versos Compartidos",
+    "url": "http://192.99.16.17:9637/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Ruta FM 93.5",
+    "url": "http://204.197.245.100:8260/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Colonia AM 550",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio San Salvador AM 1580",
+    "url": "http://server-uk1.radioseninternet.net:8270/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Skorpio 89.7 FM",
+    "url": "https://server-usa2.radioseninternet.net/8272/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio City FM 95.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8030/CityFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Durazno AM 1430",
+    "url": "http://usa15.ciudaddigital.com.uy:8038/DuraznoAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio YI Durazno AM 960",
+    "url": "http://usa15.ciudaddigital.com.uy:8144/AM960",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Noventa FM 90.9",
+    "url": "http://emisiones.com.uy:8129/nove",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Litoral",
+    "url": "http://usa15.ciudaddigital.com.uy:8096/LitoralFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Rincón AM 1510",
+    "url": "http://149.56.195.94:8145/stream?",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Rincón FM 107.7",
+    "url": "http://149.56.195.94:8366/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Visión FM",
+    "url": "http://emisiones.com.uy:8108/vision",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Torre FM 103.9",
+    "url": "http://107.170.111.32:2960/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Líder FM 89.1",
+    "url": "https://liderfm-zikoxweb2.radioca.st/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Delta FM 88.3",
+    "url": "http://server-uk1.radioseninternet.net:8104/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Info Ideas",
+    "url": "http://51.15.152.81:8360/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Musica En El Aire",
+    "url": "http://server-uk1.radioseninternet.net:9508/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cadena de la Costa FM 102.1",
+    "url": "http://s2.netradiofm.com:6112/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Onda Marina FM 106.3",
+    "url": "http://server375.dinamichosting.com:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Solari Radio 90.7",
+    "url": "http://medios.ciudaddigital.com.uy:8150/SolariFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Metropolis FM 104.9",
+    "url": "https://metropolis1.net.com.uy:8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Inolvidable FM 93.1",
+    "url": "http://streaming3.locucionar.com:17134/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Cristal",
+    "url": "http://usa15.ciudaddigital.com.uy:8126/CristalAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Gente 107.1",
+    "url": "http://streaming1.hostingmontevideo.com:8026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Milenium FM 88.7",
+    "url": "http://server-uk1.radioseninternet.net:9302/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Cuervo Uruguay",
+    "url": "https://streaming1.hostingmontevideo.com:7008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Voz de Melo AM 1340",
+    "url": "http://gnstreammedia.com:8800/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Nova FM 98.3",
+    "url": "https://server.laradio.online:58338/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Acuarela AM 1520",
+    "url": "http://204.197.245.100:8280/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio FM 99.1",
+    "url": "http://gnstreammedia.com:8802/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Ritmo FM 88.1",
+    "url": "http://server.laradio.online:25156/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "89.3 FM del Hum",
+    "url": "http://usa15.ciudaddigital.com.uy:8102/DelHumFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "915 Espacio FM",
+    "url": "http://radiolatina.live:7926/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "CX 121 Difusora Soriano",
+    "url": "http://usa15.ciudaddigital.com.uy:8094/DifusoraSoriano",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Galicia 100.3",
+    "url": "http://emisiones.com.uy:8105/sb",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "98.5 FM ADEOM",
+    "url": "http://158.106.131.228:9080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "CW54 Emisora del Este",
+    "url": "http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Federal FM 99.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8040/FederalFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Nosotros FM 90.7",
+    "url": "http://usa15.ciudaddigital.com.uy:8082/NosotrosFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "SUMU Twr/App/Radar",
+    "url": "https://s1-bos.liveatc.net/sumu",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "24 de Agosto",
+    "url": "http://149.56.195.94:8135/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Adrenalina FM 100.9",
+    "url": "http://cdn.instream.audio:8044//stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Aire FM 100.3",
+    "url": "https://radio13.servidorderadio.net/8284/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Alfa 96.3 FM",
+    "url": "http://radioonline.netgate.com.uy:8000/alfafm",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Azul FM 101.9",
+    "url": "http://icecasthd.net:8294/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Babel FM 97.1",
+    "url": "https://radios.iwstreaming.uy/8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Boliche FM 105.3",
+    "url": "http://streaming1.locucionar.com:13470/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cafe Express Radio",
+    "url": "https://sslstream.online/8094/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Canto y Fogon Radio",
+    "url": "https://sslstreaming.com:7031/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Carve AM 850",
+    "url": "https://radiolatina.live:10964/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Clarin AM580",
+    "url": "http://usa15.ciudaddigital.com.uy:8032/ClarinAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Clasica AM 650",
+    "url": "https://radios.iwstreaming.uy/8032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Contacto Sur",
+    "url": "https://stream.zeno.fm/w5k0y0qbft5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cool Teen Radio",
+    "url": "http://94.23.6.53:8190/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Crazy FM 98.3",
+    "url": "https://streamingraddios.online/proxy/loca?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "De La Nuca FM 107.7",
+    "url": "http://stm.gmpro.top:7070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Del Plata FM 95.5",
+    "url": "http://radios-mp3-uy.cdn.nedmedia.io/uy-delplata.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Diamante FM 98.7",
+    "url": "http://qwcast.com:9870/diamante",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "El Puente FM",
+    "url": "http://radios-online.info:4130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Emisora del Sur 94.7",
+    "url": "https://radios.iwstreaming.uy/8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "En Perspectiva radio",
+    "url": "http://edge.mixlr.com/channel/nuuij",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Espectador 810 AM",
+    "url": "https://espectador1.net.com.uy:8122/stream/",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM DelSol 99.5",
+    "url": "http://radio.dl.uy:9950/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM La Ley 106.7",
+    "url": "http://63.247.65.202:10031/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Latina 103.7",
+    "url": "https://stream.zeno.fm/39tyc5bday8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Galaxia FM 105.9",
+    "url": "https://stream.zeno.fm/bf4gt1pem0quv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Juventudes Radio UY",
+    "url": "https://stream.juventudesradio.uy/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Kairos FM 87.7",
+    "url": "https://panel.streamenviron.com:8264/radiokairos",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La 1010",
+    "url": "https://radiolatina.live:10963/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Costa FM 88.3",
+    "url": "https://server7.hostradios.com/8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Movida Online",
+    "url": "http://192.3.104.131:8068/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Radio Cooperativa",
+    "url": "http://edge.mixlr.com/channel/imnoo",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "lacatorce10 AM 1410",
+    "url": "http://radio.lacatorce10.com.uy:8060/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "M24 97.9 FM",
+    "url": "https://streaming2.hostingmontevideo.com:7003/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Nostalgia Radio Montevideo",
+    "url": "https://centova.streamrdm.com:4087/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Océano FM",
+    "url": "http://radio1.oceanofm.com:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Oldies FM 90.3",
+    "url": "https://hit2.net.com.uy:8022/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Planeta Rojo FM",
+    "url": "http://argentina.republicahosting.com:8106/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Psyradio FM Psytrance",
+    "url": "http://streamer.psyradio.org:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio BAS",
+    "url": "https://radio.yoursalsa.uy/stream/1/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Centenario AM 1250",
+    "url": "http://rfm.radio.netgate.com.uy:8000/centenario",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Cero FM 104.3",
+    "url": "https://radiolatina.live:10966/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Ciudadana 103.3 FM La Gaviota",
+    "url": "https://stream.zeno.fm/65h59sw071zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Espirita Uruguay",
+    "url": "https://servidor21-3.brlogic.com:8462/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Futura FM 91.1",
+    "url": "http://radios-mp3-uy.cdn.nedmedia.io/uy-futura.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Golden Hits",
+    "url": "http://198.204.234.10:15462/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Informarte",
+    "url": "http://emisiones.com.uy:8131/yoru",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio La Zurda",
+    "url": "http://usa2.fastcast4u.com:3470/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Monte Carlo AM 930",
+    "url": "http://radiolatina.live:7900/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Nacional AM 1130",
+    "url": "http://198.15.107.53:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Oriental AM 770",
+    "url": "http://radiolatina.live:7906/1",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Pedal",
+    "url": "http://streaming2.hostingmontevideo.com/8052/RNFU9ACR7",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Sarandi 690 AM",
+    "url": "https://radios-mp3-uy.cdn.nedmedia.io/sarandi.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Show on-line",
+    "url": "https://radios.yanapak.org/radioshow",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio UNO Digital",
+    "url": "http://server-uk1.radioseninternet.net:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio3Montevideo",
+    "url": "https://sc10.conectarhosting.com/proxy/radio3montevideo?mp=/stream:8820/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Recital Radio",
+    "url": "http://51.15.152.81:8031/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Retro Music Uruguay",
+    "url": "http://149.56.195.94:8008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Rural 610",
+    "url": "https://radiolatina.live:10959/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Senal Zoe",
+    "url": "http://unoredradio.com:9664/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Sport 890",
+    "url": "http://radios-mp3-uy.cdn.nedmedia.io/sport.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "TF5 Radio",
+    "url": "https://streaming1.hostingmontevideo.com/8024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "UNI Radio FM 89.1",
+    "url": "http://uniradio.edu.uy:8008/uniradio",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Universal AM 970",
+    "url": "http://radio.970universal.com:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Urbana FM 92.5",
+    "url": "http://radio1.urbana.uy:9910/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Uruguay AM 1050",
+    "url": "https://radios.iwstreaming.uy/8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "X2  la musica de la X",
+    "url": "https://streaming2.hostingmontevideo.com:7002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Del Molino FM 89.3",
+    "url": "https://sp2.servidorrprivado.com:10878/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Casino FM 96.3",
+    "url": "https://streamingv2.shoutcast.com/casino-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Charrua AM 1540",
+    "url": "https://streamingv2.shoutcast.com/radiocharrua",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Contacto FM",
+    "url": "http://vps.paysandu.mobi:8096/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Exito FM 99.7",
+    "url": "https://streamingv2.shoutcast.com/exito",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Felicidad AM 1420",
+    "url": "https://streamingv2.shoutcast.com/felicidad",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Otra FM 104.5",
+    "url": "http://144.217.67.108:9242/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Mas FM 101.3",
+    "url": "https://one.cloudstreaming.eu:8501/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Máxima FM 97.7",
+    "url": "https://streamingv2.shoutcast.com/maxima-fm-uy-pdu",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Caba",
+    "url": "https://stream.zeno.fm/4yhqs9v1mm5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Heroica",
+    "url": "http://190.64.69.102:9876/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Paysandú",
+    "url": "https://streamingv2.shoutcast.com/radio-paysandu-cw35",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "RBC 1210AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8058/RbcAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Ulmá",
+    "url": "http://radio1.cli110.it3b.com:8000/ulma1.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "88.1FM",
+    "url": "https://s1.radioforge.com:9156/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Aspen FM 103.5",
+    "url": "https://streaming2.hostingmontevideo.com:7010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Azul FM 93.5",
+    "url": "http://icecasthd.net:8293/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Bohemia FM",
+    "url": "https://radiopro.com.uy/radio/8000/bohemia",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Buenos Aires",
+    "url": "http://01.solumedia.com.ar:8352/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Laser FM",
+    "url": "http://server.laradio.online:8691/Stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Del Este",
+    "url": "https://turadio.accesopanel.com/8372/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Galena 105.5",
+    "url": "http://gnstreammedia.com:8148/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Acacia FM 90.7",
+    "url": "http://usa15.ciudaddigital.com.uy:8088/AcaciaFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cenit",
+    "url": "https://argentina.republicahosting.com:1931/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Columbia",
+    "url": "http://stm.gmpro.top:7008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Horizonte FM 89.3",
+    "url": "http://medios.ciudaddigital.com.uy:8078/HorizonteFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Internacional 1480 AM",
+    "url": "http://63.247.65.202:8918/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Internacional FM 94.5",
+    "url": "http://streaming2.locucionar.com:8917/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Activa FM 89.9",
+    "url": "https://radios.iwstreaming.uy/8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Reconquista AM 1220",
+    "url": "http://usa15.ciudaddigital.com.uy:8088/Reconquista",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Rivera 1440 AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Ungido",
+    "url": "https://servidor29-2.brlogic.com:8732/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cadena del Sol",
+    "url": "http://audiohd.sonidosenlared.com:5179/;;audio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Cadena Digital",
+    "url": "http://medios.ciudaddigital.com.uy:8148/CadenaDigital",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Difusora Rochense AM 1260",
+    "url": "http://server375.dinamichosting.com:8020/Title1",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Navegante FM 94.1",
+    "url": "https://ssl.hostingservicios.com:7768/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Fortaleza AM 1320",
+    "url": "http://server-uk1.radioseninternet.net:9304/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Vida FM 104.7",
+    "url": "http://usa15.ciudaddigital.com.uy:8048/VidaFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Marindia FM 88.9",
+    "url": "https://radios.iwstreaming.uy/8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "1410 Turistica AM Salto",
+    "url": "http://emisiones.com.uy:8086/turistic",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Alegria FM 91.3",
+    "url": "http://emisiones.com.uy:8141/ale",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "America FM 103.3",
+    "url": "http://emisiones.com.uy:8118/america",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Extremo FM 100.9",
+    "url": "http://192.240.99.146:8111/bour",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Pan de Azucar",
+    "url": "http://emisiones.com.uy:8140/pande",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Mundo FM",
+    "url": "http://emisiones.com.uy:8088/mundo",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Música de Más",
+    "url": "http://emisiones.com.uy:8120/demas",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Nueva Era FM 102.3",
+    "url": "http://192.240.99.146:8127/als",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Arapey",
+    "url": "http://emisiones.com.uy:8085/arapey",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Futuro Rock",
+    "url": "https://streamingv2.shoutcast.com/RADIOFUTUROROCK",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Libertadores AM 1020",
+    "url": "http://emisiones.com.uy:8089/liber.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Ozono",
+    "url": "https://ssl.hostingservicios.com:7752/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Tabaré",
+    "url": "http://emisiones.com.uy:8130/taba",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Siglo XXI 101.5",
+    "url": "http://emisiones.com.uy:8091/2als",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Templaria Radio",
+    "url": "http://emisiones.com.uy:8110/enlace",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Isla Radio",
+    "url": "http://lirodu.zapto.org:8000/laislaradio",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Hits FM 89.9",
+    "url": "https://streaming.radiosenlinea.com.ar/8868/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "El Lugar 99.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8140/ElLugarFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Emisora Principal",
+    "url": "http://s7.myradiostream.com:10764/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "EnFrecuencia",
+    "url": "http://s45.myradiostream.com:8566/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Maragata FM 97.5",
+    "url": "http://63.247.65.202:10394/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio 41 AM 1360",
+    "url": "http://radios-online.info:2990/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radiomania",
+    "url": "http://51.15.152.81:8180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM San Ramón 91.3",
+    "url": "http://149.56.195.94:8684/;.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Hits FM 88.5",
+    "url": "http://stm1.ifantasy.com.br:7088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Espika FM 90.7",
+    "url": "http://stream.codigosur.org/espikafm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Parque FM",
+    "url": "http://streaming2.hostingmontevideo.com:8018/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Osiris FM 90.5",
+    "url": "http://server.datalivehd.com:7064/osirisfmlive",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Armonia FM 92.5",
+    "url": "http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Estudio Aventura Radio",
+    "url": "http://162.244.80.106:11033/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Música 88.9",
+    "url": "https://server-usa2.radioseninternet.net/8260/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Tiempo 101.7",
+    "url": "https://cento02.mipanelradio.com/proxy/fmtiempo?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM93 Online",
+    "url": "http://162.244.80.106:11069/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "JC Radio Web",
+    "url": "http://201.217.133.134:8035/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "La Kandela FM 105.5",
+    "url": "http://198.49.65.43:10072/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Delirio",
+    "url": "https://srv.radiostreamuy.com:1065/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Tacuarembó 1280 AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Tacuarembó FM 90.3",
+    "url": "http://51.15.152.81:8798/;?_=0.7366505504165111",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Tacuarembo Radio",
+    "url": "http://149.56.195.94:8401/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "ZSM Radio Zorrilla",
+    "url": "http://server-uk1.radioseninternet.net:9312/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Naturaleza 88.1",
+    "url": "http://stm.gmpro.top:7006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Vecinal Uruguay",
+    "url": "https://stream.zeno.fm/vbh6zat1mhruv",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Celeste 1570 AM",
+    "url": "http://emisiones.com.uy:8115/celes",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "CW45 Difusora Treinta y Tres",
+    "url": "http://server-uk1.radioseninternet.net:8132/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Difusora Treinta y Tres FM 94.3",
+    "url": "https://server-usa2.radioseninternet.net/8138/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "FM Conquistador 97.3",
+    "url": "http://198.204.234.10:8149/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Patria AM 1540",
+    "url": "http://usa15.ciudaddigital.com.uy:8052/PatriaAM",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Cinco FM 89.7",
+    "url": "http://emisiones.com.uy:8084/cinco.mp3?_=1",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "SUR FM",
+    "url": "http://163.182.175.106:7082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "El Libertador",
+    "url": "http://s4.viastreaming.net:7200/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Mega FM 91.9",
+    "url": "http://67.212.166.178:7154/live",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "93.3 Luna FM",
+    "url": "https://servermm.com/radio/lunafm/.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Imagen FM 89.1",
+    "url": "https://servermm.com/radio/imagenfm/.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Young AM 680",
+    "url": "https://servermm.com/radio/radioyoung/.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Uruguay",
+    "name": "Radio Young FM 94.5",
+    "url": "http://emisiones.com.uy:8108/retorno",
+    "logo": ""
+  }
+]

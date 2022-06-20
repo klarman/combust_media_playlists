@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Sputnik Abkhazia
+http://icecast-ruvr.cdnvideo.ru/rian.voicesuh
+#EXTINF:-1 tvg-logo="" group-title="Georgia", SK News 97.5 FM
+http://iis.ge:8000/sk.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Citrus FM 97.3
+http://iis.ge:8000/CitrusFm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Adjara FM 104.5
+http://edge.mixlr.com/channel/bzorq
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Way FM 101.1
+http://stream.it-solutions.ge:8000/mp3-radiowayfmstudia1
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Mosaic FM 97.8
+http://stream.it-solutions.ge:8000/mp3-radiomozaika
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Dzveli Kalaki FM 107.9
+https://rcast.live/stream/62170.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Hereti FM 102.8
+http://iis.ge:8000/hereti.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Marneuli FM 96.9
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Nor FM 100.1
+http://iis.ge:8000/nor.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Ar Daidardo FM 96.7
+https://fortuna.ge/ardaidardo
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Mutant Radio
+https://listen.radioking.com/radio/282820/stream/328621
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Pirveli Radio FM 106.4
+http://178.134.47.58:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Amra
+https://streamer.radio.co/s34b5469e0/listen
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Electronauts
+https://stream.zeno.fm/4d98pq6cwg0uv
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Georgian Times FM 92.3
+http://149.3.34.14:8000/;?type=http&nocache=7
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Gipa FM 94.3
+http://217.147.235.142:9080/livemp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Kubrik
+http://uk2.listen2myradio.com:8029/stream
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio NRJ FM 104.7
+http://shaincast.caster.fm:24734/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Palitra 103,9 FM
+http://livestream.palitra.ge:8000/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Positive 104.3 FM
+https://stream.radiojar.com/sr4vzamzfnruv
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio SANDA
+http://212.72.151.218:8800/live
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Relaxwebradio
+http://iis.ge:8000/relax.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Sputnik Georgia
+https://nfw.ria.ru/flv/audio.aspx?ID=68862011&type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Star FM 93.9
+http://stream.it-solutions.ge:8000/mp3-starfm
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Tbilisi FM 93.5
+http://iis.ge:8000/radiotbilisi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", TheRadio.ge
+https://securestreams3.autopo.st:1309/stream
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Argo FM 102.0
+http://radiostream.argotv.ge:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Atinati FM 105.9
+http://stream.it-solutions.ge:8000/mp3-radioatinatifm
+#EXTINF:-1 tvg-logo="" group-title="Georgia", Radio Odishi+ FM 102.9
+https://live.radio.odishi.ge/odishi.mp3

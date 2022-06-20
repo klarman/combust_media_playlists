@@ -1,0 +1,38 @@
+[
+  {
+    "tags": "Monaco",
+    "name": "Radio Classique",
+    "url": "http://broadcast.infomaniak.com/radioclassique-high.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Monaco",
+    "name": "Radio Ethic",
+    "url": "http://163.172.37.18:8000/radioethic.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Monaco",
+    "name": "Radio Monaco",
+    "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Monaco",
+    "name": "Radio Yacht Fr",
+    "url": "http://radioyachtmontecarlo.newradio.it/1",
+    "logo": ""
+  },
+  {
+    "tags": "Monaco",
+    "name": "Riviera Radio 106.5",
+    "url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Monaco",
+    "name": "The Lounge Channel",
+    "url": "https://streamingv2.shoutcast.com/The-Lounge-Channel",
+    "logo": ""
+  }
+]

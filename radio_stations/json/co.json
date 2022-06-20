@@ -1,0 +1,6674 @@
+[
+  {
+    "tags": "Colombia",
+    "name": "Abejorral Stereo",
+    "url": "https://play8.tikast.com/proxy/abejorral?mp=/stream%E2%80%A8",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Acevedocity Radio",
+    "url": "https://stream.zeno.fm/puykscraza0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cheverisima FM 105.7",
+    "url": "https://stream.zeno.fm/vy9z0yt17qzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Exitosa FM 90.8",
+    "url": "https://emisorasvirtuales.com.co:9345/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mera Mera FM 107.8",
+    "url": "http://185.250.105.207:2048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Latina",
+    "url": "http://185.250.105.207:2048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fenix Radio Online",
+    "url": "https://emisorasvirtuales.com.co:9336/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Buturama Estereo 101.7 FM",
+    "url": "https://tupanel.info:9190/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Campo Serrano Radio 96.7 FM",
+    "url": "http://stream2.emisorasvirtuales.com:8054/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vallenatos Al Aire",
+    "url": "https://stream.zeno.fm/h77hvyp7grruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Candela Casanare FM 94.7",
+    "url": "https://cloudoledgo.com:8026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sensacion Stereo FM 89.2",
+    "url": "https://radiolatina.info/9908/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Beraka Estereo 88.2 FM",
+    "url": "https://cloudstream2036.conectarhosting.com/8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Carbón Stereo",
+    "url": "http://51.15.160.78:8318/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz De Los Pastos",
+    "url": "http://radiohd.streaminghd.co:7181/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Nare Stereo",
+    "url": "https://play8.tikast.com/proxy/nare?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dinamica Stereo 102.8 FM",
+    "url": "https://live.hbstreaming.com/dinamicastereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Impacto Estereo Online",
+    "url": "https://cloudstream2036.conectarhosting.com/8206/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sol Stereo Radio FM 92.6",
+    "url": "https://ssl.xcast.com.br:8148/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Transmisora Surandes",
+    "url": "http://65.60.45.74:8084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Angostura Estéreo FM 89.2",
+    "url": "https://www.colombiaemite.com:25402/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos del Rosario FM 95.6",
+    "url": "http://www.colombiaemite.com:10002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Norte Stereo 103.9",
+    "url": "https://radiolatina.info/9374/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Antena Stereo FM 107.4",
+    "url": "http://51.15.160.78:8516/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Apartadó Stereo FM 103.3",
+    "url": "http://radiohd.streaminghd.co:7226/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN La Radio AM 1310",
+    "url": "https://24483.live.streamtheworld.com/RCN_RADIO_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Lago",
+    "url": "http://www.colombiaemite.com:10250/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Arauca Online",
+    "url": "https://virtualtronics.net/proxy/araucaonline?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Arauca Stereo FM 100.3",
+    "url": "https://estructuraweb.com.co:9270/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Cinaruco AM",
+    "url": "https://radiolatina.info/7438/stream/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz Del Rio AM 1110",
+    "url": "http://162.241.38.147:8050/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Meridiano AM 1170",
+    "url": "http://mediacp15.rootservers.co:8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Arauquita Stereo FM 88.3",
+    "url": "http://real1.streaming-co.com:8493/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santa Clara Radio",
+    "url": "https://stream.zeno.fm/bn588n1h98quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Coral FM Stereo 107.4",
+    "url": "http://167.114.113.108:10090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Roble Stereo",
+    "url": "http://195.154.133.107:8657/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Micay Stereo 100.3 FM",
+    "url": "https://stream.zeno.fm/9fcdr1kayg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Armenia",
+    "url": "http://22983.live.streamtheworld.com/BESAME_ARMENIA_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "GeneracionX.co",
+    "url": "http://server2.ejeserver.com:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Intermedia FM",
+    "url": "http://server2.intermediacol.com:8000/intermediafm",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1400",
+    "url": "https://20823.live.streamtheworld.com/LA_CARINOSA_ARMENIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM 96.7",
+    "url": "https://20823.live.streamtheworld.com/LA_MEGA_ARMENIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Super Estacion FM 104.1",
+    "url": "https://radiolatina.info:10953/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La U FM",
+    "url": "http://c11.radioboss.fm:8054/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de la Esperanza",
+    "url": "https://radiolatina.live:10983/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MASMUSICA.FM",
+    "url": "http://server2.ejeserver.com:8720/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 96.1",
+    "url": "https://i60.letio.com/9162.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Oasis",
+    "url": "https://radiohd.streaminghd.co:7384/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 107.7",
+    "url": "https://20833.live.streamtheworld.com/RADIO_UNO_ARMENIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Vida En Familia",
+    "url": "https://servidor16.brlogic.com:7238/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN La Radio AM 1240",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_ARMENIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Transmisora Quindio 720am",
+    "url": "https://cp13.shoutcheap.com:18246/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Armenia",
+    "url": "https://17973.live.streamtheworld.com/TR_ARMENIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zuldemayda Radio",
+    "url": "https://server2.ejeserver.com:8144/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Esplendor Estéreo 102.5 FM",
+    "url": "https://stream.zeno.fm/wpvwsstp2qzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Balboa Stereo FM 88.4",
+    "url": "https://stream.integracionvirtual.com/proxy/balboastero?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Barano Ciber Stereo",
+    "url": "https://estructuraweb.com.co:9186/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Luna Radio Latina",
+    "url": "https://stream.zeno.fm/u31fgudds2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radiounik FM",
+    "url": "https://stream.zeno.fm/nznbf8ke21zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Baraya Stereo FM 100.8",
+    "url": "http://server2.ejeserver.com:8354/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Brillante Stereo 88.4 FM",
+    "url": "http://colombiaemite.com:10230/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mirador Estereo FM 103.2",
+    "url": "https://play10.tikast.com/proxy/miradorstereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Barrancabermeja Virtual",
+    "url": "http://stream1.305stream.com:8240/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta Latina",
+    "url": "https://live.hbstreaming.com/fiestalatina",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1320",
+    "url": "https://20823.live.streamtheworld.com/LA_CARINOSA_BARRANCAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 98.7",
+    "url": "https://20833.live.streamtheworld.com/RADIO_UNO_BARRANCAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Yariguies Stereo FM 102.7",
+    "url": "https://estructuraweb.com.co:9339/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta Stereo",
+    "url": "https://www.colombiaemite.com:25286/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Barranquilla Estereo",
+    "url": "http://radio.yaservers.com:8197/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Barranquilla",
+    "url": "http://22983.live.streamtheworld.com/BESAME_BARRANQUILLA_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blu Radio 100.1 FM",
+    "url": "https://17843.live.streamtheworld.com/BLU_BARRANQUILLA.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bongó Stereo",
+    "url": "https://cloudstream2034.conectarhosting.com:7025/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Buenisima Stereo",
+    "url": "https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Carnavalxsiempre",
+    "url": "https://streaming.radiosenlinea.com.ar:10889/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Alma en un Acordeon",
+    "url": "https://stream.zeno.fm/gw02fc2zd0quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Gol Que Se Vive Radio",
+    "url": "http://198.27.88.38:7042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Gran Lobo",
+    "url": "http://stream.radiojar.com/kz89u7kh2wzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Poder De La Musica Radio",
+    "url": "https://stream.zeno.fm/qxzurfrcqnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Antorcha de Fuego",
+    "url": "http://195.154.133.107:8727/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Atlantico",
+    "url": "https://i50.letio.com/9104.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Junior a un click",
+    "url": "https://eoatdpao.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Kurrambera Stereo FM 93.5",
+    "url": "https://streaming.radiosenlinea.com.ar:10870/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Radio Online",
+    "url": "https://stream.zeno.fm/5e08q9dmhtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Troja Radio",
+    "url": "https://streaming.radiosenlinea.com.ar:10896/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Zona Radio - Zona Cero",
+    "url": "https://streaming.radiosenlinea.com.ar:10895/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mi Valle Natisima FM 97.3",
+    "url": "https://streaming.radiosenlinea.com.ar:10865/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Misionera Radio",
+    "url": "https://stream.zeno.fm/yw7mvsukr7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 92.1",
+    "url": "https://i50.letio.com/9102.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oro Estereo",
+    "url": "http://51.15.160.78:9005/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oxigeno by Los 40 Barranquilla",
+    "url": "https://22983.live.streamtheworld.com/OXI_BARRANQUILLAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Palmera Radio",
+    "url": "https://stream.zeno.fm/3bg28p0wx1zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pechichón Radio Vallenato",
+    "url": "https://stream.zeno.fm/uy0wvup3cveuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Puerta de Oro Stereo",
+    "url": "http://cp4.lorini.net:30310/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Aeropuerto Online",
+    "url": "https://stream.zeno.fm/9resnwhqua0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Amiga",
+    "url": "https://stream.zeno.fm/m2rcgg3u4yzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Caribe Plus",
+    "url": "https://streaming.radiosenlinea.com.ar/9326/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Jesucristo Reina",
+    "url": "http://195.154.133.107:8042/stream?1570678087816",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio La Consentida Online",
+    "url": "https://ssl.aloncast.com:1481/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Risas FM 98.1",
+    "url": "https://stream.zeno.fm/169ytp8u9p8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Sol Caribe",
+    "url": "https://stream.zeno.fm/t8fs33deyzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo 96.1 FM",
+    "url": "http://i50.letio.com/9100.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio uno en cristo",
+    "url": "https://stream.zeno.fm/wupqqzar0wzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Vida Nueva AM 1490",
+    "url": "http://usa1.usastreams.com:8000/Vidanueva",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Ya AM 1430",
+    "url": "http://ceca.onebit.com.co:8003/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Mundo AM 760",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_BARRANQUILLAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ritmo Salsa y Sabor",
+    "url": "http://163.172.198.16:8672/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Stereo FM 99.1",
+    "url": "https://21933.live.streamtheworld.com/RUMBA_BARRANQUILLAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsa Son y Sabor Latino",
+    "url": "https://radio35.virtualtronics.com/proxy/salsasonysabor?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsanroqueonline",
+    "url": "https://streaming.radiosenlinea.com.ar:10887/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Cardenal 1010 AM",
+    "url": "https://sistemacardenal.com/radio1010.php",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sofana Radio",
+    "url": "https://sonicpanel.streaming10.net/8112/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Solaz Radio",
+    "url": "https://stream.zeno.fm/8nemh7tz4mzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Barranquilla",
+    "url": "https://17973.live.streamtheworld.com/TR_BARRANQUILLAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Uninorte FM 103.1",
+    "url": "https://cactus2.uninorte.edu.co/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "VenCristo Radio",
+    "url": "http://185.250.105.207:2015/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "VK.Radio FM",
+    "url": "https://stream.zeno.fm/06bv0cventzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vokaribe Radio FM 89.6",
+    "url": "http://51.15.160.78:9021/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paisaje Estéreo FM 90.1",
+    "url": "https://samuel.i-radio.co:9000/paisajestereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tundama Stereo FM 90.6",
+    "url": "http://178.33.113.51:8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Belen Stereo FM 95.3",
+    "url": "http://server2.ejeserver.com/proxy/belenfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bello Estéreo",
+    "url": "https://stream.zeno.fm/pef0h7mf84zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Buena 95.4 FM",
+    "url": "http://colombiaemite.com:10086/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Brisas del Rio Chico 1540 AM",
+    "url": "https://mediacp15.rootservers.co/stream/8040",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Calidad Stereo",
+    "url": "http://198.27.88.38:7070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Acuario Estéreo",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIO.mp3?dist=RadioGarden",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "África Stereo",
+    "url": "https://server2.ejeserver.com:8304/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "AmbienteStereo",
+    "url": "http://64.37.55.231:8524/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Años maravillosos",
+    "url": "https://20833.live.streamtheworld.com/ANOS_MARAVILLOSOS_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Antena 2 Bogota AM650",
+    "url": "https://20833.live.streamtheworld.com/ANTENA_2_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Balada FM Bogotá",
+    "url": "https://stream.zeno.fm/4d2et4w314zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Baladas Románticas",
+    "url": "https://stream.zeno.fm/unns06sxtfeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bamm Radio",
+    "url": "http://163.172.77.142:8129/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Bogotá",
+    "url": "https://22983.live.streamtheworld.com/BESAME_BOGOTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blu Radio",
+    "url": "http://18073.live.streamtheworld.com/BLURADIO.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Buena Stereo",
+    "url": "https://stream.zeno.fm/dm3g457s6yzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bunka Radio",
+    "url": "http://www.virtualtronics.net:8275/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Candela Estéreo",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO.mp3?dist=RadioGarden",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol radio",
+    "url": "https://18103.live.streamtheworld.com/CARACOL_RADIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Centro Cristiano Bogotá",
+    "url": "https://stream.zeno.fm/b8cq8kmx5x8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "ckweb",
+    "url": "http://domolleno2018.out.airtime.pro:8000/domolleno2018_a",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colmundo Radio",
+    "url": "http://142.4.2.72:8039/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Contagio Radio",
+    "url": "https://stream.contagioradio.com:8443/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Corazon Stereo FM 102.5",
+    "url": "https://ssl.srvstm.com:8862/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CRBS Melodías del Recuerdo",
+    "url": "http://195.154.133.107:8426/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CRBS Quiéreme Bogotá Stereo",
+    "url": "http://195.154.133.107:8432/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CRBS Salsa Merengue &",
+    "url": "http://195.154.133.107:8438/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cristalina Huila FM 101.3",
+    "url": "http://149.56.147.197:9641/cNeiva",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cristianos Colombia",
+    "url": "https://stream.zeno.fm/zbhc94kn97zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cultura Rock",
+    "url": "https://stream.zeno.fm/n2s68hp9ztzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CyC Radio",
+    "url": "http://stream.radio.co/s978e5f6bd/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "DiscoRumba FM 95.4",
+    "url": "https://stream.zeno.fm/yzc6zzcqfzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dix FM",
+    "url": "https://radio25.virtualtronics.com/proxy/dixfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dreamforce",
+    "url": "https://server2.ejeserver.com:8648/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Dorado Radio 99.5 FM",
+    "url": "http://51.81.49.98:8300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Sol Bogotá FM 105.4",
+    "url": "https://20833.live.streamtheworld.com/EL_SOL_BOGAAC_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Tunel Rock",
+    "url": "http://163.172.198.16:8014/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Electro Colombia Radio",
+    "url": "https://securestreams.servers58.com:9340/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Energia Radio Colombia",
+    "url": "http://51.15.160.78:8039/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Escenario Radio",
+    "url": "https://s14.myradiostream.com/29568/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estación Berlin Radio",
+    "url": "https://stream.zeno.fm/wx68pwmq5tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Evolrock Radio",
+    "url": "http://37.59.28.208:8092/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "FM Oxígeno",
+    "url": "https://17973.live.streamtheworld.com/OXIGENOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Folklórica Estéreo",
+    "url": "http://radio30.virtualtronics.com:8198/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "FONTIBONradio",
+    "url": "http://195.154.133.107:8084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fortalezas Stereo",
+    "url": "http://radiohd.streaminghd.co:7035/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fuera de La Cancha Radio",
+    "url": "https://airradios.com:9091/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fuerza Aérea Colombiana",
+    "url": "https://16963.live.streamtheworld.com/SAM05AAC181.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fusiòn Romàntica",
+    "url": "https://radio30.virtualtronics.com/proxy/fusion?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "gama Colombia",
+    "url": "http://stream2.emisorasvirtuales.com:8198/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "gama Stéreo",
+    "url": "http://stream2.emisorasvirtuales.com:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Generación G",
+    "url": "https://play12.tikast.com/proxy/generaciong?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Global Hits",
+    "url": "https://stream.zeno.fm/e3r11d73sfeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Goce Latino Radio",
+    "url": "https://play10.tikast.com/proxy/gocelatino?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hard Salsa Bogotá",
+    "url": "http://usa1.fastcast4u.com:2126/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hertz Stereo Radio",
+    "url": "https://radio30.virtualtronics.com/proxy/hertz?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "HJCK",
+    "url": "http://17973.live.streamtheworld.com/RADIO_HJCK_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "HJRADIO.Net",
+    "url": "https://stream.zeno.fm/cqtze5vrwneuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "HJUT FM 106.9",
+    "url": "http://hjut.utadeo.edu.co:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ídolos De Pueblo",
+    "url": "https://stream.zeno.fm/3yuyec46uxquv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Impacto FM Estereo",
+    "url": "http://163.172.198.16:8421/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Improvisando Radio",
+    "url": "http://62.210.38.137:8180/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ipanema Estereo Colombia",
+    "url": "https://stream.zeno.fm/ufyez7rq64zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Jala Stereo",
+    "url": "http://server2.ejeserver.com:8074/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Javeriana Estéreo 91.9 FM",
+    "url": "http://lira.servidoranonimo.org/proxy/javerian?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La 92",
+    "url": "https://www.la92.com/static/data.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La 987 Radio",
+    "url": "https://stream.zeno.fm/mat0rkc5anzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Carinosa 610 AM",
+    "url": "http://20823.live.streamtheworld.com/RADIO_1_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM 94.9",
+    "url": "https://20833.live.streamtheworld.com/LA_FM_BOG.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM Anglo",
+    "url": "https://21933.live.streamtheworld.com/LA_FM_ANGLOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM Pop Latino",
+    "url": "https://20833.live.streamtheworld.com/LA_FM_POP_LATINOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Kalle FM 96.9",
+    "url": "https://19473.live.streamtheworld.com/LA_KALLE.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mas Buena",
+    "url": "http://radiohd.streaminghd.co:8204/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega El Cartel",
+    "url": "https://20823.live.streamtheworld.com/EL_CARTELAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM 90.9",
+    "url": "https://21933.live.streamtheworld.com/LA_MEGA_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega Nuestra Tierra",
+    "url": "https://20833.live.streamtheworld.com/NUESTRA_TIERRAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega Play",
+    "url": "https://20823.live.streamtheworld.com/LA_MEGA_PLAYAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega Plus",
+    "url": "https://20833.live.streamtheworld.com/LA_MEGA_PLUSAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega Retro",
+    "url": "https://20833.live.streamtheworld.com/LA_MEGA_RETROAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Norte FM 94.4",
+    "url": "http://stream2.emisorasvirtuales.com:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La O Latina",
+    "url": "https://stream.zeno.fm/ywtwfn50tfeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa - Instrumental",
+    "url": "https://stream.zeno.fm/bb6gebkqbxquv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – 80s",
+    "url": "https://stream.zeno.fm/6p86w8204f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – 90s",
+    "url": "https://stream.zeno.fm/2u5uwta14f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Boleros",
+    "url": "https://stream.zeno.fm/4yuqrn91qvduv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Crossover",
+    "url": "https://stream.zeno.fm/wthy0c463f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Mezclas",
+    "url": "https://stream.zeno.fm/u6hnxux24f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Popular",
+    "url": "https://stream.zeno.fm/c7017ud14f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Romantica",
+    "url": "https://stream.zeno.fm/sczs61304f5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Salsa",
+    "url": "https://stream.zeno.fm/svhphz12y6duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Poderosa – Viejoteca",
+    "url": "https://stream.zeno.fm/6fr3w7v690duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Vallenata FM",
+    "url": "http://server2.ejeserver.com:8360/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Bogotá",
+    "url": "https://streamingv2.shoutcast.com/la-voz-de-bogota",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Veterano",
+    "url": "https://estructuraweb.com.co:9111/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La X",
+    "url": "https://streamingv2.shoutcast.com/la-x-1039-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lalupa Radio",
+    "url": "https://emisorasvirtuales.com.co:9117/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "LAUD 90.4 FM Estéreo",
+    "url": "http://200.69.103.69:8000/laud",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Los 40 Bogotá 97.4fm",
+    "url": "https://18533.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Más Radio",
+    "url": "http://server.datalivehd.com:7110/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mas Radio PB",
+    "url": "https://radiolatina.info/8076/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MBM",
+    "url": "https://play10.tikast.com/proxy/hub?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mindalia Radio Colombia",
+    "url": "https://secureradio.eu:2170/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mindalia Radio Voz Colombia",
+    "url": "https://secureradio.eu:2020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mundo Salsero",
+    "url": "http://109.169.23.124/proxy/radiouser334639178?mp=/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Nexus Stereo",
+    "url": "http://173.82.114.29:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Nuevo Continente AM 1460",
+    "url": "http://99.198.110.162:7092/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ochentera Radio",
+    "url": "https://21933.live.streamtheworld.com/OCHENTERAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Estéreo FM 105.9",
+    "url": "http://master.letio.com/getMD.aspx?gs=9114&streamType=iceDirectAAC&redir=1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "ondambientalstereo",
+    "url": "https://virtualtronics.net/proxy/ondambientalstereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Palabra De Vida Eterna Radio",
+    "url": "http://62.210.141.243:8133//;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paz Stereo",
+    "url": "http://server2.ejeserver.com:8826/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Planet Radio Live",
+    "url": "https://stream.zeno.fm/qb2umscrv4zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Quiberne Radio",
+    "url": "https://stream.zeno.fm/30bm5kwsuzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Acktiva",
+    "url": "https://14003.live.streamtheworld.com/RADIO_ACTIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Ángel Club",
+    "url": "https://stream.zeno.fm/1n6wvg15bzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Auténtica AM 1540",
+    "url": "https://play12.tikast.com/proxy/radioautentica?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Colombia Espirita",
+    "url": "http://radiolatina.info:9350/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Cordillera",
+    "url": "http://streamingv2.shoutcast.com/radio-cordillera",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Diez de Marzo",
+    "url": "https://server2.ejeserver.com:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio El Triunfo Oficial",
+    "url": "https://cdn4.onstream.audio:9115/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Legendarios",
+    "url": "https://sonic.paulatina.co/7430/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Maria Colombia",
+    "url": "http://dreamsiteradiocp.com:8076/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Mi Lugar De Salvacion",
+    "url": "http://109.169.76.153:17894/;.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Minuto de Dios 107.9 FM",
+    "url": "https://sp4.colombiatelecom.com.co/8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Mundial AM 1370",
+    "url": "https://play12.tikast.com/proxy/radiomundial?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Pedagógica",
+    "url": "https://upn.virtualtronics.com:20000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Policía Bogotá 92.4 FM",
+    "url": "http://95.111.251.90:8185/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Policía Cívica",
+    "url": "https://stream.zeno.fm/45umcv71wwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Red",
+    "url": "https://20833.live.streamtheworld.com/RADIO_RED_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio UNAD Virtual",
+    "url": "http://radio.unad.edu.co/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Unilatina FM 94.4",
+    "url": "http://163.172.77.142:8084/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Voltio",
+    "url": "https://play10.tikast.com/proxy/radiovoltio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radiocoop",
+    "url": "http://radio45.virtualtronics.com:8382/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RadioDelaNoche",
+    "url": "https://radiodelanoche.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN La Radio",
+    "url": "https://20823.live.streamtheworld.com/RCN_RADIO_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "REC Emisora",
+    "url": "http://195.154.133.107:8687/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ritmo 777 Radio",
+    "url": "http://64.37.50.226:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumbera FM",
+    "url": "https://radiohd.streaminghd.co:7499/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsa y Son - Atmósfera 18",
+    "url": "https://emisorasvirtuales.com.co:9207/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "SalsaenlaWeb",
+    "url": "https://radio35.virtualtronics.com/proxy/salsaenlaweb?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santa Juana de Arco Stereo",
+    "url": "http://stream2.emisorasvirtuales.com:8228/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sonido Retro",
+    "url": "https://radio.sonidoretro.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Su Presencia Radio",
+    "url": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Suba Al Aire FM 88.4",
+    "url": "http://aler.org:8000/subaalaire.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Suba Alternativa Radio",
+    "url": "https://emisorasvirtuales.com.co:9123/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Super Clasica",
+    "url": "http://sclasica-stream.sytes.net:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Superestacion FM 88.9",
+    "url": "https://turadio.accesopanel.com:7015/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tabogo Beats",
+    "url": "https://stream.zeno.fm/mkm9qemm8s8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tin Tin Deo Radio",
+    "url": "https://via.vulstream.com/radio/8340/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tricolor Radio",
+    "url": "https://emisorasvirtuales.com.co:9459/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropical Bailable",
+    "url": "https://stream.zeno.fm/y5ztkzpqhueuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana",
+    "url": "http://19253.live.streamtheworld.com:80/TROPICANA_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropirumba FM",
+    "url": "https://server2.ejeserver.com:8070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Troya Noticias",
+    "url": "https://server.laradio.online/proxy/stream5?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tutogol Radio",
+    "url": "https://sonic.dattassd.com:10922/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UN Radio Bogota",
+    "url": "http://streaming.unradio.unal.edu.co:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UN Radio Web",
+    "url": "http://streaming.unradio.unal.edu.co:8014/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Uniminuto AM 1430",
+    "url": "http://uniminutoradiobogota.out.airtime.pro:8000/uniminutoradiobogota_a",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Unisabana Radio",
+    "url": "http://unisabana.out.airtime.pro:8000/unisabana_a",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "URosario Radio",
+    "url": "https://radiolatina.info/8092/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "USB Radio FM",
+    "url": "http://148.72.152.177:8279/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vibra Bogotá",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA.mp3?dist=RadioGarden",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voz de la Esperanza",
+    "url": "https://server2.ejeserver.com:8895/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voz Salsera",
+    "url": "https://stream.zeno.fm/2uva4f786reuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WOR FM",
+    "url": "https://sonicpanel.globalstream.pro:10997/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WOR FM Croososver",
+    "url": "https://stream.zeno.fm/63486ysv87zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WOR FM Dance",
+    "url": "https://stream.zeno.fm/650pdt7z24zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Worproducer Radio Station Bogota",
+    "url": "https://stream.zeno.fm/d8mxhnset7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WRadio 99.9",
+    "url": "https://17963.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=96a69959-e2a7-4a10-905b-2860b796e5de",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zion Stereo",
+    "url": "https://server2.ejeserver.com:8834/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bolivar Stereo 99.4 FM",
+    "url": "https://stremo.decibeles.net:8443/BolivarS",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caliente Stereo FM 90.2",
+    "url": "http://51.15.160.78:8330/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Matinal Noticias",
+    "url": "http://colombiaemite.com:10396/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Briceño Stereo FM 105.4",
+    "url": "https://streamingmediaradio.live/8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Bucaramanga",
+    "url": "http://22983.live.streamtheworld.com/BESAME_BUCARAMANGA_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blu Radio 960 AM",
+    "url": "https://20833.live.streamtheworld.com/BLU_BUCARAMANGA.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Calor Stereo",
+    "url": "https://zapatoca.net:10012/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Sol 103.7 FM",
+    "url": "https://20833.live.streamtheworld.com/EL_SOL_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Onda 5",
+    "url": "http://radio25.virtualtronics.com:8060/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "IPR Radio",
+    "url": "http://usa1.usastreams.com:8000/IPRPERadio",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1180",
+    "url": "https://20823.live.streamtheworld.com/LA_CARINOSA_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM 99.7",
+    "url": "https://20833.live.streamtheworld.com/LA_FM_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM 102.5",
+    "url": "https://20833.live.streamtheworld.com/LA_MEGA_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 97.7",
+    "url": "https://i50.letio.com/9122.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oriente Stereo",
+    "url": "https://zapatoca.net:10021/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Católica Metropolitana 1450am",
+    "url": "https://streaming.rcm1450.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Gnosis Colombia",
+    "url": "https://estructuraweb.com.co:9279/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Positiva",
+    "url": "https://stream.zeno.fm/g3qmcp5z3tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 106.7",
+    "url": "https://20823.live.streamtheworld.com/RADIO_UNO_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio AM 800",
+    "url": "https://21933.live.streamtheworld.com/RCN_RADIO_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Red Yuma Online",
+    "url": "http://zapatoca.net:8003/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sonar Stereo",
+    "url": "http://zapatoca.net:8015/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Bucaramanga",
+    "url": "https://17973.live.streamtheworld.com/TR_BUCARAMANGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tu Radio UTS",
+    "url": "http://icecast.teveo.com.co/utsradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UIS AM",
+    "url": "http://emisoras.uis.edu.co:8000/mp3am",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UIS Estéreo FM 96.9",
+    "url": "http://emisoras.uis.edu.co:8000/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio 1 Buenaventura",
+    "url": "https://21933.live.streamtheworld.com/RADIO_UNO_BUENAVENTURAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Voces del Pacífico FM 106.6",
+    "url": "http://62.210.141.243:8306/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oriental Stereo",
+    "url": "http://radio.nebra.co:8041/orientalstereoaac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Bakana 103.1",
+    "url": "http://radiohd.streaminghd.co:9352/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voces de Occidente",
+    "url": "http://142.4.2.72:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La 89.6",
+    "url": "http://stream1.emisorasvirtuales.com:8045/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Paz y Vida FM 107.2",
+    "url": "https://stream.zeno.fm/0zqh7fzhw5quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Maxima 107.4 FM",
+    "url": "http://www.colombiaemite.com:10150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Super Valle Estereo",
+    "url": "http://server.intermediacol.com:9302/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ke Buena Cajibío Online",
+    "url": "https://ssl.vocesparatumarca.co:7894/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guaviare Estéreo",
+    "url": "http://radiohd.streaminghd.co:8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Conexión Lasallista",
+    "url": "http://51.15.160.78:8430/index.html;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Iefangel Radio",
+    "url": "https://securestreams.eu:1408/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz De Mi Tierrita",
+    "url": "http://www.colombiaemite.com:10262/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lluvia FM 95.4",
+    "url": "http://colombiawebs.com.co:8082/start/corpocyn",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Águilas de Acero",
+    "url": "http://radio40.virtualtronics.com:8368/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Antena 2 Cali",
+    "url": "https://20833.live.streamtheworld.com/ANTENA_2_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Auténtica AM 660",
+    "url": "http://radio45.virtualtronics.com:8068/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blu Radio 91.5 FM",
+    "url": "http://17973.live.streamtheworld.com/BLU_CALI_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caliderumba Radio",
+    "url": "https://stream.zeno.fm/kkertu70mm5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caliradio",
+    "url": "https://radiolatina.info/9660/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Campo de Juego Radio",
+    "url": "http://51.15.160.78:8602/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Capital Salsa",
+    "url": "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Click Latino",
+    "url": "http://sonic.dattassd.com:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Durisima Radio Online",
+    "url": "https://stream.zeno.fm/cm8tkqp6twzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Faro Estereo",
+    "url": "https://stream.integracionvirtual.com/proxy/elfaroestereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Sol Cali 98.0 FM",
+    "url": "https://20833.live.streamtheworld.com/EL_SOL_CLOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Valle Estereo",
+    "url": "https://stream.zeno.fm/3sv3x15fuqruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta Buga",
+    "url": "https://20323.live.streamtheworld.com/FIESTA_BUGAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hay Radio",
+    "url": "http://acp2.lorini.net:5050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "HJEL Stereo.Net",
+    "url": "http://68.235.56.131:8004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Javeriana Estéreo FM 107.5",
+    "url": "https://broadcast.javerianacali.edu.co/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Caleña Stereo",
+    "url": "http://www.colombiaemite.com:10246/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Estudiantil Estereo",
+    "url": "http://real2.streaming-co.com:8711/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Máxima Radio",
+    "url": "https://stream1.redsonoraradio.net:9004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Radio Cultural",
+    "url": "http://radio30.virtualtronics.com:8114/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Roka Estacion",
+    "url": "https://stream.zeno.fm/w6b4s2s3eg5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La X 96.5 FM",
+    "url": "http://65.60.45.74:8088/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Latinoamerica Stéreo",
+    "url": "http://stream.integracionvirtual.com:8022/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maranatha Radio De Vida",
+    "url": "https://sonic.dattassd.com/8144/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Monumental Estereo",
+    "url": "https://radio30.virtualtronics.com/proxy/monumentalestereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "On Radio Cali",
+    "url": "https://wavefm.co:7010/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pradera Online Radio",
+    "url": "http://94.23.6.53:8326/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Calidad",
+    "url": "http://20833.live.streamtheworld.com/RADIO_CALIDAD_CLOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Calima Todelar",
+    "url": "http://65.60.45.74:8100/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Chécheres",
+    "url": "https://stream.zeno.fm/8bumeqkf9gwtv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Expreso Latino",
+    "url": "https://stream.zeno.fm/qren9t8qd6quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Farallones",
+    "url": "http://51.161.93.181:9072/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Freestyle Cali",
+    "url": "http://163.172.77.142:8552/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio GaGa Online",
+    "url": "http://195.154.133.107:8405/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Mixes",
+    "url": "https://listen.radioexpresolatino.com/stream/3/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio OETH",
+    "url": "https://s1.raudiostream.com:2000/stream/8020",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Poder Online",
+    "url": "https://stream.zeno.fm/kx66nhyz3tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Promesa Estereo",
+    "url": "http://195.154.133.107:8228/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Super Cali",
+    "url": "https://radiolatina.info/9934/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tango.co",
+    "url": "http://server.laradio.online:8728/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsa Magistral",
+    "url": "https://cloudstream2032.conectarhosting.com/8122/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsa Son Timba",
+    "url": "https://cloudstream2034.conectarhosting.com/8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "salsagordaradio",
+    "url": "https://stream.zeno.fm/s4s85axxaseuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tiempo Electronico Radio",
+    "url": "http://190.84.233.120:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Toque Latino",
+    "url": "http://sonic.dattassd.com:8048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Cali FM",
+    "url": "https://22203.live.streamtheworld.com/TR_CALIAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropirumba",
+    "url": "https://server.laradio.online/proxy/stream3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tú Radio Estereo",
+    "url": "http://163.172.198.16:8147/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Univalle Estéreo",
+    "url": "http://uv-stereo.univalle.edu.co:8000/envivo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vlasica 88.5 FM",
+    "url": "http://69.30.243.166:9434/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "W Radio",
+    "url": "https://15373.live.streamtheworld.com/WRADIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Campamento Stereo FM 97.5",
+    "url": "http://198.204.234.10:8148/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zoca Radio",
+    "url": "https://server2.ejeserver.com:8944/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Occidente Stereo",
+    "url": "http://198.204.234.10:8261/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Urabá Stereo FM 104.4",
+    "url": "http://radiohd.streaminghd.co:7082/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cartagena Radio Online",
+    "url": "https://stream.zeno.fm/1rst2p6ymwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cristiana Radio",
+    "url": "https://ssl.mestrestream.xyz:7448/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dimensión Estéreo",
+    "url": "http://212.83.172.11:8183/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora la Voz de Dios",
+    "url": "https://radiosslcristiweb.com:7003/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Minuto de Dios 89.5 FM",
+    "url": "https://sp4.colombiatelecom.com.co/8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1270",
+    "url": "https://22823.live.streamtheworld.com/LA_CARINOSA_CARTAGENAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Galactica Radio",
+    "url": "http://tachyon.shoutca.st:8272/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM94.5",
+    "url": "https://20323.live.streamtheworld.com/LA_MEGA_CARTAGENAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Reina",
+    "url": "http://i50.letio.com/9152.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 90.5",
+    "url": "https://i50.letio.com/9108.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Esperanza 1140 AM",
+    "url": "https://radiolatina.live:10991/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Misión Celestial FM 104.1",
+    "url": "https://play12.tikast.com/proxy/misioncelestial?mp=/stream?",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Príncipe AM 1200",
+    "url": "http://qodesktech.com:25000/radioprincipe",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo FM 88.5",
+    "url": "http://i50.letio.com/9140.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Cartagena AM 1000",
+    "url": "https://22823.live.streamtheworld.com/RCN_RADIO_CARTAGENAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santificate Radio FM 106.9",
+    "url": "https://stream.zeno.fm/31t45dz0c5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Cardenal Cartagena",
+    "url": "http://198.27.78.145:8086/stream/6/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sonido Virtual",
+    "url": "http://212.83.172.11:8169/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Cartagena",
+    "url": "https://17973.live.streamtheworld.com/TR_CARTAGENAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zonika Radio",
+    "url": "https://stream.zeno.fm/497tkkkefwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Presencia de Dios Radio",
+    "url": "https://play10.tikast.com/proxy/iglesia2?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Robledo 840 AM",
+    "url": "http://178.33.115.87:9986/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Caucacia",
+    "url": "https://20323.live.streamtheworld.com/RUMBA_CAUCASIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Sólida HD FM 102.5",
+    "url": "https://server2.ejeserver.com:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ambeima Estereo FM 89.6",
+    "url": "https://estructuraweb.com.co:9159/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Charalá Estéreo",
+    "url": "https://stream.zeno.fm/8e7qch9yftzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Luna Estéreo FM 106.4",
+    "url": "https://play10.tikast.com/proxy/webvir?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "88.9 Banana Stereo FM",
+    "url": "http://stream1.emisorasvirtuales.com:8217/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bendicion Eje",
+    "url": "http://samuel.i-radio.co:8000/radiobendicion",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mirador Stereo FM 104.1",
+    "url": "http://samuel.i-radio.co:8000/miradorstereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Furatena AM 1060",
+    "url": "http://radio35.virtualtronics.com:8207/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta FM 106.2",
+    "url": "http://server.intermediacol.com:7928/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Amigos de Choconta",
+    "url": "https://radiohd.streaminghd.co:7114/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Alternativo Radio",
+    "url": "https://radio30.virtualtronics.com/proxy/salternativo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Buenísima FM 94.1",
+    "url": "https://sonic.paulatina.co/7156/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cisneros Stéreo 105.4 FM",
+    "url": "https://server2.ejeserver.com:8430/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCB 88.5 FM",
+    "url": "https://radiolatina.info:10892/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cascada Estéreo",
+    "url": "https://play8.tikast.com/proxy/cascada?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "88.3 FM La Voz Del Agua",
+    "url": "http://freeus2.listen2myradio.com:4300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz De Condoto",
+    "url": "https://estructuraweb.com.co:9249/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manantial Stereo FM 98.2",
+    "url": "http://radio40.virtualtronics.com:8354/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "123Vallenato",
+    "url": "https://radiolatina.info/7087/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estrella.FM",
+    "url": "http://radiolatina.info:7084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sintracerromatoso Stereo",
+    "url": "https://estructuraweb.com.co:9324/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "DeCorozo Radio",
+    "url": "https://colombiawebs.com.co/proxy/decoroz1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vital Stereo",
+    "url": "https://s2.colombiaemite.com:25010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame",
+    "url": "https://17973.live.streamtheworld.com/BESAME_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta AM 900",
+    "url": "https://20323.live.streamtheworld.com/FIESTA_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "FM Santander",
+    "url": "http://163.172.198.16:8510/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frecuencia F AM 1370",
+    "url": "https://radio.frecuenciaf.com/envivo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frecuencia F FM",
+    "url": "https://radio.frecuenciaf.com/FM",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Impacto Stereo Radio Comunitaria",
+    "url": "https://stream.zeno.fm/ed63exd0ag8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1210",
+    "url": "https://22823.live.streamtheworld.com/LA_CARINOSA_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM 102.7",
+    "url": "https://20323.live.streamtheworld.com/LA_FM_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM 99.2",
+    "url": "https://20323.live.streamtheworld.com/LA_MEGA_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Norte AM 1040",
+    "url": "https://estructuraweb.com.co:9285/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 91.7",
+    "url": "https://22823.live.streamtheworld.com/RADIO_UNO_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Cúcuta AM 940",
+    "url": "https://20323.live.streamtheworld.com/RCN_RADIO_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana",
+    "url": "https://17973.live.streamtheworld.com/TR_CUCUTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UFPS Radio 95.2 FM",
+    "url": "https://sidsmovil.ga/emisoraufpsradiomp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vibra Radio",
+    "url": "http://209.126.119.28:8484/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "360 Latina FM",
+    "url": "https://stream.zeno.fm/v659dphpqqzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Celestial Stereo FM 96.7",
+    "url": "http://streaming.ajservicesonline.info.ve/8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mía 104.4 FM",
+    "url": "https://sp.tvcontrolcp.com/9308/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Brava Colombia",
+    "url": "https://airradios.com:9055/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dibulla Stereo 107.1 FM",
+    "url": "http://stream2.emisorasvirtuales.com:8652/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Ranchería",
+    "url": "https://s2.colombiaemite.com:25014/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Donmatias",
+    "url": "http://162.241.136.185:8000/donmatias.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Celestial Stereo",
+    "url": "https://stream2.305stream.com/proxy/client059?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombiaestropical",
+    "url": "https://stream.zeno.fm/046vzmpe7v5tv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Qué Buena FM 92.1",
+    "url": "https://play8.tikast.com/proxy/quebuena?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia FM 90.1",
+    "url": "https://radio35.virtualtronics.com:20023/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1030",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_CARINOSA_DUITAMAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM Boyacá",
+    "url": "https://20823.live.streamtheworld.com/LA_FM_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Señal Duitama FM 90.6",
+    "url": "http://radiohd.streaminghd.co:7265/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "W Radio 1150 AM",
+    "url": "https://18493.live.streamtheworld.com/WRADIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ritmo Stereo FM 99.7",
+    "url": "https://stream.zeno.fm/nb729a6xs5quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Aguila Stereo FM 104.1",
+    "url": "http://198.50.156.92:8384/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Carmen Stereo",
+    "url": "https://streaming.radiosenlinea.com.ar:10893/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fanática Stereo",
+    "url": "https://stream.zeno.fm/7vyvgeck4gruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mi Pacifico",
+    "url": "https://stream.zeno.fm/u1nngtkfp9duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pacifico Romantico",
+    "url": "https://stream.zeno.fm/e417p7qrn9duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo AM 1390",
+    "url": "https://server2.ejeserver.com:8844/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La voz de la Provincia",
+    "url": "http://www.colombiaemite.com:10014/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Fénix AM 1330",
+    "url": "http://163.172.198.16:8174/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tequendamita 89.4 FM",
+    "url": "https://play8.tikast.com/proxy/tequendamita?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Máxima FM 89.7",
+    "url": "http://www.colombiaemite.com:10176/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Asocomunal Estereo FM 89.4",
+    "url": "https://cloudstream2034.conectarhosting.com/8088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Quillera Stereo",
+    "url": "https://cloudstream2034.conectarhosting.com:7080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Munchique Estereo Online",
+    "url": "https://stream.integracionvirtual.com/proxy/nazareno?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paisaje Estereo 104.4 FM",
+    "url": "https://innovapues.com:8443/paisaje.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cortiple Radio",
+    "url": "http://radio40.virtualtronics.com:8396/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dorado Radio",
+    "url": "https://estructuraweb.com.co:9240/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Magna Stereo FM 97.6",
+    "url": "http://51.15.160.78:8917/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "radiodiscozh",
+    "url": "http://51.15.160.78:8743/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Armonias del Caquetá",
+    "url": "https://broadcasting.enlacestic.com/radio/8020/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CaquetaRadio",
+    "url": "https://ssl.mestrestream.xyz:7062/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CNV Radio",
+    "url": "http://stream2.emisorasvirtuales.com:8336/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cristalina Caqueta",
+    "url": "http://149.56.147.197:9635/cristalinaflorencia",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Florencia 104",
+    "url": "https://ssl.mestrestream.xyz:7450/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Caqueteña",
+    "url": "http://149.56.147.197:9638/lacaquetena",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Concierto Colombiano",
+    "url": "http://albireo.shoutca.st:8453/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dikam Radio",
+    "url": "https://turadio.accesopanel.com:7154/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Folklore Radio",
+    "url": "http://142.4.217.133:8453/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La U Radio 107.7",
+    "url": "https://stream.lauradio.co/lauradio",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Noticiero de Santander",
+    "url": "http://mp3uplink.duplexfx.com:8046/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fonseca Stereo 88.3 FM",
+    "url": "https://stream.zeno.fm/9fh4121ha3quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Antares del Oriente FM 107.1",
+    "url": "http://162.241.38.147:8085/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cerros Estéreo FM 107.4",
+    "url": "https://stream.zeno.fm/ggufr7sds2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos de Frontino AM 1420",
+    "url": "https://stream.zeno.fm/hpfum8q2b0quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Impacto Stereo 107.9 FM",
+    "url": "http://player.pcpcomunicaciones.com:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Batuta Radio",
+    "url": "http://51.15.160.78:8192/streaming",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos de Guali",
+    "url": "https://radio25.virtualtronics.com/proxy/bacata?mp=/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Belmira Radio",
+    "url": "https://stream.zeno.fm/az18eqbv88quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "DJ Luicar Radio",
+    "url": "http://real2.streaming-co.com:8027/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Fusaonline",
+    "url": "https://stream.zeno.fm/mupcgbmwqhruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Nueva Epoca AM 1200",
+    "url": "http://real2.streaming-co.com:8055/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Online Fusagasugá",
+    "url": "http://real2.streaming-co.com:8016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Toca Stereo FM 105.3",
+    "url": "https://estructuraweb.com.co:9366/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guavio Estereo",
+    "url": "http://radiohd.streaminghd.co:7029/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "F-Radio FM 103.5",
+    "url": "https://stream.zeno.fm/2ex5e6qaqtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Popular Stereo FM 105.6",
+    "url": "https://radio30.virtualtronics.com/proxy/popularst?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pelinku Stereo 94.3 FM",
+    "url": "https://play10.tikast.com/proxy/pelinku?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santa Bárbara St",
+    "url": "http://198.27.88.38:7376/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Garzon Stereo",
+    "url": "http://radiohd.streaminghd.co:7351/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Esquina del Movimiento",
+    "url": "http://51.15.160.78:8657/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sabambu FM 88.8",
+    "url": "https://mediacp15.rootservers.co:8024/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo AM 1450",
+    "url": "http://stream.jach.com.co:8248/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 93.6",
+    "url": "https://20323.live.streamtheworld.com/RADIO_UNO_GIRARDOTAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Todojuanmanuel Estereo",
+    "url": "http://163.172.198.16:8342/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Alternativa 98.5 FM",
+    "url": "http://www.colombiaemite.com:10352/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Primaveral Stereo FM 104.4",
+    "url": "http://198.204.234.10:8271/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas Don Bosco FM 89.3",
+    "url": "http://163.172.198.16:8076/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Granada Estéreo",
+    "url": "https://play8.tikast.com/proxy/granada?mp=/stream%E2%80%A8",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Muellamues Estéreo 107.5 FM",
+    "url": "https://stream.zeno.fm/5uu2tw8wgnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Viva Fenix 102.3 FM",
+    "url": "https://radio30.virtualtronics.com/proxy/radioviva_7?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guaduas Stereo FM 88.3",
+    "url": "https://hoth.alonhosting.com:2485/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Peñon de Guatape Cultural",
+    "url": "https://play8.tikast.com/proxy/guatape?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sochaquira Guayatá Estereo",
+    "url": "http://109.73.65.69:22594/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Primera Stereo 97.7 FM",
+    "url": "https://sonic.globalstreaming.net:10988/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guaca Stereo 95.4 FM",
+    "url": "https://stream.zeno.fm/wkxspaskh5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "VST Radio",
+    "url": "https://radio35.virtualtronics.com/proxy/vstradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 90.5",
+    "url": "http://stream.jach.com.co:8240/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Aro Radio",
+    "url": "http://62.210.38.137:8132/stream?type=http&nocache=3474",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Canicaradio.com",
+    "url": "http://163.172.198.16:8393/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ciudad y Región",
+    "url": "https://emisoras.colombiacrossover.com/proxy/zciudadyregion?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Claroscuro Digital",
+    "url": "http://148.72.152.176:8423/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CMCVirtual Radio",
+    "url": "https://stream.zeno.fm/wv7dnax6e4duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Conectando Estéreo FM 91.5",
+    "url": "https://play10.tikast.com/proxy/sc_javqu?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cristianos Radio",
+    "url": "https://emisorasvirtuales.com.co:9489/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos del Combeima",
+    "url": "http://s2.viastreaming.net:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Cultural del Tolima",
+    "url": "http://radiohd.streaminghd.co:7187/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Alfareria",
+    "url": "https://stream.zeno.fm/0etap8t704zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cabrilla",
+    "url": "https://server2.ejeserver.com:8646/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Pueblo 920 AM",
+    "url": "https://mediacp15.rootservers.co:8100/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maranata Stereo",
+    "url": "https://stream.zeno.fm/82c2zp7w87zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mercacacentro Radio On Line",
+    "url": "http://radiohd.streaminghd.co:7089/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 94.3",
+    "url": "https://i60.letio.com/9130.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas de Ibagué 1470 a.m.",
+    "url": "https://stream.zeno.fm/8x7zmex5eeruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Prodihogar Radio",
+    "url": "https://emisoras.colombiacrossover.com/proxy/zprodihogar?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Digital Ibague",
+    "url": "https://stream.zeno.fm/y66wrrfuawzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Popular de Colombia",
+    "url": "https://stream.zeno.fm/4d5n9bb8xzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno Ibagué 88.3 FM",
+    "url": "https://20323.live.streamtheworld.com/RADIO_UNO_IBAGUEAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Aro",
+    "url": "https://stream.zeno.fm/eb9xg1xwx8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tolima Online",
+    "url": "http://149.56.147.197:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tolima Radio",
+    "url": "https://emisoras.colombiacrossover.com/proxy/ztolimaradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tolima Stereo 92.3",
+    "url": "http://i50.letio.com/5016.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Custodia Stereo FM 98.7",
+    "url": "https://s2.colombiaemite.com:25178/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tierradentro Stereo 92.7 FM",
+    "url": "https://stream.zeno.fm/vt029ye33mruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Internacional Stereo FM 105.9",
+    "url": "http://167.114.113.108:10234/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Trio De Tres",
+    "url": "http://163.172.198.16:8132/stream?type=http&nocache=739",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Viva Fenix 1220 AM",
+    "url": "https://radio30.virtualtronics.com/proxy/radioviva_2?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Viva Fenix 89.1 FM",
+    "url": "https://radio30.virtualtronics.com/proxy/radioviva_3?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Las Lajas",
+    "url": "https://radiohd.streaminghd.co:7135/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Iquira Estereo",
+    "url": "https://radiohd.streaminghd.co:7439/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Brisas del San Juan FM 106.3",
+    "url": "http://62.210.141.243:8103/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Escenario de los Clasicos",
+    "url": "http://62.210.38.137:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Noncetá Estéreo FM 92.6",
+    "url": "http://stream.lajradio.eu:7242/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Costerisima Stereo",
+    "url": "https://centova.hostingelectrica.net/proxy/costeris?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Costera 96.6 FM",
+    "url": "https://stream.zeno.fm/xmhutvzn7s8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Kambis Stereo FM 105.7",
+    "url": "https://radiohd.streaminghd.co:7077/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos Prensa Radio",
+    "url": "https://stream.zeno.fm/um30vzk214zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Calera FM 101.3",
+    "url": "http://www.colombiaemite.com:10070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Celeste Estéreo FM 105.4",
+    "url": "https://play8.tikast.com/proxy/celeste?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mundo + Radio",
+    "url": "https://radiolatina.info:10856/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oriente Stereo",
+    "url": "https://20323.live.streamtheworld.com/RADIO_UNO_LACEJAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vive FM 101.7",
+    "url": "https://sonicpanel.globalstream.pro:10958/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Dorada Stereo FM 89.1",
+    "url": "https://stream.zeno.fm/t9q85ppg0eruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 98.7",
+    "url": "http://stream.jach.com.co:8244/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana 94.7 FM",
+    "url": "https://radiohd.streaminghd.co:7336/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manantial Stereo FM 99.5",
+    "url": "http://server.lajradio.eu:9400/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Proyección Stereo FM 101.5",
+    "url": "https://stream.zeno.fm/0zv1qw90np8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Brisa FM 93.1",
+    "url": "https://stream.zeno.fm/a2yr5wew44zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mi Gente Radio FM 99.5",
+    "url": "http://centova.paradigmaweb.com:9852/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ciber Stereo 107.1 FM",
+    "url": "http://radio35.virtualtronics.com:8453/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Violeta Stereo La Paz",
+    "url": "https://cloudoledgo.com:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Farallones Digital",
+    "url": "http://radio45.virtualtronics.com:8112/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Luz Stereo La Pintada",
+    "url": "https://play12.tikast.com/proxy/luzstereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Potencia Latina 1380 AM",
+    "url": "https://radiohd.streaminghd.co:7132/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta Stereo FM 95.8",
+    "url": "https://stream.zeno.fm/vh706czdt7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Global Estereo 96.8fm",
+    "url": "https://radiolatina.info/9840/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La \"O\"",
+    "url": "http://stream2.emisorasvirtuales.com:8622/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Princesa Stereo",
+    "url": "http://stream2.emisorasvirtuales.com:8306/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Planeta FM 88.9",
+    "url": "http://streaming.hdserver.biz:9416/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Edén FM 91.3",
+    "url": "http://www.colombiaemite.com:10044/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Máxima FM 95.4",
+    "url": "https://turadio.accesopanel.com/8532/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de La Unión",
+    "url": "https://play8.tikast.com/proxy/launion?mp=/stream%E2%80%A8",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Visión Estéreo FM 89.6",
+    "url": "http://radiohd.streaminghd.co:7378/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Azúcar Stereo FM 104.1",
+    "url": "http://www.colombiaemite.com:10282/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Morena Stereo FM 98.2",
+    "url": "https://stream.zeno.fm/s87y2kpabnzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Proyeccion FM Stereo 88.1",
+    "url": "https://play8.tikast.com/proxy/proyecc21?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Amplitud Modulada",
+    "url": "https://stream.zeno.fm/mvu5tmekswzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Espectro Radio",
+    "url": "https://stream.zeno.fm/abxamcp5u8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frecuencia Radio",
+    "url": "https://stream.zeno.fm/whkqcd4rz8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lenguazaque FM Stereo 94.4",
+    "url": "http://www.colombiaemite.com:10106/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropirecuerdos",
+    "url": "http://www.virtualtronics.net:8207/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fantástica FM 103.9",
+    "url": "https://play8.tikast.com/proxy/fantastica?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas del Amazonas AM 1260",
+    "url": "https://stream.zeno.fm/vstgurz3cnzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Veterana 103.5 FM",
+    "url": "https://streamssl.eu:1356/laveteranacentromp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Noticiero Enfoque",
+    "url": "https://streamssl.eu:2072/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Q Buena Medellin",
+    "url": "http://samuel.i-radio.co:8000/arleydavid",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lloro Stereo FM 88.3",
+    "url": "http://163.172.198.16:8222/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Calientisima Stereo FM 97.5",
+    "url": "https://live.hbstreaming.com/calientisimastereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sonorama Estereo 106.3 FM",
+    "url": "https://stream.zeno.fm/n41purpqgzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "102.5 Oasis Stereo FM",
+    "url": "http://stream.lajradio.eu:7410/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Esquina Radio",
+    "url": "https://stream.zeno.fm/6pqrv688ptzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Cristiacción",
+    "url": "https://radiosslcristiweb.com:7000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frontera Stereo FM 89.1",
+    "url": "https://stream.zeno.fm/db12gu5a0tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 89.5",
+    "url": "http://dattavolt.com:8336/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paz y Vida Radio 105.1 FM",
+    "url": "https://radiolatina.live:10899/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Los Andes stereo",
+    "url": "https://stream.zeno.fm/ufne3dysmeruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voces Rovirenses",
+    "url": "https://play10.tikast.com/proxy/vocesrovirenses?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sensación Stereo FM 107.6",
+    "url": "https://stream.zeno.fm/6kunuywn4f8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Manizales",
+    "url": "http://22983.live.streamtheworld.com/BESAME_MANIZALES_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Bohemia",
+    "url": "http://64.37.50.226:8024/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Crossover",
+    "url": "http://64.37.50.226:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Lounge",
+    "url": "https://emisoras.colombiacrossover.com/proxy/collounge?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Pop Rock",
+    "url": "http://64.37.50.226:8195/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Salsa Dura",
+    "url": "http://64.37.50.226:8054/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Salsa Rosa",
+    "url": "http://64.37.50.226:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colombia Vallenata",
+    "url": "http://64.37.50.226:8042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Son Radio",
+    "url": "http://178.33.166.7:8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Chimba Radio",
+    "url": "http://64.37.50.226:8124/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de los Andes AM 1390",
+    "url": "https://stream1.redsonoraradio.net:9012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manizales News",
+    "url": "http://163.172.77.142:8678/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manizales Stereo",
+    "url": "https://emisora.manizalesstereo.com/proxy/manizalesstereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 89.7",
+    "url": "https://i50.letio.com/9126.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "OrakaMix",
+    "url": "https://estructuraweb.com.co:9258/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Condor AM 1540",
+    "url": "http://185.250.105.207:2011/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Cristiana Manizales",
+    "url": "https://samuel.i-radio.co:8000/radiodeportes",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo FM 95.1",
+    "url": "http://i60.letio.com/9166.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Manizales",
+    "url": "https://17973.live.streamtheworld.com/TR_MANIZALESAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UM FM 101.2",
+    "url": "https://stream.zeno.fm/3zxbqd6v24zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Veracruz Internacional",
+    "url": "https://estructuraweb.com.co:9384/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Viejoteca de Richy",
+    "url": "http://64.37.50.226:8018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Yinkana Radio",
+    "url": "http://51.15.160.78:8114/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voces FM 96.7",
+    "url": "http://185.250.105.207:2042/;?type=http&nocache=1572293708",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Coredi FM",
+    "url": "https://estructuraweb.com.co:9042/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Toca Stereo Mariquita FM 99.5",
+    "url": "https://estructuraweb.com.co:9372/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ritmo 90.1",
+    "url": "https://server2.ejeserver.com:8053/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sembrando Estereo FM 90.1",
+    "url": "http://samuel.i-radio.co:8000/sembrandoestereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "100.9 FM Latina Stereo",
+    "url": "http://198.27.68.65:8296/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "123 Vallenato",
+    "url": "http://radiolatina.info:7087/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Anime Plus Radio",
+    "url": "https://stream.zeno.fm/9tf4ef58xbruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Arizsanta FM Stereo",
+    "url": "http://163.172.77.142:8261/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Asoredes Radio",
+    "url": "http://18.188.241.142:90/asoredesradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Besame",
+    "url": "https://17973.live.streamtheworld.com/BESAME_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bienvenida Estereo",
+    "url": "https://radio25.virtualtronics.com/proxy/bienvenida?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blue Medellin",
+    "url": "https://fm.transmitir.me/radio/8030/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Canela Medellín",
+    "url": "https://stream.zeno.fm/8aznr4qa38quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol Radio",
+    "url": "https://18063.live.streamtheworld.com/CR_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Chicho Betancur Radio",
+    "url": "https://radio35.virtualtronics.com/proxy/chichobetancur?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Contacto10.FM",
+    "url": "http://real2.streaming-co.com:8675/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Sol Medellin 107.9 FM",
+    "url": "https://21933.live.streamtheworld.com/EL_SOL_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Elite Radio",
+    "url": "https://listen.usuarios.space/eliteradio/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Claridad",
+    "url": "http://65.60.45.74:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Comunitaria La Uno Radio",
+    "url": "https://radiolatina.info/9922/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Cultural Universidad de Antioquia",
+    "url": "https://sp2.servidorrprivado.com:10940/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estampas Vallenatas Radio",
+    "url": "https://sonic.paulatina.co/7428/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estrella Estéreo",
+    "url": "http://audio.estrellacolombia.com:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fantástica Medellin 96.9 FM",
+    "url": "http://20823.live.streamtheworld.com/FANTASTICA_MED_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frecuencia Estéreo FM 88.4",
+    "url": "https://listen.usuarios.space/frecuenciaestereo/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Generación Radio",
+    "url": "https://usa2.fastcast4u.com/proxy/generacionradio?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guaro FM",
+    "url": "https://mediacp15.rootservers.co:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Guasca FM",
+    "url": "https://guascafm.com/radio/8700/guascafm889",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Íntima Devoción Radio",
+    "url": "https://emisora.intimadevocion.org/radio/8000/radio.mp3?1592053614",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Bailoteka",
+    "url": "http://radio35.virtualtronics.com:8060/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Esquina del Guaguanco",
+    "url": "http://66.147.230.2:9918/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM Medellin 106.3",
+    "url": "https://live4.rcnmundo.com/lafmmedellin.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega 92.9 FM",
+    "url": "https://20833.live.streamtheworld.com/LA_MEGA_MEDAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Retro Radio",
+    "url": "http://audio.laretroradio.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz De Antioquia 1080 AM",
+    "url": "https://radio35.virtualtronics.com/proxy/lavozantioquia?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Colombia Bésame FM 94.9",
+    "url": "https://24063.live.streamtheworld.com/BESAME_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Jesuscristo",
+    "url": "http://162.144.254.131:8010/yeshua",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz De La Nostalgia",
+    "url": "https://play8.tikast.com/proxy/lavozdelanostalgia?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Rey",
+    "url": "https://emisorasvirtuales.com.co:9300/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La X",
+    "url": "http://65.60.45.74:8070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Z Urbana 919",
+    "url": "http://65.60.45.74:8072/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Zona Gris",
+    "url": "https://listen.usuarios.space/zona-gris",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La9f.com",
+    "url": "https://play8.tikast.com/proxy/la9f?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mad Radio",
+    "url": "https://s2.radio.co/s953724e99/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mary Tunes Radio",
+    "url": "https://estructuraweb.com.co:9210/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Miradiovida.com",
+    "url": "http://163.172.198.16:8385/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo",
+    "url": "http://i50.letio.com/9162.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oxigeno by Los 40 Medellín",
+    "url": "https://18063.live.streamtheworld.com/OXI_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oyente Stereo",
+    "url": "http://server2.ejeserver.com:8364/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paisa Estéreo",
+    "url": "http://radiolatina.info:7094/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Punk en las venas Radio",
+    "url": "http://163.172.77.142:8657/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Q'Hubo AM 830",
+    "url": "http://17973.live.streamtheworld.com/QHUBO_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Acktiva FM 97.9",
+    "url": "https://20823.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Bolivariana",
+    "url": "http://streaming.radiobolivarianavirtual.com:7620/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Bolivariana FM",
+    "url": "http://streaming.radiobolivarianavirtual.com:7630/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Chakaruna Online",
+    "url": "http://195.154.133.107:8570/stream?type=http&nocache=830",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio CIPA Estereo",
+    "url": "http://radio45.virtualtronics.com:8238/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Colombia Internacional",
+    "url": "https://radio30.virtualtronics.com/proxy/radiocolombiainternacional?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Ipuc",
+    "url": "http://62.210.141.243:8057/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Munera",
+    "url": "http://radiolatina.info:9856/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Paisa AM 1140",
+    "url": "http://21933.live.streamtheworld.com/RADIO_PAISA_MEDAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Red AM 720",
+    "url": "http://21933.live.streamtheworld.com/RADIO_RED_MEDAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo FM 105.9",
+    "url": "http://i50.letio.com/9144.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Vopaleson",
+    "url": "https://stream.zeno.fm/3zavadx362quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio AM 990",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Retroviva Clásica",
+    "url": "https://stream.zeno.fm/r8rwffm98zquv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Revolution Radio Online",
+    "url": "https://stream.zeno.fm/vhau4yxqgtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salsa Con Estilo",
+    "url": "http://real2.streaming-co.com:8302/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tejelo Estereo Radio",
+    "url": "https://stream.zeno.fm/p0nbma6h08quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Telemedellin Radio",
+    "url": "https://colombiawebs.com.co/proxy/stream320?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Todelar Radio 910 AM",
+    "url": "http://65.60.45.74:8078/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Medellin",
+    "url": "https://17973.live.streamtheworld.com/TR_MEDELLINAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UN Radio Medellín",
+    "url": "http://streaming.unradio.unal.edu.co:8012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vallenatos y mas",
+    "url": "http://192.95.18.39:5040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vendaval Estéreo",
+    "url": "https://stream.zeno.fm/22uu2x7s92quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Veracruz Estereo 91.1 FM",
+    "url": "http://167.86.104.161:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vieja Guardia Radio",
+    "url": "http://195.154.133.107:8174/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "W+",
+    "url": "https://22983.live.streamtheworld.com/WRADIO_MASAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WiFi Radio",
+    "url": "http://radio45.virtualtronics.com:8022/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lengupá Stereo",
+    "url": "http://167.114.113.108:10080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz del Vaupés FM 97.7",
+    "url": "http://163.172.198.16:8003/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Bomba",
+    "url": "https://play10.tikast.com/proxy/labomba?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Primera Estereo FM 107.3",
+    "url": "https://play8.tikast.com/proxy/laprimeraem?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Reina FM 106.3",
+    "url": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maguare Stereo FM 89.3",
+    "url": "http://streaming.hdserver.biz:9448/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Waira FM 104.7",
+    "url": "https://emisorasvirtuales.com.co:9324/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mogotes Estereo FM 103.2",
+    "url": "https://play10.tikast.com/proxy/mogotes?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Caucanita 105.9 FM",
+    "url": "https://stream.zeno.fm/s51aaf63mqzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ritmo FM 94.1",
+    "url": "http://167.114.113.108:10084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hit Stereo 89.3",
+    "url": "http://163.172.77.142:8072/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "JL Radio",
+    "url": "http://62.210.141.243:8193/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Konsentida FM 100.1",
+    "url": "https://radiohd.streaminghd.co:7406/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Latina Online",
+    "url": "http://185.250.105.207:3004/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Piragua FM 90.3",
+    "url": "https://radio30.virtualtronics.com/proxy/montelibano?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caribe Sports Radio",
+    "url": "http://62.210.141.243:8348/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Frecuencia Bolivariana",
+    "url": "https://radiolatina.info/9326/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "H&G Stereo",
+    "url": "http://163.172.77.142:8645/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Montería",
+    "url": "http://radio25.virtualtronics.com:8234/;play.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 90.5",
+    "url": "https://i60.letio.com/9112.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Luz Colombia",
+    "url": "https://stream.zeno.fm/qp8huw47uwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo FM 104.5",
+    "url": "http://i60.letio.com/9142.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno AM 1220",
+    "url": "https://24383.live.streamtheworld.com/RADIO_UNO_MONTERIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio AM 1050",
+    "url": "https://22823.live.streamtheworld.com/RCN_RADIO_MONTERIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Monteria",
+    "url": "https://17973.live.streamtheworld.com/TR_MONTERIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Morroa Estereo",
+    "url": "https://fm.therhenals.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tu Muzo Stereo",
+    "url": "http://radiohd.streaminghd.co:9316/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Necocli Stereo 104.4 FM",
+    "url": "https://www.colombiaemite.com:25330/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Acuarela Colombiana",
+    "url": "http://163.172.77.142:8039/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame AM 1210",
+    "url": "https://20823.live.streamtheworld.com/BESAME_NEIVA_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol Radio FM 105.1",
+    "url": "https://24383.live.streamtheworld.com/CR_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "H.J. Doble K AM840",
+    "url": "http://37.187.93.104:8292/HJKKneiva",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Huila Stereo FM 104.3",
+    "url": "https://radiohd.streaminghd.co:7220/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa 1340 AM",
+    "url": "https://24383.live.streamtheworld.com/LA_CARINOSA_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La FM 1100AM",
+    "url": "https://22823.live.streamtheworld.com/LA_FM_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mix Radio FM 94.8",
+    "url": "https://i50.letio.com/9148.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Neiva Stereo 93.8 FM",
+    "url": "http://radiohd.streaminghd.co:7003/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 100.3",
+    "url": "https://i50.letio.com/9136.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Surcolombiana",
+    "url": "https://usa4.fastcast4u.com/proxy/fundacio?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo",
+    "url": "http://i50.letio.com:80/9148.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 90.3",
+    "url": "https://22823.live.streamtheworld.com/RADIO_UNO_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Neiva 1150 AM",
+    "url": "https://22823.live.streamtheworld.com/RCN_RADIO_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Neiva 98.3 FM",
+    "url": "https://17973.live.streamtheworld.com/TR_NEIVAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Uniminuto Radio Neiva",
+    "url": "https://uniminutoradioneiva.out.airtime.pro//uniminutoradioneiva_b",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manzanar Stereo",
+    "url": "https://paulatina.online:7426/;stream%20type=%22audio/mp3%22",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Azotea Radio",
+    "url": "http://radio40.virtualtronics.com:8374/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "DCN Radio",
+    "url": "http://63.247.91.178:12086/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ocañerisima Stereo",
+    "url": "http://51.15.160.78:8638/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Stereo Ocaña",
+    "url": "https://22823.live.streamtheworld.com/RUMBA_OCANAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pacho Stereo FM 94.4",
+    "url": "http://167.114.113.108:10136/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "FM 102.7",
+    "url": "http://163.172.198.16:8740/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estacion 24 FM 91.8",
+    "url": "https://radiohd.streaminghd.co:7129/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blu Radio",
+    "url": "http://24383.live.streamtheworld.com/BLURADIO.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio La Paz 710 AM",
+    "url": "http://www.colombiaemite.com:10152/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Angular Estéreo 97.2 FM",
+    "url": "https://sonic.paulatina.co/7080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Virtual Stereo",
+    "url": "https://cloudstream2032.conectarhosting.com/8212/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Rumbera Palmira",
+    "url": "http://184.107.35.153:9336/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lejar Radio",
+    "url": "http://163.172.198.16:8366/stream?1558601403463",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pamplona Colombia Radio",
+    "url": "http://163.172.198.16:8198/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Furor Stereo Pasca",
+    "url": "http://real2.streaming-co.com:8073/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Altavox Radio",
+    "url": "https://stream.zeno.fm/1ku9cea951zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol Radio AM 1400",
+    "url": "https://radiolatina.info/9456/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CiberadioColombia",
+    "url": "https://radio35.virtualtronics.com/proxy/ciberadio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos de Pasto AM 740",
+    "url": "https://s3.myradiostream.com:7282/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hits de los 80's",
+    "url": "https://stream.zeno.fm/pc0tfvevx2quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa AM 1460",
+    "url": "https://22823.live.streamtheworld.com/LA_CARINOSA_PASTOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Viejoteca De Mao",
+    "url": "http://radiohd.streaminghd.co:9382/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Musicvox FM 95.1",
+    "url": "https://stream.zeno.fm/x8q6ph631tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Play Radio",
+    "url": "https://stream.zeno.fm/ar4h8026v2quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Nariño",
+    "url": "https://stream.zeno.fm/vmhqnxq7y4zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 94.1",
+    "url": "https://22823.live.streamtheworld.com/RADIO_UNO_PASTOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Viva Fenix 780 AM",
+    "url": "https://radio30.virtualtronics.com/proxy/radioviva_1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Pasto 1340 AM",
+    "url": "https://20323.live.streamtheworld.com/RCN_RADIO_PASTOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Romántica Stereos FM",
+    "url": "http://radiolatina.info:7096/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RUN 101.1 FM Estereo",
+    "url": "https://streaming.udenar.edu.co:8443/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Superlatin Radio",
+    "url": "https://radio25.virtualtronics.com/proxy/superlatin?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Pasto",
+    "url": "https://17973.live.streamtheworld.com/TR_PASTOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Patía 99.4 FM",
+    "url": "http://www.radiolatina.info:9920/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Canipa Stereo FM 89.6",
+    "url": "http://radiolatina.info:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voz Minera de Colombia",
+    "url": "http://radiohd.streaminghd.co:7277/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pensilvania Stereo FM 93.1",
+    "url": "http://radio45.virtualtronics.com:8130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Azucar pa ti",
+    "url": "http://51.15.160.78:8807/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Pereira",
+    "url": "https://18063.live.streamtheworld.com/BESAME_PEREIRA_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cespedes Comenta Radio",
+    "url": "https://emisorasvirtuales.com.co:9396/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Chevere Radio FM 89.3",
+    "url": "http://server2.ejeserver.com:8434/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos AM 1360",
+    "url": "https://estructuraweb.com.co:9309/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Cultural 97.7 FM",
+    "url": "http://34.228.78.107:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Generación Al Aire",
+    "url": "http://server2.ejeserver.com:8104/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Generaxion Radio",
+    "url": "https://sonic.globalstreaming.net/8022/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Chevirisima Pereira",
+    "url": "https://stream.zeno.fm/facksy14qs8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Eje Radio",
+    "url": "https://server2.ejeserver.com:10860/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega FM 105.2",
+    "url": "https://22823.live.streamtheworld.com/LA_MEGA_PEREIRAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Querendona AM 1270",
+    "url": "https://emisorasvirtuales.com.co:9381/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Pereira",
+    "url": "http://131.153.56.234:9712/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mi Gente Stereo",
+    "url": "https://estructuraweb.com.co:9300/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Nachoteca Radio",
+    "url": "http://radio45.virtualtronics.com:8346/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 102.7",
+    "url": "https://i50.letio.com/9124.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Onda Rock",
+    "url": "https://sonic01.instainternet.com/8248/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pereira es Salsa",
+    "url": "https://radio35.virtualtronics.com/proxy/pereiraessalsa?mp=/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Cruda",
+    "url": "http://real2.streaming-co.com:8590/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Eje del Café",
+    "url": "https://emisorasvirtuales.com.co:9039/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Vesa Valtonen",
+    "url": "http://radio45.virtualtronics.com:8210/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RadioUCP",
+    "url": "http://real2.streaming-co.com:8005/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Pereira 1020 AM",
+    "url": "https://22823.live.streamtheworld.com/RCN_RADIO_PEREIRAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Pereira",
+    "url": "https://17973.live.streamtheworld.com/TR_PEREIRAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pital Stereo FM 98.8",
+    "url": "https://radiohd.streaminghd.co:7424/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Ciento 7 Digital",
+    "url": "https://radiohd.streaminghd.co:7190/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Fiera FM Radio 92.3 FM",
+    "url": "https://dj91.hostingnuclear.com/8052/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Preferida FM 98.8",
+    "url": "http://radiohd.streaminghd.co:7342/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Moda Radio Colombia",
+    "url": "https://stream.zeno.fm/yzd3tus1z5quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Poderosa del Huila FM 102.3",
+    "url": "http://radiohd.streaminghd.co:7229/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Musicalia FM Stereo",
+    "url": "http://www.colombiaemite.com:10382/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba FM 97.5",
+    "url": "https://21933.live.streamtheworld.com/RUMBA_PLANETA_RICAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bésame Popayán",
+    "url": "http://22983.live.streamtheworld.com/BESAME_POPAYAN_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "BPM Electro",
+    "url": "https://c13.radioboss.fm:18144/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Canela Estereo 99.4 FM",
+    "url": "https://ce.redconnections.net:8019/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Celestial Estereo 102.1 FM",
+    "url": "https://estructuraweb.com.co:9234/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fuego 100.9 FM",
+    "url": "https://radio35.virtualtronics.com/proxy/fuegofm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Clave 96.5 FM",
+    "url": "https://stream.zeno.fm/q55a6adzqbruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz FM 97.1",
+    "url": "http://163.172.198.16:8268/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Planeta FM 88.9",
+    "url": "https://securestream.radioshd.info:7058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Popayán FM 105.1",
+    "url": "http://148.72.152.176:8018/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio 1040 AM",
+    "url": "https://dynamic10.wavefm.co:7036/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Star Radio 102",
+    "url": "https://stream.zeno.fm/fs8xzbs6aveuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Super Popayan 1070 AM",
+    "url": "http://192.99.203.81:9523/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno FM 100.1",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_FMAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Popayan 1370 AM",
+    "url": "https://21933.live.streamtheworld.com/RCN_RADIO_POPAYANAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Studio 51 Exitos",
+    "url": "https://estructuraweb.com.co:9189/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Super Estación Popayán",
+    "url": "https://stream.zeno.fm/enzg7nqec2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropical Radio",
+    "url": "https://stream.zeno.fm/3wc5x9nd0ueuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Popayán",
+    "url": "https://17973.live.streamtheworld.com/TR_POPAYANAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Unicauca Estéreo 104.1 FM",
+    "url": "http://ftpemisora.unicauca.edu.co:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Urbana FM 102.5",
+    "url": "https://estructuraweb.com.co:9081/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vinilo Online Radio",
+    "url": "http://163.172.198.16:8752/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Latina Stereo FM 91.3",
+    "url": "https://radiohd.streaminghd.co:7646/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Puerto Berrio Stereo 89.4 FM",
+    "url": "https://radiolatina.info/9800/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voz Claveriana",
+    "url": "https://streaming.radiosenlinea.com.ar/9038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Puerto Estereo FM 101.6",
+    "url": "https://streaming.radiosenlinea.com.ar:10835/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Energia FM Llanos",
+    "url": "https://stream.zeno.fm/ddu18gufhhruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Jhon Publicidad",
+    "url": "https://radiolatina.info/9780/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Android Chocó",
+    "url": "https://emisorasvirtuales.com.co:9081/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Areito Stereo",
+    "url": "http://stream2.emisorasvirtuales.com:8082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Blondy Radio",
+    "url": "https://stream.zeno.fm/g245nkpp12quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Carrasquilla Stereo FM 93.4",
+    "url": "http://54.39.106.212/8050/formato=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Villa Digital",
+    "url": "https://estructuraweb.com.co:9114/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MarioEnTuRadio  Juvenil",
+    "url": "https://estructuraweb.com.co:9009/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MarioEnTuRadio Salsa",
+    "url": "https://emisorasvirtuales.com.co:9171/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Qradio",
+    "url": "https://emisorasvirtuales.com.co:9051/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Quimbaya Estéreo",
+    "url": "http://195.154.133.107:8396/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Andina Stereo",
+    "url": "http://178.33.113.51:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Repelon Stereo 96.6 FM",
+    "url": "http://51.15.160.78:8080/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Comunitaria Yanacona 101.1 FM",
+    "url": "http://stream.integracionvirtual.com:8117/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cardenal Stereo Riohacha 91.7 FM",
+    "url": "http://198.27.78.145:8086/stream/2/",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Palacio Tropical",
+    "url": "https://play8.tikast.com/proxy/tropical?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Guajira Hoy",
+    "url": "https://radio.laguajirahoy.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Palacio Vallenato.com",
+    "url": "https://play8.tikast.com/proxy/lucas?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Chipo",
+    "url": "http://server.lajradio.eu:8070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Delfin 1060 AM",
+    "url": "http://virtualtronics.net:8097/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Guajira Estéreo 107.3",
+    "url": "http://radios.rads2.com:8217/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Estación Suramérica",
+    "url": "https://stream.zeno.fm/mdysh78hrwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paz de Selva Verde",
+    "url": "https://mediacp15.rootservers.co:8064/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Rionegro 1370 AM",
+    "url": "https://20823.live.streamtheworld.com/RCN_RADIO_RIONEGROAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rionegro Estéreo FM 104.4",
+    "url": "https://turadio.accesopanel.com/8458/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "San Antonio de Pereira",
+    "url": "http://54.39.106.212/8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sinigual FM Estéreo",
+    "url": "https://play8.tikast.com/proxy/sinigual?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ingruma Estereo FM 98.1",
+    "url": "https://ingrumaestereo.radioca.st/stream?1574238129448",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Risaralda Stereo 100.2",
+    "url": "https://server2.ejeserver.com:8080/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paz Online",
+    "url": "https://zapatoca.net:10009/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "SabanaStereo 104.4 FM",
+    "url": "https://innovapues.com:8443/sabanastereo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sabaneta Estéreo",
+    "url": "https://icecasthd.net:6180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Triunfo Stereo",
+    "url": "http://radiolatina.info:9544/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Bakanisima Stereo",
+    "url": "https://stream.zeno.fm/fcvay94mz7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Plateado Stereo FM 89.4",
+    "url": "http://samuel.i-radio.co:8000/plateadostereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas del Porvenir 910 AM",
+    "url": "https://paulatina.online:8024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Samaniego Estero FM 104.1",
+    "url": "http://radio1.dongee.com:8018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Brisas del Tonoa FM 107.8",
+    "url": "http://78.129.185.81:25108/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "San Adolfo Stereo",
+    "url": "https://stream.zeno.fm/4b1whgfy72quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Jefa",
+    "url": "https://stream.zeno.fm/c19xgzsfpnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Unica Estereo FM 88.8",
+    "url": "https://stream.zeno.fm/1n10s32vx8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Uno A Estereo 88.8fm",
+    "url": "https://stream.zeno.fm/h3g1f7e8em0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fiesta 106.2 FM",
+    "url": "https://radiolatina.info/7936/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Rumba San Andrés FM 100.5",
+    "url": "https://21933.live.streamtheworld.com/RCN_RADIO_SAN_ANDRESAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Gracia y Paz",
+    "url": "https://www.colombiaemite.com:25112/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Juventud Estéreo",
+    "url": "https://play8.tikast.com/proxy/sancarlos?mp=/stream%E2%80%A8",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ventana Stereo FM 89.4",
+    "url": "https://play8.tikast.com/proxy/ventana?mp=/stream%E2%80%A8",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Paraíso Stereo FM 105.4",
+    "url": "https://streamingmediaradio.live/8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Renacer Estereo FM 107.7",
+    "url": "https://stream.zeno.fm/r0rgsbbw2bruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Juventud Estéreo 104.7 FM",
+    "url": "https://stream.zeno.fm/qchcyznxpkeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Popular Stereo FM 103.8",
+    "url": "http://167.114.113.108:10152/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cardenal Stereo 94.7 FM",
+    "url": "http://198.27.78.145:8086/live2",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manantial Radio 88.4 FM",
+    "url": "http://198.204.234.10:8376/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "1510AM La Voz de San Luis",
+    "url": "http://198.27.88.38:7044/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Patrona FM",
+    "url": "https://emisorasvirtuales.com.co:9237/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Son De La Calle",
+    "url": "https://stream.zeno.fm/h74zkdzxhxquv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lobana Stereo",
+    "url": "http://radiohd.streaminghd.co:7149/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "San Miguel Stereo",
+    "url": "https://stream.zeno.fm/4c0s66qtpwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Lluvias Stereo",
+    "url": "https://stream.zeno.fm/dckwaab77a0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MCI Radio",
+    "url": "https://stream.zeno.fm/s407dp77a5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "San Pablo Stereo",
+    "url": "http://51.15.160.78:8749/stream?type=http&nocache=479",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de San Pedro 88.4 FM",
+    "url": "https://play10.tikast.com/proxy/lavozdesanpedro?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ambiente Stereo",
+    "url": "https://play8.tikast.com/proxy/ambiente?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio 360 FM",
+    "url": "https://live.hbstreaming.com/radio360fm",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Santa Bárbara 1310 AM",
+    "url": "http://sc1.cehis.net:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Lorica FM 91.7",
+    "url": "https://22823.live.streamtheworld.com/RUMBA_LORICAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Galaxia Stereo FM 100.5",
+    "url": "https://stream.zeno.fm/p41chbc8zmzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hola Estereo FM 106.7",
+    "url": "https://radiolatina.info:10921/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas del Tonusco FM 104.4",
+    "url": "http://18.188.241.142:90/odt1044.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Bahia Linda",
+    "url": "https://samcloud.spacial.com/api/listen?sid=73715&m=sc&rid=156133",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Energy 97",
+    "url": "https://stream.zeno.fm/x3uk7ce7wbruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Fuego Stereo 101.9 FM",
+    "url": "http://real2.streaming-co.com:8747/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Hosanna Radio",
+    "url": "http://radio30.virtualtronics.com:8240/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 97.1",
+    "url": "http://i50.letio.com/9134.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Pura Vida 88.1 FM",
+    "url": "http://radiolatina.info:9984/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Rodadero AM 1480",
+    "url": "http://s30.myradiostream.com:30554/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Torat Emet",
+    "url": "http://192.187.112.50:8000/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno Santa Marta",
+    "url": "https://21933.live.streamtheworld.com/RADIO_UNO_SANTA_MARTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Santa Marta 640 AM",
+    "url": "https://20823.live.streamtheworld.com/RCN_RADIO_SANTA_MARTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Romántica Baladas del Amor",
+    "url": "https://streamingv2.shoutcast.com/RomanticaBaladasdelamor",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Stereo",
+    "url": "https://20833.live.streamtheworld.com/RUMBA_SANTA_MARTAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santa Marta Stereo",
+    "url": "http://163.172.198.16:8322/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Voces 89.4 FM",
+    "url": "https://s2.pcpcomunicaciones.com:2020/stream/voces894fm/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Antena de los Andes AM 1520",
+    "url": "https://radiolatina.live:10990/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Arauna Stereo 104.1 FM",
+    "url": "http://samuel.i-radio.co:8000/araunastereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mi Tierra Radio FM 88.1",
+    "url": "http://streamingmediaradio.live:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Más 105.4 FM",
+    "url": "https://innovapues.com:8443/radiomas.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Willy",
+    "url": "http://stream2.emisorasvirtuales.com:8658/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Santa Sofia Stereo FM 96.6",
+    "url": "http://167.114.113.108:10246/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Redención Stereo",
+    "url": "https://radio30.virtualtronics.com/proxy/redencionstereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oriental Stereo FM 105.6",
+    "url": "http://radio25.virtualtronics.com:8192/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Angelus Stereo 107.4 FM",
+    "url": "http://www.colombiaemite.com:10278/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol Radio Sevilla",
+    "url": "http://stream1.emisorasvirtuales.com:8241/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Única FM Radio",
+    "url": "http://radiohd.streaminghd.co:7038/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Waishanya",
+    "url": "https://stream.zeno.fm/tg9xzznwgtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Única 100.7 FM",
+    "url": "https://stream.zeno.fm/uauqy775pzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Namisak 89.7 FM",
+    "url": "https://stream.zeno.fm/qs9pn8s1ag0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "AiresStereo",
+    "url": "https://sonic.paulatina.co/7048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cielo Azul",
+    "url": "http://www.colombiaemite.com:10100/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Exito De Lo Natural Radio",
+    "url": "http://turadio.accesopanel.com:8230/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "mercedistaradio",
+    "url": "https://stream.zeno.fm/gxkcu28fubruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 101.5",
+    "url": "https://i60.letio.com/9116.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Sincelejo AM 1460",
+    "url": "https://play10.tikast.com/proxy/radiosincelejo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tiempo FM 97.3",
+    "url": "http://i50.letio.com/9158.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RMM Estéreo",
+    "url": "https://radio35.virtualtronics.com/proxy/rmmestereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Cardenal AM 1580",
+    "url": "http://198.27.78.145:8086/stream/5/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sucre Comunicaciones",
+    "url": "https://stream.zeno.fm/n6tnwk6p7mzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Conexión Vida Radio",
+    "url": "https://streaming.hostingfacil.co/proxy/iglesiac?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Iniciativa Ciudadana Radio",
+    "url": "http://real2.streaming-co.com:8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Rumbo 107.4 FM",
+    "url": "https://stream.zeno.fm/w42k9abttbruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Restaurando las Sendas Antiguas",
+    "url": "http://real1.streaming-co.com:8240/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Velandia Stereo",
+    "url": "https://radiohd.streaminghd.co:7032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Andes Stereo",
+    "url": "http://178.33.113.51:8052/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Condor Stereo 94.1",
+    "url": "http://www.colombiaemite.com:10160/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Jose Antonio Galan AM 1100",
+    "url": "https://radiolatina.info/9906/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Nueva Stereo 102.7 FM",
+    "url": "https://sonic.paulatina.co/8056/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Más Más Música Radio",
+    "url": "https://stream.zeno.fm/a1n10wns89duv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Sogamoso AM 1200",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_SOGAMOSOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Uno Sogamoso",
+    "url": "https://20833.live.streamtheworld.com/RADIO_1_BOGAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sol Stereo 99.1 FM",
+    "url": "http://radiohd.streaminghd.co:7120/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Toca Stereo 96,1 FM Boyaca",
+    "url": "http://real2.streaming-co.com:8053/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Boyacá 88.6 FM",
+    "url": "https://17973.live.streamtheworld.com/TR_TUNJAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Madrigal 88.1 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8096/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maravilla Digital Stereo",
+    "url": "https://radio30.virtualtronics.com/proxy/maravilladigital?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Emisora Solita Estereo 107.1 FM",
+    "url": "https://stream.zeno.fm/y3084hc10f8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Capiro Estéreo FM 104.4",
+    "url": "https://play8.tikast.com/proxy/capiro?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sopetran Stereo 105.4 FM",
+    "url": "http://62.210.38.137:8320/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Kristal Boyacá",
+    "url": "http://178.33.113.51:8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sensación Stereo FM 106.5",
+    "url": "https://stream.zeno.fm/r9mbyqtxd5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Orquidea Stereo",
+    "url": "https://srstreaming.com//proxy/orquide1?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manantial Stereo 98.7 FM",
+    "url": "http://samuel.i-radio.co:8000/manantialstereo",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Roca Stereo FM 94.4",
+    "url": "https://s2.colombiaemite.com:25296/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Salud Stereo",
+    "url": "http://198.27.88.38:7078/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sutatenza Stereo",
+    "url": "http://www.colombiaemite.com:10292/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tabio Estéreo FM 88.3",
+    "url": "http://www.colombiaemite.com:10082/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Musica Llanera Radio",
+    "url": "http://192.99.203.81:8704/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tame FM Stereo 88.3",
+    "url": "https://stream.zeno.fm/6e9w7ga0xwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Frecuencia FM 107.7",
+    "url": "https://radio.x-proyecto.com:9020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "T Radio",
+    "url": "http://168.90.12.65:8003/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Don Jediondo Radio",
+    "url": "https://cloudoledgo.com:8024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Exitosa FM",
+    "url": "https://servidor23-3.brlogic.com:7394/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Artesana FM Stereo 90.6",
+    "url": "http://www.colombiaemite.com:10394/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Teurama Estéreo FM 107.3",
+    "url": "https://radio25.virtualtronics.com/proxy/teuramaestereo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "SR Stereo 105.0 FM",
+    "url": "https://stream.zeno.fm/ux1hg3ukbm0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Miel Stereo FM 100.8",
+    "url": "https://streaminghuila.com/radio/8020/mielstereo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Aires de Timbio FM 88.9",
+    "url": "https://stream.integracionvirtual.com/proxy/airesdetimbio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Shalom FM 107.8",
+    "url": "https://estructuraweb.com.co:9150/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz de Toledo FM 88.2",
+    "url": "https://stream.zeno.fm/8uxzgtvquzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio La Voz de la Verdad 92.8 FM",
+    "url": "http://server.radiogs.org:8066/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Playa Blanca Stereo FM 97.7",
+    "url": "http://emisoras.servercolombia.com.co:8166/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Academia Comunicar Tuluá",
+    "url": "https://stream.zeno.fm/8knb3c1f31zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Corazon Deportivo",
+    "url": "https://radio35.virtualtronics.com/proxy/corazondeportivo?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ecos del Valle",
+    "url": "https://stream.zeno.fm/aud6at7fkg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Sol Tulua 96.1 FM",
+    "url": "https://21933.live.streamtheworld.com/EL_SOL_TULUAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Prohibida Radio",
+    "url": "https://play12.tikast.com/proxy/laprohibidaradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mundo 89.0 FM",
+    "url": "http://cento01.mipanelradio.com:9859/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Tulua 1170 AM",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_TULUAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rocky Mejia Radio",
+    "url": "https://stream.zeno.fm/d9hs8bmkp2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Rumba Tumaco FM 91.1",
+    "url": "https://21933.live.streamtheworld.com/RUMBA_TUMACOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Boyaca Radio",
+    "url": "http://62.210.141.243:8079/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cactus FM Tunja",
+    "url": "https://stream.zeno.fm/frz47rqv4f0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caracol Tunja",
+    "url": "http://20803.live.streamtheworld.com/CARACOL_RADIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ciudad Stereo Tunja 94.7 FM",
+    "url": "https://stream.zeno.fm/5g2k2a6wd5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Colboy Stereo FM 102.6",
+    "url": "https://stream.zeno.fm/28wyb4xc4p8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cooservicios Stereo",
+    "url": "https://stream.zeno.fm/27g88q2snd0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "CRB 1300 AM",
+    "url": "http://198.27.88.38:7046/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Juan De Castellanos Stereo",
+    "url": "https://stream.zeno.fm/8waxgbaw7mruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Morenita",
+    "url": "https://sonic.paulatina.co/7314/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Sonora 89.1 FM",
+    "url": "https://sonic.paulatina.co/7068/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz Virtual",
+    "url": "https://stream.zeno.fm/0vpq1bmt4s8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Matinal Noticias",
+    "url": "https://radiohd.streaminghd.co:7541/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Positiva FM 101.1",
+    "url": "http://99.198.110.162:7098/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "R2 Audiovisual Radio",
+    "url": "https://stream.zeno.fm/bufaptza04zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio 1 Tunja",
+    "url": "https://20833.live.streamtheworld.com/RADIO_UNO_TUNJAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Chipazaque",
+    "url": "https://stream.zeno.fm/9k31xz9004zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio TIC Sedboyacá",
+    "url": "http://163.172.77.142:8054/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Tuiteros Boyacá",
+    "url": "https://stream.zeno.fm/cxxm7escup8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Tunja AM 1380",
+    "url": "https://21933.live.streamtheworld.com/RCN_RADIO_TUNJAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RF Radio Tunja",
+    "url": "https://radio25.virtualtronics.com/proxy/rfradiotunja?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Techno Record FM Tunja",
+    "url": "https://stream.zeno.fm/r3d2u9pu87zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UdB Virtual Radio",
+    "url": "http://icecast.teveo.com.co/udbradio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "UPTC Radio FM 104.1",
+    "url": "http://uptcradio.uptc.edu.co/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "WOR FM Tunja",
+    "url": "https://stream.zeno.fm/5mss6vk214zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Litoral AM mil60",
+    "url": "http://stm7.miradio.com.es:9236/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tuta Stereo",
+    "url": "http://62.210.38.137:8260/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Crecer FM Stereo",
+    "url": "http://www.colombiaemite.com:10020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Autentica Ubate AM 1270",
+    "url": "http://108.163.229.102:8047/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Red Telareando",
+    "url": "https://radio.clusterboss.com/radio/8010/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ulloa FM 104.1",
+    "url": "http://radio40.virtualtronics.com:8400/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Movida 89.4 FM",
+    "url": "https://radio35.virtualtronics.com/proxy/lavozdelcacique?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cacica Stereo",
+    "url": "http://198.27.88.38:7062/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cerro Murillo Stereo",
+    "url": "https://paulatina.online:8048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "El Esplendor de la Verdad 88.7 FM",
+    "url": "https://paulatina.online:7158/;esplendor887.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Esperanza Estero",
+    "url": "https://estructuraweb.com.co:9039/live?1599272229609",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Voz Del Cañaguate",
+    "url": "http://198.27.88.38:7278/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maravilla Stereo FM 107.5",
+    "url": "https://i60.letio.com/7282.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Mix Radio FM 106.7",
+    "url": "http://i50.letio.com/9168.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 93.7",
+    "url": "https://i60.letio.com/9118.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Guatapurí",
+    "url": "http://198.27.88.38:7106/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Uno Valledupar FM 100.7",
+    "url": "https://22823.live.streamtheworld.com/RADIO_UNO_VALLEDUPARAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Valledupar",
+    "url": "https://sonic.paulatina.co/8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Valledupar 1260 AM",
+    "url": "https://21933.live.streamtheworld.com/RCN_RADIO_VALLEDUPARAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Reyali",
+    "url": "https://streaming.radiosenlinea.com.ar:10894/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "SabrosaZa",
+    "url": "https://radio25.virtualtronics.com/proxy/sabrosaza?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Sistema Cardenal 1050 AM Valledupar",
+    "url": "http://198.27.78.145:8086/stream/4/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tu Valledupar Radio",
+    "url": "https://s1-ssl.vpsradio.com/radio/9304/radio.acc",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Vallenateando.com",
+    "url": "http://s1.vpsradio.com:8036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Independencia Stereo",
+    "url": "http://198.27.88.38:7340/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Versalles Stereo 90.3 FM",
+    "url": "https://cloud8.vsgtech.co/8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Villagarzon Stereo FM 88.3",
+    "url": "https://stream.zeno.fm/ehv4a4q3rtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas del Upia",
+    "url": "http://www.colombiaemite.com:10236/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "VIVA FM 88.1",
+    "url": "http://51.255.123.116:9944/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "San Juan Stereo",
+    "url": "https://www.colombiaemite.com:25336/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Charkleons Music",
+    "url": "https://stream.zeno.fm/1yebsgv92mruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Decibeles FM",
+    "url": "http://62.210.141.243:8187/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Exitosa Stereo 107.8 FM",
+    "url": "https://radiolatina.info/8028/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Cariñosa Villavicencio",
+    "url": "https://21933.live.streamtheworld.com/LA_CARINOSA_VILLAVICENCIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Doble L FM91.8",
+    "url": "http://streaming.hqs-la.com:8000/ladoblel",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Mega Villavicencio",
+    "url": "https://21933.live.streamtheworld.com/LA_MEGA_VILLAVICENCIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La UniKa FM",
+    "url": "https://stream.zeno.fm/vv28fxb6qnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Llanereando.com",
+    "url": "https://llanereando.live/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Meta Radio FM 106.3",
+    "url": "http://streaming.hqs-la.com:8000/1063",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Olímpica Stereo FM 105.3",
+    "url": "https://i50.letio.com/9132.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Ondas del Meta",
+    "url": "http://199.168.188.253:9982/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Oxigeno by Los 40 Villavicencio",
+    "url": "https://22983.live.streamtheworld.com/OXI_VILLAOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Mariana",
+    "url": "https://stream.zeno.fm/rrfh3zcxx1zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN Radio Villavicencio 1110 AM",
+    "url": "https://20833.live.streamtheworld.com/RCN_RADIO_VILLAVICENCIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Stiventjiro Radio",
+    "url": "https://stream.zeno.fm/nq6vtuta3mruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Tropicana Villavicencio",
+    "url": "https://14943.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zeta FM",
+    "url": "https://virtualtronics.net/proxy/zetafm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zona FM Radio",
+    "url": "https://stream.zeno.fm/mg8h54anymzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Jazmar 101.3 FM Estéreo",
+    "url": "https://radiohd.streaminghd.co:9398/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Maravilla Stereo",
+    "url": "http://198.27.88.38:7056/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Imana Stereo",
+    "url": "https://radiohd.streaminghd.co:7062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Yali Stereo FM 89.4",
+    "url": "https://www.colombiaemite.com:25340/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Cerro Azul 107.4",
+    "url": "http://radiolatina.info:9025/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Sensación AM 1430",
+    "url": "https://radiolatina.info/9956/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "La Eskina FM",
+    "url": "https://live.hbstreaming.com/laeskina",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Aldea Radio",
+    "url": "https://stream.zeno.fm/z2wbdu3n6tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Heliconia Radio",
+    "url": "https://cloudoledgo.com:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Manantial Stereo 107.7 FM",
+    "url": "http://209.126.119.28:8201/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Prensa Libre Casanare",
+    "url": "https://whmsonic.playerfullhd.com/8314/stream%26type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "RCN La Voz De Yopal",
+    "url": "https://cloudoledgo.com:8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "MSLradio",
+    "url": "http://radio35.virtualtronics.com:8225/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Cristiana Zapatoca Online",
+    "url": "https://stream.zeno.fm/bsw7tq2vhs8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Lenguerke AM 1420",
+    "url": "https://zapatoca.net:10030/live",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Radio Zapatoca 1360 AM",
+    "url": "https://zapatoca.net:10000/radiozapatoca",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Zaragoza Stereo FM 104.4",
+    "url": "http://sh4.radioonlinehd.com:8509/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Caña y Cafe  90.6 FM",
+    "url": "http://198.27.88.38:7054/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "ArmoniaZ FM 95.3",
+    "url": "https://www.colombiaemite.com:25248/;",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Qnota FM",
+    "url": "https://stream.zeno.fm/fptqwtbqmnruv",
+    "logo": ""
+  },
+  {
+    "tags": "Colombia",
+    "name": "Quira Stereo",
+    "url": "https://s2.colombiaemite.com:25182/;",
+    "logo": ""
+  }
+]

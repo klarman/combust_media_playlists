@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Aewen Radio (K-Jpop)
+http://209.58.145.135:8031/stream?type=http&nocache=49020
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Aewen Radio (K-pop)
+http://209.58.145.135:8001/stream?type=http&nocache=77
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Aewen Radio (Kdrama OSTs)
+http://209.58.145.135:8025/stream
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Big B Radio - Kpop
+http://107.150.53.50:4001/s
+#EXTINF:-1 tvg-logo="" group-title="South Korea", datafruits
+https://streampusher-relay.club/datafruits.mp3
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Mapo FM 100.7
+http://115.85.182.39/mapofm
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Seoul Community Radio
+http://188.166.198.223/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="South Korea", WBS FM 89.7
+http://45.76.71.4:8000/wbs-smok
+#EXTINF:-1 tvg-logo="" group-title="South Korea", Yahweh Radio
+https://s3.radio.co/s22189b87c/listen
+#EXTINF:-1 tvg-logo="" group-title="South Korea", 와우씨씨엠— Wow CCM
+http://175.192.196.90:8000/;

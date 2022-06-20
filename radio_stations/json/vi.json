@@ -1,0 +1,32 @@
+[
+  {
+    "tags": "U.S. Virgin Islands",
+    "name": "The Buzz 104.3",
+    "url": "https://radio.livecastnet.com/proxy/thebuzz?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "U.S. Virgin Islands",
+    "name": "The Weef FM 103.5 WAXJ",
+    "url": "http://ic2.mainstreamnetwork.com/waxj-fm",
+    "logo": ""
+  },
+  {
+    "tags": "U.S. Virgin Islands",
+    "name": "WJKC-FM 95.1",
+    "url": "http://208.84.199.84:8084/broadwave.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "U.S. Virgin Islands",
+    "name": "WSTX-AM 970",
+    "url": "http://162.244.81.33:8340/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "U.S. Virgin Islands",
+    "name": "WSTX-FM 100.3",
+    "url": "http://162.244.81.33:7490/;stream.mp3",
+    "logo": ""
+  }
+]

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Mama Radio 96.6 FM
+https://streams.radio.co/s57cdcd575/listen
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio Maendeleo 88.8 FM
+https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Goma Webradio
+https://stream.zeno.fm/4d61wprrp7zuv
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Simba FM 89.8
+https://stream.zeno.fm/ym4sfnybt7zuv
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", VBR-FM 98.5 Virunga Business Radio
+https://ais-edge07-live365-dal02.cdnstream.com/a19485
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", R2C.FM
+https://www.radioking.com/play/r2cfm/402964
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio Bomoko
+https://stream.streamaudio.de:8000/radio-bomoko
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio Maria Congo FM 105.6
+http://dreamsiteradiocp.com:8116/;
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio Okapi FM 103.5
+http://rs1.radiostreamer.com:8000/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Top Congo FM 88.4
+http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Elim FM
+https://www.radioking.com/play/elimfm/451498
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio RNS
+https://listen.radioking.com/radio/314909/stream/362240
+#EXTINF:-1 tvg-logo="" group-title="Democratic Republic of the Congo", Radio Mulangane FM 103.0
+http://equinox.shoutca.st:8984/stream

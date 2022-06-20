@@ -1,0 +1,7526 @@
+[
+  {
+    "tags": "Argentina",
+    "name": "Gardel Radio",
+    "url": "https://server.laradio.online:58475/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Imagine FM 98.1",
+    "url": "http://alpha.radioplayer.com.ar:9216/lagiocondafm963",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mix FM 97.7",
+    "url": "https://radio.trix.hosting:18058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Genesis 92.3",
+    "url": "http://genexservicios.com:8192/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Imagen FM 106.7",
+    "url": "http://server.laradio.online:8789/;?1571988769047",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pin Up Radio",
+    "url": "http://radio.solumedia.com.ar:7597/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Alejandra FM 88.9 LRS851",
+    "url": "http://server2.veemesoft.com.ar:12486/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Detente Jesus Te Espera FM 107.1",
+    "url": "https://stream.zeno.fm/kn4xrgw9dm0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RO-K8 Radio Web",
+    "url": "https://stream.zeno.fm/9z52mm3158quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Binaural Rock Radio",
+    "url": "http://01.solumedia.com.ar:7870/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sierras de Córdoba",
+    "url": "http://streaming01.shockmedia.com.ar:9776/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Siempre Radio 93.3",
+    "url": "http://alpha.radioplayer.com.ar:9226/siempreradio933",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio America FM 92.5",
+    "url": "https://player.livecastradio.com/proxy/7030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Clasic Andalgalá",
+    "url": "http://142.44.135.172:8458/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Angélica FM 99.7",
+    "url": "https://servidor2.hostradios.com/proxy/sc_angel?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "De UNA FM 105.1",
+    "url": "http://st.produccionesdha.com:8248/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Arequito FM 96.5",
+    "url": "http://server2.veemesoft.com.ar:12640/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sol 103.1",
+    "url": "http://server.laradio.online:9048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno Arrecifes 107.1",
+    "url": "http://200.80.36.160:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Signos 90.5",
+    "url": "http://63.247.91.178:12426/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "OID Mortales FM 89.9",
+    "url": "https://servidor1.hostradios.com:8092/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ok FM 95.5",
+    "url": "http://audio.questreaming.com:27156/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Extremo FM 106.9",
+    "url": "https://streaming.escuchanosonline.com:7103/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Activa FM 101.9",
+    "url": "http://63.247.65.202:8113/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Astica FM 92.5",
+    "url": "https://stream.zeno.fm/4se17rtuu4zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Impacto 93.1",
+    "url": "http://serverssl.deradios.stream:8244/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Secla FM 106.1",
+    "url": "http://69.175.20.242:8056/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Más FM 93.9",
+    "url": "http://streaming01.shockmedia.com.ar:8852/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio UNDAV",
+    "url": "http://radiostream.undav.edu.ar:8002/radioundav",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "UNCB Radio",
+    "url": "http://server.laradio.online:8015/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ayacucho FM 95.3",
+    "url": "https://sonic.cloudstreaming.eu:10989/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "wOka FM 100.1",
+    "url": "http://radio.solumedia.com.ar:8766/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "A+ Radio",
+    "url": "https://amasradio.com.ar:8443/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Bahia Radio Hits",
+    "url": "http://51.161.119.117:8160/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "GoodSound Radio House",
+    "url": "http://01.solumedia.com.ar:8914/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hola Radio",
+    "url": "https://sonic.cloudstreaming.eu:10987/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Brújula 24",
+    "url": "http://icecast.hostingbahia.com.ar:8020/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU2",
+    "url": "https://icecast2.hostingbahia.com.ar:8040/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Malvinas Rock 90.7",
+    "url": "https://streamconex.com:8112/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Nada Que Perder",
+    "url": "http://cdn.instream.audio:8111/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ciudad FM 94.7",
+    "url": "https://icecast2.hostingbahia.com.ar:8044/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cristal FM 91.1",
+    "url": "https://www.amasradio.com.ar:8453/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Norte",
+    "url": "http://icecast.hostingbahia.com.ar:8002/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio UNS AM 1240",
+    "url": "https://sonic.cloudstreaming.eu:10983/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Urbana FM 93.9",
+    "url": "http://stm15.bahiahosting.com:8684/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "UTN FM 93.5",
+    "url": "https://sonic.cloudstreaming.eu:10986/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Viva FM",
+    "url": "https://radio.datalivehd.com:7100/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vorterix Bahía FM 99.1",
+    "url": "https://player.xcast.com.br/proxy/9130",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "X99 RADIO",
+    "url": "http://46.4.232.139:8100/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pop FM 99.1",
+    "url": "http://63.247.65.202:8122/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Zeta FM 97.3",
+    "url": "http://server11.veemesoft.com.ar:6368/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 94.1 San Francisco",
+    "url": "http://genexservicios.com:8288/;?1592208928226",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Coldfunk",
+    "url": "https://stream.zeno.fm/7t79necnf5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Comucosas",
+    "url": "https://servidor1.hostradios.com:8150/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Cielo FM 105.1",
+    "url": "https://proxy.turadioinfo.com/5612/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LS2 96.9",
+    "url": "http://69.61.11.200:8005/fmbaradero",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio El Semaforo",
+    "url": "https://audiohd.sonidosenlared.com/proxy/elsemafororadio?mp=/stream;/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Barrancas FM 105.7",
+    "url": "http://argentina.republicahosting.com:8314/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 92.9 La Invencible",
+    "url": "http://server.laradio.online:8637/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 95.9 Solidaria",
+    "url": "http://streaming01.shockmedia.com.ar:8698/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Roca",
+    "url": "http://63.247.65.202:8562/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Riel 93.1",
+    "url": "http://rielfm.com.ar/reproductor",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Zona Oculta Radio Digital",
+    "url": "http://server-uk1.radioseninternet.net:8016/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Frecuencia 106",
+    "url": "http://63.247.65.202:8693/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ipersonica",
+    "url": "http://s3.free-shoutcast.com:18020/;#.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sentir",
+    "url": "https://radiosentir.sytes.net/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Benavídez",
+    "url": "http://23.111.153.190:20480/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Gran Cosecha",
+    "url": "https://servidor23-1.brlogic.com:7010/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Britannia",
+    "url": "https://01.solumedia.com.ar:10064/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Difusión 98.1",
+    "url": "http://radio02.ferozo.com:8530/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Beat FM 96.9",
+    "url": "http://server.laradio.online:8515/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Krimen online",
+    "url": "https://miestacion.turadioonline.com.ar/8046/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sur 105.1",
+    "url": "http://162.254.201.210:9316/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RBT 96.1",
+    "url": "http://192.99.38.174:9314/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Mosquitera FM 88.1",
+    "url": "https://stream.codigosur.org/mosquitera.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ahijuna FM 94.7",
+    "url": "http://stream.ahijuna.fm/aire.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Calden 99.9",
+    "url": "http://server1.veemesoft.com.ar:6340/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radioactiva",
+    "url": "https://tupanel.info:7392/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Horizonte",
+    "url": "http://server.laradio.online:25053/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Reclasica",
+    "url": "https://alpha.radioplayer.com.ar:9256/radioreclasica",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Vos 95.5",
+    "url": "https://alpha.radioplayer.com.ar:9106/radiovos955",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio FM 102.9",
+    "url": "http://audio.questreaming.com:26873/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "8Bitz Radio",
+    "url": "https://server.ohradio.com.ar/8110/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Adi Shakti Radio",
+    "url": "http://68.183.132.63:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Agro Radio",
+    "url": "http://cdn.instream.audio:9034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1010 Onda Latina",
+    "url": "http://streaming2.locucionar.com:8344/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1130 Radio Show",
+    "url": "http://3.223.187.189:7130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1550",
+    "url": "http://streaming2.locucionar.com:8312/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 650 Belgrano",
+    "url": "http://server.laradio.online:25223/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 990",
+    "url": "https://20833.live.streamtheworld.com/AM990AAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ambiente Radio FM 88.9",
+    "url": "https://sonic.dattalive.com/8470/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aras24",
+    "url": "http://streaming.radiosenlinea.com.ar:8654/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Artemax Radio",
+    "url": "http://server1.dainusradio.com:9976/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aspen 102.3 FM",
+    "url": "https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Bendiciones",
+    "url": "https://str2b.openstream.co/1782",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Blessings",
+    "url": "https://str2b.openstream.co/1793",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Blur FM Online Radio",
+    "url": "https://live.radiovague.com:8443/blurfm01",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Caba Radio",
+    "url": "http://01.solumedia.com.ar:7762/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Campeones Radio",
+    "url": "http://01.solumedia.com.ar:7193/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Citrica Radio 88.5 FM",
+    "url": "http://74.50.112.196:9132/citrica885",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Clasica y Barroca",
+    "url": "http://200.110.145.2:8087/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "CNN Radio Argentina",
+    "url": "https://estudio.cnnradioargentina.com.ar/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Creativa Radio",
+    "url": "http://streaming.radiolinksmedia.com:9302/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Doble A Radio",
+    "url": "http://51.161.119.117/8268/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Doo Bop",
+    "url": "http://ample.radiojar.com/ph8n5vh6kkeuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Dubtronik",
+    "url": "http://01.solumedia.com.ar:7205/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "ECO Medios AM 1220",
+    "url": "https://stream.zeno.fm/uv3vkhw2qvduv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Destape Radio",
+    "url": "https://streamingradioplayer.inovanex.com/coolcast/audio/ipanel/8004",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Provincial Radio",
+    "url": "http://streaming3.locucionar.com:17668/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Sr Bivachi",
+    "url": "https://server.laradio.online/proxy/carlos_bivachi?mp=/stream&1587546647481",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Emisora Pirata",
+    "url": "http://01.solumedia.com.ar:7084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cien Federal FM 99.3",
+    "url": "http://s1.radiosnethosting.com:9946/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Delta 90.3",
+    "url": "https://cdn.instream.audio/:9069/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Tribu",
+    "url": "https://vivo.fmlatribu.com/latribu.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Popular 89.1",
+    "url": "https://stream2.cibersoft.com/radio/8220/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Rock and Pop 95.9",
+    "url": "https://ipanel.instream.audio:7002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Soldados 87.5",
+    "url": "https://radio02.ferozo.com/proxy/ra01000409?mp=/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Top 104.9",
+    "url": "http://62.210.129.76:7940/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Trance 103.9",
+    "url": "https://secure.streaming01.dwservers.net/8100/:",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fónica Play",
+    "url": "https://argentina.republicahosting.com:1255/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Guajira Radio",
+    "url": "https://01.solumedia.com.ar:8252/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hemisferios Radio",
+    "url": "http://streaming3.locucionar.com:16864/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Horizonte FM 94.3",
+    "url": "https://16963.live.streamtheworld.com/SAM06AAC243_SC",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Jazz Cafe FM",
+    "url": "http://radio.netyco.com:8056/jazzcafefm",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "K24 AM 690",
+    "url": "http://disbaires.com.ar:9041/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La 2x4 FM 92.7",
+    "url": "http://radios.argentina.fm:9270/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Bocina Radio",
+    "url": "https://01.solumedia.com.ar:7109/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Colectiva Radio FM 102.5",
+    "url": "https://radios.solumedia.com/6198/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Folk Argentina",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9996/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Idea Fija",
+    "url": "http://streaming01.shockmedia.com.ar:7408/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Once Diez - AM 1110",
+    "url": "http://radios.argentina.fm:1110/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Posta Radio",
+    "url": "https://stream.zeno.fm/ns0qfcu11uquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio del Campo",
+    "url": "https://01.solumedia.com.ar:7453/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio Te Escucha",
+    "url": "http://62.210.129.76:7936/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La RZ",
+    "url": "http://streamlky.alsolnet.com:443/larz",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Uno FM 103.1",
+    "url": "https://20823.live.streamtheworld.com/UNO.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LaRadioDeLosLentos.com",
+    "url": "http://01.solumedia.com.ar:7828/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Los 40 Principales FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Lux Radio",
+    "url": "https://server.ohradio.com.ar/8196/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Magic Kids FM",
+    "url": "http://142.44.135.172:8197/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Memory Project Radio",
+    "url": "https://stream.zeno.fm/sct1zvqz1uquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metro FM 95.1",
+    "url": "http://mp3.metroaudio1.stream.avstreaming.net:7200/metro",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mindalia Radio Argentina",
+    "url": "http://188.165.131.13:7001/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mindalia Radio Voz Argentina",
+    "url": "https://secureradio.eu:2014/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Nadieteve",
+    "url": "https://01.solumedia.com.ar:7030/stream?1590770565817.aac;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Next Radio",
+    "url": "http://servidor.i-live.com.ar:9322/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NRG DJ",
+    "url": "http://stream.electroradio.fm/192/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Numbarton Radio",
+    "url": "https://numbarton.net/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Planet Jazz",
+    "url": "http://streamlky.alsolnet.com:443/planetjazz",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Power FM 90.3",
+    "url": "http://63.247.65.202:8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 2 FM 107.1 AuBasa",
+    "url": "https://cdn.instream.audio/:9056/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 70",
+    "url": "http://streamall.alsolnet.com:443/radio70",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio AM del Plata 1030",
+    "url": "https://streamingv2.shoutcast.com/delplata",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Amadeus 91.1",
+    "url": "https://streamingradiolinks.xyz/8484/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio ArInfo",
+    "url": "https://server.laradio.online:58013/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Buenos Aires AM 1350",
+    "url": "https://nl.digitalrm.pt:8052/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Caput",
+    "url": "http://69.64.46.123:8132/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio CASo",
+    "url": "http://stream.radiojar.com:80/mv4vyxmmx4zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Colmena",
+    "url": "http://centova.cerounoargentina.com:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Con Aguante",
+    "url": "http://streaming01.shockmedia.com.ar:9536/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Conectividad",
+    "url": "http://servidor2.serviciostreaming.com:9648/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Continental AM 590",
+    "url": "http://20823.live.streamtheworld.com/CONTINENTALAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cooperativa",
+    "url": "http://rcoop.cnwks.ws:8358/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cracovia",
+    "url": "https://tolkien.republicahosting.net:1614/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cultura FM 97.9",
+    "url": "https://usa5.fastcast4u.com/proxy/radiocultura?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Damus",
+    "url": "https://01.solumedia.com.ar:8294/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Disney FM 94.3",
+    "url": "https://20833.live.streamtheworld.com/DISNEY_ARG_BA.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio El Mundo AM 1070",
+    "url": "http://streaming.escuchanosonline.com:8236/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio en Casa",
+    "url": "http://streaming01.shockmedia.com.ar:9018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Folklore 90",
+    "url": "https://player.xcast.com.br/proxy/12502",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio General Belgrano AM 840",
+    "url": "http://63.247.65.202:8160/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio General Guemes AM 1050",
+    "url": "https://sonic.dattalive.com/8482/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Invox",
+    "url": "https://stream.zeno.fm/6zaxegcz3tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Turba",
+    "url": "http://audiohd.sonidosenlared.com:8122/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Latina FM 101.1",
+    "url": "http://streaming.latina101.com.ar:9000/Repetidoras",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Monk online",
+    "url": "https://streaming01.shockmedia.com.ar:10620/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Monte Castro FM 94.5",
+    "url": "https://stream.zeno.fm/9zcgvh1271zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional - Clásica FM 96.7",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional - Folklórica FM 98.7",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional - LRA1 Buenos Aires AM870",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional - Rock FM 93.7",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio NeF",
+    "url": "http://server2.veemesoft.com.ar:26528/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Porteña FM 89.7",
+    "url": "https://us9.maindigitalstream.com/ssl/7194",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio PUM",
+    "url": "https://c5.radioboss.fm:18023/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio REA",
+    "url": "https://cast.dant.com/radio/8000/rea.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rebelde AM 740",
+    "url": "http://centova.psigroup.com.ar:3030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Reggae Positive",
+    "url": "https://server.radiostreaming.com.ar/8066/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rivadavia 630 AM",
+    "url": "https://21933.live.streamtheworld.com/RIVADAVIAAAC.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rueda",
+    "url": "https://radio.love4stream.com/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Solar",
+    "url": "https://servidor16-4.brlogic.com:8414/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sur 88.3 FM",
+    "url": "https://01.solumedia.com.ar:8020/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Talk",
+    "url": "http://server.laradio.online:8363/;?1564645232594",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio TU",
+    "url": "https://delta.radioplayer.com.ar:9108/radiotu",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Túpac Webcast",
+    "url": "https://server.ohradio.com.ar/9574/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad de Belgrano",
+    "url": "http://3.223.187.189:8108/mountpoint",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio UNLP AM 1390",
+    "url": "http://163.10.186.71:8001/broadwavehigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Urbana BA",
+    "url": "http://server.ohradio.com.ar:9610/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Weekend FM 102.1",
+    "url": "https://tupanel.info:8800/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RADIOnline Argentina",
+    "url": "http://link.radiojar.com/7n3s4124hrquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RadioUpa",
+    "url": "https://server.laradio.online/proxy/gustavo_waingortin?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiowasap",
+    "url": "https://stream.zeno.fm/b5q3dbe6zuquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RAE Argentina al Mundo SW5950",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Red Aleluya FM 106.3",
+    "url": "https://nl.digitalrm.pt:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Red Moskito Radio",
+    "url": "http://streaming.radiolinksmedia.com:9070/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Retro 99",
+    "url": "http://streaming.escuchanosonline.com:8154/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rock and Grow",
+    "url": "https://s2.radio.co/s7b9d0d74b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Signos FM",
+    "url": "http://www.fmsignos.com.ar:8009/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "SKW Radio",
+    "url": "http://01.solumedia.com.ar:8982/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "somos radio am 530",
+    "url": "https://cdn.instream.audio/:9288/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "T&D Radio",
+    "url": "http://149.202.235.235:8133/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tango Radio CAFF",
+    "url": "https://streams.radio.co/s6b80bc417/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tec Radio",
+    "url": "https://stream.zeno.fm/64h3nxg0rvduv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "The Kyoto Connection",
+    "url": "https://server.laradio.online:59009/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "The Musical Box Radio",
+    "url": "http://142.4.217.133:9740/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vintage Radio",
+    "url": "http://netradiofm.com:8006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "wclassicradio",
+    "url": "https://server.ohradio.com.ar:7134/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Frecuencia Online Radio",
+    "url": "http://server.laradio.online:8060/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Lit&Jazz",
+    "url": "http://servidor35.brlogic.com:7096/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Municipio",
+    "url": "https://caletaolivia.gov.ar:8087/radio2?tipo=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Frecuencia Patagonia 99.3",
+    "url": "http://server.laradio.online:9188/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hell Commando",
+    "url": "http://01.solumedia.com.ar:7555/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 21",
+    "url": "http://cdn.instream.audio:9135/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Del Valle FM 101.9",
+    "url": "https://stream.zeno.fm/1cpnzqz1um0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio 2000",
+    "url": "https://radios.solumedia.com/6066/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Futuro FM 93.1",
+    "url": "http://streaming2.locucionar.com:8682/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Lamil35",
+    "url": "https://stream.zeno.fm/bt18614dvhruv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Benjamin 104.3",
+    "url": "https://server4.hostradios.com:7194/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Más",
+    "url": "http://server1.veemesoft.com.ar:10130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Voz FM 90.5",
+    "url": "http://radio.netyco.com.ar:8130/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nu Guazú FM 97.1",
+    "url": "http://stm50.veemesoft.com.ar:27238/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Wapa FM 96.7",
+    "url": "http://genexservicios.com:8012/;?1572425534499",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mitre AM 1620",
+    "url": "http://01.solumedia.com.ar:7024/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "YSY FM 102.9",
+    "url": "http://nvradios.com:9328/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Juventud FM 103.9",
+    "url": "http://streaming2.locucionar.com:8646/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Lago 95.1",
+    "url": "http://server.laradio.online:25846/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Real Estate Radio",
+    "url": "http://200.58.106.247:8156/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aires Radio",
+    "url": "https://radios.solumedia.com/6062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cosmos 100.1 Cañuelas",
+    "url": "http://71.6.165.113:9066/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Live FM 91.7",
+    "url": "http://streaming01.serverconnectinc.site:8399/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cebra",
+    "url": "http://argentina.republicahosting.com:8297/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rincón Santafesino FM 99.1",
+    "url": "http://78.46.120.147:5294/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "DSR Medios",
+    "url": "http://streaming.escuchanosonline.com:8102/baires?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universo FM 100.3",
+    "url": "http://server11.veemesoft.com.ar:28918/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sunrise Cariló FM 96.9",
+    "url": "https://streamlky.alsolnet.com/sunrisecarilo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La105 FM",
+    "url": "https://streaming5.locucionar.com/proxy/fmla105?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Signos 90.9 Mhz",
+    "url": "http://server.ohradio.com.ar:9766/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Patagonia 90.5 Mhz",
+    "url": "http://audio.questreaming.com:9326/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Municipal Carpinteria 87.9 FM",
+    "url": "http://s3.conectarmedia.com/proxy/fernando?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Roja",
+    "url": "https://orelha.radiolivre.org/radioroja.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio del Parque FM 107.7",
+    "url": "http://stream01.insidetec.com:8038/delparque",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "3F Radio 91.5 FM",
+    "url": "http://23.111.153.190:21840/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación del Centro FM 96.9",
+    "url": "http://nvradios.com:9334/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Oh! FM 106.3",
+    "url": "https://usa3.lhdserver.es:8081/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Casilda FM 91.1",
+    "url": "http://centova1.veemesoft.com.ar:8203/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio de la Mujer FM 95.9",
+    "url": "http://nvradios.com:9336/;mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sport Casilda FM 98.1",
+    "url": "http://st.produccionesdha.com:9366/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "En Tránsito FM 93.9",
+    "url": "https://stream.fmentransito.org.ar:8002/radio/live.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ayerza",
+    "url": "http://radioayerza.ddns.net:8026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Castelar Argentina",
+    "url": "http://radiocastelar.ddns.net:8443/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fun Radio",
+    "url": "http://servidor2.serviciostreaming.com:9624/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Isla FM 107.9",
+    "url": "https://streaming5.locucionar.com/proxy/laislafm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ancasti 98.5",
+    "url": "https://vps-d8b84a62.vps.ovh.ca:10957/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio de Clásicos",
+    "url": "http://server4.veemesoft.com.ar:27085/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Max FM 101.1",
+    "url": "http://centova1.veemesoft.com.ar:8089/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional - LRA27 FM 103.5",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad27",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Valle Viejo",
+    "url": "http://63.247.91.178:12648/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Soft FM 92.9",
+    "url": "http://server3.veemesoft.com.ar:26589/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tiempo de Radio",
+    "url": "http://173.249.0.101:9365/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Universidad FM 100.7",
+    "url": "http://miradioenlaweb.com:6256/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sayhueque FM 88.7",
+    "url": "https://server.laradio.online/proxy/sayhueque887?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Red Social Radio 97.9",
+    "url": "http://63.247.91.178:12018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Popular FM 104.5",
+    "url": "http://envivo.radio.net.ar:9022/;?ver=935159",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno FM 99.1",
+    "url": "http://server1.dainusradio.com:9884/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Volver FM 106.9",
+    "url": "http://streaming.escuchanosonline.com:8078/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Compacto FM 88.1",
+    "url": "http://63.247.65.202:8037/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 940 Radio Chajarí",
+    "url": "http://190.185.128.226:8001/AM940",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio ON",
+    "url": "http://streaming01.shockmedia.com.ar:8384/stream?type=http&nocache=46",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pop Chascomús FM 92.5",
+    "url": "http://streaming.dinesat.com:6725/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Chascomus AM 1520",
+    "url": "http://streaming1.locucionar.com:12350/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Puerto Chenaut",
+    "url": "https://stream.zeno.fm/23s96fz3tm0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Latina FM 93.7",
+    "url": "https://miestacion.turadioonline.com.ar/8558/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Chos Malal 102.1",
+    "url": "http://67.23.235.229:9314/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRA52 Chos Malal AM 670",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad52",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU19 AM690 La Voz Del Comahue",
+    "url": "http://51.161.119.117:8064/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cipolletti FM 99.1",
+    "url": "http://63.247.91.178:13110/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Creciendo FM 102.1",
+    "url": "http://s2.radiosnethosting.com:9746/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Estudio Rey",
+    "url": "https://servidor2.hostradios.com/proxy/sc_rey?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio IMPA Cipolletti",
+    "url": "http://audio.questreaming.com:20090/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mural",
+    "url": "http://01.solumedia.com.ar:8142/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cantilo FM 101.9",
+    "url": "http://radio.solumedia.com.ar:7231/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Patria 107.3",
+    "url": "http://144.76.96.54/8078/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fe Latina",
+    "url": "https://radio.305streamhd.com/radio/8260/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunidad Claromeco",
+    "url": "http://servidor.ilive.com.ar:8022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM San Cayetano 91.3",
+    "url": "https://radiohd.net:10991/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sapukay",
+    "url": "http://streaming2.locucionar.com:8751/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Impacto 102.1",
+    "url": "http://62.210.129.76:8520/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Emisora Colón",
+    "url": "http://200.58.101.247:8060/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Caroya FM 105.1",
+    "url": "https://servidor2.hostradios.com/proxy/sc_marco?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Comunicar 90.7",
+    "url": "https://sonic.dattalive.com:10871/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Génesis 102.5 FM",
+    "url": "https://streaming.evolucionstreaming.com/8272/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tú Elección 94.9",
+    "url": "http://streaming01.shockmedia.com.ar:8304/;stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunitaria Seré FM 94.5",
+    "url": "http://radio.netyco.com:8334/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Records 89.1",
+    "url": "https://cdn.instream.audio/:9195/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Carolina",
+    "url": "http://server3.veemesoft.com.ar:26629/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiovision 99.5 fm",
+    "url": "https://cdn.instream.audio/:9061/stream?",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Impactos FM 107.1",
+    "url": "http://62.210.129.76:6650/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Extremo Radio 87.9",
+    "url": "http://emisiones.com.uy:5110/vinilo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "High Class Radio",
+    "url": "http://01.solumedia.com.ar:8710/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa Concordia FM 98.9",
+    "url": "http://str01-prod-par-ar.siglocero.net:8032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ciudadana FM 89.7",
+    "url": "https://radio02.ferozo.com/proxy/ra02001090?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Estancia FM 96.9",
+    "url": "http://63.247.91.178:12970/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "+ Musica Radio",
+    "url": "https://stream.zeno.fm/x9hq9qpdyuquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "102.3 FM Más que música",
+    "url": "https://sp4.colombiatelecom.com.co:10994/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "BagRadio",
+    "url": "http://bagradio.tecnosoul.com.ar:8041/bagradio",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "BizaRRadio",
+    "url": "https://01.solumedia.com.ar:8140/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena 3 AM 700",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Space",
+    "url": "http://52.9.150.45:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "CapitalNet Estación",
+    "url": "http://streaming01.serverconnectinc.site:8166/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Continental Córdoba FM 103.5",
+    "url": "https://vps-d8b84a62.vps.ovh.ca:10997/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cosquin Rock FM",
+    "url": "http://crfm.laradio.online:8799/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Desfachatados",
+    "url": "http://audiohd.sonidosenlared.com:8598/stream?1559812242584",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Activa 105.9",
+    "url": "https://server6.hostradios.com/8028//stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cordoba",
+    "url": "https://c3ny1.mediainbox.net/fmcordoba.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Gamba 106.3",
+    "url": "http://acp2.lorini.net:10630/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "GolandPop",
+    "url": "http://streaming01.serverconnectinc.site:8515/golpop",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Guapa FM 97.7",
+    "url": "http://server.laradio.online:35216/live?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Horizonte FM 102.1",
+    "url": "http://63.247.91.178:13038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Las Rosas FM 105.5",
+    "url": "http://streaming01.shockmedia.com.ar:9676/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Loca Suelta 94.7",
+    "url": "http://suenas.net:8090/locasuelta2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NaranjoFM",
+    "url": "http://radio02.ferozo.com:9000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Orfeo FM 98.5",
+    "url": "https://vps-d8b84a62.vps.ovh.ca:10970/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Park",
+    "url": "https://tolkien.republicahosting.net:1994/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "PlayFM 95.9",
+    "url": "http://server.ohradio.com.ar:9672/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pobre Johnny 88.9",
+    "url": "http://suenas.net:8090/pobrejohnny2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pulxo FM 95.1",
+    "url": "https://server7.hostradios.com:7073/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Punto a Punto Radio FM 90.7",
+    "url": "http://streaming01.shockmedia.com.ar:9990/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Quality FM 90.5",
+    "url": "http://streaming01.shockmedia.com.ar:9340/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Quality X FM 89.7",
+    "url": "http://streaming01.shockmedia.com.ar:9794/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio CIEC 93.9 FM",
+    "url": "https://tupanel.info:9430/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunitaria La Quinta Pata",
+    "url": "http://server3.veemesoft.com.ar:26429/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Espíritu Santo",
+    "url": "http://london-dedicated.myautodj.com:8114/stream1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Eterogenia",
+    "url": "http://01.solumedia.com.ar:8316/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio HIFI",
+    "url": "http://cdn.instream.audio:9218/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mansa FM 103.1",
+    "url": "http://suenas.net:8090/mansa2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio María FM 101.5",
+    "url": "http://dreamsiteradiocp2.com:8008/;stream.nsv&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Argentina",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Shopping 96.1",
+    "url": "http://suenas.net:8090/shoppingclassics2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sucesos",
+    "url": "http://server1.dainusradio.com:2341/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Suquia FM 96.5",
+    "url": "http://streaming01.shockmedia.com.ar:9968/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad AM 580",
+    "url": "https://sp4.colombiatelecom.com.co:10995/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad FM 88.5",
+    "url": "https://sp4.colombiatelecom.com.co:10996/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio UTN FRC FM 94.3",
+    "url": "https://01.solumedia.com.ar:8201/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RPM Oldies & Retro Hits",
+    "url": "https://radios.solumedia.com/6118/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sinfonía de la Inmaculada FM 91.5",
+    "url": "http://listen.shoutcast.com/sinfoniadelainmaculada915mhz",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sonar FM 88.1",
+    "url": "https://streaming01.shockmedia.com.ar:10935/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "SUM FM 103.3",
+    "url": "http://streaming01.shockmedia.com.ar:9382/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vorterix Córdoba",
+    "url": "http://104.131.4.100:8000/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sonora 96 LRN 767",
+    "url": "https://vps-c0159cbc.vps.ovh.ca/2510/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ciudad 89.5",
+    "url": "http://63.247.65.202:8187/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Nueva Radio Suarez",
+    "url": "https://streaming.escuchanosonline.com:7216/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Q103 Radio FM 103.1",
+    "url": "http://01.solumedia.com.ar:7139/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fiesta",
+    "url": "http://01.solumedia.com.ar:7115/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Alas 106.9",
+    "url": "https://stream.zeno.fm/7bs1rw5zw8quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Target i-Radio",
+    "url": "https://stream.zeno.fm/qbvkwqcna6mtv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena X5",
+    "url": "http://cdn.instream.audio:9101/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Dorado FM 98.3",
+    "url": "http://streamingraddios.online:10354/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Feeling FM 91.9",
+    "url": "http://turadioenvivo.com:8430/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Dos FM 99.3",
+    "url": "http://190.7.17.148:9302/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Link FM 90.3",
+    "url": "http://turadioenvivo.com:11019/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT7 AM 900",
+    "url": "http://turadioenvivo.com:11045/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Positiva FM 91.3",
+    "url": "https://stream.zeno.fm/m609r0ya0tzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Familias de la Ciudad",
+    "url": "http://streaming1.locucionar.com:12346/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Xpress FM 107.5",
+    "url": "http://turadioenvivo.com:8700/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sol FM 107.9",
+    "url": "https://01.solumedia.com.ar:8148/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sunder FM 93.5",
+    "url": "http://streaming01.shockmedia.com.ar:9108/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Posta 96.5",
+    "url": "http://server.laradio.online:8726/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Barcelona FM 104.1",
+    "url": "http://63.247.65.202:8432/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universo",
+    "url": "http://63.247.91.178:14045/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tiempo FM 105.1",
+    "url": "http://s2.netradiofm.com:5908/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Libertad Daireaux",
+    "url": "http://74.82.59.197:8230/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Neo Net Music",
+    "url": "http://198.50.206.239:8106/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Dolores FM 94.9",
+    "url": "http://168.181.185.173:9490/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM RDT",
+    "url": "http://streaming.shockmedia.com.ar:8648/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Music Time 80",
+    "url": "http://server.ohradio.com.ar:9808/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio FM Eclipse 88.9",
+    "url": "http://streaming01.dwservers.net:8300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Full 94.9",
+    "url": "http://nvradios.com:9396/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mix FM 93.3",
+    "url": "http://nvradios.com:9398/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Patagonia Andina 93.3",
+    "url": "https://centova.psigroup.com.ar:14796/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Milenium FM 106.3",
+    "url": "https://stream.zeno.fm/t9f16ed7cy8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ciudad FM 100.7",
+    "url": "https://streaming01.shockmedia.com.ar:10810/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio El Bolsón FM 106.7",
+    "url": "http://63.247.91.178:13497/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Argentina",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad57",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio M.A.C FM 99.9",
+    "url": "http://server.ohradio.com.ar:8134/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Huellas",
+    "url": "http://63.247.91.178:12584/stream?1570358098758",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Impacto 100.3",
+    "url": "http://streaming01.shockmedia.com.ar:7120/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio de Folklore FM 91.1",
+    "url": "https://ssl.xcast.com.br:7296/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Luna",
+    "url": "http://server.ohradio.com.ar:9344/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM El Talar",
+    "url": "http://stream01.insidetec.com:8074/eltalar",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sónica FM 92.9",
+    "url": "http://server.laradio.online:8248/live?1571817305362",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Vida 95.7",
+    "url": "https://stream.fmvida.xyz/fmvida",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cool FM 96.1",
+    "url": "https://player.livecastradio.com/proxy/7034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 105.7",
+    "url": "http://streaming3.locucionar.com:17926/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Libertad 90.5",
+    "url": "http://pad20.com:8020/vivo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fresh Radio FM 101.5",
+    "url": "http://server.laradio.online:9122/radioaac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Lago FM 105.5",
+    "url": "https://cdn.instream.audio/:9180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Esquel FM 88.7",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad36",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Boreal",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9758",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Los Pibes del Barrio Live Radio",
+    "url": "https://stream.zeno.fm/h5d0bd4w1f8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Famaillá FM 105.7",
+    "url": "https://streaming.tucumanradio.com/radio/8250/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Nueva del Litoral FM 96.9",
+    "url": "http://radio.neonetdigital.com:8152/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Universo FM 102.1",
+    "url": "https://stream.zeno.fm/19p7cs8h3v8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Venecia FM 93.3",
+    "url": "https://sonic.dattalive.com/8194/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación Sur FM 97.7",
+    "url": "http://63.247.65.202:8478/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mestiza Radio",
+    "url": "https://streaming.radiosenlinea.com.ar:10436/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio G",
+    "url": "https://streaming.radiosenlinea.com.ar:10795/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ciudad Ameghino 93.3",
+    "url": "https://streaming.radiosenlinea.com.ar:10949/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aura Radio",
+    "url": "https://cp9.serverse.com/proxy/auraradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Espacios 95.7",
+    "url": "http://www.genexservicios.com:8182/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Formosa AM 990",
+    "url": "http://cdn.instream.audio:9145/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRA 8 Radio Nacional Formosa AM 820",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad8",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "New FM 89.7",
+    "url": "https://streaming1.locucionar.com/proxy/radionewfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno FM 106.1",
+    "url": "http://63.247.65.202:8782/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Spacio FM 98.1",
+    "url": "http://streaming01.shockmedia.com.ar:9358/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Recuerdos FM 97.1",
+    "url": "http://servidor.i-live.com.ar:9710/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nova 92.3",
+    "url": "https://streaming.escuchanosonline.com:7099/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Diez FM 93.9",
+    "url": "http://audio.questreaming.com:25111/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estaciónline FM 91.5",
+    "url": "https://clientes.locucionar.com/player/ssl_convert.php?p=9479&c=2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Uno FM 94.7",
+    "url": "http://63.247.65.202:8244/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vanguardia FM",
+    "url": "https://streaming.evolucionstreaming.com/8088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación del centro FM 95.7",
+    "url": "http://stream01.insidetec.com:9040/fm957",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Universo",
+    "url": "http://45.178.84.150:8000/universo.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Cooperativa",
+    "url": "https://stream.larutaproducciones.com.ar/8002",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Always (92.7 mhz)",
+    "url": "http://cdn.instream.audio:8185/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM VIP",
+    "url": "http://stream2.servercristiano.com:8226/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Voz de la Amistad FM 107.1",
+    "url": "http://vps-d8b84a62.vps.ovh.ca:8098/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRT809 Elite FM 101.5",
+    "url": "https://01.solumedia.com.ar:8548/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Exitos 96.9",
+    "url": "http://alpha.radioplayer.com.ar:9208/fmexitos969",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Activa FM 94.3",
+    "url": "http://server1.veemesoft.com.ar:9512/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Ser Argentina",
+    "url": "https://server.laradio.online:58381/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Eclipse 99.7",
+    "url": "http://01.solumedia.com.ar:8328/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Infinity Radio",
+    "url": "http://63.247.91.178:14237/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Open Radio FM 99.3",
+    "url": "http://63.247.91.178:14551/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Beat Radio 91.9",
+    "url": "http://server.ohradio.com.ar:9838/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "InfoPico Radio 99.9",
+    "url": "https://streaming3.locucionar.com/proxy/infopico999?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio37 AM 980",
+    "url": "http://186.56.20.107:8080/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Antena Libre FM 89.1",
+    "url": "https://cdn.instream.audio/:9140/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Kaos 99.7",
+    "url": "http://streaming2.locucionar.com:8407/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Super Radio FM 96.3",
+    "url": "https://radio13.servidorderadio.net/8314/steam",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU18 AM640 Radio El Valle",
+    "url": "http://streamingraddios.online:7997/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Deja Vu FM 96.9",
+    "url": "https://server4.hostradios.com:7227/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Municipal",
+    "url": "http://s1.radiosnethosting.com:9906/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Actualidad FM 93.7",
+    "url": "https://server4.hostradios.com:7200/;.aac/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Gigowatt Rock Radio",
+    "url": "http://server.laradio.online:25345/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Mix FM 104.1",
+    "url": "https://sc.dattalive.com:10667/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 26 de Julio AM 1580",
+    "url": "https://server4.hostradios.com:7062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cuyum",
+    "url": "http://comecuco.org:8000/Cuyum",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Bitacora FM 98.9",
+    "url": "https://streaming.radiosenlinea.com.ar/8726/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Del Guaran FM 98.5",
+    "url": "http://streaming2.locucionar.com:8085/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM City 103.5",
+    "url": "http://s1.radiosnethosting.com:9796/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Fortuna FM 102.5",
+    "url": "http://stm5.xcast.com.br:8632/;?1570520757272",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Grand Bour City",
+    "url": "https://stream.zeno.fm/ve9145zz4mzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hechos de Tango Radio Online",
+    "url": "https://argentina.republicahosting.com:1376/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Maxima 94.5",
+    "url": "http://server.laradio.online:8797/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RN Gualeguaychú AM 1310",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad31",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cielo 93.1",
+    "url": "http://63.247.91.178:13158/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sonidos 100.7",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9844",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Tempo Mendoza",
+    "url": "https://stream.zeno.fm/bx6rzshqb2zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Siglo 21 Digital FM",
+    "url": "http://198.50.206.239:8070/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Amanecer 92.5",
+    "url": "http://63.247.65.202:8209/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Reina 92.1",
+    "url": "http://162.254.144.196:16083/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sora 101.3",
+    "url": "http://162.254.144.196:16087/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Panamericana FM 99.3",
+    "url": "http://orelha.radiolivre.org:8000/viajederadio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radar 105.3",
+    "url": "http://server1.veemesoft.com.ar:6248/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio de Mi País",
+    "url": "https://sonic.dattalive.com:10753/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Clasic FM 98.1",
+    "url": "http://streaming2.locucionar.com:8336/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional FM 93.5",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad54",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno Jacobacci",
+    "url": "http://184.107.35.153:8642/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa",
+    "url": "http://streaming01.shockmedia.com.ar:9332/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiofiel FM 106.5",
+    "url": "https://server4.hostradios.com:7072/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nova 91.9 Retroclasic Radio",
+    "url": "http://62.210.129.76:9314/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Oriente 92.3",
+    "url": "https://stream.zeno.fm/0qpr74ttus8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio Publica del Oeste FM 89.3",
+    "url": "https://01.solumedia.com.ar:10085/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa FM 96.5",
+    "url": "https://server4.hostradios.com:7089/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Voz 98.5",
+    "url": "https://serverssl.deradios.stream/8084/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pontiac Rock Radio 103.5",
+    "url": "http://01.solumedia.com.ar:8460/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Good Radio",
+    "url": "http://63.247.65.202:8140/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio InterCom FM 90.1",
+    "url": "http://netradiofm.com:9010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Tierra Campesina FM 89.1",
+    "url": "http://comecuco.org:8000/TierraCampesina",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tinkunaco",
+    "url": "http://stream.codigosur.org:8000/fm-tinkunaco.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RM San Martín FM 88.3",
+    "url": "https://streaming01.shockmedia.com.ar:10660/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Reconquista 89.5",
+    "url": "http://aler.org:8000/radiofmreconquista.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Clubber FM 97.7",
+    "url": "https://server.ohradio.com.ar/9960/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM MÁS 106.3",
+    "url": "http://63.247.91.178:12330/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Galáctica FM Junín",
+    "url": "http://148.72.155.21:8038/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Junin.net FM 96.9",
+    "url": "https://streaming.radiosenlinea.com.ar:10955/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Popular Latina Junín",
+    "url": "http://148.72.155.21:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cordillerana 99.5",
+    "url": "http://miradioenlaweb.com:11298/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Riachuelo 100.9",
+    "url": "http://aliasdns.info:8898/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Estrella",
+    "url": "http://179.43.114.70:9974/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Mas La Carlota",
+    "url": "http://63.247.65.202:8447/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Éxito",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9748/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Suena Radio FM 92.5",
+    "url": "http://142.44.247.70:8158/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estacion X FM 107.5",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9050",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Falda FM 95.5",
+    "url": "http://148.72.155.21:9146/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Océano FM 102.7",
+    "url": "https://cdn.instream.audio/:9062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nuestra 95.1",
+    "url": "http://audiohd.sonidosenlared.com:8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mix FM 96.7",
+    "url": "https://audiohd.sonidosenlared.com/proxy/radiomix967?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Classique",
+    "url": "http://01.solumedia.com.ar:8562/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Éxito FM 99.1",
+    "url": "http://radio.solumedia.com.ar:8178/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Alta Voz 94.1",
+    "url": "http://server.laradio.online:8143/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Auténtica 88.1",
+    "url": "https://stream.zeno.fm/fmdxk55qgtzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Redonda",
+    "url": "http://radio.solumedia.com.ar:8290/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Gravity Radio",
+    "url": "https://streaming01.shockmedia.com.ar:10513/player",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Keops FM 90.1",
+    "url": "http://streaming2.locucionar.com:8128/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Cielo 103.5",
+    "url": "https://radios.streamingdha.com.ar:7006/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Plata 96.5 FM",
+    "url": "https://radio.datalivehd.com:7102/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La96 FM 96.7",
+    "url": "http://01.solumedia.com.ar:8780/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Net80radio.com",
+    "url": "http://streaming.escuchanosonline.com:8274/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Nuevos Aires FM 99.7",
+    "url": "https://streamingv2.shoutcast.com/NuevosAiresFM997",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Oasis 95.5",
+    "url": "http://streaming3.locucionar.com:18448/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Organica FM",
+    "url": "https://radios.solumedia.com/6170/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunitaria Sin Fronteras",
+    "url": "http://162.254.144.196:18640/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Estación Sur",
+    "url": "http://144.91.98.151:8066//stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Hache online",
+    "url": "https://radio.plandos.com/8052/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Plata 90.9",
+    "url": "http://alpha.radioplayer.com.ar:9104/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mix 102.7",
+    "url": "http://streaming.radiolinksmedia.com:9372/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nauta FM 106.3",
+    "url": "https://stream.codigosur.org/radionauta.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Olazabal",
+    "url": "http://server.gostreaming.com.ar:8090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Perio 23",
+    "url": "http://miradioenlaweb.com:4188/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Revolución 98.9",
+    "url": "http://streaming01.shockmedia.com.ar:9878/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Zeta Web",
+    "url": "http://server.ohradio.com.ar:9650/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RadioPhonic",
+    "url": "http://radiophonic.com.ar:8000/radiophonic.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Red 92",
+    "url": "https://s5.voscast.com:9247/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Unica FM 87.9",
+    "url": "http://01.solumedia.com.ar:8478/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Universidad 107.5",
+    "url": "http://163.10.186.70:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Urbana Radio La Plata",
+    "url": "https://streaming01.shockmedia.com.ar:10930/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "WebdeRock Radio",
+    "url": "http://miradioenlaweb.com/4900/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pueblo Estación FM 88.3",
+    "url": "https://servidor2.hostradios.com/proxy/sc_puert?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Paloma FM 97.1",
+    "url": "http://streaming01.shockmedia.com.ar:9784/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Red FM 88.1",
+    "url": "http://162.254.144.196:16147/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mk2 Radio Online",
+    "url": "http://streaming01.shockmedia.com.ar:8704/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pachanga FM 99.9",
+    "url": "http://streaming01.shockmedia.com.ar:9782/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pura FM",
+    "url": "http://148.72.155.21:8472/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 24 100.5",
+    "url": "http://streaming01.shockmedia.com.ar:9842/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fenix 95.1",
+    "url": "https://server4.hostradios.com:7028/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Latina FM 97.5",
+    "url": "https://streaming.escuchanosonline.com:7174/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Libertad FM 95.5",
+    "url": "http://streaming01.shockmedia.com.ar:9938/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sónica FM 106.3",
+    "url": "http://148.72.155.21:8480/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Plenitud 105.9 FM",
+    "url": "http://radio.radioplenitud.org:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Dark Radio Brazil",
+    "url": "https://servidor32-4.brlogic.com:8130/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio del Lefèbvre FM 89.5",
+    "url": "http://fm895.ddns.net:9000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play FM 102.9 LRT 833",
+    "url": "https://streaming.escuchanosonline.com/8324/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM de los Cerros",
+    "url": "http://63.247.65.202:8055/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Bosque FM 104.1",
+    "url": "https://cdn.instream.audio/:9087/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La90LagoPuelo",
+    "url": "http://streaming2.locucionar.com:8055/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 92.siet",
+    "url": "https://server.laradio.online:58709/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Condor 104.1",
+    "url": "http://162.254.144.196:16318/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Espacio",
+    "url": "http://servidor.i-live.com.ar:8654/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rincón Gaucho",
+    "url": "https://dj91.hostingnuclear.com:7048/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Zeon Radio",
+    "url": "https://tolkien.republicahosting.net:1696/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Alpha 91.5",
+    "url": "http://01.solumedia.com.ar:8984/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Racsol Radio FM 94.1",
+    "url": "http://63.247.65.202:10008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Desert Tracks Radio FM 98.7",
+    "url": "http://63.247.91.178:14747/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Antena Uno Radio FM 100.1",
+    "url": "https://streaming.escuchanosonline.com/8268/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RN Las Lomitas AM1270",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad20",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Frontera 93.9",
+    "url": "http://fronterastream.ddns.net/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRM436 Vida FM 101.7",
+    "url": "https://radio.serviciosinformaticoslt.com:10443/radio/8000/AAC64",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Urbana 91.3 LRT 760",
+    "url": "http://audio.questreaming.com:20088/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cadena Eco",
+    "url": "https://stream.zeno.fm/svszp3e072quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pasion AM 540",
+    "url": "http://disbaires.com.ar:9045/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Planele",
+    "url": "https://01.solumedia.com.ar:7008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Urbe",
+    "url": "http://63.247.65.202:9533/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Vintage",
+    "url": "https://stream.zeno.fm/znq3wpzw34zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM ComunicArte 99.1",
+    "url": "https://sonic.dattalive.com/8438/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Joven FM 101.7",
+    "url": "https://streaming.evolucionstreaming.com:10866/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Los Polvorines City",
+    "url": "https://stream.zeno.fm/sw7utaubbnzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 89.7 IFDC Luis Beltrán",
+    "url": "http://138.219.215.253:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Asteroides 93.9",
+    "url": "http://01.solumedia.com.ar:7223/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Bien Argentina 96.9",
+    "url": "http://miradioenlaweb.com:4036/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La NB Radio 107.5",
+    "url": "http://63.247.91.178:13605/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Golden 100.5",
+    "url": "http://63.247.65.202:8207/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Condado 96.9",
+    "url": "https://radiopanel.com.ar/radio/8150/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Libre 93.7",
+    "url": "http://162.254.144.196/proxy/fmlibre937?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sol Online",
+    "url": "http://stm9.xcast.com.br:10852/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RadioMZ",
+    "url": "https://stream.zeno.fm/cfy1hukdgv8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ella 97.5",
+    "url": "https://tupanel.info:7228/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LV 19 Radio Malagüe",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad47",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Estudio FM 102.9",
+    "url": "https://streaming01.shockmedia.com.ar:10531/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Manantial FM 99.3",
+    "url": "http://alpha.radioplayer.com.ar:9210/manantial993",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Sol FM 106.5 Mhz",
+    "url": "http://stm22.veemesoft.com.ar:11834/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Acqua Pop Life",
+    "url": "http://streamall.alsolnet.com:443/acquamdq",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Amor 105.9",
+    "url": "http://streamall.alsolnet.com:443/amorenelaire",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Clásica Mar del Plata 90.9",
+    "url": "http://server.ohradio.com.ar:9600/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "dB Radio FM 101.7",
+    "url": "https://01.solumedia.com.ar:8476/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación Vinilo 89.1 Mhz",
+    "url": "http://173.255.205.241:1127/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "F.M. 99.9",
+    "url": "http://fm999.info:8000/radio.ogg",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 95.3 MDP Radio",
+    "url": "http://sonic.dattalive.com:8260/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La 97",
+    "url": "https://streaming01.shockmedia.com.ar:10586/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Universo 103.3",
+    "url": "https://servidor1.hostradios.com:8112/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Vivo 95.9",
+    "url": "http://alpha.radioplayer.com.ar:9332/radiovivo995",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "GDS Radio Mundial",
+    "url": "https://stream.zeno.fm/42wvhy15rmzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU6 Radio Atlántica",
+    "url": "http://173.255.205.241:9090/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU9 Radio AM 670",
+    "url": "https://servidor1.hostradios.com:8110/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Music Bazaar",
+    "url": "https://streaming01.shockmedia.com.ar:10580/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Planet Music FM 101.1",
+    "url": "https://streamall.alsolnet.com/planetmdq",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Bosque",
+    "url": "http://streaming01.shockmedia.com.ar:8738/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Brisas",
+    "url": "http://181.41.240.16:8030/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio KLA FM 91.7",
+    "url": "http://streamconex.com:8104/stream?type=http&nocache=16",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Residencias FM 96.5",
+    "url": "http://01.solumedia.com.ar:8592/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Saint Germain",
+    "url": "http://173.255.205.241:8200/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Random Music Radio",
+    "url": "https://stream.zeno.fm/g36m9x0h0wzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rock&Pop Mar del Plata 89.7",
+    "url": "http://s12.myradiostream.com:9846/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tano Bertolini",
+    "url": "http://streaming.escuchanosonline.com:8008/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Mejor",
+    "url": "https://stream.zeno.fm/ft9y65nseg0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Centenario 89.5 FM",
+    "url": "http://radios.agusticomunicacion.com:3000/centenario.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio María Juana FM 101.9",
+    "url": "http://63.247.65.202:8299/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Coctelera Radio",
+    "url": "http://server.ohradio.com.ar:9706/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Horizonte Radio FM 95.3",
+    "url": "https://streaming01.shockmedia.com.ar/8440/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Lado Rec",
+    "url": "https://streaming.evolucionstreaming.com/8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Villarino 100.9",
+    "url": "http://icecast.hostingbahia.com.ar:8050/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM San Antonio FM 92.9",
+    "url": "http://96.30.21.125:9978/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aurora 91.3 Argentina",
+    "url": "http://servidor2.serviciostreaming.com:9512/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cordillera FM 103.7",
+    "url": "http://server1.veemesoft.com.ar:9346/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación del Sol 100.9",
+    "url": "http://audio.bustream.com:8051/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ayer",
+    "url": "http://190.113.164.52:8080/ayer",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Brava 94.9",
+    "url": "http://190.113.164.52:8080/brava",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Una",
+    "url": "http://190.113.164.52:8080/una",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fuego Gitano Radio",
+    "url": "http://63.247.91.178:13190/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "GlobalRadio Mendoza",
+    "url": "http://miradioenlaweb.com:6020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Coope",
+    "url": "http://audio.bustream.com:8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Rocka 80",
+    "url": "https://radiopanel.com.ar/radio/8010/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Rocka 90",
+    "url": "https://radiopanel.com.ar/radio/8020/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Rocka XXI",
+    "url": "https://radiopanel.com.ar/radio/8030/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LV6 Radio Nihuil AM 680",
+    "url": "http://190.113.164.52:8080/NihuilAMUSP",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LVDiez",
+    "url": "http://audio.bustream.com:8062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metro 95.5 Mendoza",
+    "url": "http://104.131.4.100:8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metropolitana 95.3",
+    "url": "http://stm3.bahiahosting.com:10318/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Montecristo FM 93.7",
+    "url": "http://190.113.164.52:8080/montecristo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Olivos FM 99.9",
+    "url": "https://01.solumedia.com.ar:8050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "R.e.p.i Um",
+    "url": "http://argentina.republicahosting.com:8241/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Andina FM 90.1",
+    "url": "http://62.210.129.76:9670/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Legislatura",
+    "url": "http://audio.bustream.com:8011/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Murialdo",
+    "url": "http://stm11.xcast.com.br:8858/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Libertador AM 780",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad48",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Mendoza FM 97.1",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad6",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Play FM 88.9",
+    "url": "http://63.247.65.202:9235/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio U",
+    "url": "http://fm.uncu.edu.ar:8000/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad Nacional de Cuyo FM 96.5",
+    "url": "http://radio.uncu.edu.ar:8000/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio UTN FM 94.5",
+    "url": "http://streaming.fmutn.com.ar:8000/FMUTN",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Zero 91.1",
+    "url": "http://online.radiozero.fm:8020/mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Red 101",
+    "url": "https://ssl.srvif.com:7190/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sintonia Cero",
+    "url": "https://streamcasthd.com:8174/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sontrip",
+    "url": "http://audio.bustream.com:8005/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Estación 21",
+    "url": "http://63.247.91.178:13869/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Alternativa 99.3",
+    "url": "http://01.solumedia.com.ar:8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiecita",
+    "url": "https://sonic.dattalive.com/8036/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Tinku FM 107.9",
+    "url": "https://server.radiostreaming.com.ar/8168/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Activamiramar",
+    "url": "https://tolkien.republicahosting.net:1164/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 102.5 Miramar",
+    "url": "http://109.169.76.104:36962/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Master 105.3",
+    "url": "http://01.solumedia.com.ar:8776/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mágica Miramar FM 98.7",
+    "url": "http://fmmagica.zapto.org:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Zona 89.3",
+    "url": "http://142.44.135.172:8008/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Blogfm",
+    "url": "http://78.129.139.48:8088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ruta FM 103.9",
+    "url": "http://server12.veemesoft.com.ar:9364/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radioactiva Argentina",
+    "url": "http://01.solumedia.com.ar:8534/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sonido Sur",
+    "url": "https://server.laradio.online:58221/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ciudad UNM Radio",
+    "url": "http://69.64.46.123:9014/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "DS Radio Horizonte 94.5",
+    "url": "https://streaming.radiosenlinea.com.ar/9058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Retro Hits 105.7",
+    "url": "https://streaming.escuchanosonline.com:7000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Revolution",
+    "url": "https://server.ohradio.com.ar:7068/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Publica de Moreno",
+    "url": "https://stream.zeno.fm/qvgkxw3h65quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Bender FM",
+    "url": "http://142.44.135.172:8158/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ekis Rock!",
+    "url": "https://stream.zeno.fm/7hcxqau1w7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Oeste 106.9",
+    "url": "https://streaming3.locucionar.com/proxy/fmoeste1069?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Zeta Radio",
+    "url": "https://server.ohradio.com.ar:7211/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiobiblica.org",
+    "url": "http://radiobiblica.org:10080/;.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Morrison 104.3",
+    "url": "https://streaming.radiosenlinea.com.ar/8284/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1530 Centro Morteros",
+    "url": "http://streaming.dinesat.com:7237/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NVR FM 90.5",
+    "url": "https://server.radiostreaming.com.ar/8038/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cooperativa 105.1",
+    "url": "https://centova.psigroup.com.ar:17002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Costa FM 97.9",
+    "url": "https://radios.solumedia.com:10983/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Time Radio FM 101.5",
+    "url": "https://01.solumedia.com.ar:10093/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM Cumbre 1400",
+    "url": "https://server.laradio.online/proxy/amcumbre1400?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM550 La Primera",
+    "url": "https://sonic.dattalive.com:10851/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "CBN Neuquén",
+    "url": "http://stm11.patagoniaplay.app:9140/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Descubrí tu destino",
+    "url": "https://streamconex.com:2000/stream/descubritudestinocom",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cadena Uno 94.3",
+    "url": "https://server.laradio.online/proxy/joel_casteglione?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La 105 FM Libertad",
+    "url": "http://190.2.45.2:4994/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Radio de Fito FM 90.5",
+    "url": "https://server.laradio.online/proxy/dario_salazar?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Roca FM 99.9",
+    "url": "https://radioserver.lagranjadigital.com/radio/8010/laroca",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La23Radio",
+    "url": "http://198.50.225.239:8033/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Laser FM 107.9",
+    "url": "https://alpha.radioplayer.com.ar:9340/laserfm1079",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU5AM600",
+    "url": "http://live.lu5am.com:8000/LU5",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Platinum 97.7",
+    "url": "http://63.247.65.202:8106/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pluz",
+    "url": "https://www.pluz.com.ar/live.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radioymate",
+    "url": "http://audio.questreaming.com:20086/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "The Voice Radio FM 101.5",
+    "url": "http://streamingargentino4.com.ar:7350/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Uncocalf FM 103.7",
+    "url": "https://cdn.instream.audio/:9032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena del Sur FM 103.1",
+    "url": "http://server2.veemesoft.com.ar:9940/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Zurich 91.1",
+    "url": "https://sonic.dattalive.com:10947/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Voz de Nogoyá",
+    "url": "https://streaming3.locucionar.com/proxy/lavozdenogoya?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sol FM 99.9",
+    "url": "http://01.solumedia.com.ar:8712/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fiesta FM 88.5",
+    "url": "http://streamcordoba.sytes.net:31285/fiestafm",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Alcazar FM",
+    "url": "http://184.154.45.106:8052/stream?1567063551314",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM El Aire De Integración 101.1",
+    "url": "http://184.154.45.106:8058/stream?1566893350703",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Neo FM 95.3",
+    "url": "http://stream.valenzuelasistemas.com:8000/neofm",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Oxígeno",
+    "url": "http://200.110.145.2:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Sónica 101.5",
+    "url": "http://198.204.234.10:15126/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRH 713 La Radio 89.9",
+    "url": "https://sc.dattalive.com/8666/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRH 714 Music 91.5",
+    "url": "https://sc.dattalive.com/8766/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio City FM 101.9",
+    "url": "http://184.154.45.106:8408/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Underground FM 96.5",
+    "url": "http://63.247.91.178:13525/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 89.3 Radio Obispo Trejo",
+    "url": "http://138.59.247.198:8200/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tiempo",
+    "url": "http://st.produccionesdha.com:9532/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU32-Radio AM 1160",
+    "url": "http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Olavarria FM 99.9",
+    "url": "http://streamall.alsolnet.com:443/la99olavarria",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Tiempo Online",
+    "url": "http://162.254.144.196:18076/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "IRE 106.1",
+    "url": "http://server.laradio.online:8757/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Roja 195.7",
+    "url": "http://63.247.91.178:13286/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tanguera Radio",
+    "url": "http://cdn.instream.audio:9093/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Guemes 106.3 FM",
+    "url": "http://190.61.250.140:8022/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Al Tope Radio",
+    "url": "http://server.laradio.online:8457/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ciudad 99.5",
+    "url": "http://server.laradio.online:8256/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Corazón 104.1",
+    "url": "http://miradioenlaweb.com:4660/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Lt14 Paraná Entre Rios",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad44",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metrópolis FM 88.3",
+    "url": "http://01.solumedia.com.ar:8392/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Power Paraná 93.9 FM",
+    "url": "https://player.xcast.com.br/proxy/7232",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunitaria Barriletes 89.3",
+    "url": "http://radiobarriletes.sytes.net:8000/barriletes",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Uner FM 100.3",
+    "url": "http://streaming.uner.edu.ar/parana",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "radioIN",
+    "url": "http://63.247.91.178:13066/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vale FM 106.1",
+    "url": "http://alpha.radioplayer.com.ar:9222/valefm1061",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Sol 100.5",
+    "url": "http://63.247.65.202:8089/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Magica",
+    "url": "http://01.solumedia.com.ar:8564/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RE 97½",
+    "url": "http://63.247.91.178:14527/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "City FM 102.3",
+    "url": "https://miestacion.turadioonline.com.ar:7057/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Flash FM 99.9",
+    "url": "http://s1.radiosnethosting.com:9858/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nueva Latina",
+    "url": "http://streaming01.shockmedia.com.ar:8598/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Posta de Pergamino FM 101.7",
+    "url": "http://streaming01.serverconnectinc.site:8439/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Educativa",
+    "url": "http://streaming01.serverconnectinc.site:8108/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mon AM 1540",
+    "url": "http://streaming2.locucionar.com:8219/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Retro FM 97.9",
+    "url": "http://s1.radiosnethosting.com:9804/;stream.nsv&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Show Radio 101.1",
+    "url": "https://serverssl.deradios.stream/8104/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Musica Del Mundo",
+    "url": "https://streaming01.shockmedia.com.ar/9472/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Activa 94.3",
+    "url": "http://server1.veemesoft.com.ar:9626/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM de la Ciudad 92.1",
+    "url": "https://stream01.server-inside.com.ar:9658/ciudadpigue",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Sol",
+    "url": "http://01.solumedia.com.ar:8162/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Más FM 100.7",
+    "url": "http://01.solumedia.com.ar:8496/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "e2 FM 105.9",
+    "url": "http://streamall.alsolnet.com:443/fmestudiohd",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Musica del Arcon",
+    "url": "https://radio.netyco.com:18848/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio del Sol FM 91.5",
+    "url": "https://alpha.radioplayer.com.ar:9320/delsol915",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Infinito FM 100.9",
+    "url": "https://miestacion.turadioonline.com.ar:7031/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Acqua 96.5",
+    "url": "https://streamall.alsolnet.com:443/acquapinamar",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Planet Music 99.5",
+    "url": "http://streamall.alsolnet.com:443/planetpinamar",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Foret Estación Web",
+    "url": "https://alpha.radioplayer.com.ar:9248/laforet",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "M90 Premium",
+    "url": "http://23.111.184.195:8210/m90premium.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "P24 FM 102.3",
+    "url": "http://intelintec.com.ar:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Top 99.9",
+    "url": "http://streaming2.locucionar.com:8079/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "89.3 FM de las Misiones",
+    "url": "http://servidor.i-live.com.ar:9682/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Antena Misiones 923",
+    "url": "http://radio.solumedia.com.ar:8812/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Antena Uno",
+    "url": "http://radio.solumedia.com.ar:8812/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Express FM",
+    "url": "http://streamall.alsolnet.com:443/cadenaexpress",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Classic FM 91.3",
+    "url": "https://radiohd.net/7028/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 98.1 El Show de los impactos",
+    "url": "http://69.175.88.11:8164/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Street",
+    "url": "https://cdn2.instream.audio/:8008/stream?_=16b4afae46b",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "O.F. Music FM 102.9",
+    "url": "https://radiohd.net/8044/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play FM 103.3",
+    "url": "http://cdn.instream.audio:9170/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Libertad",
+    "url": "http://streamall.alsolnet.com:443/fmradiol",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Luna Sol",
+    "url": "https://stream.zeno.fm/y4fg6cdf2qzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nativa FM 93.7",
+    "url": "https://sonic.dattalive.com:10988/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio República FM 99.9",
+    "url": "http://streamlky.alsolnet.com:443/republica99?type=.flv&var=1571038438974R61",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Stereo",
+    "url": "https://kappa.radioplayer.com.ar:9144/1035",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "UGD Radio",
+    "url": "http://51.161.119.117:8034/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Leñera",
+    "url": "http://comecuco.org:8000/LaLenera",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Vision Saenz Peña",
+    "url": "https://s30.myradiostream.com/28858/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Lago - 99.9",
+    "url": "http://63.247.65.202:8061/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Esperanza FM 90.1",
+    "url": "http://miradioenlaweb.com:2540/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio FM Desire 101.7",
+    "url": "http://144.217.30.219:8031/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Discovery FM 101.1",
+    "url": "https://server.radiostreaming.com.ar:7007/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ángel FM 94.3",
+    "url": "https://server.laradio.online/proxy/fmangel?mp=/stream&1587475098667",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LR Noticias FM 93.5",
+    "url": "http://01.solumedia.com.ar:8494/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Yguazú 99.9",
+    "url": "https://radioiguazu.com/streaming/radioyguazu_web",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RadioSol FM 92.1",
+    "url": "http://162.254.144.196:17422/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Viento FM 97.7",
+    "url": "http://cdn.instream.audio:9125/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estacion 21 digital",
+    "url": "http://streaming01.shockmedia.com.ar:8378/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Records 89.1",
+    "url": "https://cdn.instream.audio/:9195/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Mejor FM 98.3",
+    "url": "http://cdn.instream.audio:9116/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ballenas",
+    "url": "http://streaming3.locucionar.com:18856/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Golfo Nuevo AM 540",
+    "url": "http://138.36.96.199:8001/lu17",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Bocha FM 99.9",
+    "url": "http://01.solumedia.com.ar:9024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Valdés",
+    "url": "http://01.solumedia.com.ar:7948/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Municipal 92.9",
+    "url": "http://radios.tecnosoul.com.ar/fmmunicipal.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRH 966",
+    "url": "http://radios.tecnosoul.com.ar:8000/radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Retro",
+    "url": "http://radios.tecnosoul.com.ar/laretro.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "98 Cinco Radio",
+    "url": "https://ssl.xcast.com.br:12716/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "De La Costa Radio FM 103.3",
+    "url": "http://01.solumedia.com.ar:8176/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Mar 100.1",
+    "url": "http://stm4.bahiahosting.com:10196/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mega FM 97.5",
+    "url": "http://mega975.online:80/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rosales FM 88.1",
+    "url": "https://ssl.xcast.com.br:10956/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Punta del Indio",
+    "url": "http://streaming.conexionproductora.com.ar:9650/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1450 radio del sol",
+    "url": "http://streaming.radiolinksmedia.com:8034/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Bosque Radio",
+    "url": "https://streaming01.shockmedia.com.ar:10598/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Quilmes Web Radio",
+    "url": "https://server.ohradio.com.ar/8150/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio FAN FM 103.9",
+    "url": "http://184.107.35.153:9216/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio FMQ",
+    "url": "http://streamlky.alsolnet.com:443/radiofmq",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Serena FM 103.5",
+    "url": "http://server.ohradio.com.ar:9998/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Vox FM 102.9",
+    "url": "https://streaming01.shockmedia.com.ar:10636/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "wen 93.7",
+    "url": "http://streaming01.shockmedia.com.ar:9164/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sova FM",
+    "url": "http://server.laradio.online:9173/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Conquista del Pan",
+    "url": "https://servidor1.hostradios.com:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "ADN FM 97.9",
+    "url": "http://streams.sistemasnimbus.com:12002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sonora 105.1",
+    "url": "http://s9.viastreaming.net:9680/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cell FM 105.7",
+    "url": "http://radiosar.com:9380/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Galena FM 94.5",
+    "url": "http://45.56.78.143:8820/vivo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rafaela FM 96.5",
+    "url": "http://server.laradio.online:8008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sol FM 90.9",
+    "url": "http://pad20.com:8085/vivo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Universidad FM 97.3",
+    "url": "https://server4.hostradios.com/8372/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vector FM 98.7",
+    "url": "https://server4.hostradios.com/8344/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Acero FM 104.1",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9886",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Imaginaria FM 95.3",
+    "url": "http://streaming2.locucionar.com:8023/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Reyes de la Púa radio online",
+    "url": "http://142.44.135.172:8359/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tropical 106.3 Mhz",
+    "url": "http://server.laradio.online:25060/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Premium FM 105.9",
+    "url": "http://162.254.144.196:17380/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nativa 96.9",
+    "url": "https://sonic.dattalive.com:10951/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Amanecer FM 92.7",
+    "url": "http://63.247.65.202:8756/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "95.9 Radio Facundo Quiroga",
+    "url": "http://200.58.106.247:8018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Gobernación",
+    "url": "http://209.133.213.92:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Natagala FM 94.7",
+    "url": "http://radio02.ferozo.com:8704/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nordeste FM 102.7",
+    "url": "http://turadioenvivo.com:11027/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Top Resistencia 103.7 MHz",
+    "url": "http://radio.neonetdigital.com:8028/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rck FM 107.3",
+    "url": "http://cdn.instream.audio:8137/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sintonia de Amistad FM 105.3",
+    "url": "http://radio02.ferozo.com:8010/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Golden FM 107.7",
+    "url": "http://cdn.instream.audio:9237/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Zero FM 95.5",
+    "url": "http://63.247.91.178:13446/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LV16 Radio AM 1010",
+    "url": "https://vps-d8b84a62.vps.ovh.ca:10928/;/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Brava FM 94.3",
+    "url": "http://server.laradio.online:8948/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "radiomuuuyrana",
+    "url": "http://radiomuuuyrana.stream.laut.fm/radiomuuuyrana",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Alquimia Rock FM 106.7 Mhz",
+    "url": "http://streaming01.shockmedia.com.ar:8952/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Educativa 92.3",
+    "url": "http://51.161.93.181:8390/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Glaciar 105.7",
+    "url": "https://sonic.dattalive.com/8124/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Popular Comunitaria FM 105.5",
+    "url": "http://streaming01.shockmedia.com.ar:9924/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Bangkok FM 103.5",
+    "url": "http://63.247.65.202:8024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Wave",
+    "url": "http://162.254.144.196:18238/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 100.3 La Isla",
+    "url": "http://63.247.65.202:8454/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 96.3 Aire Libre",
+    "url": "http://streamingraddios.net:9277/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metro FM 98.7",
+    "url": "http://107.170.2.225:8040/metro",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fuego FM 90.1",
+    "url": "https://radio11.argentinaservers.online/8138/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fueguina FM 96.9",
+    "url": "http://streamall.alsolnet.com:443/radiofueguina",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Argentina",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad58",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Libertad 95.7",
+    "url": "http://201.220.156.154:8104/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Power Argentina",
+    "url": "http://streaming01.shockmedia.com.ar:8336/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Amadeus FM 91.9",
+    "url": "http://01.solumedia.com.ar:8756/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "mzafm 94.5",
+    "url": "https://radio13.servidorderadio.net/8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Que Viva La Radio",
+    "url": "http://server4.hostradios.com/8408/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Cumbre FM 99.7",
+    "url": "http://62.210.129.76:9640/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play 94.3",
+    "url": "https://stream.milmegas.com/play943.aacp",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Roldán FM 92",
+    "url": "http://server.laradio.online:8704/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Abril FM 91.5",
+    "url": "http://server.laradio.online:9181/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM Libertad 1090",
+    "url": "http://streaming2.locucionar.com:8669/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Beat Digital",
+    "url": "http://192.99.38.174:9510/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "CNN Rosario 89.5",
+    "url": "http://23.111.184.195:8140/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Comunidad Fan",
+    "url": "http://server.laradio.online:8377/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Rosario FM 103.9",
+    "url": "http://162.254.144.196:17902/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Del Siglo FM 99.5",
+    "url": "http://stream.lt8.com.ar:8080/delsiglo995.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fahrenheit FM 88.7",
+    "url": "http://streaming.redboing.com/radio/8010/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM AZ 92.7",
+    "url": "http://63.247.91.178:12140/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Horizonte 91.7",
+    "url": "http://63.247.91.178:12534/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tango 98.7",
+    "url": "http://server.laradio.online:8254/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Vida 97.9",
+    "url": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Glaciar Argentino FM 96.7",
+    "url": "http://server.laradio.online:8942/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hot FM 102.5",
+    "url": "http://streaming2.locucionar.com:9965/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Kiss FM 95.1",
+    "url": "https://sonic.dattalive.com:10929/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Boing FM 97.3",
+    "url": "http://streaming.redboing.com/radio/8000/radio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Ocho AM 830",
+    "url": "http://stream.lt8.com.ar:8080/lt8radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Red Rosario FM 98.3",
+    "url": "http://stream.lt8.com.ar:8080/laredrosario.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRA 5 AM 1300",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT3 AM 680",
+    "url": "http://stream.lt3.com.ar:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "M90 89.9",
+    "url": "http://23.111.184.195:8030/m90.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "M90 Vintage",
+    "url": "http://23.111.184.195:8020/mileniumrosario.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Meridiano FM 107.1",
+    "url": "http://23.111.184.195:8050/fmmeridiano.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metropolitana FM 103.7",
+    "url": "https://https.nvradios.com/radio/9432/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play Sonico",
+    "url": "https://stream.zeno.fm/kyhtenrad54tv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Plus 93.1",
+    "url": "http://fmplus.radio.rosario3.com:8006/fmplus",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 2 AM 1230",
+    "url": "http://radio2.radio.rosario3.com:8000/prueba2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa Rosario",
+    "url": "https://cdn.instream.audio/:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio BT FM 90.9",
+    "url": "http://streaming2.locucionar.com:8153/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Caricias Al Corazon",
+    "url": "http://63.247.65.202:10012/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cristiana FM 95.7",
+    "url": "http://www.genexservicios.com:8098/;?1564988902655",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio El Arca",
+    "url": "http://server.laradio.online:8474/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fisherton Plaza",
+    "url": "http://51.79.99.194:7017/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Infinity",
+    "url": "https://sonic.dattalive.com/8192/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pan de Vida FM 102.9",
+    "url": "http://63.247.91.178:13905/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pop 96.1",
+    "url": "https://01.solumedia.com.ar:8390/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rosario Pop Latino",
+    "url": "https://stream.zeno.fm/ueeyz5ctnwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Soy Lola",
+    "url": "https://01.solumedia.com.ar:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Trip",
+    "url": "http://streaming2.locucionar.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad UNR 103.3",
+    "url": "https://cdn.instream.audio/:9202/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno Online",
+    "url": "http://63.247.91.178:12166/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radiofónica FM 100.7",
+    "url": "http://200.58.106.247:8628/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rivadavia Rosario 106.3 FM",
+    "url": "http://200.58.106.247:9162/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rosario Clásica FM 90.7",
+    "url": "http://63.247.91.178:12786/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Santafesina",
+    "url": "http://streaming2.locucionar.com:8001/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sí 98.9",
+    "url": "http://server.laradio.online:8202/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "soundboxradio",
+    "url": "http://server.laradio.online:8102/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Super FM 107.5",
+    "url": "http://23.111.184.195:8000/delplatarosario.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Uruguay FM 87.9",
+    "url": "http://argentina.republicahosting.com:8081/live/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Winner Rosario FM 101.1",
+    "url": "http://78.46.120.147:5292/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Lider FM 96.7",
+    "url": "https://stream.zeno.fm/x9paefw9ghruv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Técnica",
+    "url": "https://streaming.evolucionstreaming.com:10912/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Rufino 106.3",
+    "url": "http://streamingraddios.net:9263/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Universal 98.9",
+    "url": "http://server4.hostradios.com:9680/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sol FM 89.5",
+    "url": "https://stream.zeno.fm/8p34874wc5zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno FM 88.5",
+    "url": "http://195.154.167.62:7292/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "102.5 La Cueva FM",
+    "url": "http://turadioenvivo.com:8520/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Arcadia Radio FM 94.1",
+    "url": "http://centova1.veemesoft.com.ar:8063/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Saladillo 90.7",
+    "url": "http://miradioenlaweb.com:8688/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La 106",
+    "url": "https://streamconex.com:8118/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio de Clasicos Saladillo 106.9 FM",
+    "url": "http://streamconex.com:8048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Orion 89.1",
+    "url": "https://alpha.radioplayer.com.ar:9166/fmorion891",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "33 45 Radio",
+    "url": "http://streaming.aacplusargentina.com:10026/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cielo FM 92.1",
+    "url": "https://streaming.radiosenlinea.com.ar:10882/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Noticias 88.1 Mhz",
+    "url": "http://s2.netradiofm.com:8062/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Glam FM 96.3",
+    "url": "http://streaming2.locucionar.com:8499/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Cacharpaya",
+    "url": "http://streaming01.shockmedia.com.ar:9360/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Estación FM 107.9",
+    "url": "http://radio.solumedia.com.ar:8462/stream%20Title1=?1567587151078",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Level Rock FM",
+    "url": "http://63.247.65.202:8622/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio FM Cumbiambera",
+    "url": "http://63.247.91.178:12150/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Folcklorica",
+    "url": "http://netradiofm.com:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional AM 690",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad4",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sophia 99.5",
+    "url": "https://cdn.instream.audio/:9136/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Taurino Radio Web",
+    "url": "https://radio13.servidorderadio.net/9566/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Eter FM 98.9",
+    "url": "http://nvradios.com:9366/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Imagen 106.1",
+    "url": "http://179.43.114.70:9370/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Marítima FM 102.5",
+    "url": "https://player.xcast.com.br/proxy/7254",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cielo 98.5",
+    "url": "http://st.produccionesdha.com:9454/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sonicua.com 89.9",
+    "url": "https://sonic.dattalive.com:10883/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NdR Radio FM 103.9",
+    "url": "http://streamconex.com:8096/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Opinión FM 104.7",
+    "url": "http://intelintec.com.ar:8035/;?type=http&nocache=1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Xradio San Bernardo",
+    "url": "http://envivo.xradio.com.ar:9826/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Horizonte FM 94.1",
+    "url": "https://streaming01.shockmedia.com.ar:10403/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ceibo",
+    "url": "https://proxy.turadioinfo.com/8200",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM San Carlos 107.7",
+    "url": "http://radio.solumedia.com.ar:8854/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Conexion Bariloche FM 93.9",
+    "url": "https://streamconex.com:2000/stream/ConexioxBariloche/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Flashpoint",
+    "url": "http://63.247.65.202:9173/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Bariloche 89.1",
+    "url": "http://63.247.91.178:12324/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Barrio 98.1",
+    "url": "https://streaming.escuchanosonline.com:7026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Renacer 107.7",
+    "url": "https://genexservicios.com:2000/stream/renacerbariloche/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Unaflor En El Desierto 97.5",
+    "url": "https://centova.psigroup.com.ar:17214/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Rocka 98.7",
+    "url": "http://cdigital.net:8026/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LIFE",
+    "url": "http://streaming01.shockmedia.com.ar:9224/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mega 103.7",
+    "url": "https://serverssl.deradios.stream/8056/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "OK Radio",
+    "url": "https://01.solumedia.com.ar:6680/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Orfeo Rock Radio 105.5 FM",
+    "url": "http://01.solumedia.com.ar:9130/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Puertas y Puentes FM 88.7",
+    "url": "https://audiohd.sonidosenlared.com/proxy/001?mp=/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio BRC FM 102.1",
+    "url": "https://01.solumedia.com.ar:9074/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Huemul FM 88.5",
+    "url": "http://01.solumedia.com.ar:8488/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio ONE FM 99.7",
+    "url": "https://srv591.grupomultimedios.com.ar:9902/radio/8100/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Pop 89.9",
+    "url": "https://srv591.grupomultimedios.com.ar:9902/radio/8070/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Seis Bariloche",
+    "url": "http://janus.shoutca.st:9149/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Vale 95.9",
+    "url": "https://srv591.grupomultimedios.com.ar:9902/radio/8090/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rock & Pop FM 102.7",
+    "url": "https://srv591.grupomultimedios.com.ar:9902/radio/8060/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "X Radio FM 101.7",
+    "url": "https://radios.streamingdha.com.ar:7002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La 93 Bolivar",
+    "url": "http://streaming.escuchanosonline.com:8152/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "102.3 Azotea del Tuyu FM",
+    "url": "https://cdn.instream.audio/:9118/stream?_=16a79ba8c02",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "X Radio",
+    "url": "https://radios.streamingdha.com.ar:7001/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Restauracion FM 96.7",
+    "url": "http://delta.radioplayer.com.ar:9116/fmrestauracion967",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 101.7 San Eduardo del Mar",
+    "url": "https://argentina.republicahosting.com:1486/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 88.3 La Barca",
+    "url": "http://servidor2.hostradios.com:9468/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Inthemix Radio 88.1",
+    "url": "http://01.solumedia.com.ar:8230/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM1050 Radio San Francisco",
+    "url": "http://34.95.249.195:8010/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Universo 95.7",
+    "url": "http://34.95.249.195:8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Señal FM 97.5",
+    "url": "https://streaming01.shockmedia.com.ar:10751/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ciudad FM 91.3",
+    "url": "http://01.solumedia.com.ar:7485/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 91.3 Symphony",
+    "url": "http://cdn.instream.audio:8129/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Excalibur",
+    "url": "http://streaming2.locucionar.com:8349/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Rayo",
+    "url": "https://tolkien.republicahosting.net:1698/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "San Isidro Labrador FM 95.5",
+    "url": "http://mp3.metroaudio1.stream.avstreaming.net:7200/sil1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Unyka FM 94.5",
+    "url": "http://streaming.escuchanosonline.com:8030/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ciudad 104.3",
+    "url": "http://radio01.ferozo.com:8122/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Melody América FM 105.3",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9042/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Recuerdos FM 97.9",
+    "url": "https://streaming.radiosenlinea.com.ar/8922/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Retro FM 106.7",
+    "url": "http://streaming.radiosenlinea.com.ar:8922/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Norte FM 96.5",
+    "url": "http://streaming01.shockmedia.com.ar:8574/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Vida San Jose",
+    "url": "http://servidor.ilive.com.ar:9324/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Gottau 91.1",
+    "url": "http://01.solumedia.com.ar:8640/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1020",
+    "url": "http://51.79.83.93:9998/icecast/am1020a/icecast.audio",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Amanecer FM 102.9",
+    "url": "http://51.79.83.93:62398/amanecer",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Antena 1 FM 91.5",
+    "url": "http://s2.netradiofm.com:9008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Armonia FM 96.7",
+    "url": "http://51.79.83.93:62398/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Bohemia FM 100.1",
+    "url": "https://streaming3.locucionar.com/proxy/bohemia1001?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Vida FM 95.3",
+    "url": "http://96.30.21.125:9988/;/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "CNN Radio San Juan FM 94.1",
+    "url": "https://streaming.radiosenlinea.com.ar:10796/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Condor Andino FM 104.5 Radio Cooperativa",
+    "url": "http://200.58.106.247:8922/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cosmos FM 93.5",
+    "url": "http://server.ohradio.com.ar:9988/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cristal FM 100.3",
+    "url": "http://server4.hostradios.com:9648/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación Claridad FM 97.1",
+    "url": "http://solid9.streamupsolutions.com:8004/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 107.7",
+    "url": "http://streaming1.locucionar.com:14835/;?",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Santa Lucía 99.7",
+    "url": "https://streaming.radiosenlinea.com.ar/8516/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Latina FM 91.3",
+    "url": "http://streaming.radiosenlinea.com.ar:8062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Libre FM 92.7",
+    "url": "https://stream.radiosmundiales.com/8220/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Light FM 97.3",
+    "url": "http://96.30.21.126:9958/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LV 1 Radio Colon AM560 FM106.3",
+    "url": "http://96.30.21.127:9300/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Max Radio FM 92.3",
+    "url": "https://streaming.radiosenlinea.com.ar/8498/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pop Latina FM 107.9",
+    "url": "https://01.solumedia.com.ar:8434/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Bless FM 88.3",
+    "url": "https://alpha.radioplayer.com.ar:9312/radiobless883",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Blu FM 99.5",
+    "url": "https://streaming.radiosenlinea.com.ar/8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio City FM 105.7",
+    "url": "https://streaming.escuchanosonline.com:7069/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Concepto",
+    "url": "http://62.210.129.76:9750/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio del Sur 101.1",
+    "url": "http://51.79.83.93:62398/1",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Digital San Juan",
+    "url": "http://01.solumedia.com.ar:7762/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Dynamis FM 94.5",
+    "url": "http://s1.radiosnethosting.com:9896/;stream.nsv&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fantastica FM 105.3",
+    "url": "https://stream.zeno.fm/at1q495rea0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Interlagos FM 95.5",
+    "url": "http://181.209.96.170:8000/stream;audio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Gente FM 90.9",
+    "url": "https://streaming3.locucionar.com/proxy/lagente909?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Parlata",
+    "url": "https://streaming3.locucionar.com/proxy/laparlata?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Red San Juan FM 103.5",
+    "url": "http://190.113.164.52:8080/lrsj",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Voz FM 100.5",
+    "url": "http://96.30.21.126:9980/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Madre de Dios FM 87.9",
+    "url": "http://01.solumedia.com.ar:8134/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Metro San Juan",
+    "url": "https://streaming.radiosenlinea.com.ar/8108/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional AM 910",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad23",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Sports FM 89.9",
+    "url": "http://server.gostreaming.com.ar:8004/stream.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Total FM 91.1",
+    "url": "https://streamssl.eu:1470/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad FM 93.1",
+    "url": "http://streaming.radiosenlinea.com.ar:8122/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 660",
+    "url": "https://server.ohradio.com.ar/8162/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estilo FM 95.1",
+    "url": "http://streaming.escuchanosonline.com:8070/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nativa AM 930",
+    "url": "http://streaming.escuchanosonline.com:8312/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio República 670 AM",
+    "url": "http://streaming.escuchanosonline.com:8310/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sol Music FM 91.7",
+    "url": "http://stm6.xcast.com.br:8806/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena de Noticias FM 106.1",
+    "url": "http://streaming.radiolinksmedia.com:7850/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Digital San Luis",
+    "url": "https://streamconex.com:8062/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Lafinur 96.3",
+    "url": "https://server4.hostradios.com:7050/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Comunidad FM 96.5",
+    "url": "http://162.254.144.196:17830/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Heaven Online",
+    "url": "https://radios.streamingdha.com.ar:7005/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Popular San Luis",
+    "url": "http://134.209.220.139:8010/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Somos FM 100.9",
+    "url": "https://stream.zeno.fm/ucar9uz5m0quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Urbana FM 107.7",
+    "url": "http://streaming.radiolinksmedia.com:7145/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "XLW 92.1",
+    "url": "http://radio.solumedia.com.ar:7009/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Latina 100.5",
+    "url": "http://streaming.escuchanosonline.com:8038/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio S.O.S",
+    "url": "https://tupanel.info:7458/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Alma FM 96.9",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9652",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM de la Montaña 105.1",
+    "url": "https://01.solumedia.com.ar:8824/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM del Lago 102.5",
+    "url": "http://63.247.65.202:8304/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Nova 98.9",
+    "url": "http://01.solumedia.com.ar:8208/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRA 53 Radio Nacional",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad53",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Fun 100.1 Mhz",
+    "url": "http://streaming2.locucionar.com:8183/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Wiki 88.5",
+    "url": "http://giss.tv:8000/radiowiki.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Galileo 90.7",
+    "url": "http://server.laradio.online:9042/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Maza 99.5",
+    "url": "http://01.solumedia.com.ar:8706/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Trujui 90.1 Mhz",
+    "url": "http://62.210.129.76:9302/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Open Music",
+    "url": "http://streaming01.shockmedia.com.ar:9716/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Mirlo",
+    "url": "https://stream.zeno.fm/e6hg6b5vn7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Raices Radio",
+    "url": "http://server.laradio.online:8166/diego",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "107.5 FM Cadena 3",
+    "url": "http://c3live-sm.mediainbox.net/c3tucuman.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Dj's Club",
+    "url": "https://stream.zeno.fm/bk5r149tc6quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Fish FM 95.9",
+    "url": "http://200.58.106.247:8090/stream?type=http&nocache=583",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sensaciones 95.1",
+    "url": "http://streamlky.alsolnet.com/fmsensaciones",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FMi 99.1",
+    "url": "http://s1.radiosnethosting.com:9808/;stream/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Popweek",
+    "url": "https://streaming3.locucionar.com/proxy/popweek?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metropolitana 93.5",
+    "url": "https://sonic.dattalive.com:10743/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Metropolitana FM 100.5",
+    "url": "https://server7.hostradios.com/8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ciudad FM 87.9",
+    "url": "https://streaming.tucumanradio.com/radio/8070/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Compañera FM 107.1",
+    "url": "https://streaming.tucumanradio.com/radio/8170/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Lajeta",
+    "url": "http://streaming3.locucionar.com:18346/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Lv12",
+    "url": "http://s1.radiosnethosting.com:8032/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio San Nicolas AM 1430",
+    "url": "http://138.97.202.245:88/broadwavehigh.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Noba FM 102.9",
+    "url": "http://142.44.135.172:8030/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Desvelo",
+    "url": "http://streaming2.locucionar.com:10502/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Net FM 95.7",
+    "url": "http://streaming2.locucionar.com:8556/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio U FM 89.9",
+    "url": "http://190.106.131.31:7900/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Country2radio",
+    "url": "http://s2.netradiofm.com:9018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estación San Pedro",
+    "url": "http://s2.netradiofm.com:9016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Estilo FM 93.3",
+    "url": "https://server.laradio.online:59248/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LV4 Radio San Rafael AM620",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad46",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Nuevo Tiempo FM 106.7",
+    "url": "http://sonic.dattalive.com:8188/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Walter Radio Online",
+    "url": "https://stream.zeno.fm/z0xgk6904neuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Star Online",
+    "url": "http://streaming.radiosenlinea.com.ar:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Centro 104.5",
+    "url": "http://01.solumedia.com.ar:7357/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La voz de VCI",
+    "url": "https://stream.zeno.fm/ke2bvwydmzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio sin Antena",
+    "url": "https://stream.zeno.fm/qayxq0ybb9quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Trentina FM 101.1",
+    "url": "http://stm5.xcast.com.br:8642/;?1571987919272",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Arroba",
+    "url": "https://argentina.republicahosting.com:1029/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rádio CE FM 106.5",
+    "url": "https://mcp.turadioinfo.com/5640/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vivencias FM 103.1",
+    "url": "http://63.247.91.178:14299/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Colonia FM 99.1",
+    "url": "http://01.solumedia.com.ar:8080/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Impacto 93.9",
+    "url": "https://chino.republicahosting.com:2162/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aire de Santa Fe FM 91.1",
+    "url": "http://stm14.xcast.com.br:8248/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena 3 101.7 FM",
+    "url": "http://c3live-sm.mediainbox.net/c3santafe.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena OH! 87.9",
+    "url": "http://192.99.38.174:9422/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Activa 93.1",
+    "url": "http://198.50.206.239:8016/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Compacto 103.3",
+    "url": "http://78.46.120.147:9519/radioaac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Halley FM 99.7",
+    "url": "https://server7.hostradios.com/8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT 9 AM 1150",
+    "url": "https://streaming1.locucionar.com/proxy/lt9?mp=/stream?",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT10 Radio UNL",
+    "url": "https://pad20.com:8555/vivo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mega 98.3 Santa Fe",
+    "url": "http://s1.radiosnethosting.com:9986/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Onda Horizonte FM 94.1",
+    "url": "http://streamingvideo.com.ar:9816/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cadena Tropical",
+    "url": "http://audio.questreaming.com:25171/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio El Signo FM 106.5",
+    "url": "https://streaming01.shockmedia.com.ar:10605/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio EME",
+    "url": "http://s2.netradiofm.com:8018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Galeno FM 100.7",
+    "url": "https://streamcasthd.com:8252/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Natural - 24 HORAS Radio",
+    "url": "http://63.247.65.202:8474/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno FM 101.3",
+    "url": "http://streamingvideo.com.ar:9888/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "REC Santa Fe",
+    "url": "http://argentina.republicahosting.com:8278/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Superhits FM 92.5",
+    "url": "http://63.247.91.178:12288/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Urbana Soul",
+    "url": "https://stream.zeno.fm/k5g87khmfhruv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vida Santa Fe FM 107.9",
+    "url": "http://stm6.xcast.com.br:8818/;?1567586890879",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Municipal 94.7",
+    "url": "http://01.solumedia.com.ar:7702/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 3 FM Santa Rosa 93.7",
+    "url": "http://server8.emitironline.com:18677/radio",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Horizonte FM 103",
+    "url": "https://stream.zeno.fm/5zb9tck42k8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Kermés Comunitaria",
+    "url": "http://server.laradio.online:8599/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Noticias 99.5 FM",
+    "url": "http://stream01.insidetec.com:9014/radionoticias",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Siento Rock FM",
+    "url": "http://142.44.135.172:8093/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sonar FM",
+    "url": "http://01.solumedia.com.ar:8574/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vorterix Santa Rosa",
+    "url": "http://sonic.dattalive.com:8212/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Señal FM",
+    "url": "http://63.247.65.202:8690/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play FM 106.1",
+    "url": "http://63.247.91.178:12024/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Premium FM 104.7",
+    "url": "http://servidor.ilive.com.ar:8546/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cadena Regional FM 104.9",
+    "url": "https://stream.radiosmundiales.com/8022/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Frecuencia Arena FM 98.3",
+    "url": "https://streaming.radiosenlinea.com.ar:10566/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Exclusiva 103.7",
+    "url": "https://streamingraddios.online/proxy/exclu?mp=/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Centro FM 103.1",
+    "url": "http://51.161.119.117/8550/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Universidad FM 92.9",
+    "url": "https://streaming01.shockmedia.com.ar:10949/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Urbana Soul",
+    "url": "https://stream.zeno.fm/zvc0m64hb9quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cronos FM 107.1",
+    "url": "http://server4.veemesoft.com.ar:26285/;/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Max",
+    "url": "https://streaming.radiosenlinea.com.ar/8502/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Top FM 104.9",
+    "url": "http://63.247.65.202:8170/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Signo FM 96.1",
+    "url": "http://162.254.144.196:18514/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Serrano FM 92.1",
+    "url": "https://cdn.instream.audio/:9123/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Pido la Palabra",
+    "url": "http://streaming2.locucionar.com:8307/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Comunal Sa Pereira FM 87.9",
+    "url": "http://stm5.veemesoft.com.ar:15962/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Sensación FM 101.9",
+    "url": "https://streaming.tucumanradio.com/radio/8140/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Belgrano Suardi AM 1510",
+    "url": "http://pad20.com:8310/vivo",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ciudad la radio 88.9",
+    "url": "http://server3.veemesoft.com.ar:26583/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Nuevo Mundo FM 106.9",
+    "url": "http://radio02.ferozo.com:8270/stream?type=http&nocache=328",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Poder FM 102.3",
+    "url": "http://streaming.escuchanosonline.com:8088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tabossi 107.7",
+    "url": "http://miradioenlaweb.com:3098/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 1180 Radio de la Sierra",
+    "url": "https://streamconex.com:2000/stream/AM1180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Bien! FM",
+    "url": "https://stream.zeno.fm/3rqz181ysa0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Tandil AM 1140",
+    "url": "https://streaming01.shockmedia.com.ar/8170/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Voz FM 106.9",
+    "url": "https://radiovoz.linxserver.net/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vida FM 103.5",
+    "url": "https://radio11.argentinaservers.online/8270/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mora FM 97.7",
+    "url": "http://streaming2.locucionar.com:8019/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Termas Digital 98.5 MHz",
+    "url": "http://stm8.bahiahosting.com:9194/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM La Costa 106.7",
+    "url": "https://mcp.turadioinfo.com/5858/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Infinity Radio",
+    "url": "http://streaming1.locucionar.com:14237/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Open 99.3 FM",
+    "url": "http://63.247.91.178:14551/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Potrerito",
+    "url": "https://stream.zeno.fm/44vwm9rgytzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio RIN FM 98.7",
+    "url": "https://server7.hostradios.com/8200/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Identidad FM 102.1",
+    "url": "http://63.247.65.202:8137/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Acuario 102.1",
+    "url": "http://streaming1.locucionar.com:12668/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Animal de Radio",
+    "url": "http://streaming3.locucionar.com:17644/autodj",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NTV Radio FM 104.5",
+    "url": "http://190.13.226.153:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ciudad de Totoras FM 88.3",
+    "url": "http://www.genexservicios.com:8216/;?1564989814992",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Chubut FM 90.1",
+    "url": "http://62.210.129.76:9382/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Viento 104.9",
+    "url": "https://cdn.instream.audio/:9303/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Tehuelche 90.7",
+    "url": "https://streaming.evolucionstreaming.com:10900/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio 3 A.M. 780",
+    "url": "http://200.5.226.234:8011/radio3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Chubut AM 580",
+    "url": "http://63.247.91.178:12688/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Conexion Web",
+    "url": "https://streaming.radiosenlinea.com.ar:10553/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Equis 106.5",
+    "url": "http://63.247.91.178:13761/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Kaizen FM 103.5",
+    "url": "http://63.247.65.202:8512/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Voz 96.5",
+    "url": "http://s1.radiosnethosting.com:9824/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Genesis Radio FM 94.3",
+    "url": "https://serverssl.deradios.stream/8282/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU11 AM 1280",
+    "url": "http://stream01.insidetec.com:9140/lu11",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Hippie 97.5",
+    "url": "http://radiosar.com:8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Ilusiones",
+    "url": "http://streaming01.shockmedia.com.ar:9830/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Zeus",
+    "url": "http://179.40.41.184:8443/999.opus",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU 24 Radio Tres Arroyos",
+    "url": "http://streaming.shockmedia.com.ar:9832/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Onda Uno 103.9 FM Lrv 393",
+    "url": "http://streaming01.shockmedia.com.ar:9478/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Top 100 98.1",
+    "url": "http://streaming.escuchanosonline.com:8318/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Valle 99.9",
+    "url": "http://01.solumedia.com.ar:8764/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Trevelin 104.1",
+    "url": "https://01.solumedia.com.ar:8546/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Todo esta al Reves",
+    "url": "http://62.210.129.76:9312/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Aire Libre",
+    "url": "http://198.204.234.10:15084/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cristal FM 89.7",
+    "url": "http://streamingraddios.online:9663/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AsaltoMata Radio Rock",
+    "url": "https://antares.dribbcast.com/proxy/asaltomataradio?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Espectáculo 93.1",
+    "url": "https://turadio.accesopanel.com:7109/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Master's 107.3",
+    "url": "http://69.64.46.123:9066/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Hemisferios Radio",
+    "url": "https://streaming3.locucionar.com/proxy/hemisferios?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Narradores del Fogón",
+    "url": "https://stream.zeno.fm/3xxz2uxtx7zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Colegio Sobral",
+    "url": "http://giss.tv:8001/radiosobral.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Río Grande",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad24",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Ushuaia e Islas Malvinas",
+    "url": "http://ea.mp3.icecast.magma.edge-access.net:7200/sc_rad82",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Provincia",
+    "url": "http://servidor2.serviciostreaming.com:9574/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Yo Argentino Radio",
+    "url": "https://server6.hostradios.com/8550/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Full Victorica 99.9",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=9334/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Pz 101.5 Mhz",
+    "url": "http://s1.radiosnethosting.com:9054/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Mangialsonic Radio",
+    "url": "http://www.mangialsonic.com.ar:8020/chm.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Explosión FM 103.3",
+    "url": "http://radiosar.com:9484/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Dale 91.1",
+    "url": "http://01.solumedia.com.ar:7119/;?_=0.08321317716753107",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Nueve",
+    "url": "http://server2.veemesoft.com.ar:9960/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Nueve Venado FM 104.5",
+    "url": "http://server2.veemesoft.com.ar:9960/stream/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT29 Radio Venado Tuerto",
+    "url": "http://01.solumedia.com.ar:7201/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Jota 98.3",
+    "url": "http://51.79.99.194:7077/live?file=live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Planetados",
+    "url": "http://64.31.33.226:8017/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Unidad SAI",
+    "url": "http://200.58.106.247:9108/%20type=audio/mpeg",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Del Sur 103.7",
+    "url": "http://streaming.conexionproductora.com.ar:19702/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Melodia FM 100.7",
+    "url": "http://miradioenlaweb.com:4000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Tunel 57 Radio",
+    "url": "http://190.210.203.97:9003/tunel57",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LT 39 AM 980",
+    "url": "http://142.44.135.172:8375/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Victoria FM 90.3",
+    "url": "http://142.44.135.172:8369/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Miércoles Radio Web",
+    "url": "http://delta.radioplayer.com.ar:9158/infohuella",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Raices 91.7",
+    "url": "https://streaming01.shockmedia.com.ar:10359/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LU15 AM800 Radio Viedma",
+    "url": "https://kappa.radioplayer.com.ar:9138/LU15AM800",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio La Puntual FM 97.1",
+    "url": "http://63.247.65.202:8201/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Nacional Viedma",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad2",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Uno FM 89.7",
+    "url": "http://streaming01.shockmedia.com.ar:9834/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa FM 88.7",
+    "url": "https://streaming.radiosenlinea.com.ar/9088/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Bar FM",
+    "url": "http://streaming.shockmedia.com.ar:9814/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Melody 90.7 FM",
+    "url": "https://acastream.org:20051/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa",
+    "url": "https://stream.zeno.fm/35w9txqruuquv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Cristal Córdoba FM 98.9",
+    "url": "https://01.solumedia.com.ar:10078/stream?icy=http",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Azul 104.1",
+    "url": "http://server4.hostradios.com:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Radio Neo Siglo",
+    "url": "http://streaming01.shockmedia.com.ar:7256/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Life! FM 99.5",
+    "url": "http://www.nvradios.com:9496/radio.mp3/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Play FM 93.9",
+    "url": "http://server.ohradio.com.ar:9394/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Beat FM 97.5mhz",
+    "url": "http://audio.questreaming.com:27902/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio City 97.9",
+    "url": "http://audio.questreaming.com:20050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Cyber FM 95.5",
+    "url": "http://freeuk9.listen2myradio.com:9678/;;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Vey Radio 102.7 FM",
+    "url": "https://01.solumedia.com.ar:9058/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "El Brote Radio Comunitaria FM 95.5",
+    "url": "https://radio13.servidorderadio.net/8232/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRS 783 Milenium 91.9",
+    "url": "http://stream01.insidetec.com:9134/fmmilenium",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Open Radio 103.5",
+    "url": "http://01.solumedia.com.ar:8542/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Resplandor FM 96.9",
+    "url": "http://142.44.135.172:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Trend Topic",
+    "url": "https://sonic.dattalive.com/8480/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "ASB24MUSIC",
+    "url": "http://radio.netyco.com:7438/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Condor 98.7",
+    "url": "http://01.solumedia.com.ar:8384/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La La La Radio",
+    "url": "https://server.laradio.online/proxy/mauro_torres01?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Alpina",
+    "url": "http://63.247.65.202:8356/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Cristal 97.7",
+    "url": "https://streaming.radiosenlinea.com.ar/8150/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "portaldeluz",
+    "url": "https://server6.hostradios.com/8246/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Ciudad FM 93.5",
+    "url": "https://server6.hostradios.com/8102/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 92.5",
+    "url": "http://63.247.65.202:8091/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Melodía 97.7",
+    "url": "http://109.169.76.104:18200/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Jesus Radio FM 102.1",
+    "url": "https://01.solumedia.com.ar:8322/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Diametro",
+    "url": "https://fair.entic.net/radio/8060/radiodiametro",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "AM 810 Federal",
+    "url": "http://01.solumedia.com.ar:8218/;stream.nsv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Luzu 92.3",
+    "url": "http://emartesg.sytes.net:8080/enlace.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM 106.9 Universidad",
+    "url": "https://01.solumedia.com.ar:8870/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Express 96.5",
+    "url": "https://server6.hostradios.com:7083/;",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "NO es una radio",
+    "url": "https://stream.zeno.fm/58fxkp4r3qruv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Activa 103.3 FM",
+    "url": "https://centova.psigroup.com.ar:19488/stream&&&&&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Villa María FM 93.3",
+    "url": "https://server7.hostradios.com/8164/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Rockandrolla FM 104.1",
+    "url": "https://stream.zeno.fm/bqc28yx7sk8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "La Uno FM 90.9",
+    "url": "http://radio02.ferozo.com:8114/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Promusic Argentina",
+    "url": "https://stream.zeno.fm/4vpmbvqs88quv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Sol 97.5",
+    "url": "https://stream.zeno.fm/ng6y7bnha8zuv",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Soldati 91.3",
+    "url": "http://streaming.escuchanosonline.com:8040/live",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Pasión 92.3",
+    "url": "https://01.solumedia.com.ar:8658/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "FM Eclipse 96.3",
+    "url": "http://radio.neonetdigital.com:8006/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Ventania Radio",
+    "url": "http://63.247.65.202:8247/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Radio Municipal FM 90.7",
+    "url": "http://streaming2.locucionar.com:8369/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Elektronaradio",
+    "url": "http://radios.tecnosoul.com.ar:8000/elektrona.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "LRA17 Nacional Zapala",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad17",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "Masters FM 101.3",
+    "url": "http://ice.dant.com:4232/fmmasters",
+    "logo": ""
+  },
+  {
+    "tags": "Argentina",
+    "name": "RD1 98.5",
+    "url": "https://streamingradiolinks.xyz/9850/;",
+    "logo": ""
+  }
+]

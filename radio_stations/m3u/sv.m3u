@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Salem
+http://streamingcontrol.com:8500/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Cadena Central FM 103.7
+http://23.239.68.75:8099/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Ysuca 91.7
+http://streaming.dinesat.com:6654/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", 89.7 Radio Esperanza FM
+http://198.204.234.10:26871/;radioesperanza.org.sv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Stereo Tropical
+http://centova1.creativos10.com:8023/live
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Latina HD
+http://91.121.121.25:8164/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Fonseca FM 92.1
+https://stream.codigosur.org/RadioFonseca.mp3
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", La Pantera 98.1 FM
+http://144.91.98.151:8020/live
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Carnaval FM 97.3
+https://stream.zeno.fm/k6qexbz0vd0uv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Nueva Jerusalem
+https://tecnoservix.stream/proxy/nuevajerusalem?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Parrandera
+https://stream.zeno.fm/vmbseqgdhkeuv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", ABC Radio FM 100.1
+http://gruposamixfm.mixstream.net:8006/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", El Salón Radio
+http://64.31.33.226:8101/live
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Femenina FM 102.5
+https://sp4.colombiatelecom.com.co:10983/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Laser Español FM 90.1
+https://sp4.colombiatelecom.com.co:10982/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Laser Ingles FM 92.9
+https://sp4.colombiatelecom.com.co:10981/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", MI Radio - Club 92.5
+http://158.69.200.1:8030/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Nixapa Club Radio
+https://stream.zeno.fm/6expdz0pmnruv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Pencho y Aida FM
+http://188.165.240.90:8466/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Progreso 90.5
+https://www.streamingcp.com:2000/stream/radioprogreso/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Al Corazón
+https://stream.zeno.fm/r5gd5uyq1qzuv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Cadena YSKL
+http://media.dominiocreativo.com:8000/radioyskl
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Clásicos 3D
+http://91.121.121.25:8064/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio El Mundo
+http://streaming-dc.mundoclasicaupa.com:8020/radioelmundo
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio El Salvador del Mundo
+http://gruposamixfm.mixstream.net:8028/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Latina El Salvador
+http://91.121.121.25:8164/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Latinoamerikanto
+http://91.121.121.25:8172/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Maria - San Salvador AM 800
+http://dreamsiteradiocp.com:8098/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Que Buena
+http://streamingv2.shoutcast.com/radio-que-buena
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Restauración FM 100.5
+http://cdn-radio.elim.org.sv:8007/mp3_128
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Verdad FM 95.7
+https://securestreams2.autopo.st:1354/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Vida Plus
+http://stream.radiojar.com/zsa40c6arfeuv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Zona 503 El Salvador
+http://104.250.149.122:8334/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", RadioGospelID
+https://stream.zeno.fm/g8qq3u9q7ueuv
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Ranchera FM 106.5
+https://sp4.colombiatelecom.com.co:10985/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Tu Onda Club
+http://78.129.222.62:9094/;
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Vox FM 94.5
+https://streamingv2.shoutcast.com/vox-tcs
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio La Fabulosa 94.1 FM
+http://jelafabulosa.com:8000/live
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Shalom Radio
+https://tecnoservix.stream/proxy/shalomradio?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Agape Radio 90.1
+http://62.171.152.55:8009/agape901fm
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Suchitlán FM 92.1
+http://aler.org:8000/suchi
+#EXTINF:-1 tvg-logo="" group-title="El Salvador", Radio Victoria FM 92.1
+http://aler.org:8000/rvictoria.mp3

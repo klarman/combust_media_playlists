@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Papua New Guinea", FM100
+http://95.154.193.6:8151/;stream
+#EXTINF:-1 tvg-logo="" group-title="Papua New Guinea", Legend FM 101.1
+http://playerservices.streamtheworld.com/api/livestream-redirect/PNGLEGENDFM.mp3
+#EXTINF:-1 tvg-logo="" group-title="Papua New Guinea", Nau FM
+https://18313.live.streamtheworld.com/NAUFMAAC.aac
+#EXTINF:-1 tvg-logo="" group-title="Papua New Guinea", Wantok Radio Light
+http://ca7.rcast.net:8060/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Papua New Guinea", Yumi FM 93.0
+http://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3

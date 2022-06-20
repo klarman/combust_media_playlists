@@ -1,0 +1,50 @@
+[
+  {
+    "tags": "Faroe Islands",
+    "name": "Lindin FM 101.0",
+    "url": "http://high.lindin.fo/",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "98,7FM",
+    "url": "http://srv1.stream.fo:8000/128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "Stream.fo",
+    "url": "http://srv.stream.fo:8000/high",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "FM1 - títt radio",
+    "url": "http://stream.midlar.fo/ras2",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "Kringvarp Føroya FM 89.9",
+    "url": "http://netvarp.kringvarp.fo:443/uvhm",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "Lindin FM",
+    "url": "http://srv1.stream.fo:8000/lindinhigh",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "Radio.fo",
+    "url": "https://streaming.radio.co/s4d14b9fcc/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Faroe Islands",
+    "name": "VoxPop Radio FM 104.1",
+    "url": "http://stream.midlar.fo/voxpop-128",
+    "logo": ""
+  }
+]

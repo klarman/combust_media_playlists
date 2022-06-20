@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", LM Radio Mozambique 87.8 FM
+http://sc13.shoutcaststreaming.us:8003/stream
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", Rádio Alfa & Ómega
+http://s40.myradiostream.com/16710/listen.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", Radio Cidade 97.9 FM
+https://stream.zeno.fm/25vdzcus7a5tv
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", Radio Maria Mozambique
+http://dreamsiteradiocp2.com:8088/;
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", RM Antena Nacional 92.3
+https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", RM EP Nampula
+https://node.stream-africa.com:8443/Nampula
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", Rádio Zumbo FM 89.6
+https://paineldj6.com.br:20045/stream
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", RM EP Sofala
+https://node.stream-africa.com:8443/Sofala
+#EXTINF:-1 tvg-logo="" group-title="Mozambique", RM EP de Gaza
+https://node.stream-africa.com:8443/Gaza

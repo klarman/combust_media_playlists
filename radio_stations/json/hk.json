@@ -1,0 +1,110 @@
+[
+  {
+    "tags": "Hong Kong",
+    "name": "Apple-FM",
+    "url": "http://server20.applesources.net:8000/apple-fm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "AXR Hong Kong",
+    "url": "https://hongkongstream.axr.online/",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "BRC FM 105.1",
+    "url": "http://gfm.rastream.com/gfm-todaysmix",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "Capitaldisko",
+    "url": "http://sr2.inmystream.info:8040/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "CR2 FM 90.3",
+    "url": "https://gcdn.2mdn.net/videoplayback/id/d85b93619d5acff2/itag/43/source/doubleclick/requiressl/yes/ratebypass/yes/ip/0.0.0.0/ipbits/0/expire/2144448000/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass/signature/987691CEEB71D19AF4156A9F8DCBF0C741B0D884.084BFDD6F3DF04C792FCEFC7C89F11B3FC7686C0/key/ck2/file/file.webm",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "D100 HK Radio",
+    "url": "http://59.152.232.107:8000/Channel1-128MP3",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "DBC 5 Radio SMILES",
+    "url": "http://202.177.192.119/radio5",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "Fauve Radio",
+    "url": "https://streamer.radio.co/sde68d7e6b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "FM Belowground",
+    "url": "https://listen.belowground.fm/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "IMC Broadcasting",
+    "url": "http://server.jvhost.net:8021/live",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "RTHK Radio 1",
+    "url": "http://stm.rthk.hk/radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "RTHK Radio 2",
+    "url": "http://stm.rthk.hk/radio2",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "RTHK Radio 3",
+    "url": "http://stm.rthk.hk/radio3",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "RTHK Radio 4",
+    "url": "http://stm.rthk.hk/radio4",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "RTHK Radio 5",
+    "url": "http://stm1.rthk.hk/radio5",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "北京音乐广播 FM 97.4",
+    "url": "http://stm.rthk.hk/radiopth",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "恐怖在線 Edmond poon",
+    "url": "https://acast01.kolorboxlab.com/radio/8010/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Hong Kong",
+    "name": "講台 talkonly",
+    "url": "http://103.11.102.62:8000/talkonly.mp3",
+    "logo": ""
+  }
+]

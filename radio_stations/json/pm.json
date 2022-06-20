@@ -1,0 +1,20 @@
+[
+  {
+    "tags": "Saint-Pierre et Miquelon",
+    "name": "Archipel FM 103.3",
+    "url": "http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Saint-Pierre et Miquelon",
+    "name": "Radio Atlantique FM 102.1",
+    "url": "https://s7.voscast.com:10433/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Saint-Pierre et Miquelon",
+    "name": "St-Pierre-et-Miquelon 1ere FM 98.9",
+    "url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+    "logo": ""
+  }
+]

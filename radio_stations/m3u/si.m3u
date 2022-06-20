@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", MOJ Radio
+http://eu4.fastcast4u.com:5692/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Brezice Eu
+http://stream.radiojar.com/a62vxp5uvueuv
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Celje
+http://live3.infonetmedia.si:8000/Radio1CE
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Fantasy
+https://live.radio.si/Fantasy
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Tomi
+http://93.103.130.12/tomi.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Primorski val
+http://212.44.99.35:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Hit si
+http://stream03.exit.si:8000/radiohit?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Zeleni val
+http://37.187.93.104:8844/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Triglav
+http://live.radio.si/Triglav
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Univox
+https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", NORadio
+http://tigr.no-ip.org:8000/noradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Capodistria AM 1170
+http://mp3.rtvslo.si/capo
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Capris
+http://stream01.exit.si:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Ognijsce
+http://real.ognjisce.si:8000/ognjisce.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", RTV SLO Radio Koper
+http://mp3.rtvslo.si/rakp
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Kranj 97.3 FM
+http://live.radio-kranj.si/Kranj
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Muravidéki Magyar Rádió
+http://mp3.rtvslo.si:80/mmr
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Litija
+http://live3.infonetmedia.si/Radio1LI?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", ARS 3. program Radia Slovenija
+https://mp3.rtvslo.si/ars
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Mister Deejay Radio
+http://stream.mister-deejay.com:9010/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1
+http://live.radio1.si/Radio1
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 2
+http://live.radio.si/Radio2
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Aktual
+http://84.52.138.44:80/Aktual
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Bob 87.6 FM
+http://live.radiobob.si/Europa05
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Center
+http://stream2.radiocenter.si:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Center 80s
+https://stream.nextmedia.si/proxy/center80s3?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Center Fresh Pop
+https://stream.nextmedia.si/proxy/centerpop3?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Center Top 100
+https://stream.nextmedia.si/proxy/centerhit3?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Center Yu
+https://stream.nextmedia.si/proxy/centeryu3?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Ekspres
+http://stream2.radioekspres.si:8016/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Ognjišče FM 104.5
+https://live.radio.si/ognjisce.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Salomon
+http://stream.radiosalomon.si/Salomon
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Slovenija A1 
+http://mp3.rtvslo.si:80/ra1
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Student FM 89.3
+https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Terminal
+https://air.radioterminal.si/
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Veseljak
+http://195.95.158.131/Veseljak?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Veseljak Ivanec
+http://europa.shoutca.st:8207/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Žica
+http://live.1chi.si/zica
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Rock Radio
+https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Rock Radio Best Ballads
+https://stream.nextmedia.si/proxy/rocks_1?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Rock Radio Classics
+https://stream.nextmedia.si/proxy/rocks_3?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Rock Radio Hard & Heavy
+https://stream.nextmedia.si/proxy/rocks_2?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Terra Relicta Radio
+https://studio20.radiolize.com/radio/8140/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", VAL 202
+http://mp3.rtvslo.si/val202
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Maxi
+http://live.radio.si/Maxi
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", ALTR
+http://stream.radiojar.com/zbuhcy7fsrquv
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Maribor
+http://live.radio1.si/Radio1MB
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Aktual
+http://stream.radioaktual.si/Aktual
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio City 100.6
+https://stream1.radiocity.si/CityMp3128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Mars 
+http://frekvenca.eu:8000/radiomars.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Net FM 100.2
+http://reflector.radionet.si:8000/stream.ogg
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Nula
+http://streaming.radionula.com:8800/classics
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Slovenia International
+http://mp3.rtvslo.si/ra1
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Slovenske Gorice FM 96.4
+https://player.iradio.pro/radioslovenskegoric/
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Murski
+http://89.142.197.238:8000/mv.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Robin
+http://live.radio.si/Robin
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Novo Mesto
+http://live.radio1.si/Radio1NM
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Krka
+http://84.52.138.44/Krka
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", MMR - Muravidéki Magyar Rádió
+http://mp3.rtvslo.si/mmr
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 94
+http://193.77.35.107:8443/radio94
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Ptuj
+https://live.radio.si/Ptuj
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Odprti Radio DAB+
+http://zvok.ragla.si/ord
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Dur
+http://zvok.ragla.si/gr
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Ribnica
+http://live3.infonetmedia.si/Radio1RIB?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Primorska
+https://live.radio.si/Radio1
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Koper Sežana
+http://mp3.rtvslo.si:8000/rakp
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Sora
+http://radio-sora.si:8000/radio-sora.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Koroški Radio
+http://sc.sgn.net:8300/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Rogla
+http://193.105.67.24:8010/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Štajerski val
+http://stream.stajerskival.si:8004/;
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Kum
+http://195.95.158.131:80/AktualK
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Gorenc 
+http://stream.radiogorenc.si:8000/radiogorenc.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Moj Radio FM 107
+http://stream.linit.si:8006/
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio Velenje 107.8 FM
+http://212.18.39.42:8000/radiovelenje.mp3
+#EXTINF:-1 tvg-logo="" group-title="Slovenia", Radio 1 Vrhnika
+http://live.radio1.si/Radio1VR

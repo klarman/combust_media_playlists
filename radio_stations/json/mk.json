@@ -1,0 +1,218 @@
+[
+  {
+    "tags": "North Macedonia",
+    "name": "Radio 105",
+    "url": "http://radio105.makbots.com:21010/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio 106 Bitola",
+    "url": "http://stream.zemi.mk:8003/1",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Time FM",
+    "url": "http://stream.zemi.mk:8016/stream",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Kochani 91.4FM",
+    "url": "http://stream.zemi.mk:8012/stream",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Bravo 88.5 FM",
+    "url": "http://80.77.157.10:8000/stream/2;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Bravo Blues & Jazz",
+    "url": "http://80.77.157.13:8000/stream/2;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Bum 104,2 FM",
+    "url": "http://hyades.shoutca.st:8533/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Puls Radio",
+    "url": "http://pulsradio.mk:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Meff",
+    "url": "http://s32.myradiostream.com:16040/;*.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Pela FM 96.8",
+    "url": "https://stream.zeno.fm/b5grz1xr5f0uv",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Kanal 77",
+    "url": "https://live.kanal77.com.mk:8089/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "UGD FM 91.0",
+    "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Antenna 5 Radio Network",
+    "url": "http://antenna5stream.neotel.mk:8000/live128",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Antoris Radio",
+    "url": "https://rbx2.hnux.com/http://e12833.cloudrad.io:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Capitol 106.5 FM",
+    "url": "http://89.205.127.244:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "City Radio FM 94.7",
+    "url": "http://176.9.117.123:9998/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Club FM 103.4",
+    "url": "http://176.9.117.123:9996/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Hit Radio Skopje",
+    "url": "http://88.85.99.43:8000/hitportal",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "JustMusicRadio",
+    "url": "http://radiostream.neotel.mk/justmusicradio",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Kanal 103",
+    "url": "http://radiostream.neotel.mk/kanal103",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Lider FM 107.4",
+    "url": "http://liderfm.ipradio.mk:10002/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Life Radio FM 89.1",
+    "url": "http://liferadio.ddns.net:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Metropolis Radio Network",
+    "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Music Garden Radio",
+    "url": "https://stream.zeno.fm/52y3vrsyy1zuv",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Bubamara",
+    "url": "http://88.85.99.2/live-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Fortuna FM 96.8",
+    "url": "https://radiofortuna.ipradio.mk/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio MOF",
+    "url": "http://stream.radiojar.com/8e4wzvre1d0uv",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "RadioBar",
+    "url": "https://radiobar.radiokitstream.org/radiobar.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Sky Radio 102.5",
+    "url": "http://89.205.123.70:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Urban FM Radio 90.8",
+    "url": "http://streamingv2.shoutcast.com/urban-fm-908-skopje",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Vink Radio",
+    "url": "http://eu4.fastcast4u.com:5724/stream/4/",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Zona M1 Radio",
+    "url": "http://89.205.86.241:8000/1",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Radio Rrapi 107.5 FM",
+    "url": "https://stream.zemi.mk:8069/stream",
+    "logo": ""
+  },
+  {
+    "tags": "North Macedonia",
+    "name": "Plus Forte Radio 102.3 FM",
+    "url": "http://chandra.shoutca.st:10362/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Republic of North Macedonia",
+    "name": "Gradski Media Service",
+    "url": "http://eu2-centova.serverse.com:7324/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Republic of North Macedonia",
+    "name": "Super Radio FM 97.0",
+    "url": "http://eu9.fastcast4u.com:6908/stream.mp3",
+    "logo": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Vatican City",
+    "name": "RV1 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel1.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV2 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV3 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel3.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV4 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel4.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV5 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel5.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV6 Vatican Radio",
+    "url": "https://rvl.azureedge.net/channel6.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Vatican City",
+    "name": "RV7 Vatican Radio",
+    "url": "http://live.vaticanwebradio.org/channel7.mp3",
+    "logo": ""
+  }
+]

@@ -1,0 +1,1112 @@
+[
+  {
+    "tags": "Ireland",
+    "name": "Owenea FM 100.8",
+    "url": "https://c20.radioboss.fm:18053/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Athlone Community Radio FM 88.4",
+    "url": "http://79.97.44.255:88/broadwave.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "iRadio",
+    "url": "https://edge.audioxi.com/IRADNW",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "BCRFM 101.9",
+    "url": "https://pj1019.radioca.st/streams/128kbps",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Mid West Irish Radio",
+    "url": "http://edge-audio-01-cr.sharp-stream.com/midwestfmie2.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Midwest Radio",
+    "url": "http://listen-midwest.sharp-stream.com/midwestfmie2.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Birdhill Radio",
+    "url": "http://5.79.74.155:8000/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "East Coast FM",
+    "url": "http://sirius.shoutca.st:8461/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Event FM",
+    "url": "http://uk6.internet-radio.com:8085/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Spirit Radio",
+    "url": "https://ice31.securenetsystems.net/SPIRITIE",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Castlebar Community Radio 102.1 FM",
+    "url": "http://213.175.217.198:8000/crcfm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Breffni Digital Radio",
+    "url": "https://s7.citrus3.com:8026/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Northern Sound",
+    "url": "https://edge.audioxi.com/NORTHERNSOUND",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Airport Scanner - EIKN Ireland West Knock - Gnd/Twr/App",
+    "url": "http://s1.fmt2.liveatc.net/eikn2?nocache=2019080815554893283",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Claremorris Community Radio",
+    "url": "https://s2.radio.co/sddd96b52a/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Tipp FM",
+    "url": "https://n14a-eu.rcs.revma.com/fe7tgqh38f8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Clonmellon Community Radio",
+    "url": "http://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Beachball Radio",
+    "url": "http://ec1.yesstreaming.net:2210/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "C103",
+    "url": "http://wg.cdn.tibus.net/C103",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "C103 Anthems",
+    "url": "http://wg.cdn.tibus.net/C103Anthems",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Cork's 96FM",
+    "url": "https://wg.cdn.tibus.net/96fm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Cork's 96FM FitMix",
+    "url": "http://wg.cdn.tibus.net/96fmfitmix",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Cork's 96FM HitMix",
+    "url": "http://wg.cdn.tibus.net/96FMHitmix",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "DHR Deep House Radio",
+    "url": "https://deephouseradio.radioca.st/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Life FM",
+    "url": "http://79.170.198.170:8000/radio?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Planet Radio Cork Ireland",
+    "url": "http://ec1.yesstreaming.net:2130/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Power87 FM",
+    "url": "http://s2.radio.co/s7f4021d37/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Red FM 104 - 106",
+    "url": "https://edge.audioxi.com/RED",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "West Cork FM",
+    "url": "http://37.187.93.104:8147/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Raidió na Gaeltachta",
+    "url": "http://icecast2.rte.ie/rnag",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Finn Valley FM",
+    "url": "https://usa1.fastcast4u.com/proxy/finnvalleyfm?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "St. Ita's Hospital Radio 89.5FM",
+    "url": "http://uk2.streamingpulse.com:8042/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "LMFM",
+    "url": "http://wg.cdn.tibus.net/LMFM",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin - Approach",
+    "url": "http://s1.fmt2.liveatc.net/eidw_app_121100?nocache=2019080814535152331",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Clearance Delivery",
+    "url": "http://s1.ord.liveatc.net/eidw_del?nocache=2019080816481451481",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Del/Gnd/Twr/App/Center",
+    "url": "http://bos.liveatc.net/eidw3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Final Approach",
+    "url": "https://s1-fmt2.liveatc.net/eidw_app_final",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Ground",
+    "url": "https://s1-fmt2.liveatc.net/eidw_gnd_121800",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Ground (North)",
+    "url": "http://s1.fmt2.liveatc.net/eidw_gnd_north?nocache=2019080816541538972",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "EIDW Dublin Int - Tower",
+    "url": "http://d.liveatc.net/eidw_twr_118600",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "4 FM",
+    "url": "http://178.32.62.172:8166/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "8Radio.com",
+    "url": "http://8radio.serverroom.net/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "98FM",
+    "url": "https://stream.audioxi.com/98",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "98FM Throwback",
+    "url": "https://pri.gocaster.net/Throwbacks",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "All80s",
+    "url": "http://109.169.26.139:8432/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Babylon Radio",
+    "url": "https://s2.radio.co/s87a2a134a/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Charity Radio",
+    "url": "http://andromeda.shoutca.st:8640/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Christmas FM North Pole",
+    "url": "https://christmasfm.cdnstream1.com/2548_128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Ciao World Radio",
+    "url": "https://stream.radiojar.com/2sfp8mz5tyduv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Classic Hits",
+    "url": "https://edge2.audioxi.com/CLASSIC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Club FM Dublin",
+    "url": "http://clubfm.bitcast.eu:8000/clubfm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Coastline Radio Dublin",
+    "url": "https://eu4.fastcast4u.com/proxy/clr?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Cruize Radio Online",
+    "url": "http://centauri.shoutca.st:8965/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Decades Radio",
+    "url": "https://my2.radiolize.com/radio/8150/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Dublin City FM 103.2",
+    "url": "https://stream.btsstream.com:8012/dcfm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Dublin Digital Radio",
+    "url": "https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Dublin South FM",
+    "url": "http://pollux.shoutca.st:8853/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Dublin's ABC",
+    "url": "http://hazel.torontocast.com:2140/streamel.torontocast.com:214",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Easy Radio FM 105.2",
+    "url": "http://tachyon.shoutca.st:8213/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "FM 104",
+    "url": "https://wg.cdn.tibus.net/fm104MP3128",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Freedom FM",
+    "url": "https://stream.btsstream.com:8072/freedom.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Gem Radio Gold",
+    "url": "http://167.114.64.181:9031/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Gem Radio New Wave",
+    "url": "http://62.210.10.4:8928/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Heartbeat FM IE",
+    "url": "http://cast5.magicstreams.gr:8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "IceRadio",
+    "url": "https://uk2.internet-radio.com/proxy/iceradio20?mp=/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Ignoreradio Shoegaze",
+    "url": "http://uk7.internet-radio.com:8313/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Irish Pub Radio",
+    "url": "https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "More Music Ireland",
+    "url": "https://solid67.streamupsolutions.com/proxy/ttgyoeyg?mp=/;type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Near FM 90.3",
+    "url": "http://proxima.shoutca.st:8114/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Newstalk 106-108",
+    "url": "http://pri.gocaster.net/nt?.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "PHEVER I",
+    "url": "http://uk1.internet-radio.com:8200/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Phoenix FM 92.5",
+    "url": "https://daniel.torontocast.com:1965/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Pirate FM Dublin",
+    "url": "http://109.74.196.76/proxy/dublinpirate?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Power FM",
+    "url": "http://war.powerfm.org:8000/powerfm.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Premier Radio International SW",
+    "url": "http://91.121.86.167:8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Primal Radio",
+    "url": "http://199.101.51.168:8018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Q102",
+    "url": "https://wg.cdn.tibus.net/q102MP3128",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio liveIRELAND",
+    "url": "http://192.111.140.11:8058/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Nova",
+    "url": "https://stream.audioxi.com/NOVA",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Siamsa",
+    "url": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Vocea Diasporei",
+    "url": "http://janus.shoutca.st:9019/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Zodiac Ireland",
+    "url": "http://listen.radioking.com/radio/124966/stream/164656",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radioactive International",
+    "url": "http://radioactiveinternational.org:9000/radact",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RadioMoLI",
+    "url": "https://streamer.radio.co/s378b67405/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Raidió na Life",
+    "url": "http://beryl.streamguys.com:5010/live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Raidió Rí-Rá",
+    "url": "http://185.80.220.12:8166/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Rogue",
+    "url": "https://s2.radio.co/s77657f419/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ 2FM",
+    "url": "http://icecast2.rte.ie/2fm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ 2XM",
+    "url": "http://icecast2.rte.ie/2xm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Gold",
+    "url": "http://icecast2.rte.ie/gold",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Junior",
+    "url": "http://icecast2.rte.ie/junior",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Lyric FM",
+    "url": "http://icecast.rte.ie/lyric",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTE Pulse",
+    "url": "http://icecast1.rte.ie/pulse",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Radio 1",
+    "url": "http://icecast2.rte.ie/radio1",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Radio 1 Extra",
+    "url": "http://icecast2.rte.ie/radio1extra",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Spektrum Radio",
+    "url": "http://s3.radio.co:80/sc32d8975f/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Spin1038 FM 103.8",
+    "url": "https://stream.audioxi.com/SP",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Sunshine 106.8",
+    "url": "http://sirius.shoutca.st:8291/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Sunshine Soul",
+    "url": "https://edge.audioxi.com/SUN",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "The 90s Network",
+    "url": "http://146.185.18.251:7020/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "The Upsetting Station",
+    "url": "http://titan.shoutca.st:8539/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "The Zone",
+    "url": "http://uk1.internet-radio.com:8355/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Today FM",
+    "url": "https://edge.audioxi.com/TDAAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Today FM 80's",
+    "url": "https://edge3.audioxi.com/T80",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Today FM 90's",
+    "url": "https://edge3.audioxi.com/T90AAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Today XM",
+    "url": "https://stream.audioxi.com/XMAAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Total Country Inchicore",
+    "url": "http://sirius.shoutca.st:8180/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Touch Radio",
+    "url": "https://s2.citrus3.com:8268/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "TrancePulse",
+    "url": "http://live.trance.ie:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "TrancePulse - The Mixes",
+    "url": "https://stream.trancepulse.eu/tpmixes",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Trax Dublin",
+    "url": "https://stream.bitcast.eu/trax",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "UCB Ireland",
+    "url": "https://stream.btsstream.com:8022/ucbireland",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "UCBI Worship",
+    "url": "https://ucbiworship.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "UDMI Radio",
+    "url": "http://142.4.215.64:8008/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Dundalk FM",
+    "url": "http://80.249.249.245:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Storm North East",
+    "url": "http://80.249.249.243:8050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RetroNow",
+    "url": "http://cassini.shoutca.st:9007/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Clare.FM",
+    "url": "https://n12a-eu.rcs.revma.com/brdwrxxd2k0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Flirt FM 101.3",
+    "url": "http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Freedom Country",
+    "url": "https://stream.zeno.fm/8v1mfy1qgzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Freedom Gold",
+    "url": "https://stream.zeno.fm/37tcwd6vfzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Galway Bay FM 95.8",
+    "url": "https://wg.cdn.tibus.net/galwaybay.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "planetcountry.ie",
+    "url": "https://planetcountryie.radioca.st/CountryHits",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Planetradio.ie",
+    "url": "https://planetradioie.radioca.st/ClassicHits",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RabbitHole Radio",
+    "url": "https://stream.zeno.fm/c88dha3fmzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RTÉ Raidió na Gaeltachta",
+    "url": "http://icecast2.rte.ie/rnag",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Global Irish Radio GIR.ie",
+    "url": "https://s3.radio.co/s05b500bb8/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "GCR Digital Radio",
+    "url": "http://uk6.internet-radio.com:8267/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Circle Of White Light Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Country Hits",
+    "url": "https://streams.radio.co/sb0d3bb664/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Greatest Hits",
+    "url": "https://s2.radio.co/s1f9e08b3c/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "RCB Radio",
+    "url": "http://178.33.135.245:3074/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "96.0 KCLR FM",
+    "url": "http://216.119.152.213:8007/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Community Radio Kilkenny City",
+    "url": "http://rsstreaming.com:8002/Live",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Uplift Radio",
+    "url": "https://ice31.securenetsystems.net/UPLIFTFM",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Connemara CR FM 106.1",
+    "url": "https://maggie.torontocast.com:2020/stream/connemarafm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Highland Radio",
+    "url": "https://edge.audioxi.com/HIGHLAND",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Classic Dance Hitz",
+    "url": "http://streams.radio.co/s7a933605c/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Irish Country Music Radio",
+    "url": "https://stream.galaxywebsolutions.com/proxy/irishcountry?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Limerick City Community Radio",
+    "url": "https://443-1.autopo.st/58/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Live 95",
+    "url": "https://wg.cdn.tibus.net/Live95fm",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Live 95 Extra",
+    "url": "http://wg.cdn.tibus.net/live95Extra",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Spin South West",
+    "url": "https://stream.audioxi.com/SW",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Spin Xtra",
+    "url": "https://pri.gocaster.net/SpinExtra",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Wired FM",
+    "url": "http://s2.radio.co/sf0986595a/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Shannonside FM",
+    "url": "https://edge.audioxi.com/SHANNONSIDE",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Loughrea Community Radio",
+    "url": "https://s31.radiolize.com/radio/8190/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Open Your Mind Radio",
+    "url": "http://eu3.fastcast4u.com:5624/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "iRadio North East & Midlands",
+    "url": "https://edge.audioxi.com/IRADNE",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Downda Road Radio",
+    "url": "https://downdaroad.out.airtime.pro/downdaroad_a",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "KFM 97.6",
+    "url": "http://sirius.shoutca.st:9307/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "KFM Extra",
+    "url": "http://europa.shoutca.st:8029/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "West Limerick 102fm",
+    "url": "https://s29.myradiostream.com/17796/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Smooth Gold Radio Ireland",
+    "url": "https://s46.radiolize.com/radio/8070/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Solid Gold Radio Ireland",
+    "url": "https://s30.radiolize.com/radio/8040/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Solid Gold Radio Ireland 2",
+    "url": "https://s30.radiolize.com/radio/8070/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Soul City",
+    "url": "https://rcast.live/stream/65483.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "94.6 RosFM",
+    "url": "http://rosfm.ddns.net:8000/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Scariff Bay Community Radio",
+    "url": "http://162.244.81.30:4588/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Airport Scanner - EINN Shannon - Tower/App #1",
+    "url": "http://s1.fmt2.liveatc.net/einn2?nocache=2019080814560129136",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Freewheel Radio",
+    "url": "https://freewheel.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Ocean FM",
+    "url": "http://213.175.217.198:8000/sligo",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Kerry FM 96",
+    "url": "https://edge.audioxi.com/KERRY",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Midlands 103",
+    "url": "https://n08a-eu.rcs.revma.com/tq45ca1vftzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Tullamore’s TFM",
+    "url": "http://91.121.91.172:8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Beat 102-103",
+    "url": "https://stream.audioxi.com/BEATAAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Jazz Radio Ireland",
+    "url": "https://streamer.radio.co/s87737b1d2/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Ambient Lounge",
+    "url": "http://2.58.194.54:8834/;ambient-lounge",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Bass Station DnB",
+    "url": "http://2.58.194.54:8846/bass-station-dnb",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Chillout Essentials",
+    "url": "http://2.58.194.54:8840/;chillout-essentials",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Deep Planet",
+    "url": "http://2.58.194.54:8852/;deep-planet",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive House & Techno Classics",
+    "url": "http://2.58.194.54:8894/;house-techno-classics",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Minimal & Techno",
+    "url": "http://2.58.194.54:8858/;minimal-techno",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Open-Stage",
+    "url": "http://2.58.194.54:8864/;open-stage",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Progressive & Tech-house",
+    "url": "http://2.58.194.54:8870/;progressive-tech",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Psybient Sunset",
+    "url": "http://2.58.194.54:8876/;psybient-sunset",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "MixLive Trance Illusion",
+    "url": "http://2.58.194.54:9546/;trance-illusion",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Noughty Beats",
+    "url": "https://stream.audioxi.com/NBEATSAAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "OpenTempo FM",
+    "url": "http://eu7.fastcast4u.com/proxy/opentemp?mp=/;",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "WLR FM 95.1",
+    "url": "https://stream.audioxi.com/WLRAAC",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Zenith Classic Rock",
+    "url": "http://148.163.81.10:8001/zenith64",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "Radio Beats",
+    "url": "http://streamer.radio.co:80/sd0b826808/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "South East Radio",
+    "url": "https://stream.btsstream.com:8002/semp3",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "WMR Radio Online",
+    "url": "https://c2.radioboss.fm:18291/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Ireland",
+    "name": "CRY104FM Community Radio Youghal",
+    "url": "http://178.32.62.172:8221/stream",
+    "logo": ""
+  }
+]

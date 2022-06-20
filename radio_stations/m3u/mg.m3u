@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio RNA
+http://drs-live-rna.gasy-internet.info:9001/stream
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Alliance 92 FM 92.0
+http://41.188.43.211:8000/alliance92.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Dago Radio Sound
+http://51.75.24.191:8011/;
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", FMFOI Radio
+http://edge.mixlr.com/channel/yzqie
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio Don Bosco FM 93.4
+http://onair15.xdevel.com:9248/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio Emia FM 88.0
+http://emiaradio.ice.infomaniak.ch/emiaradio-48.aac
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio Feon'ny Vahoaka FM 105.0
+http://197.158.86.230:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio Vaovao Mahasoa FM 106.8
+http://91.121.148.49:7777/;
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", RDJ FM 96.6
+http://rdj966.net:8000/rdj966.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Soa i Madagasikara
+http://planner.soaimadagasikara.org:8080/streaming
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Taratra FM
+http://41.188.43.211:8000/taratraradio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Alefamusic
+https://www.radioking.com/play/alefamusic/70388
+#EXTINF:-1 tvg-logo="" group-title="Madagascar", Radio Paradisagasy
+http://91.121.59.45:10018/live

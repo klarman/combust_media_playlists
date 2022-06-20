@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", Nour Webradio
+http://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", Radio Koudjouni
+http://www.mahorais.yt:8002/stream
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", RF Mayotte
+http://mahorais.yt:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", RMV FM 102.5 Radio Miréréni Village
+http://51.210.148.30:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", Mayotte 1 FM 91.0
+https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mayotte", Malézi FM
+http://51.91.248.172:8000/rcs

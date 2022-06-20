@@ -1,0 +1,80 @@
+[
+  {
+    "tags": "Fiji",
+    "name": "Radio Rishtey",
+    "url": "http://cast5.servcast.net:8048/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Mix FM 93.8",
+    "url": "http://fijiradio.net:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Bula FM 102.0",
+    "url": "http://peridot.streamguys.com:7150/Bula",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "FM 96",
+    "url": "https://stream.fijivillage.com/fm96",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Legend FM",
+    "url": "https://stream.fijivillage.com/legendfm",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Mirchi FM Fiji",
+    "url": "http://peridot.streamguys.com:7150/Mirchi",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio 2Day FM",
+    "url": "http://peridot.streamguys.com:7150/2Day",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio Fiji GOLD FM 100.4",
+    "url": "http://peridot.streamguys.com:7150/Gold",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio Fiji ONE FM 107.4",
+    "url": "http://peridot.streamguys.com:7150/RFOne",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio Fiji Two",
+    "url": "http://peridot.streamguys.com:7150/RFTwo",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio Navtarang FM 101",
+    "url": "https://stream.fijivillage.com/navtarang",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Radio Sargam",
+    "url": "https://stream.fijivillage.com/radiosargam",
+    "logo": ""
+  },
+  {
+    "tags": "Fiji",
+    "name": "Viti FM 102.8",
+    "url": "https://stream.fijivillage.com/vitifm",
+    "logo": ""
+  }
+]

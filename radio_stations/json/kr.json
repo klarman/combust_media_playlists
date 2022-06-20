@@ -1,0 +1,62 @@
+[
+  {
+    "tags": "South Korea",
+    "name": "Aewen Radio (K-Jpop)",
+    "url": "http://209.58.145.135:8031/stream?type=http&nocache=49020",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Aewen Radio (K-pop)",
+    "url": "http://209.58.145.135:8001/stream?type=http&nocache=77",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Aewen Radio (Kdrama OSTs)",
+    "url": "http://209.58.145.135:8025/stream",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Big B Radio - Kpop",
+    "url": "http://107.150.53.50:4001/s",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "datafruits",
+    "url": "https://streampusher-relay.club/datafruits.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Mapo FM 100.7",
+    "url": "http://115.85.182.39/mapofm",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Seoul Community Radio",
+    "url": "http://188.166.198.223/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "WBS FM 89.7",
+    "url": "http://45.76.71.4:8000/wbs-smok",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "Yahweh Radio",
+    "url": "https://s3.radio.co/s22189b87c/listen",
+    "logo": ""
+  },
+  {
+    "tags": "South Korea",
+    "name": "와우씨씨엠— Wow CCM",
+    "url": "http://175.192.196.90:8000/;",
+    "logo": ""
+  }
+]

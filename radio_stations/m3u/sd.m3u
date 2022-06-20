@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Sudan", Al Zain Quran Radio
+http://5.39.71.159:8118/;
+#EXTINF:-1 tvg-logo="" group-title="Sudan", Aywa FM
+http://142.4.217.133:8835/;
+#EXTINF:-1 tvg-logo="" group-title="Sudan", Beladi FM 96.6
+https://stream.zeno.fm/uqh3g0dqhpeuv
+#EXTINF:-1 tvg-logo="" group-title="Sudan", Hala 96 FM
+http://108.61.34.50:7026/stream
+#EXTINF:-1 tvg-logo="" group-title="Sudan", ۞ إذاعة القرآن ۞
+http://tijaniyyah.asuscomm.com:8000/stream/2/
+#EXTINF:-1 tvg-logo="" group-title="Sudan", ۞ إذاعة المديح ۞
+http://tijaniyyah.asuscomm.com:8000/stream/3/
+#EXTINF:-1 tvg-logo="" group-title="Sudan", ۩ الزاوية التجانية ۩
+http://tijaniyyah.asuscomm.com:8000/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Sudan", ۩ السيادة ۩
+http://tijaniyyah.asuscomm.com:8000/stream/6/

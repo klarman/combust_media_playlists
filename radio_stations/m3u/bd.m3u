@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Mahananda FM 98.8
+http://cast.nawabhost.com:8010/mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", ABC Radio FM 89.2
+https://stream.zeno.fm/h7n8ug96eeruv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Bangla Wadio
+http://162.254.150.34:8201/;
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Capital FM 94.8
+http://str.radiocapital.fm:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Colours FM 101.6 FM
+http://45.64.135.88:8000/stream1
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Dhaka FM 90.4
+https://stream.zeno.fm/u9mphfk604zuv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", FMmoon
+https://eu9.fastcast4u.com/proxy/fmmoonco1?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", FnF.fm Bangla
+http://eu6.fastcast4u.com:5099/;stream
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Jago FM 94.4
+http://128.199.184.111:12496/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Abiram
+https://radioabiram.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Bhumi 92.8 FM
+https://radiobhumilive.radioca.st/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Carnival
+http://94.23.30.114:8195/stream
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Ekattor 98.4 FM
+http://162.254.149.187:9302/;stream/1;
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Foorti FM 88.0
+https://stream.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Goongoon
+https://www.cdn.streamcast.xyz:2020/stream/radiogoongoon/stream
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Today 89.6 FM
+https://stream.zeno.fm/0zha3rfq02quv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Veritas Asia Bangla service
+http://stream.rveritas-asia.org:8000/Bengali.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radiosangbad.com
+https://stream.zeno.fm/mnhbu6q6ng0uv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", SaRaHa
+https://stream.zeno.fm/5hx71hbuqhruv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Spice FM 96.4
+http://162.254.149.187:9300/;
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Traffic FM 88.8
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Young Leaders Forum
+https://studio26.radiolize.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", ইসলাহী মুজাকারা
+https://stream.zeno.fm/ghcsb5a7ma0uv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", বাংলাদেশ বেতার Betar
+http://as3.digitalsynapsebd.com:8582/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio Bhumi FM 92.8
+https://radiobhumilive.radioca.st/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Community Radio Padma 99.2
+http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Radio SylNet
+https://stream.zeno.fm/rk92702kyk8uv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Sylhet Betar বাংলাদেশ বেতার সিলেট
+http://91.121.222.81:8384/stream

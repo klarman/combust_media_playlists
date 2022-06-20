@@ -1,0 +1,38 @@
+[
+  {
+    "tags": "Mayotte",
+    "name": "Nour Webradio",
+    "url": "http://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Mayotte",
+    "name": "Radio Koudjouni",
+    "url": "http://www.mahorais.yt:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Mayotte",
+    "name": "RF Mayotte",
+    "url": "http://mahorais.yt:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Mayotte",
+    "name": "RMV FM 102.5 Radio Miréréni Village",
+    "url": "http://51.210.148.30:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Mayotte",
+    "name": "Mayotte 1 FM 91.0",
+    "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Mayotte",
+    "name": "Malézi FM",
+    "url": "http://51.91.248.172:8000/rcs",
+    "logo": ""
+  }
+]

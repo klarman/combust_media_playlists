@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", FM99 (Alytaus Radijas)
+http://82.135.234.195:8000/fm99.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Saules Radijas
+http://saule-mp3.vinlita.lt:8008/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Extra FM
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Lietus FM
+https://stream.m-1.fm/lietus/aacp64
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Mano FM 94,4 Kaunas
+http://stream.manofm.lt/listen
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Marijos radijas 
+http://streamer.marijosradijas.lt:8001/marijosradijas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Puko Radijas 2 FM 100.9
+http://82.135.234.195:8000/pukas2.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Puko Radijas FM 107.3
+http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijas Kelyje FM 105.9
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijas Tau
+http://radijas.tau.lt:8000/stream2?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Kelyje FM 99.8
+http://82.135.234.195:8000/kelyje_klaipeda.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo stotis Laluna
+http://radio.m-1.fm:80/laluna/mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Raduga
+http://radio.m-1.fm:80/raduga/high
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Kapsai FM 100.2
+http://91.211.246.42:8000/Kapsai
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Neringa FM
+http://185.11.24.72:8000/neringafm
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Pulsas
+https://sc.pulsas.lt:8443/stream?_=1
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Vizija
+https://stream.zeno.fm/h9unubeaqtzuv
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo Klubas
+http://didzdvaris.vinlita.lt:8009/stream.aac
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", RS2
+https://rs2online.eu/stream.php
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Taurages Radijas
+http://stream.tauragesradijas.lt:8000/tr1
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Utenos Radijas
+http://gyvai.utenosradijas.lt:8010/;.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Beveik Radijas
+https://azura.shoutca.st/radio/8420/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", European Hit Radio 
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Geras FM
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Gold FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Leproradio
+http://leproradio.com/mpeg.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", LRT Klasika FM 105.1
+http://lrt-cast.lrt.lt:8000/lrt_klasika
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", LRT Opus FM 98.3
+http://lrt-cast.lrt.lt:8000/lrt_opus
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", LRT Radijas FM 89.0
+http://lrt-cast.lrt.lt:8000/lrt_radijas
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Palanga Street Radio
+https://stream.palanga.live:8443/palanga128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Play Radio
+http://n05.radiojar.com/d9cm273ystzuv
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Play4n4 Radio
+https://radioproxy.play4n4.com/radio_stream
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", PMR
+http://streamer.midiaudio.com:8000/pmr
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Power Hit Radio FM 95.9
+https://powerhit.ls.lv/PHR_AAC
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijas Kelyje FM 107.7
+http://82.135.234.195:8000/kelyje_vilnius.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo Musikií
+https://stream.radijo-musikii.net/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo Stotis Lietus
+http://radio.m-1.fm:80/lietus/mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo stotis M-1
+http://radio.m-1.fm:80/m1/mp3?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radijo stotis M-1 Plius
+http://radio.m-1.fm:80/M-1PLIUS?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radio Wilno
+http://uk1.internet-radio.com:8254/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radio ZW FM 103.8
+https://plays.zw.lt/zw128
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radio ZW Fun
+https://plays.zw.lt/zwfun
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", radio.audiomastering.lt
+http://radio.audiomastering.lt:8000/hq
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Radiocentras
+https://transliacija.rc.lt/rc128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Relax FM
+https://transliacija.relaxfm.lt/relaxfm128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Rock FM
+https://transliacija.rockfm.lt/crf128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Rusradio LT FM 105.6
+https://transliacija.rusradio.lt/rrb128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Start FM 94.2
+http://radijas2.vu.lt:8000/startfm.ogg
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Super FM 100.5
+https://stream.ehr.lt:8443/superfm
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Sveikatos radijas
+http://193.219.87.11:8080/stream?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", XFM
+http://88.119.151.74:8001/xfm
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Žinių Radijas
+http://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1 tvg-logo="" group-title="Lithuania", Zip FM
+https://transliacija.rc.lt/zipfm128.mp3

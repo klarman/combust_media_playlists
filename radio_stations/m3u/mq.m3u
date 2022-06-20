@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Jumble FM - Urban Reggae
+http://ca4.rcast.net:8048/;
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Bel' radio Martinique
+https://n03a-eu.rcs.revma.com/9b1a2gyspwzuv
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Chérie FM
+http://2stream.dyndns.org:8000/cheriefmmq
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Martinique La Première
+https://martinique.ice.infomaniak.ch/martinique-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Martinique", MAXXI
+http://2stream.dyndns.org:8000/maxxi
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Nostalgie Martinique
+http://2stream.dyndns.org:8000/nostalgiemq
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Radio St Louis Martinique
+http://91.121.29.104:8142/;
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RBR FM 103.6
+http://sv1.vestaradio.com:8000/rbr
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RCI Live
+https://n02a-eu.rcs.revma.com/gf7d96rtpwzuv
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RCI Martinique
+https://n09a-eu.rcs.revma.com/t0abpqyspwzuv
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Sousleground
+https://listen.radioking.com/radio/92836/stream/131293
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Identité Radio
+https://www.radioking.com/play/identiteradio
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RFC FM 89.5
+http://163.172.59.44:8002/stream.mp3;
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RFC Music
+http://163.172.59.44:8002/stream.mp3;
+#EXTINF:-1 tvg-logo="" group-title="Martinique", RFC Urban
+https://stream.rcast.net/67102
+#EXTINF:-1 tvg-logo="" group-title="Martinique", SEM Radio 89.7FM
+http://stream.studioradiomedia.com:8041/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Nord FM Martinique
+http://nordfm.ice.infomaniak.ch/nordfm-128.mp3?_=1
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Radio Actif Martinique
+http://198.27.68.65:8170/stream?type=http&nocache=5
+#EXTINF:-1 tvg-logo="" group-title="Martinique", Radio Fusion FM 95.3
+http://france16.coollabel-productions.com:8276/stream

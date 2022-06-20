@@ -1,0 +1,578 @@
+[
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Pirai FM",
+    "url": "http://220.247.234.207:8000/piraistream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Rajarata FM 107.3",
+    "url": "http://220.247.227.20:8000/rajaratastream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lakhanda",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Radio Plus Hits",
+    "url": "http://tachyon.shoutca.st:8804/stream?1573729832832.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Batti FM",
+    "url": "http://s7.voscast.com:8790/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "தமிழகரம் வானொலி( Tamilakaram Radio",
+    "url": "http://tamilakaram.radioca.st/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "101 Yes FM",
+    "url": "http://live.trusl.com:1150/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Athavan Radio",
+    "url": "http://198.178.123.2:9038/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Capital FM 94.0",
+    "url": "http://ca4.rcast.net:8060/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Classic Radio",
+    "url": "http://69.46.24.226:7121/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Dreams Share FM",
+    "url": "https://stream.zeno.fm/ve5ea9yurreuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "E FM 88.3",
+    "url": "https://207.148.74.192:7874/stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "FM Derana 92.4",
+    "url": "https://us10a.serverse.com/proxy/fmderana?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Fox 91.4 FM",
+    "url": "http://108.61.34.50:7094/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Gold FM 93.2",
+    "url": "http://209.133.216.3:7048/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Hiru FM",
+    "url": "http://hirufm.asiabroadcasting.stream:7018/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Isaiaruvi FM",
+    "url": "http://79.143.187.96:8049/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "IslandPulse.lk - Laid Back",
+    "url": "https://www.radioking.com/play/laid-back-island-pulse",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "IslandPulse.lk - Main Stream",
+    "url": "https://listen.radioking.com/radio/350272/stream/399295",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Kiss FM 96.9",
+    "url": "http://s3.voscast.com:8404/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lakviru Radio",
+    "url": "http://69.46.24.226/proxy/kqxjpewq?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Legends FM 96.6",
+    "url": "http://live.trusl.com:1190/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lite FM 87",
+    "url": "http://live.tnlrn.com:8020/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Live FM",
+    "url": "http://69.46.24.226:7118/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "MindFM",
+    "url": "http://69.46.24.226:7425/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Neth FM",
+    "url": "http://69.46.24.226:7669/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Radio Plus Classic",
+    "url": "https://radioplusclassic.radioca.st/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Radio Plus Hits",
+    "url": "http://tachyon.shoutca.st:8804/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Radio Ran Lanka",
+    "url": "https://eu2-centova.serverse.com/proxy/oelmebep?mp=/streamstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Ran FM 100.5",
+    "url": "https://207.148.74.192:7874/ran.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Real Radio",
+    "url": "http://s3.voscast.com:8406/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Red FM 99.5",
+    "url": "http://shaincast.caster.fm:47830/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Rhythm World FM 95.6",
+    "url": "http://live.tnlrn.com:8030/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Seera FM",
+    "url": "https://stream.zeno.fm/0baxuvp4nzzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Shaa FM 91.1",
+    "url": "http://209.133.216.3:7073/stream/1/",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Shakthi FM",
+    "url": "http://live.trusl.com:1160/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sirasa FM 106.5",
+    "url": "http://live.trusl.com:1170/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Siyatha FM 98.2",
+    "url": "http://s3.voscast.com:8408/.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sky Radio",
+    "url": "https://c18.radioboss.fm:18205/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Asia Service",
+    "url": "http://220.247.227.6:8000/Asiastream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC City FM",
+    "url": "http://220.247.227.20:8000/citystream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Kandurata FM",
+    "url": "http://220.247.227.20:8000/kandystream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Radio Sri Lanka 97.4 FM",
+    "url": "http://220.247.227.20:8000/RSLstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Sinhala Commercial Service",
+    "url": "http://220.247.227.6:8000/Scomstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Sinhala National Service",
+    "url": "http://220.247.227.6:8000/Snsstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Tamil National Service",
+    "url": "http://220.247.227.6:8000/Tnsstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Thendral FM",
+    "url": "http://220.247.227.20:8000/Threndralstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Yaal FM",
+    "url": "http://220.247.227.6:8000/Yaalstream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sooriyan FM",
+    "url": "http://sooriyanfm.asiabroadcasting.stream:7071/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sun FM",
+    "url": "http://209.133.216.3:7058/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Tafseer FM",
+    "url": "https://stream.zeno.fm/kxtdf1ncazzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "TNL Radio FM 99.2",
+    "url": "http://live.tnlrn.com:8010/live.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Varnam FM 90.4",
+    "url": "http://s3.voscast.com:8402/.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Vasantham FM",
+    "url": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "WoW Radio",
+    "url": "https://c32.radioboss.fm:18373/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "YFM 92.7",
+    "url": "http://live.trusl.com:1180/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Rangiri Radii",
+    "url": "http://tachyon.shoutca.st:8827/index",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Krushi Radio",
+    "url": "https://s3.radio.co/s7d90cfe4c/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Malayagam FM",
+    "url": "https://malayagamfm.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "bestcoast.fm",
+    "url": "https://streams.radio.co/sea5dddd6b/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Hela Handa Radio",
+    "url": "https://stream.zeno.fm/612ysau63k0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "JaffnaZone",
+    "url": "https://jaffnazonefm.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lord Radio",
+    "url": "http://procyon.shoutca.st:8719/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Pasanga FM",
+    "url": "https://eapps-cs.herokuapp.com/http://s7.voscast.com:10864;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Laksara Radio",
+    "url": "https://eu1-sonic.serverse.com/8010/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lanka E FM",
+    "url": "https://stream.zeno.fm/31hushvxwd0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Bathusha Radio",
+    "url": "http://eu8.fastcast4u.com:5320/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Islam24 FM",
+    "url": "http://s1.voscast.com:8778/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Punnagai FM IST",
+    "url": "https://str2b.openstream.co/1654",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Golden Maple Radio",
+    "url": "http://s46.myradiostream.com:11156/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Helasara Radio",
+    "url": "http://178.128.49.212:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sinhala Dhamma Talks Radio",
+    "url": "https://cp12.serverse.com/proxy/savanata?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Pasanga FM",
+    "url": "http://s7.voscast.com:10864/;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "MDN Radio",
+    "url": "https://eu2.fastcast4u.com/proxy/mapere00?mp=/1",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Free FM",
+    "url": "https://stream.zeno.fm/z7q96fbw7rquv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "BC Radio",
+    "url": "https://cp11.serverse.com/proxy/bannercuts?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Mahima Radio",
+    "url": "https://mahimaradio.radioca.st/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Lion FM",
+    "url": "https://stream.zeno.fm/rkfftn8zczzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Malwana Radio",
+    "url": "https://stream.zeno.fm/et9gampxxwzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Thirai FM",
+    "url": "https://stream.zeno.fm/1s14uqy4ya0uv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "SLBC Ruhunu Sevaya",
+    "url": "http://220.247.227.20:8000/ruhunustream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Bee FM",
+    "url": "https://stream.zeno.fm/vu2sx8wswk8uv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "RadioLK",
+    "url": "http://eu2-centova.serverse.com:7316/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Tea Radio",
+    "url": "https://everlasting.datacenter.lk/radio/8000/radio.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Radio தமிழா FM",
+    "url": "http://107.182.231.73:7182/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Seth FM 103.1",
+    "url": "https://listen.radioking.com/radio/384487/stream/435781",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Shree FM 100",
+    "url": "https://207.148.74.192:7874/stream2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sitha FM",
+    "url": "http://shaincast.caster.fm:48148/listen.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "V FM 107",
+    "url": "https://us10a.serverse.com/proxy/vfm?mp=/stream;",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Sihaneth",
+    "url": "https://us10a.serverse.com/proxy/sihaneth?mp=/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Mahima Radio",
+    "url": "http://protostar.shoutca.st:8017/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Dj Shifan Sc",
+    "url": "https://stream.zeno.fm/dsdb1twe8ueuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Jayasri Radio",
+    "url": "http://cp12.serverse.com:7009/live",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Moon FM",
+    "url": "https://stream.zeno.fm/7wbtm27c9mzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Vaanam FM",
+    "url": "http://62.210.10.4:8106/;stream/",
+    "logo": ""
+  },
+  {
+    "tags": "Sri Lanka",
+    "name": "Waharaka Radio නිවෙන මග කියන",
+    "url": "http://stream.radiojar.com/88f91u2s01zuv",
+    "logo": ""
+  }
+]

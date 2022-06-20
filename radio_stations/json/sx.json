@@ -1,0 +1,44 @@
+[
+  {
+    "tags": "Sint Maarten",
+    "name": "Oasis 96.3 FM",
+    "url": "http://stream.sxmradio.com:8060/channel5.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "Radio Laser 101 FM",
+    "url": "http://stream.sxmradio.com:8060/channel7.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "Radio Pearl 98.1 FM",
+    "url": "http://stream.sxmradio.com:8060/channel6.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "Radio Soualiga 99.9 FM",
+    "url": "http://stream.sxmradio.com:8060/channel3.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "Tropixx 105.5 FM",
+    "url": "http://stream.sxmradio.com:8060/channel2.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "X104.3 FM",
+    "url": "http://stream.sxmradio.com:8060/1043.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Sint Maarten",
+    "name": "Z1051 FM 105.1",
+    "url": "http://procyon.shoutca.st:8283/ZRON",
+    "logo": ""
+  }
+]

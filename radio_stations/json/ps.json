@@ -1,0 +1,206 @@
+[
+  {
+    "tags": "Palestine",
+    "name": "Power Radio",
+    "url": "http://rs.hadara.ps:8044/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio al-Hara",
+    "url": "http://n02.radiojar.com/78cxy6wkxtzuv.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Bethlehem 2000راديو بيت لحم  FM 89.6",
+    "url": "http://rs.hadara.ps:8002/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Mawwal FM 101.7",
+    "url": "http://rs.hadara.ps:8008/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Orient FM 98.7",
+    "url": "http://streamer.mada.ps:8034/orient",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Al Aqsa Voice FM 106.7",
+    "url": "http://stream.alaqsavoice.ps:8004/",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Al-Quds Radio 102.7",
+    "url": "http://live.alboraq.ps:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Gaza FM",
+    "url": "http://173.212.226.153:8000/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Shabab Radio 98.2 FM",
+    "url": "https://server.radiowsla.net/8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Hebron Radio 90.4 FM",
+    "url": "https://streaming.zaytonatube.com/HebronRadio.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "HR",
+    "url": "http://rs.hadara.ps:8000/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Rabea FM 88.7",
+    "url": "http://radio.r4fm.ps:8044/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Marah 100.8 FM",
+    "url": "http://rs.hadara.ps:8056/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "AAUP Radio",
+    "url": "http://streamer.mada.ps:8065/aaup",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Nas FM راديو ناس لكل الناس",
+    "url": "http://5.34.160.146:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Nawras Radio",
+    "url": "http://rs.hadara.ps:8024/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Quran Radio FM 96.9",
+    "url": "http://www.quran-radio.org:8002/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Hayat FM 100.8",
+    "url": "https://streamingv2.shoutcast.com/hayat-fm",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Sawt An-Najah",
+    "url": "http://rs.hadara.ps:8550/stream/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Raya FM 96.4",
+    "url": "http://live.raya.ps:8064/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Shabab FM 101.4",
+    "url": "http://streaming.zaytonatube.com:8000/test2.aac",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "راديو نغم FM 99.7 Radio Nagham",
+    "url": "http://rs.hadara.ps:8610/stream/;stream.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "24FM",
+    "url": "http://24fm.callu.ps:8000/live",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Ajyal",
+    "url": "http://icecast.mada.ps:8095/ajyalnew",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Al7an FM",
+    "url": "https://sawtelghad.org:7003/mp3;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "AlQuran AlKareem Radio",
+    "url": "https://sawtelghad.org:7001/mp3;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio 101",
+    "url": "http://streamer.mada.ps:8027/onefm",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Falastini",
+    "url": "http://176.31.107.8:8289/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Radio Nissa",
+    "url": "http://5.34.160.144:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Raya FM",
+    "url": "http://live.raya.ps:8064/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Sawt El Ghad FM 105",
+    "url": "http://204.93.165.211:1050/;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Turath FM",
+    "url": "https://sawtelghad.org:7002/mp3;",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Voice Of Palestine",
+    "url": "http://46.43.69.146:8008/;stream.nsv&type=mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Palestine",
+    "name": "Fajer FM",
+    "url": "http://rs.hadara.ps:8004/;stream.mp3",
+    "logo": ""
+  }
+]

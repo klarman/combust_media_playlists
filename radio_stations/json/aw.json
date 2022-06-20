@@ -1,0 +1,98 @@
+[
+  {
+    "tags": "Aruba",
+    "name": "97.9 Easy FM",
+    "url": "http://96.31.83.86:8134/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Cool FM 98.9",
+    "url": "http://www.coolaruba.com:8000/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Fresh FM 104.3",
+    "url": "http://fresharuba.com:8006/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "GFM Galactica 99.9 Aruba",
+    "url": "https://securestreams5.autopo.st:1922/;",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Hits100 FM 100.9",
+    "url": "https://audio-edge-hz87v.ams.d.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "InfluenciasRadio",
+    "url": "https://stream.zeno.fm/uv71n8a07vzuv",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Oldies 99.9",
+    "url": "https://s2.radio.co/s389e42745/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Power 101.7 FM",
+    "url": "http://38.96.148.28:11832/stream?type=.mp3",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Radio Bo Guia 88.9 FM",
+    "url": "http://whooshserver.net:9880/live",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Radio Canal 90 FM",
+    "url": "http://198.245.51.58:10879/Canal90",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Radio Magic 96.5 FM",
+    "url": "http://158.69.114.190:8072/;",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Shark FM Aruba",
+    "url": "https://sslstreaming.com/8018/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Super Exitos Aruba",
+    "url": "https://streamer.radio.co/s579e30929/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Top FM 95",
+    "url": "http://198.245.51.58:10995/topfm",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "VIP Radio",
+    "url": "http://s02.whooshserver.net:8054/vip",
+    "logo": ""
+  },
+  {
+    "tags": "Aruba",
+    "name": "Massive 103.5 FM",
+    "url": "https://streamklik.com/radio/8000/massive.mp3",
+    "logo": ""
+  }
+]

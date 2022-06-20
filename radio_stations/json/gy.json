@@ -1,0 +1,86 @@
+[
+  {
+    "tags": "Guyana",
+    "name": "GT Riddim Radio",
+    "url": "http://gtriddim.net:8080/;",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Guyana Lite FM 104.1",
+    "url": "http://stream.radiojar.com/nh42m158d4duv",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "HJ Boom FM 94.1",
+    "url": "http://192.99.8.192:3630/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Hot FM 98.1",
+    "url": "http://198.27.83.198/proxy/ncn981?mp=/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Kaieteur Radio FM 99.1",
+    "url": "https://streamingv2.shoutcast.com/kaieteur-radio-guyana",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Maad FM 97.5",
+    "url": "http://streaming.broadcastradio.com:8870/maad975fm",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Mix FM 90.1",
+    "url": "http://streams.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "NewsTalk Radio FM 103.1",
+    "url": "http://s3.voscast.com:9138/;",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "NTN Radio FM 89.1",
+    "url": "http://auds1.intacs.com/ntnradio",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Radio Guyana FM 89.5",
+    "url": "https://stream.radio.co/s9668e2ab5/listen",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Voice of Guyana",
+    "url": "http://198.27.83.198/proxy/ncn1025?mp=/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Vybz 100.1 FM",
+    "url": "http://198.27.83.198/proxy/ncn1001?mp=/;stream/1",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "Radio 104.3 Power FM",
+    "url": "http://192.99.17.12:6142/stream",
+    "logo": ""
+  },
+  {
+    "tags": "Guyana",
+    "name": "WJREM FM 101.3",
+    "url": "http://108.59.11.81:8175/;",
+    "logo": ""
+  }
+]

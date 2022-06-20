@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Thailand", บ้านกรวดเวิลด์ FM 99.25 MHz
+https://lnwradio.hostsevenplus.com/9564/audio.php
+#EXTINF:-1 tvg-logo="" group-title="Thailand", บ้านใหม่เรดิโอ FM 90.00 MHz
+http://lnwradio.hostsevenplus.com:9602/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", 107.75 ดนตรีสีสัน
+http://139.5.145.31:8004/OB
+#EXTINF:-1 tvg-logo="" group-title="Thailand", 90 Rakthai
+http://radio11.plathong.net:8896/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Bangkok.fm
+http://europa.shoutca.st:8644/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Boonniyom Radio
+https://stream.zeno.fm/m0fs2kgws4zuv
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Capitol.FM
+http://atlanticthai.primcast.com:5898/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Chillfm
+https://atimeonline.smartclick.co.th/chill
+#EXTINF:-1 tvg-logo="" group-title="Thailand", EFM
+https://atimeonline.smartclick.co.th/efm
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Flex 102.5
+http://radio12.plathong.net:7172/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 88 Bangkok Radio
+http://prdonline.prd.go.th:8200/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 94 (TV5)
+http://fm94.tv5.co.th:8000/fm94ch3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM One 103.5
+http://103.246.19.203:8082/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Fung Fung Fung
+http://link2.onair.network:8006/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Global Buddhist Network
+http://dmc072.net:443/play.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Greenwave
+https://atimeonline3.smartclick.co.th/green
+#EXTINF:-1 tvg-logo="" group-title="Thailand", JS.103MHz [FM Radio]
+http://fm94.tv5.co.th:8000/armystream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", jssignalradio Bangkok
+http://media.login.in.th:8140/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", LooktungNetwork
+http://media.login.in.th:8200/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Love Radio FM 93.75
+http://apps4.mcot.net:8000/stream236.aac
+#EXTINF:-1 tvg-logo="" group-title="Thailand", MCOT FM 100.5
+http://rstream.mcot.net:8000/fm1005
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Ployradio Thailand
+https://radio14.plathong.net/7134/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", R-Radio Network Bangkok
+http://112.121.150.133:8448/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Thailand Chiangmai
+http://prdonline.prd.go.th:8118/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Samyod Radio Station
+http://myradio.plathong.net:8068/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Smartbomb FM 90.5
+http://live3.smartbomb.co.th:8624/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Thai Islam Radio (สถานีวิทยุเสียงอิสลาม) 104.25 FM
+http://radio12.plathong.net:7234/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Thai PBS Radio Online
+http://radio2.thzhost.com:4056/;;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", TU Radio AM 981 กรุงเทพฯ
+http://203.131.210.196:8000/stream1/stream_live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Voice Of Navy FM 88.5
+https://radio12.plathong.net/7346/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Watnairong FM 94.7
+http://103.7.56.219:4106/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Wireless Bangkok
+http://112.121.150.133:8204/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", เพลงลูกทุ่ง Looktung Eingdoi Station
+http://radio14.plathong.net:7126/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", วิทยุครอบครัวข่าว ส.ทร.FM106
+http://radio12.plathong.net:8648/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", buengkan radio
+http://c12.radioboss.fm:8176/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Nonko Radio FM 91.00
+http://150.107.28.62:4120/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Buriram Radio FM 103 บุรีรัมย์ เรดิโอ
+https://lnwradio.hostsevenplus.com/9504/audio.php
+#EXTINF:-1 tvg-logo="" group-title="Thailand", AM 738KHZ วปถ2 เชียงใหม่
+http://sv1.nakhonradio.com:9141/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Chaing Mai Radio FM 93.75
+http://112.121.151.133:8124/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", ChiliRADIO Dance EDM
+http://s1.chiliradiothailand.com:8010/chilidance
+#EXTINF:-1 tvg-logo="" group-title="Thailand", ChiliRADIO Pop
+http://s1.chiliradiothailand.com:8010/chilipop
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Modern 9875
+http://112.121.150.133:8203/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", MUNFM
+http://103.246.18.3:4018/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Fang PRD 89.25Mhz
+http://prdonline.prd.go.th:8128/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Ohmi-Design.com
+http://ohmi-design.com:8002/steaming
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT10 FM 92.50 Radio Thailand
+http://media.login.in.th:8445/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT2 AM 819 Radio Thailand
+http://media.login.in.th:8405/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT5 Oversea Radio Thailand
+http://media.login.in.th:8420/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT6 AM 918 Radio Thailand
+http://media.login.in.th:8425/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT7 AM 891 Radio Thailand
+http://media.login.in.th:8430/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Color Music ดนตรีสีสัน
+http://onair22.onair.network:8076/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Musichitz Inter Station
+http://112.121.150.133:8006/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Musichitz Looktung Station
+http://112.121.150.133:9386/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Smart Get Feel Good 104
+http://live3.smartbomb.co.th:8842/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Surf 102.5 FM
+http://206.189.157.88:8000/surf1025
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Talay FM 90.25
+http://206.189.157.88:8000/talay
+#EXTINF:-1 tvg-logo="" group-title="Thailand", เพลงลูกทุ่ง Huahin Radio
+http://inter1.plathong.net:7008/;stream.mp3?type=http
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Huasai Radio FM 99.5
+http://sv1.nakhonradio.com:9009/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", WatBuddhawas FM 98.25 MHz
+http://radio1.serverradio.net:8060/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Sangklaburi
+http://118.175.16.69:8014/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", TonKla 101.00 MHz
+http://apps4.mcot.net:8000/stream592.aac
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 104.25MHZ ลูกทุ่งสี่เมืองขอน จังหวัดขอนแก่น
+http://media.login.in.th:8005/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Metro Radio 90.5 FM
+http://radio4.thzhost.com:4114/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Rad Radio FM 89.5
+http://radio1.serverradio.net:8592/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Samui Island Radio
+http://78.129.159.25:8195/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", What Tha Sawang FM 106
+http://lnwradio.hostsevenplus.com:9544/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Health Radio FM 92.25
+http://radio11.plathong.net:7046/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Napho Radio FM 88.25
+https://radio11.plathong.net/7136/;stream.mp3?type=http
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Home Wave FM 101.1
+https://apps4.mcot.net/stream391.aac
+#EXTINF:-1 tvg-logo="" group-title="Thailand", DSI Radio
+https://lnwradio.hostsevenplus.com/9622/audio.php
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Hitzfm Exclusive 102.25
+http://radio10.plathong.net:7292/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", I am Radio 89 FM
+http://103.22.182.16:8054/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Bluewave97
+http://112.121.151.133:8109/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Fat 93 FM
+http://112.121.151.133:8272/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", กวส.4 AM 1512
+https://cdn-th2.login.in.th/shoutcast/8140
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Binhla Radio FM 99.0
+http://apps4.mcot.net:8000/stream855.aac
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Mommaemradio
+http://112.121.150.133:9386/autodj
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 105.25 mhz วิทยุครอบครัวข่าว นครศรีธรรมราช
+http://103.22.182.14:7272/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 93.5 MHz Radio Thailand Nakhonsi
+http://prd5online.prd.go.th:9010/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Thungsong
+http://prd5online.prd.go.th:9090/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", DFM FM 94.0
+http://radio10.plathong.net:8204/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", HOT Radio FM 99.0
+http://radio10.plathong.net:8206/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", ลูกทุ่งอินเตอร์ FM 91.0
+http://radio10.plathong.net:8202/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Sangkaew Radio 90.25 MHz
+http://radio.nkradio.info:8002/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Chorsaard
+https://radio12.plathong.net/9999/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", วิทยุสังฆทานธรรม
+http://radio14.plathong.net:7164/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", วิทยุคนรักปาย — Pai Lover FM 94.0
+https://radio11.plathong.net/8778/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", RTA Center
+http://ohmi-design.com:9108/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Eingdoi Lookkung
+http://ohmi-design.com:8708/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Eingdoi Radio
+http://ohmi-design.com:8170/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Pattani Radio FM 98.50
+http://112.121.150.133:8092/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", City Radio FM 90.25
+http://stream.radiojar.com/493e3018b9quv
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Kiss Dance Network
+http://s1.thailandstreaming.net:8020/kiss.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Olleke Bolleke Radio
+https://radio.streemlion.com/OllekeBollekeRadio
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Passion FM
+http://onair22.onair.network:8076/live
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Pattaya Mundee FM 91
+http://202.129.207.86:8018/OBdirect
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Sunshine FM 107.75
+http://icecast.piesoft.net:8000/pat
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Buriram Radio FM 103.75
+https://lnwradio.hostsevenplus.com/9610/audio.php
+#EXTINF:-1 tvg-logo="" group-title="Thailand", phetchabunradio online
+https://c14.radioboss.fm:18189/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", สวท.เพชรบูรณ์
+http://ohmi-design.com:8258/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT Phetchaburi FM 95.75
+http://prdonline.prd.go.th:8010/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", RTA 3 PL AM 1377
+http://ohmi-design.com:9112/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Lanna Channel FM 104.50
+http://softsound.net:8000/stream2
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Top Viewpoint Radio 93.75
+https://radio12.plathong.net/8274/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Wow Radio FM 88.5 ลูกทุ่งใหม่
+http://203.159.93.109:8000/radio;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Gazette Radio FM 89.5
+http://myradio.plathong.net:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Phuket Island Radio
+http://148.251.4.92/pfmMP3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Trip FM 89.75
+http://media.login.in.th:1150/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", yesterday106.5
+http://radio2.comgig.com:4122/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM  99.25 ราชบุรี
+http://112.121.151.133:8180/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 106.75 Mhz
+http://ohmi-design.com:8874/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 88.0 Mhz
+http://ohmi-design.com:8184/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 96.25 Mhz
+http://ohmi-design.com:8182/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Hot FM 90.75
+http://ohmi-design.com:8966/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Lamyai Radio FM 91.0
+https://apps4.mcot.net/stream526.aac
+#EXTINF:-1 tvg-logo="" group-title="Thailand", เพชรบูรณ์เรดิโอ
+http://c14.radioboss.fm:8189/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Xansiam radio
+http://myradio3.plathong.net:8480/lisen.pls
+#EXTINF:-1 tvg-logo="" group-title="Thailand", GenesisRadio FM 104.50MHz
+http://radio10.plathong.net:7228/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Yokkrabat FM 93.75 MHz
+http://ohmi-design.com:8156/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 95.50
+http://ohmi-design.com:8490/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", NBT Sangkhlaburi F.M.94.25 MHz
+http://prdonline.prd.go.th:8014/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", City Life FM 93.75
+http://onair.onair.network:8076/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", AM 1458KHZ จส.6 ศรีสะเกษ
+http://media.login.in.th:8220/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", VR Radio 88.75 MHz
+https://radio14.plathong.net/7212/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM Islamic Radio
+http://radio14.plathong.net:7590/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", สวท.สุโขทัย FM 93.75 MHz.
+http://ohmi-design.com:8962/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Thailand Surat Thani FM 89.75
+http://prd5online.prd.go.th:9000/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Radio Thailand Surat Thani FM 95.50
+http://prd5online.prd.go.th:9070/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Rakpaktai Radio
+https://radio10.plathong.net/7100/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Surat City Radio FM 102.75
+http://202.57.162.183:8000/fm10275
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Work FM 91.75 Mhz. Suratthani
+http://lnwradio.hostsevenplus.com:9364/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Request Radio เพลงเพื่อชีวิต
+https://cast.requestradio.in.th:830/mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", The Paktai Radio เพลงใต้เพื่อชีวิต
+http://mpc.mediacp.eu:8592/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", armyradio103trang
+http://radio11.plathong.net:7022/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", Vision Radio FM 107.75
+http://ohmi-design.com:8204/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", 4lifehealthy Radio
+http://radio14.plathong.net:7250/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", FM 98.2 บ้านดุง
+http://radio14.plathong.net:7448/;
+#EXTINF:-1 tvg-logo="" group-title="Thailand", KWPR89.5
+http://streaming.thaismarthost.com:8004/stream
+#EXTINF:-1 tvg-logo="" group-title="Thailand", วัดป่านาคำน้อย - Siangdham Radio
+http://202.142.203.28:8000/siangdham.mp3
+#EXTINF:-1 tvg-logo="" group-title="Thailand", 1449AM RTA3
+http://ohmi-design.com:9114/;

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Neutralradio
+https://larry.torontocast.com:1795/stream
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Ishara FM 100.7
+http://nickerie.webhop.net:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Beat FM 92.1
+http://168.195.218.193:8000/radio2-2
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Pipel 94.1 FM
+https://rs.suricloud.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio 10 Magic FM 88.1
+https://streams.radio.co/s28bc986cd/listen
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio 9 Suriname
+https://rs.suricloud.com/radio/8060/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio ABC FM 101.7
+http://bombelman.com:5472/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Apintie FM 97.1
+http://apintie.sr:7000/stream?icy=http
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Garuda FM 105.7
+http://162.244.80.245:8012/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Immanuël FM 95.9
+http://bombelman.com:3052/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Kabar Katresnan FM 90.9
+http://server.jvhost.net:8120/stream?1594024946067
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Koyeba FM 104.9
+http://162.244.80.245:8020/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Rapar 91.3 FM
+http://168.195.218.193:8000/radio1-1
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Sangeetmala FM 99.3
+https://rs.suricloud.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Shruti
+https://rs.suricloud.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio SRS Suriname FM 96.3
+https://stream.zeno.fm/mv614v9dxtzuv
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Radio Trishul
+https://rs.suricloud.com/radio/8050/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", RP 98.7 FM
+http://168.195.218.193:8000/radio1-3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", SCCN Radio B104.1 FM
+http://38.96.175.21:5600/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Shalom Radio FM 94.5
+http://162.244.80.245:8014/;
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Suri-Lite
+http://144.217.129.213:8221/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="Suriname", Surjavibes Radio
+https://streamingv2.shoutcast.com/surjavibes

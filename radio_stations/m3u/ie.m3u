@@ -1,0 +1,371 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Owenea FM 100.8
+https://c20.radioboss.fm:18053/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Athlone Community Radio FM 88.4
+http://79.97.44.255:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", iRadio
+https://edge.audioxi.com/IRADNW
+#EXTINF:-1 tvg-logo="" group-title="Ireland", BCRFM 101.9
+https://pj1019.radioca.st/streams/128kbps
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Mid West Irish Radio
+http://edge-audio-01-cr.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Midwest Radio
+http://listen-midwest.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Birdhill Radio
+http://5.79.74.155:8000/;stream/1
+#EXTINF:-1 tvg-logo="" group-title="Ireland", East Coast FM
+http://sirius.shoutca.st:8461/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Event FM
+http://uk6.internet-radio.com:8085/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Spirit Radio
+https://ice31.securenetsystems.net/SPIRITIE
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Castlebar Community Radio 102.1 FM
+http://213.175.217.198:8000/crcfm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Breffni Digital Radio
+https://s7.citrus3.com:8026/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Northern Sound
+https://edge.audioxi.com/NORTHERNSOUND
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Airport Scanner - EIKN Ireland West Knock - Gnd/Twr/App
+http://s1.fmt2.liveatc.net/eikn2?nocache=2019080815554893283
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Claremorris Community Radio
+https://s2.radio.co/sddd96b52a/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Tipp FM
+https://n14a-eu.rcs.revma.com/fe7tgqh38f8uv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Clonmellon Community Radio
+http://eu8.fastcast4u.com/proxy/ccr?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Beachball Radio
+http://ec1.yesstreaming.net:2210/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", C103
+http://wg.cdn.tibus.net/C103
+#EXTINF:-1 tvg-logo="" group-title="Ireland", C103 Anthems
+http://wg.cdn.tibus.net/C103Anthems
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Cork's 96FM
+https://wg.cdn.tibus.net/96fm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Cork's 96FM FitMix
+http://wg.cdn.tibus.net/96fmfitmix
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Cork's 96FM HitMix
+http://wg.cdn.tibus.net/96FMHitmix
+#EXTINF:-1 tvg-logo="" group-title="Ireland", DHR Deep House Radio
+https://deephouseradio.radioca.st/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Life FM
+http://79.170.198.170:8000/radio?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Planet Radio Cork Ireland
+http://ec1.yesstreaming.net:2130/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Power87 FM
+http://s2.radio.co/s7f4021d37/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Red FM 104 - 106
+https://edge.audioxi.com/RED
+#EXTINF:-1 tvg-logo="" group-title="Ireland", West Cork FM
+http://37.187.93.104:8147/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Raidió na Gaeltachta
+http://icecast2.rte.ie/rnag
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Finn Valley FM
+https://usa1.fastcast4u.com/proxy/finnvalleyfm?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", St. Ita's Hospital Radio 89.5FM
+http://uk2.streamingpulse.com:8042/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", LMFM
+http://wg.cdn.tibus.net/LMFM
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin - Approach
+http://s1.fmt2.liveatc.net/eidw_app_121100?nocache=2019080814535152331
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Clearance Delivery
+http://s1.ord.liveatc.net/eidw_del?nocache=2019080816481451481
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Del/Gnd/Twr/App/Center
+http://bos.liveatc.net/eidw3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Final Approach
+https://s1-fmt2.liveatc.net/eidw_app_final
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Ground
+https://s1-fmt2.liveatc.net/eidw_gnd_121800
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Ground (North)
+http://s1.fmt2.liveatc.net/eidw_gnd_north?nocache=2019080816541538972
+#EXTINF:-1 tvg-logo="" group-title="Ireland", EIDW Dublin Int - Tower
+http://d.liveatc.net/eidw_twr_118600
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 4 FM
+http://178.32.62.172:8166/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 8Radio.com
+http://8radio.serverroom.net/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 98FM
+https://stream.audioxi.com/98
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 98FM Throwback
+https://pri.gocaster.net/Throwbacks
+#EXTINF:-1 tvg-logo="" group-title="Ireland", All80s
+http://109.169.26.139:8432/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Babylon Radio
+https://s2.radio.co/s87a2a134a/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Charity Radio
+http://andromeda.shoutca.st:8640/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Christmas FM North Pole
+https://christmasfm.cdnstream1.com/2548_128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Ciao World Radio
+https://stream.radiojar.com/2sfp8mz5tyduv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Classic Hits
+https://edge2.audioxi.com/CLASSIC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Club FM Dublin
+http://clubfm.bitcast.eu:8000/clubfm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Coastline Radio Dublin
+https://eu4.fastcast4u.com/proxy/clr?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Cruize Radio Online
+http://centauri.shoutca.st:8965/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Decades Radio
+https://my2.radiolize.com/radio/8150/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Dublin City FM 103.2
+https://stream.btsstream.com:8012/dcfm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Dublin Digital Radio
+https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Dublin South FM
+http://pollux.shoutca.st:8853/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Dublin's ABC
+http://hazel.torontocast.com:2140/streamel.torontocast.com:214
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Easy Radio FM 105.2
+http://tachyon.shoutca.st:8213/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", FM 104
+https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Freedom FM
+https://stream.btsstream.com:8072/freedom.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Gem Radio Gold
+http://167.114.64.181:9031/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Gem Radio New Wave
+http://62.210.10.4:8928/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Heartbeat FM IE
+http://cast5.magicstreams.gr:8010/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", IceRadio
+https://uk2.internet-radio.com/proxy/iceradio20?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Ignoreradio Shoegaze
+http://uk7.internet-radio.com:8313/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Irish Pub Radio
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", More Music Ireland
+https://solid67.streamupsolutions.com/proxy/ttgyoeyg?mp=/;type=mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Near FM 90.3
+http://proxima.shoutca.st:8114/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Newstalk 106-108
+http://pri.gocaster.net/nt?.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", PHEVER I
+http://uk1.internet-radio.com:8200/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Phoenix FM 92.5
+https://daniel.torontocast.com:1965/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Pirate FM Dublin
+http://109.74.196.76/proxy/dublinpirate?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Power FM
+http://war.powerfm.org:8000/powerfm.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Premier Radio International SW
+http://91.121.86.167:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Primal Radio
+http://199.101.51.168:8018/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Q102
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio liveIRELAND
+http://192.111.140.11:8058/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Nova
+https://stream.audioxi.com/NOVA
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Siamsa
+https://cast02.siamsa.ie/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Vocea Diasporei
+http://janus.shoutca.st:9019/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Zodiac Ireland
+http://listen.radioking.com/radio/124966/stream/164656
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radioactive International
+http://radioactiveinternational.org:9000/radact
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RadioMoLI
+https://streamer.radio.co/s378b67405/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Raidió na Life
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Raidió Rí-Rá
+http://185.80.220.12:8166/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Rogue
+https://s2.radio.co/s77657f419/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ 2FM
+http://icecast2.rte.ie/2fm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ 2XM
+http://icecast2.rte.ie/2xm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Gold
+http://icecast2.rte.ie/gold
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Junior
+http://icecast2.rte.ie/junior
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Lyric FM
+http://icecast.rte.ie/lyric
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTE Pulse
+http://icecast1.rte.ie/pulse
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Radio 1
+http://icecast2.rte.ie/radio1
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Radio 1 Extra
+http://icecast2.rte.ie/radio1extra
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Spektrum Radio
+http://s3.radio.co:80/sc32d8975f/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Spin1038 FM 103.8
+https://stream.audioxi.com/SP
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Sunshine 106.8
+http://sirius.shoutca.st:8291/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Sunshine Soul
+https://edge.audioxi.com/SUN
+#EXTINF:-1 tvg-logo="" group-title="Ireland", The 90s Network
+http://146.185.18.251:7020/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", The Upsetting Station
+http://titan.shoutca.st:8539/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", The Zone
+http://uk1.internet-radio.com:8355/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Today FM
+https://edge.audioxi.com/TDAAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Today FM 80's
+https://edge3.audioxi.com/T80
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Today FM 90's
+https://edge3.audioxi.com/T90AAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Today XM
+https://stream.audioxi.com/XMAAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Total Country Inchicore
+http://sirius.shoutca.st:8180/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Touch Radio
+https://s2.citrus3.com:8268/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", TrancePulse
+http://live.trance.ie:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", TrancePulse - The Mixes
+https://stream.trancepulse.eu/tpmixes
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Trax Dublin
+https://stream.bitcast.eu/trax
+#EXTINF:-1 tvg-logo="" group-title="Ireland", UCB Ireland
+https://stream.btsstream.com:8022/ucbireland
+#EXTINF:-1 tvg-logo="" group-title="Ireland", UCBI Worship
+https://ucbiworship.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", UDMI Radio
+http://142.4.215.64:8008/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Dundalk FM
+http://80.249.249.245:8000/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Storm North East
+http://80.249.249.243:8050/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RetroNow
+http://cassini.shoutca.st:9007/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Clare.FM
+https://n12a-eu.rcs.revma.com/brdwrxxd2k0uv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Flirt FM 101.3
+http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Freedom Country
+https://stream.zeno.fm/8v1mfy1qgzzuv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Freedom Gold
+https://stream.zeno.fm/37tcwd6vfzzuv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Galway Bay FM 95.8
+https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", planetcountry.ie
+https://planetcountryie.radioca.st/CountryHits
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Planetradio.ie
+https://planetradioie.radioca.st/ClassicHits
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RabbitHole Radio
+https://stream.zeno.fm/c88dha3fmzzuv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RTÉ Raidió na Gaeltachta
+http://icecast2.rte.ie/rnag
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Global Irish Radio GIR.ie
+https://s3.radio.co/s05b500bb8/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", GCR Digital Radio
+http://uk6.internet-radio.com:8267/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Circle Of White Light Radio
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Country Hits
+https://streams.radio.co/sb0d3bb664/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Greatest Hits
+https://s2.radio.co/s1f9e08b3c/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", RCB Radio
+http://178.33.135.245:3074/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 96.0 KCLR FM
+http://216.119.152.213:8007/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Community Radio Kilkenny City
+http://rsstreaming.com:8002/Live
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Uplift Radio
+https://ice31.securenetsystems.net/UPLIFTFM
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Connemara CR FM 106.1
+https://maggie.torontocast.com:2020/stream/connemarafm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Highland Radio
+https://edge.audioxi.com/HIGHLAND
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Classic Dance Hitz
+http://streams.radio.co/s7a933605c/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Irish Country Music Radio
+https://stream.galaxywebsolutions.com/proxy/irishcountry?mp=/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Limerick City Community Radio
+https://443-1.autopo.st/58/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Live 95
+https://wg.cdn.tibus.net/Live95fm
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Live 95 Extra
+http://wg.cdn.tibus.net/live95Extra
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Spin South West
+https://stream.audioxi.com/SW
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Spin Xtra
+https://pri.gocaster.net/SpinExtra
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Wired FM
+http://s2.radio.co/sf0986595a/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Shannonside FM
+https://edge.audioxi.com/SHANNONSIDE
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Loughrea Community Radio
+https://s31.radiolize.com/radio/8190/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Open Your Mind Radio
+http://eu3.fastcast4u.com:5624/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", iRadio North East & Midlands
+https://edge.audioxi.com/IRADNE
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Downda Road Radio
+https://downdaroad.out.airtime.pro/downdaroad_a
+#EXTINF:-1 tvg-logo="" group-title="Ireland", KFM 97.6
+http://sirius.shoutca.st:9307/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", KFM Extra
+http://europa.shoutca.st:8029/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", West Limerick 102fm
+https://s29.myradiostream.com/17796/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Smooth Gold Radio Ireland
+https://s46.radiolize.com/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Solid Gold Radio Ireland
+https://s30.radiolize.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Solid Gold Radio Ireland 2
+https://s30.radiolize.com/radio/8070/radio.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Soul City
+https://rcast.live/stream/65483.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", 94.6 RosFM
+http://rosfm.ddns.net:8000/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Scariff Bay Community Radio
+http://162.244.81.30:4588/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Airport Scanner - EINN Shannon - Tower/App #1
+http://s1.fmt2.liveatc.net/einn2?nocache=2019080814560129136
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Freewheel Radio
+https://freewheel.radioca.st/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Ocean FM
+http://213.175.217.198:8000/sligo
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Kerry FM 96
+https://edge.audioxi.com/KERRY
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Midlands 103
+https://n08a-eu.rcs.revma.com/tq45ca1vftzuv
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Tullamore’s TFM
+http://91.121.91.172:8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Beat 102-103
+https://stream.audioxi.com/BEATAAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Jazz Radio Ireland
+https://streamer.radio.co/s87737b1d2/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Ambient Lounge
+http://2.58.194.54:8834/;ambient-lounge
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Bass Station DnB
+http://2.58.194.54:8846/bass-station-dnb
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Chillout Essentials
+http://2.58.194.54:8840/;chillout-essentials
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Deep Planet
+http://2.58.194.54:8852/;deep-planet
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive House & Techno Classics
+http://2.58.194.54:8894/;house-techno-classics
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Minimal & Techno
+http://2.58.194.54:8858/;minimal-techno
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Open-Stage
+http://2.58.194.54:8864/;open-stage
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Progressive & Tech-house
+http://2.58.194.54:8870/;progressive-tech
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Psybient Sunset
+http://2.58.194.54:8876/;psybient-sunset
+#EXTINF:-1 tvg-logo="" group-title="Ireland", MixLive Trance Illusion
+http://2.58.194.54:9546/;trance-illusion
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Noughty Beats
+https://stream.audioxi.com/NBEATSAAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", OpenTempo FM
+http://eu7.fastcast4u.com/proxy/opentemp?mp=/;
+#EXTINF:-1 tvg-logo="" group-title="Ireland", WLR FM 95.1
+https://stream.audioxi.com/WLRAAC
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Zenith Classic Rock
+http://148.163.81.10:8001/zenith64
+#EXTINF:-1 tvg-logo="" group-title="Ireland", Radio Beats
+http://streamer.radio.co:80/sd0b826808/listen
+#EXTINF:-1 tvg-logo="" group-title="Ireland", South East Radio
+https://stream.btsstream.com:8002/semp3
+#EXTINF:-1 tvg-logo="" group-title="Ireland", WMR Radio Online
+https://c2.radioboss.fm:18291/stream
+#EXTINF:-1 tvg-logo="" group-title="Ireland", CRY104FM Community Radio Youghal
+http://178.32.62.172:8221/stream

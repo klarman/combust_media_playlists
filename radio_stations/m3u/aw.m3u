@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Aruba", 97.9 Easy FM
+http://96.31.83.86:8134/stream
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Cool FM 98.9
+http://www.coolaruba.com:8000/stream
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Fresh FM 104.3
+http://fresharuba.com:8006/stream
+#EXTINF:-1 tvg-logo="" group-title="Aruba", GFM Galactica 99.9 Aruba
+https://securestreams5.autopo.st:1922/;
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Hits100 FM 100.9
+https://audio-edge-hz87v.ams.d.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e
+#EXTINF:-1 tvg-logo="" group-title="Aruba", InfluenciasRadio
+https://stream.zeno.fm/uv71n8a07vzuv
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Oldies 99.9
+https://s2.radio.co/s389e42745/listen
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Power 101.7 FM
+http://38.96.148.28:11832/stream?type=.mp3
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Radio Bo Guia 88.9 FM
+http://whooshserver.net:9880/live
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Radio Canal 90 FM
+http://198.245.51.58:10879/Canal90
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Radio Magic 96.5 FM
+http://158.69.114.190:8072/;
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Shark FM Aruba
+https://sslstreaming.com/8018/stream
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Super Exitos Aruba
+https://streamer.radio.co/s579e30929/listen
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Top FM 95
+http://198.245.51.58:10995/topfm
+#EXTINF:-1 tvg-logo="" group-title="Aruba", VIP Radio
+http://s02.whooshserver.net:8054/vip
+#EXTINF:-1 tvg-logo="" group-title="Aruba", Massive 103.5 FM
+https://streamklik.com/radio/8000/massive.mp3
