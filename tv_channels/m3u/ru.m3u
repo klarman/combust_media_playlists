@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Russia", 8 TV
+#EXTINF:-1 vg-id="ru8TV" tvg-logo="" group-title="Russia", 8 TV
 https://v4.proofix.ru/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", Izvestia
+#EXTINF:-1 vg-id="ruIzvestia" tvg-logo="" group-title="Russia", Izvestia
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", Moscow 24
+#EXTINF:-1 vg-id="ruMoscow24" tvg-logo="" group-title="Russia", Moscow 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", RU TV
+#EXTINF:-1 vg-id="ruRUTV" tvg-logo="" group-title="Russia", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", SPAS
+#EXTINF:-1 vg-id="ruSPAS" tvg-logo="" group-title="Russia", SPAS
 http://spastv.ru/playlist.m3u8

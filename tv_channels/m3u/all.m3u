@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Moldova", Busuioc TV
+#EXTINF:-1 vg-id="mdBusuiocTV" tvg-logo="" group-title="Moldova", Busuioc TV
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Moldova", Jurnal TV
+#EXTINF:-1 vg-id="mdJurnalTV" tvg-logo="" group-title="Moldova", Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=f3598f2b32c1ac71aaf5ff9af06fab778a1ebc17
-#EXTINF:-1 tvg-logo="" group-title="Moldova", Publika
+#EXTINF:-1 vg-id="mdPublika" tvg-logo="" group-title="Moldova", Publika
 https://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Moldova", Tv8
+#EXTINF:-1 vg-id="mdTV8" tvg-logo="" group-title="Moldova", Tv8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=4d6656b57cfbf47a8c3ced8039f19a83d2ce9e56
-#EXTINF:-1 tvg-logo="" group-title="Romania", Digi 24
+#EXTINF:-1 vg-id="roDigi24" tvg-logo="" group-title="Romania", Digi 24
 https://edge-ar.rcs-rds.ro///digi24ar/index.m3u8?id=f&auth=MmEwMDoyM2M3OmNmMDE6ZGIwMTphMTQyOjVjNzI6ZmEyZDpmMDE5
-#EXTINF:-1 tvg-logo="" group-title="Romania", Prima TV
+#EXTINF:-1 vg-id="roPrimaTV" tvg-logo="" group-title="Romania", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Romania", Realitatea NET
+#EXTINF:-1 vg-id="roRealitateaNET" tvg-logo="" group-title="Romania", Realitatea NET
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", 8 TV
+#EXTINF:-1 vg-id="ru8TV" tvg-logo="" group-title="Russia", 8 TV
 https://v4.proofix.ru/8tv-europe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", Izvestia
+#EXTINF:-1 vg-id="ruIzvestia" tvg-logo="" group-title="Russia", Izvestia
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", Moscow 24
+#EXTINF:-1 vg-id="ruMoscow24" tvg-logo="" group-title="Russia", Moscow 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", RU TV
+#EXTINF:-1 vg-id="ruRUTV" tvg-logo="" group-title="Russia", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Russia", SPAS
+#EXTINF:-1 vg-id="ruSPAS" tvg-logo="" group-title="Russia", SPAS
 http://spastv.ru/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT 1
+#EXTINF:-1 vg-id="ruRUTV" tvg-logo="" group-title="Turkey", TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT 2
+#EXTINF:-1 vg-id="trTRT2" tvg-logo="" group-title="Turkey", TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Arabi
+#EXTINF:-1 vg-id="trTRTArabi" tvg-logo="" group-title="Turkey", TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Avaz
+#EXTINF:-1 vg-id="trTRTAvaz" tvg-logo="" group-title="Turkey", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Belgesel
+#EXTINF:-1 vg-id="trTRTBelgesel" tvg-logo="" group-title="Turkey", TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Cocuk
+#EXTINF:-1 vg-id="trTRTCocuk" tvg-logo="" group-title="Turkey", TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Haber
+#EXTINF:-1 vg-id="trTRTHaber" tvg-logo="" group-title="Turkey", TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Kurdi
+#EXTINF:-1 vg-id="trTRTKurdi" tvg-logo="" group-title="Turkey", TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Muzik
+#EXTINF:-1 vg-id="trTRTMuzik" tvg-logo="" group-title="Turkey", TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Spor
+#EXTINF:-1 vg-id="trTRTSpor" tvg-logo="" group-title="Turkey", TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Spor Yildiz
+#EXTINF:-1 vg-id="trTRTSporYildiz" tvg-logo="" group-title="Turkey", TRT Spor Yildiz
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT Turk
+#EXTINF:-1 vg-id="trTRTTurk" tvg-logo="" group-title="Turkey", TRT Turk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Turkey", TRT World
+#EXTINF:-1 vg-id="trTRTWorld" tvg-logo="" group-title="Turkey", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC Alba
+#EXTINF:-1 vg-id="ukBBCAlba" tvg-logo="" group-title="United Kingdom", BBC Alba
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC Four
+#EXTINF:-1 vg-id="ukBBCFour" tvg-logo="" group-title="United Kingdom", BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC News
+#EXTINF:-1 vg-id="ukBBCNews" tvg-logo="" group-title="United Kingdom", BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC One
+#EXTINF:-1 vg-id="ukBBCOne" tvg-logo="" group-title="United Kingdom", BBC One
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC Parliament
+#EXTINF:-1 vg-id="ukBBCParliament" tvg-logo="" group-title="United Kingdom", BBC Parliament
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC Scotland
+#EXTINF:-1 vg-id="ukBBCScotland" tvg-logo="" group-title="United Kingdom", BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", BBC Two
+#EXTINF:-1 vg-id="ukBBCTwo" tvg-logo="" group-title="United Kingdom", BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kindgom", Box Hits
+#EXTINF:-1 vg-id="ukBoxHits" tvg-logo="" group-title="United Kindgom", Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", CBBC
+#EXTINF:-1 vg-id="ukCBBC" tvg-logo="" group-title="United Kingdom", CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", CBeebies
+#EXTINF:-1 vg-id="ukCBeebies" tvg-logo="" group-title="United Kingdom", CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", Kerrang
+#EXTINF:-1 vg-id="ukKerrang" tvg-logo="" group-title="United Kingdom", Kerrang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkerrang%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", Kiss
+#EXTINF:-1 vg-id="ukKiss" tvg-logo="" group-title="United Kingdom", Kiss
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkiss%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", Magic TV
+#EXTINF:-1 vg-id="ukMagicTV" tvg-logo="" group-title="United Kingdom", Magic TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", S4C
+#EXTINF:-1 vg-id="ukS4C" tvg-logo="" group-title="United Kingdom", S4C
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United Kingdom", The Box
+#EXTINF:-1 vg-id="ukTheBox" tvg-logo="" group-title="United Kingdom", The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fthebox%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-logo="" group-title="United States", ABC News
+#EXTINF:-1 vg-id="usABCNews" tvg-logo="" group-title="United States", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=&ad.us_privacy=&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%2F&ad.adUnit=/abc-news/abcnews.com/web/video
-#EXTINF:-1 tvg-logo="" group-title="United States", Bloomberg US
+#EXTINF:-1 vg-id="usBloombergUS" tvg-logo="" group-title="United States", Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United States", NASA TV Public
+#EXTINF:-1 vg-id="usNASATVPublic" tvg-logo="" group-title="United States", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United States", NASA TV Media
+#EXTINF:-1 vg-id="usNASATVMedia" tvg-logo="" group-title="United States", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="United States", Red Bull TV
+#EXTINF:-1 vg-id="usRedBullTV" tvg-logo="" group-title="United States", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8

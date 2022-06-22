@@ -3,90 +3,105 @@
     "tags": "United Kingdom",
     "name": "BBC Alba",
     "url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCAlba"
   },
   {
     "tags": "United Kingdom",
     "name": "BBC Four",
     "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCFour"
   },
   {
     "tags": "United Kingdom",
     "name": "BBC News",
     "url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCNews"
   },
   {
     "tags": "United Kingdom",
     "name": "BBC One",
     "url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCOne"
   },
   {
     "tags": "United Kingdom",
     "name": "BBC Parliament",
     "url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCParliament"
   },
   {
     "tags": "United Kingdom",
     "name": "BBC Scotland",
     "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBBCScotland"
   },
 	{
     "tags": "United Kingdom",
 		"name": "BBC Two",
 		"url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ukBBCTwo"
 	},
   {
     "tags": "United Kindgom",
     "name": "Box Hits",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukBoxHits"
   },
 	{
     "tags": "United Kingdom",
 		"name": "CBBC",
 		"url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ukCBBC"
 	},
 	{
     "tags": "United Kingdom",
 		"name": "CBeebies",
 		"url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ukCBeebies"
 	},
   {
     "tags": "United Kingdom",
     "name": "Kerrang",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkerrang%2F&spotxc1=195996&spotxc2=190878",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukKerrang"
   },
   {
     "tags": "United Kingdom",
     "name": "Kiss",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkiss%2F&spotxc1=195996&spotxc2=190878",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukKiss"
   },
   {
     "tags": "United Kingdom",
     "name": "Magic TV",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "ukMagicTV"
   },
 	{
 		"tags": "United Kingdom",
 		"name": "S4C",
 		"url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ukS4C"
 	},
 	{
 		"tags": "United Kingdom",
 		"name": "The Box",
 		"url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fthebox%2F&spotxc1=195996&spotxc2=190878",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ukTheBox"
 	}
 ]

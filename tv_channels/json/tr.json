@@ -3,78 +3,91 @@
 		"tags": "Turkey",
 		"name": "TRT 1",
 		"url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "ruRUTV"
 	},
 	{
     "tags": "Turkey",
 		"name": "TRT 2",
 		"url": "https://tv-trt2.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRT2"
 	},
   {
     "tags": "Turkey",
     "name": "TRT Arabi",
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "trTRTArabi"
   },
   {
     "tags": "Turkey",
     "name": "TRT Avaz",
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "trTRTAvaz"
   },
 	{
     "tags": "Turkey",
 		"name": "TRT Belgesel",
 		"url": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTBelgesel"
 	},
   {
     "tags": "Turkey",
     "name": "TRT Cocuk",
     "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "trTRTCocuk"
   },
 	{
 		"tags": "Turkey",
 		"name": "TRT Haber",
 		"url": "https://tv-trthaber.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTHaber"
 	},
   {
     "tags": "Turkey",
     "name": "TRT Kurdi",
     "url": "https://tv-trtkurdi.live.trt.com.tr/master.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "trTRTKurdi"
   },
   {
     "tags": "Turkey",
     "name": "TRT Muzik",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "logo": ""
+    "logo": "",
+		"tvg-id": "trTRTMuzik"
   },
 	{
 		"tags": "Turkey",
 		"name": "TRT Spor",
 		"url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTSpor"
 	},
 	{
 		"tags": "Turkey",
 		"name": "TRT Spor Yildiz",
 		"url": "https://tv-trtspor2.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTSporYildiz"
 	},
 	{
 		"tags": "Turkey",
 		"name": "TRT Turk",
 		"url": "https://tv-trtturk.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTTurk"
 	},
 	{
 		"tags": "Turkey",
 		"name": "TRT World",
 		"url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
-		"logo": ""
+		"logo": "",
+		"tvg-id": "trTRTWorld"
 	}
 ]
