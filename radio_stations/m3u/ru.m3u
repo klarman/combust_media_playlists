@@ -109,7 +109,7 @@ http://online.kometa.fm:8000/live
 https://kpradio.hostingradio.ru:8000/chelyabinsk.radiokp64.mp3?radiostatistica=radio.garden
 #EXTINF:-1 tvg-logo="" group-title="Russia", L-radio
 https://96mp3.lradio.ru/lradio.stereo.96.mp3
-#EXTINF:-1 tvg-logo="" group-title="Russia", Radio Continental 
+#EXTINF:-1 tvg-logo="" group-title="Russia", Radio Continental
 http://stream01.radiocon.ru:8000/live
 #EXTINF:-1 tvg-logo="" group-title="Russia", Radio Olimp 104.5 FM
 http://188.128.117.99:8000/olimp_mp3
@@ -167,7 +167,7 @@ http://net37.ru:8000/net37ru_disco80.aac
 http://91.219.74.220:8000/IvanovoFM.mp3
 #EXTINF:-1 tvg-logo="" group-title="Russia", Komsomolskaya Pravda - Izhevsk 107.6FM
 https://kpradio.hostingradio.ru:8000/igevsk.radiokp64.mp3?radiostatistica=radio.garden
-#EXTINF:-1 tvg-logo="" group-title="Russia", Moya Udmurtia 
+#EXTINF:-1 tvg-logo="" group-title="Russia", Moya Udmurtia
 http://radio.myudm.ru:10010/mp3
 #EXTINF:-1 tvg-logo="" group-title="Russia", Новый мир 103.6 FM
 http://62.109.27.159:8000/live
@@ -417,7 +417,7 @@ http://soyuztop.ru:4000/radio
 http://bfm.hostingradio.ru:8004/fm
 #EXTINF:-1 tvg-logo="" group-title="Russia", Capital FM 105.3
 http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
-#EXTINF:-1 tvg-logo="https://bfd-main-space-amsterdam.ams3.digitaloceanspaces.com/blackflame.tv-live/radio/logos/ru_comedy_radio.png" group-title="Russia", Comedy Radio
+#EXTINF:-1 tvg-logo="" group-title="Russia", Comedy Radio
 http://pub0101.101.ru:8000/stream/air/aac/64/202
 #EXTINF:-1 tvg-logo="" group-title="Russia", Detskoe Radio
 http://pub0302.101.ru:8000/stream/air/aac/64/199
@@ -549,7 +549,7 @@ http://getradio.me/rcm
 http://ic7.101.ru:8000/a200
 #EXTINF:-1 tvg-logo="" group-title="Russia", Relax FM 90.8
 http://ic7.101.ru:8000/v13_1?
-#EXTINF:-1 tvg-logo="" group-title="Russia", Retro FM 
+#EXTINF:-1 tvg-logo="" group-title="Russia", Retro FM
 http://retroserver.streamr.ru:8043/retro128
 #EXTINF:-1 tvg-logo="" group-title="Russia", Retro Hit
 https://retro.volna.top/Retro
@@ -615,8 +615,8 @@ http://c4.radioboss.fm/stream/218
 http://cfm.jazzandclassic.ru:14536/rcstream.mp3
 #EXTINF:-1 tvg-logo="" group-title="Russia", Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps?msk
-#EXTINF:-1 tvg-logo="" group-title="Russia", Радио Пассаж 
- Radio Passazh
+#EXTINF:-1 tvg-logo="" group-title="Russia", Радио Пассаж
+https://listen.radiopassazh.ru/mp3-128
 #EXTINF:-1 tvg-logo="" group-title="Russia", Русская Волна
 https://ru2.volna.top/RuWave48
 #EXTINF:-1 tvg-logo="" group-title="Russia", Русский Мир

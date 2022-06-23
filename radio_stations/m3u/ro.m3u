@@ -5,7 +5,7 @@ https://s3.myradiostream.com/4404/listen.mp3
 http://5.2.168.107:8000/live.mp3
 #EXTINF:-1 tvg-logo="" group-title="Romania", Hangos Rádió
 https://stream.zeno.fm/zme1m34uzv8uv
-#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Arad 99,1 FM 
+#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Arad 99,1 FM
 http://85.120.220.205:8000/radio-arad
 #EXTINF:-1 tvg-logo="" group-title="Romania", Radio Arad FM 102.9
 http://89.238.227.6:8360/;
@@ -109,7 +109,7 @@ http://188.165.212.154:8030/stream
 http://188.165.212.154:8040/stream
 #EXTINF:-1 tvg-logo="" group-title="Romania", Radio GMusic Trap
 https://s8.webradio-hosting.com:1206/stream
-#EXTINF:-1 tvg-logo="https://bfd-main-space-amsterdam.ams3.digitaloceanspaces.com/blackflame.tv-live/radio/logos/ro_radio_guerrilla.png" group-title="Romania", Radio Guerilla FM 94.8
+#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Guerilla FM 94.8
 https://live.guerrillaradio.ro:8443/guerrilla.aac
 #EXTINF:-1 tvg-logo="" group-title="Romania", Radio HiT FM Manele
 https://radio.ascultatare.ro/8989/stream
@@ -283,7 +283,7 @@ https://spacefm.live/radio/8000/spacefm128
 https://s40.radiolize.com/radio/8240/radio.mp3
 #EXTINF:-1 tvg-logo="" group-title="Romania", Radio Horion
 http://195.254.135.83:9000/;
-#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Sud FM 
+#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Sud FM
 http://media.gds.ro:8500/128.mp3
 #EXTINF:-1 tvg-logo="" group-title="Romania", SRR Radio Oltenia Craiova
 http://stream2.srr.ro:8370/;
@@ -371,7 +371,7 @@ https://streamx.rph.ro:8100/relay
 http://www.metronom.live:8000/metronom
 #EXTINF:-1 tvg-logo="" group-title="Romania", Rádió GaGa
 http://rc.radiogaga.ro:8000/mp3-256
-#EXTINF:-1 tvg-logo="" group-title="Romania", SRR Radio Resita 
+#EXTINF:-1 tvg-logo="" group-title="Romania", SRR Radio Resita
 http://89.238.227.6:8344/;
 #EXTINF:-1 tvg-logo="" group-title="Romania", transilvania.online
 https://s2.radio.co/sce9d4eadd/listen
@@ -453,5 +453,5 @@ http://82.208.130.74:7000/;
 http://me.craiova.ro:8000/radiodjvarvor
 #EXTINF:-1 tvg-logo="" group-title="Romania", Extravaganza Radio
 http://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Unison 
+#EXTINF:-1 tvg-logo="" group-title="Romania", Radio Unison
 http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3

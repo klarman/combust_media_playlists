@@ -1257,7 +1257,7 @@
     "tags": "Russia",
     "name": "Comedy Radio",
     "url": "http://pub0101.101.ru:8000/stream/air/aac/64/202",
-    "logo": "https://bfd-main-space-amsterdam.ams3.digitaloceanspaces.com/blackflame.tv-live/radio/logos/ru_comedy_radio.png"
+    "logo": ""
   },
   {
     "tags": "Russia",
@@ -1850,7 +1850,7 @@
   {
     "tags": "Russia",
     "name": "Радио Пассаж ",
-    "url": " Radio Passazh",
+    "url": "https://listen.radiopassazh.ru/mp3-128",
     "logo": ""
   },
   {

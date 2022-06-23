@@ -1,6 +1,4 @@
 
 radio_stations/.DS_Store
 tv_channels/.DS_Store
-tv_channels/m3u/generate_from_json.php
-radio_stations/m3u/generate_from_json.php
 .idea
