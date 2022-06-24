@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ruRUTV" tvg-logo="" group-title="Turkey", TRT 1
+#EXTINF:-1 source-type="ruRUTV" tvg-id="ruRUTV" tvg-logo="" group-title="Turkey", TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRT2" tvg-logo="" group-title="Turkey", TRT 2
+#EXTINF:-1 source-type="trTRT2" tvg-id="trTRT2" tvg-logo="" group-title="Turkey", TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTArabi" tvg-logo="" group-title="Turkey", TRT Arabi
+#EXTINF:-1 source-type="trTRTArabi" tvg-id="trTRTArabi" tvg-logo="" group-title="Turkey", TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTAvaz" tvg-logo="" group-title="Turkey", TRT Avaz
+#EXTINF:-1 source-type="trTRTAvaz" tvg-id="trTRTAvaz" tvg-logo="" group-title="Turkey", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTBelgesel" tvg-logo="" group-title="Turkey", TRT Belgesel
+#EXTINF:-1 source-type="trTRTBelgesel" tvg-id="trTRTBelgesel" tvg-logo="" group-title="Turkey", TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTCocuk" tvg-logo="" group-title="Turkey", TRT Cocuk
+#EXTINF:-1 source-type="trTRTCocuk" tvg-id="trTRTCocuk" tvg-logo="" group-title="Turkey", TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTHaber" tvg-logo="" group-title="Turkey", TRT Haber
+#EXTINF:-1 source-type="trTRTHaber" tvg-id="trTRTHaber" tvg-logo="" group-title="Turkey", TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTKurdi" tvg-logo="" group-title="Turkey", TRT Kurdi
+#EXTINF:-1 source-type="trTRTKurdi" tvg-id="trTRTKurdi" tvg-logo="" group-title="Turkey", TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTMuzik" tvg-logo="" group-title="Turkey", TRT Muzik
+#EXTINF:-1 source-type="trTRTMuzik" tvg-id="trTRTMuzik" tvg-logo="" group-title="Turkey", TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTSpor" tvg-logo="" group-title="Turkey", TRT Spor
+#EXTINF:-1 source-type="trTRTSpor" tvg-id="trTRTSpor" tvg-logo="" group-title="Turkey", TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTSporYildiz" tvg-logo="" group-title="Turkey", TRT Spor Yildiz
+#EXTINF:-1 source-type="trTRTSporYildiz" tvg-id="trTRTSporYildiz" tvg-logo="" group-title="Turkey", TRT Spor Yildiz
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTTurk" tvg-logo="" group-title="Turkey", TRT Turk
+#EXTINF:-1 source-type="trTRTTurk" tvg-id="trTRTTurk" tvg-logo="" group-title="Turkey", TRT Turk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trTRTWorld" tvg-logo="" group-title="Turkey", TRT World
+#EXTINF:-1 source-type="trTRTWorld" tvg-id="trTRTWorld" tvg-logo="" group-title="Turkey", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8

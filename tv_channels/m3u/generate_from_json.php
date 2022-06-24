@@ -14,7 +14,7 @@ function generate_m3u_file($filename) {
 
   $m3u_string = "#EXTM3U\n";
   foreach($json as $j) {
-    $m3u_string .= '#EXTINF:-1 tvg-id="'.$j->{'tvg-id'}.'" tvg-logo="'.$j->logo.'" group-title="'.$j->tags.'", '.$j->name."\n";
+    $m3u_string .= '#EXTINF:-1 source-type="'.$j->{'tvg-id'}.'" tvg-id="'.$j->{'tvg-id'}.'" tvg-logo="'.$j->logo.'" group-title="'.$j->tags.'", '.$j->name."\n";
     $m3u_string .= $j->url."\n";
   }
 

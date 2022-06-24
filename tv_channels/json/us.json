@@ -33,5 +33,805 @@
 		"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
 		"logo": "",
 		"tvg-id": "usRedBullTV"
+	},
+	{
+		"tags": "united states",
+		"name": "ABC",
+		"url": "https://ustvgo.tv/player.php?stream=ABC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usABC"
+	},
+	{
+		"tags": "united states",
+		"name": "ABC 7 New York",
+		"url": "https://ustvgo.tv/player.php?stream=ABCNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usABCNY"
+	},
+	{
+		"tags": "united states",
+		"name": "ACC Network",
+		"url": "https://ustvgo.tv/player.php?stream=ACCN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usACCN"
+	},
+	{
+		"tags": "united states",
+		"name": "A&E Network",
+		"url": "https://ustvgo.tv/player.php?stream=AE",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usAE"
+	},
+	{
+		"tags": "united states",
+		"name": "AMC",
+		"url": "https://ustvgo.tv/player.php?stream=AMC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usAMC"
+	},
+	{
+		"tags": "united states",
+		"name": "Animal Planet",
+		"url": "https://ustvgo.tv/player.php?stream=Animal",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usAnimal"
+	},
+	{
+		"tags": "united states",
+		"name": "BBC America",
+		"url": "https://ustvgo.tv/player.php?stream=BBCAmerica",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usBBCAmerica"
+	},
+	{
+		"tags": "united states",
+		"name": "Big Ten Network",
+		"url": "https://ustvgo.tv/player.php?stream=BTN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usBTN"
+	},
+	{
+		"tags": "united states",
+		"name": "BET",
+		"url": "https://ustvgo.tv/player.php?stream=BET",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usBET"
+	},
+	{
+		"tags": "united states",
+		"name": "Boomerang",
+		"url": "https://ustvgo.tv/player.php?stream=Boomerang",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usBoomerang"
+	},
+	{
+		"tags": "united states",
+		"name": "Bravo",
+		"url": "https://ustvgo.tv/player.php?stream=Bravo",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usBravo"
+	},
+	{
+		"tags": "united states",
+		"name": "C-SPAN",
+		"url": "https://ustvgo.tv/player.php?stream=CSPAN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCSPAN"
+	},
+	{
+		"tags": "united states",
+		"name": "CBS",
+		"url": "https://ustvgo.tv/player.php?stream=CBS",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCBS"
+	},
+	{
+		"tags": "united states",
+		"name": "CBS 2 New York",
+		"url": "https://ustvgo.tv/player.php?stream=CBSNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCBSNY"
+	},
+	{
+		"tags": "united states",
+		"name": "CBS Sports Network",
+		"url": "https://ustvgo.tv/player.php?stream=CBSSN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCBSSN"
+	},
+	{
+		"tags": "united states",
+		"name": "Cinemax",
+		"url": "https://ustvgo.tv/player.php?stream=Cinemax",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCinemax"
+	},
+	{
+		"tags": "united states",
+		"name": "CMT",
+		"url": "https://ustvgo.tv/player.php?stream=CMT",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCMT"
+	},
+	{
+		"tags": "united states",
+		"name": "Cartoon Network",
+		"url": "https://ustvgo.tv/player.php?stream=CN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCN"
+	},
+	{
+		"tags": "united states",
+		"name": "CNBC",
+		"url": "https://ustvgo.tv/player.php?stream=CNBC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCNBC"
+	},
+	{
+		"tags": "united states",
+		"name": "CNN",
+		"url": "https://ustvgo.tv/player.php?stream=CNN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCNN"
+	},
+	{
+		"tags": "united states",
+		"name": "Comedy Central",
+		"url": "https://ustvgo.tv/player.php?stream=Comedy",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usComedy"
+	},
+	{
+		"tags": "united states",
+		"name": "CW",
+		"url": "https://ustvgo.tv/player.php?stream=CW",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCW"
+	},
+	{
+		"tags": "united states",
+		"name": "CW 11 New York",
+		"url": "https://ustvgo.tv/player.php?stream=CWNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usCWNY"
+	},
+	{
+		"tags": "united states",
+		"name": "Destination America",
+		"url": "https://ustvgo.tv/player.php?stream=DA",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDA"
+	},
+	{
+		"tags": "united states",
+		"name": "Discovery",
+		"url": "https://ustvgo.tv/player.php?stream=Discovery",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDiscovery"
+	},
+	{
+		"tags": "united states",
+		"name": "Disney",
+		"url": "https://ustvgo.tv/player.php?stream=Disney",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDisney"
+	},
+	{
+		"tags": "united states",
+		"name": "Disney Junior",
+		"url": "https://ustvgo.tv/player.php?stream=DisneyJr",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDisneyJr"
+	},
+	{
+		"tags": "united states",
+		"name": "Disney XD",
+		"url": "https://ustvgo.tv/player.php?stream=DisneyXD",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDisneyXD"
+	},
+	{
+		"tags": "united states",
+		"name": "Magnolia Network (DIY)",
+		"url": "https://ustvgo.tv/player.php?stream=DIY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usDIY"
+	},
+	{
+		"tags": "united states",
+		"name": "E!",
+		"url": "https://ustvgo.tv/player.php?stream=E",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usE"
+	},
+	{
+		"tags": "united states",
+		"name": "ESPN",
+		"url": "https://ustvgo.tv/player.php?stream=ESPN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usESPN"
+	},
+	{
+		"tags": "united states",
+		"name": "ESPN2",
+		"url": "https://ustvgo.tv/player.php?stream=ESPN2",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usESPN2"
+	},
+	{
+		"tags": "united states",
+		"name": "ESPNU",
+		"url": "https://ustvgo.tv/player.php?stream=ESPNU",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usESPNU"
+	},
+	{
+		"tags": "united states",
+		"name": "ESPNews",
+		"url": "https://ustvgo.tv/player.php?stream=ESPNews",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usESPNews"
+	},
+	{
+		"tags": "united states",
+		"name": "Food Network",
+		"url": "https://ustvgo.tv/player.php?stream=FoodNetwork",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFoodNetwork"
+	},
+	{
+		"tags": "united states",
+		"name": "FOX",
+		"url": "https://ustvgo.tv/player.php?stream=FOX",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFOX"
+	},
+	{
+		"tags": "united states",
+		"name": "FOX 5 New York",
+		"url": "https://ustvgo.tv/player.php?stream=FOXNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFOXNY"
+	},
+	{
+		"tags": "united states",
+		"name": "Fox Business",
+		"url": "https://ustvgo.tv/player.php?stream=FoxBusiness",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFoxBusiness"
+	},
+	{
+		"tags": "united states",
+		"name": "Fox News",
+		"url": "https://ustvgo.tv/player.php?stream=FoxNews",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFoxNews"
+	},
+	{
+		"tags": "united states",
+		"name": "Freeform",
+		"url": "https://ustvgo.tv/player.php?stream=Freeform",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFreeform"
+	},
+	{
+		"tags": "united states",
+		"name": "Fox Sports 1 (FS1)",
+		"url": "https://ustvgo.tv/player.php?stream=FS1",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFS1"
+	},
+	{
+		"tags": "united states",
+		"name": "Fox Sports 2 (FS2)",
+		"url": "https://ustvgo.tv/player.php?stream=FS2",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFS2"
+	},
+	{
+		"tags": "united states",
+		"name": "FX",
+		"url": "https://ustvgo.tv/player.php?stream=FX",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFX"
+	},
+	{
+		"tags": "united states",
+		"name": "FX Movie Channel",
+		"url": "https://ustvgo.tv/player.php?stream=FXMovie",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFXMovie"
+	},
+	{
+		"tags": "united states",
+		"name": "FXX",
+		"url": "https://ustvgo.tv/player.php?stream=FXX",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usFXX"
+	},
+	{
+		"tags": "united states",
+		"name": "Golf Channel",
+		"url": "https://ustvgo.tv/player.php?stream=GOLF",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usGOLF"
+	},
+	{
+		"tags": "united states",
+		"name": "Game Show Network",
+		"url": "https://ustvgo.tv/player.php?stream=GSN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usGSN"
+	},
+	{
+		"tags": "united states",
+		"name": "Hallmark Channel",
+		"url": "https://ustvgo.tv/player.php?stream=Hallmark",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHallmark"
+	},
+	{
+		"tags": "united states",
+		"name": "HBO",
+		"url": "https://ustvgo.tv/player.php?stream=HBO",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHBO"
+	},
+	{
+		"tags": "united states",
+		"name": "Home & Garden TV",
+		"url": "https://ustvgo.tv/player.php?stream=HGTV",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHGTV"
+	},
+	{
+		"tags": "united states",
+		"name": "History",
+		"url": "https://ustvgo.tv/player.php?stream=History",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHistory"
+	},
+	{
+		"tags": "united states",
+		"name": "HLN",
+		"url": "https://ustvgo.tv/player.php?stream=HLN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHLN"
+	},
+	{
+		"tags": "united states",
+		"name": "Hallmark Movies & Mysteries",
+		"url": "https://ustvgo.tv/player.php?stream=HMM",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usHMM"
+	},
+	{
+		"tags": "united states",
+		"name": "Investigation Discovery",
+		"url": "https://ustvgo.tv/player.php?stream=ID",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usID"
+	},
+	{
+		"tags": "united states",
+		"name": "ION (WPXN) New York",
+		"url": "https://ustvgo.tv/player.php?stream=IONNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usIONNY"
+	},
+	{
+		"tags": "united states",
+		"name": "Lifetime",
+		"url": "https://ustvgo.tv/player.php?stream=Lifetime",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usLifetime"
+	},
+	{
+		"tags": "united states",
+		"name": "Lifetime Movie Network",
+		"url": "https://ustvgo.tv/player.php?stream=LifetimeM",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usLifetimeM"
+	},
+	{
+		"tags": "united states",
+		"name": "MLB Network",
+		"url": "https://ustvgo.tv/player.php?stream=MLB",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usMLB"
+	},
+	{
+		"tags": "united states",
+		"name": "Motor Trend",
+		"url": "https://ustvgo.tv/player.php?stream=MotorTrend",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usMotorTrend"
+	},
+	{
+		"tags": "united states",
+		"name": "MSNBC",
+		"url": "https://ustvgo.tv/player.php?stream=MSNBC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usMSNBC"
+	},
+	{
+		"tags": "united states",
+		"name": "MTV",
+		"url": "https://ustvgo.tv/player.php?stream=MTV",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usMTV"
+	},
+	{
+		"tags": "united states",
+		"name": "National Geographic",
+		"url": "https://ustvgo.tv/player.php?stream=NatGEO",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNatGEO"
+	},
+	{
+		"tags": "united states",
+		"name": "National Geographic Wild",
+		"url": "https://ustvgo.tv/player.php?stream=NatGEOWild",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNatGEOWild"
+	},
+	{
+		"tags": "united states",
+		"name": "NBA TV",
+		"url": "https://ustvgo.tv/player.php?stream=NBA",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNBA"
+	},
+	{
+		"tags": "united states",
+		"name": "NBC",
+		"url": "https://ustvgo.tv/player.php?stream=NBC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNBC"
+	},
+	{
+		"tags": "united states",
+		"name": "NBC 4 New York",
+		"url": "https://ustvgo.tv/player.php?stream=NBCNY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNBCNY"
+	},
+	{
+		"tags": "united states",
+		"name": "NBC Sports (NBCSN)",
+		"url": "https://ustvgo.tv/player.php?stream=NBCSN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNBCSN"
+	},
+	{
+		"tags": "united states",
+		"name": "NFL Network",
+		"url": "https://ustvgo.tv/player.php?stream=NFL",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNFL"
+	},
+	{
+		"tags": "united states",
+		"name": "NFL RedZone",
+		"url": "https://ustvgo.tv/player.php?stream=NFLRZ",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNFLRZ"
+	},
+	{
+		"tags": "united states",
+		"name": "Nickelodeon",
+		"url": "https://ustvgo.tv/player.php?stream=Nickelodeon",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNickelodeon"
+	},
+	{
+		"tags": "united states",
+		"name": "Nicktoons",
+		"url": "https://ustvgo.tv/player.php?stream=Nicktoons",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usNicktoons"
+	},
+	{
+		"tags": "united states",
+		"name": "One America News Network",
+		"url": "https://ustvgo.tv/player.php?stream=OAN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usOAN"
+	},
+	{
+		"tags": "united states",
+		"name": "Oprah Winfrey Network (OWN)",
+		"url": "https://ustvgo.tv/player.php?stream=OWN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usOWN"
+	},
+	{
+		"tags": "united states",
+		"name": "Olympic Channel",
+		"url": "https://ustvgo.tv/player.php?stream=OLY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usOLY"
+	},
+	{
+		"tags": "united states",
+		"name": "Oxygen",
+		"url": "https://ustvgo.tv/player.php?stream=Oxygen",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usOxygen"
+	},
+	{
+		"tags": "united states",
+		"name": "Paramount Network",
+		"url": "https://ustvgo.tv/player.php?stream=Paramount",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usParamount"
+	},
+	{
+		"tags": "united states",
+		"name": "PBS",
+		"url": "https://ustvgo.tv/player.php?stream=PBS",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usPBS"
+	},
+	{
+		"tags": "united states",
+		"name": "Pop",
+		"url": "https://ustvgo.tv/player.php?stream=POP",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usPOP"
+	},
+	{
+		"tags": "united states",
+		"name": "Science",
+		"url": "https://ustvgo.tv/player.php?stream=Science",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usScience"
+	},
+	{
+		"tags": "united states",
+		"name": "SEC Network",
+		"url": "https://ustvgo.tv/player.php?stream=SECN",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usSECN"
+	},
+	{
+		"tags": "united states",
+		"name": "Showtime",
+		"url": "https://ustvgo.tv/player.php?stream=Showtime",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usShowtime"
+	},
+	{
+		"tags": "united states",
+		"name": "Starz",
+		"url": "https://ustvgo.tv/player.php?stream=StarZ",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usStarZ"
+	},
+	{
+		"tags": "united states",
+		"name": "Sundance TV",
+		"url": "https://ustvgo.tv/player.php?stream=SundanceTV",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usSundanceTV"
+	},
+	{
+		"tags": "united states",
+		"name": "Syfy",
+		"url": "https://ustvgo.tv/player.php?stream=SYFY",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usSYFY"
+	},
+	{
+		"tags": "united states",
+		"name": "TBS",
+		"url": "https://ustvgo.tv/player.php?stream=TBS",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTBS"
+	},
+	{
+		"tags": "united states",
+		"name": "Turner Classic Movies (TCM)",
+		"url": "https://ustvgo.tv/player.php?stream=TCM",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTCM"
+	},
+	{
+		"tags": "united states",
+		"name": "Telemundo",
+		"url": "https://ustvgo.tv/player.php?stream=Telemundo",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTelemundo"
+	},
+	{
+		"tags": "united states",
+		"name": "Tennis Channel",
+		"url": "https://ustvgo.tv/player.php?stream=Tennis",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTennis"
+	},
+	{
+		"tags": "united states",
+		"name": "The Learning Channel (TLC)",
+		"url": "https://ustvgo.tv/player.php?stream=TLC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTLC"
+	},
+	{
+		"tags": "united states",
+		"name": "Turner Network Television (TNT)",
+		"url": "https://ustvgo.tv/player.php?stream=TNT",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTNT"
+	},
+	{
+		"tags": "united states",
+		"name": "Travel Channel",
+		"url": "https://ustvgo.tv/player.php?stream=Travel",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTravel"
+	},
+	{
+		"tags": "united states",
+		"name": "truTV",
+		"url": "https://ustvgo.tv/player.php?stream=TruTV",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTruTV"
+	},
+	{
+		"tags": "united states",
+		"name": "TV Land",
+		"url": "https://ustvgo.tv/player.php?stream=TVLand",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTVLand"
+	},
+	{
+		"tags": "united states",
+		"name": "The Weather Channel",
+		"url": "https://ustvgo.tv/player.php?stream=TWC",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usTWC"
+	},
+	{
+		"tags": "united states",
+		"name": "Univisión Network",
+		"url": "https://ustvgo.tv/player.php?stream=Univision",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usUnivision"
+	},
+	{
+		"tags": "united states",
+		"name": "USA Network",
+		"url": "https://ustvgo.tv/player.php?stream=USANetwork",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usUSANetwork"
+	},
+	{
+		"tags": "united states",
+		"name": "VH1",
+		"url": "https://ustvgo.tv/player.php?stream=VH1",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usVH1"
+	},
+	{
+		"tags": "united states",
+		"name": "We TV",
+		"url": "https://ustvgo.tv/player.php?stream=WETV",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usWETV"
+	},
+	{
+		"tags": "united states",
+		"name": "WWE Network",
+		"url": "https://ustvgo.tv/player.php?stream=WWE",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usWWE"
+	},
+	{
+		"tags": "united states",
+		"name": "YES Network",
+		"url": "https://ustvgo.tv/player.php?stream=YES",
+		"source_type": "ustvgo",
+		"logo": "",
+		"tvg-id": "usYES"
 	}
 ]
