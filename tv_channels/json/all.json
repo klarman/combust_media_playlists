@@ -3,7 +3,7 @@
 		"tags": "Moldova",
 		"name": "Busuioc TV",
 		"url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "mdBusuiocTV"
 	},
@@ -11,7 +11,7 @@
 		"tags": "Moldova",
 		"name": "Jurnal TV",
 		"url": "https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=f3598f2b32c1ac71aaf5ff9af06fab778a1ebc17",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "mdJurnalTV"
 	},
@@ -19,7 +19,7 @@
 		"tags": "Moldova",
 		"name": "Publika",
 		"url": "https://livebeta.publika.md/LIVE/P/6810.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "mdPublika"
 	},
@@ -27,7 +27,7 @@
 		"tags": "Moldova",
 		"name": "Tv8",
 		"url": "https://live.cdn.tv8.md/TV7/index.m3u8?token=4d6656b57cfbf47a8c3ced8039f19a83d2ce9e56",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "mdTV8"
 	},
@@ -35,7 +35,7 @@
 		"tags": "Romania",
 		"name": "Digi 24",
 		"url": "https://edge-ar.rcs-rds.ro///digi24ar/index.m3u8?id=f&auth=MmEwMDoyM2M3OmNmMDE6ZGIwMTphMTQyOjVjNzI6ZmEyZDpmMDE5",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "roDigi24"
 	},
@@ -43,7 +43,7 @@
 		"tags": "Romania",
 		"name": "Prima TV",
 		"url": "https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "roPrimaTV"
 	},
@@ -51,7 +51,7 @@
 		"tags": "Romania",
 		"name": "Realitatea NET",
 		"url": "https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "roRealitateaNET"
 	},
@@ -59,7 +59,7 @@
     "tags": "Russia",
     "name": "8 TV",
     "url": "https://v4.proofix.ru/8tv-europe/index.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ru8TV"
   },
@@ -67,7 +67,7 @@
     "tags": "Russia",
     "name": "Izvestia",
     "url": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ruIzvestia"
   },
@@ -75,7 +75,7 @@
 		"tags": "Russia",
 		"name": "Moscow 24",
 		"url": "https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ruMoscow24"
 	},
@@ -83,7 +83,7 @@
     "tags": "Russia",
     "name": "RU TV",
     "url": "https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ruRUTV"
   },
@@ -91,7 +91,7 @@
 		"tags": "Russia",
 		"name": "SPAS",
 		"url": "http://spastv.ru/playlist.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ruSPAS"
 	},
@@ -99,7 +99,7 @@
 		"tags": "Turkey",
 		"name": "TRT 1",
 		"url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ruRUTV"
 	},
@@ -107,7 +107,7 @@
     "tags": "Turkey",
 		"name": "TRT 2",
 		"url": "https://tv-trt2.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRT2"
 	},
@@ -115,7 +115,7 @@
     "tags": "Turkey",
     "name": "TRT Arabi",
     "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "trTRTArabi"
   },
@@ -123,7 +123,7 @@
     "tags": "Turkey",
     "name": "TRT Avaz",
     "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "trTRTAvaz"
   },
@@ -131,7 +131,7 @@
     "tags": "Turkey",
 		"name": "TRT Belgesel",
 		"url": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTBelgesel"
 	},
@@ -139,7 +139,7 @@
     "tags": "Turkey",
     "name": "TRT Cocuk",
     "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "trTRTCocuk"
   },
@@ -147,7 +147,7 @@
 		"tags": "Turkey",
 		"name": "TRT Haber",
 		"url": "https://tv-trthaber.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTHaber"
 	},
@@ -155,7 +155,7 @@
     "tags": "Turkey",
     "name": "TRT Kurdi",
     "url": "https://tv-trtkurdi.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "trTRTKurdi"
   },
@@ -163,7 +163,7 @@
     "tags": "Turkey",
     "name": "TRT Muzik",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "trTRTMuzik"
   },
@@ -171,7 +171,7 @@
 		"tags": "Turkey",
 		"name": "TRT Spor",
 		"url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTSpor"
 	},
@@ -179,7 +179,7 @@
 		"tags": "Turkey",
 		"name": "TRT Spor Yildiz",
 		"url": "https://tv-trtspor2.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTSporYildiz"
 	},
@@ -187,7 +187,7 @@
 		"tags": "Turkey",
 		"name": "TRT Turk",
 		"url": "https://tv-trtturk.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTTurk"
 	},
@@ -195,7 +195,7 @@
 		"tags": "Turkey",
 		"name": "TRT World",
 		"url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "trTRTWorld"
 	},
@@ -203,7 +203,7 @@
     "tags": "United Kingdom",
     "name": "BBC Alba",
     "url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCAlba"
   },
@@ -211,7 +211,7 @@
     "tags": "United Kingdom",
     "name": "BBC Four",
     "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCFour"
   },
@@ -219,7 +219,7 @@
     "tags": "United Kingdom",
     "name": "BBC News",
     "url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCNews"
   },
@@ -227,7 +227,7 @@
     "tags": "United Kingdom",
     "name": "BBC One",
     "url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCOne"
   },
@@ -235,7 +235,7 @@
     "tags": "United Kingdom",
     "name": "BBC Parliament",
     "url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCParliament"
   },
@@ -243,7 +243,7 @@
     "tags": "United Kingdom",
     "name": "BBC Scotland",
     "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBBCScotland"
   },
@@ -251,7 +251,7 @@
     "tags": "United Kingdom",
 		"name": "BBC Two",
 		"url": "https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ukBBCTwo"
 	},
@@ -259,7 +259,7 @@
     "tags": "United Kindgom",
     "name": "Box Hits",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukBoxHits"
   },
@@ -267,7 +267,7 @@
     "tags": "United Kingdom",
 		"name": "CBBC",
 		"url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ukCBBC"
 	},
@@ -275,7 +275,7 @@
     "tags": "United Kingdom",
 		"name": "CBeebies",
 		"url": "https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ukCBeebies"
 	},
@@ -283,7 +283,7 @@
     "tags": "United Kingdom",
     "name": "Kerrang",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkerrang%2F&spotxc1=195996&spotxc2=190878",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukKerrang"
   },
@@ -291,7 +291,7 @@
     "tags": "United Kingdom",
     "name": "Kiss",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fkiss%2F&spotxc1=195996&spotxc2=190878",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukKiss"
   },
@@ -299,7 +299,7 @@
     "tags": "United Kingdom",
     "name": "Magic TV",
     "url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "ukMagicTV"
   },
@@ -307,7 +307,7 @@
 		"tags": "United Kingdom",
 		"name": "S4C",
 		"url": "http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ukS4C"
 	},
@@ -315,7 +315,7 @@
 		"tags": "United Kingdom",
 		"name": "The Box",
 		"url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fthebox%2F&spotxc1=195996&spotxc2=190878",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "ukTheBox"
 	},
@@ -323,7 +323,7 @@
 		"tags": "United States",
 		"name": "ABC News",
 		"url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=&ad.us_privacy=&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%2F&ad.adUnit=/abc-news/abcnews.com/web/video",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "usABCNews"
 	},
@@ -331,7 +331,7 @@
     "tags": "United States",
     "name": "Bloomberg US",
     "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
-		"source_type": "",
+		"source-type": "",
     "logo": "",
 		"tvg-id": "usBloombergUS"
   },
@@ -339,7 +339,7 @@
 		"tags": "United States",
 		"name": "NASA TV Public",
 		"url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "usNASATVPublic"
 	},
@@ -347,7 +347,7 @@
 		"tags": "United States",
 		"name": "NASA TV Media",
 		"url": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "usNASATVMedia"
 	},
@@ -355,7 +355,7 @@
 		"tags": "United States",
 		"name": "Red Bull TV",
 		"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-		"source_type": "",
+		"source-type": "",
 		"logo": "",
 		"tvg-id": "usRedBullTV"
 	},
@@ -363,7 +363,7 @@
 		"tags": "united states",
 		"name": "ABC",
 		"url": "https://ustvgo.tv/player.php?stream=ABC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usABC"
 	},
@@ -371,7 +371,7 @@
 		"tags": "united states",
 		"name": "ABC 7 New York",
 		"url": "https://ustvgo.tv/player.php?stream=ABCNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usABCNY"
 	},
@@ -379,7 +379,7 @@
 		"tags": "united states",
 		"name": "ACC Network",
 		"url": "https://ustvgo.tv/player.php?stream=ACCN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usACCN"
 	},
@@ -387,7 +387,7 @@
 		"tags": "united states",
 		"name": "A&E Network",
 		"url": "https://ustvgo.tv/player.php?stream=AE",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usAE"
 	},
@@ -395,7 +395,7 @@
 		"tags": "united states",
 		"name": "AMC",
 		"url": "https://ustvgo.tv/player.php?stream=AMC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usAMC"
 	},
@@ -403,7 +403,7 @@
 		"tags": "united states",
 		"name": "Animal Planet",
 		"url": "https://ustvgo.tv/player.php?stream=Animal",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usAnimal"
 	},
@@ -411,7 +411,7 @@
 		"tags": "united states",
 		"name": "BBC America",
 		"url": "https://ustvgo.tv/player.php?stream=BBCAmerica",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usBBCAmerica"
 	},
@@ -419,7 +419,7 @@
 		"tags": "united states",
 		"name": "Big Ten Network",
 		"url": "https://ustvgo.tv/player.php?stream=BTN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usBTN"
 	},
@@ -427,7 +427,7 @@
 		"tags": "united states",
 		"name": "BET",
 		"url": "https://ustvgo.tv/player.php?stream=BET",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usBET"
 	},
@@ -435,7 +435,7 @@
 		"tags": "united states",
 		"name": "Boomerang",
 		"url": "https://ustvgo.tv/player.php?stream=Boomerang",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usBoomerang"
 	},
@@ -443,7 +443,7 @@
 		"tags": "united states",
 		"name": "Bravo",
 		"url": "https://ustvgo.tv/player.php?stream=Bravo",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usBravo"
 	},
@@ -451,7 +451,7 @@
 		"tags": "united states",
 		"name": "C-SPAN",
 		"url": "https://ustvgo.tv/player.php?stream=CSPAN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCSPAN"
 	},
@@ -459,7 +459,7 @@
 		"tags": "united states",
 		"name": "CBS",
 		"url": "https://ustvgo.tv/player.php?stream=CBS",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCBS"
 	},
@@ -467,7 +467,7 @@
 		"tags": "united states",
 		"name": "CBS 2 New York",
 		"url": "https://ustvgo.tv/player.php?stream=CBSNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCBSNY"
 	},
@@ -475,7 +475,7 @@
 		"tags": "united states",
 		"name": "CBS Sports Network",
 		"url": "https://ustvgo.tv/player.php?stream=CBSSN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCBSSN"
 	},
@@ -483,7 +483,7 @@
 		"tags": "united states",
 		"name": "Cinemax",
 		"url": "https://ustvgo.tv/player.php?stream=Cinemax",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCinemax"
 	},
@@ -491,7 +491,7 @@
 		"tags": "united states",
 		"name": "CMT",
 		"url": "https://ustvgo.tv/player.php?stream=CMT",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCMT"
 	},
@@ -499,7 +499,7 @@
 		"tags": "united states",
 		"name": "Cartoon Network",
 		"url": "https://ustvgo.tv/player.php?stream=CN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCN"
 	},
@@ -507,7 +507,7 @@
 		"tags": "united states",
 		"name": "CNBC",
 		"url": "https://ustvgo.tv/player.php?stream=CNBC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCNBC"
 	},
@@ -515,7 +515,7 @@
 		"tags": "united states",
 		"name": "CNN",
 		"url": "https://ustvgo.tv/player.php?stream=CNN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCNN"
 	},
@@ -523,7 +523,7 @@
 		"tags": "united states",
 		"name": "Comedy Central",
 		"url": "https://ustvgo.tv/player.php?stream=Comedy",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usComedy"
 	},
@@ -531,7 +531,7 @@
 		"tags": "united states",
 		"name": "CW",
 		"url": "https://ustvgo.tv/player.php?stream=CW",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCW"
 	},
@@ -539,7 +539,7 @@
 		"tags": "united states",
 		"name": "CW 11 New York",
 		"url": "https://ustvgo.tv/player.php?stream=CWNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usCWNY"
 	},
@@ -547,7 +547,7 @@
 		"tags": "united states",
 		"name": "Destination America",
 		"url": "https://ustvgo.tv/player.php?stream=DA",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDA"
 	},
@@ -555,7 +555,7 @@
 		"tags": "united states",
 		"name": "Discovery",
 		"url": "https://ustvgo.tv/player.php?stream=Discovery",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDiscovery"
 	},
@@ -563,7 +563,7 @@
 		"tags": "united states",
 		"name": "Disney",
 		"url": "https://ustvgo.tv/player.php?stream=Disney",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDisney"
 	},
@@ -571,7 +571,7 @@
 		"tags": "united states",
 		"name": "Disney Junior",
 		"url": "https://ustvgo.tv/player.php?stream=DisneyJr",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDisneyJr"
 	},
@@ -579,7 +579,7 @@
 		"tags": "united states",
 		"name": "Disney XD",
 		"url": "https://ustvgo.tv/player.php?stream=DisneyXD",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDisneyXD"
 	},
@@ -587,7 +587,7 @@
 		"tags": "united states",
 		"name": "Magnolia Network (DIY)",
 		"url": "https://ustvgo.tv/player.php?stream=DIY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usDIY"
 	},
@@ -595,7 +595,7 @@
 		"tags": "united states",
 		"name": "E!",
 		"url": "https://ustvgo.tv/player.php?stream=E",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usE"
 	},
@@ -603,7 +603,7 @@
 		"tags": "united states",
 		"name": "ESPN",
 		"url": "https://ustvgo.tv/player.php?stream=ESPN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usESPN"
 	},
@@ -611,7 +611,7 @@
 		"tags": "united states",
 		"name": "ESPN2",
 		"url": "https://ustvgo.tv/player.php?stream=ESPN2",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usESPN2"
 	},
@@ -619,7 +619,7 @@
 		"tags": "united states",
 		"name": "ESPNU",
 		"url": "https://ustvgo.tv/player.php?stream=ESPNU",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usESPNU"
 	},
@@ -627,7 +627,7 @@
 		"tags": "united states",
 		"name": "ESPNews",
 		"url": "https://ustvgo.tv/player.php?stream=ESPNews",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usESPNews"
 	},
@@ -635,7 +635,7 @@
 		"tags": "united states",
 		"name": "Food Network",
 		"url": "https://ustvgo.tv/player.php?stream=FoodNetwork",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFoodNetwork"
 	},
@@ -643,7 +643,7 @@
 		"tags": "united states",
 		"name": "FOX",
 		"url": "https://ustvgo.tv/player.php?stream=FOX",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFOX"
 	},
@@ -651,7 +651,7 @@
 		"tags": "united states",
 		"name": "FOX 5 New York",
 		"url": "https://ustvgo.tv/player.php?stream=FOXNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFOXNY"
 	},
@@ -659,7 +659,7 @@
 		"tags": "united states",
 		"name": "Fox Business",
 		"url": "https://ustvgo.tv/player.php?stream=FoxBusiness",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFoxBusiness"
 	},
@@ -667,7 +667,7 @@
 		"tags": "united states",
 		"name": "Fox News",
 		"url": "https://ustvgo.tv/player.php?stream=FoxNews",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFoxNews"
 	},
@@ -675,7 +675,7 @@
 		"tags": "united states",
 		"name": "Freeform",
 		"url": "https://ustvgo.tv/player.php?stream=Freeform",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFreeform"
 	},
@@ -683,7 +683,7 @@
 		"tags": "united states",
 		"name": "Fox Sports 1 (FS1)",
 		"url": "https://ustvgo.tv/player.php?stream=FS1",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFS1"
 	},
@@ -691,7 +691,7 @@
 		"tags": "united states",
 		"name": "Fox Sports 2 (FS2)",
 		"url": "https://ustvgo.tv/player.php?stream=FS2",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFS2"
 	},
@@ -699,7 +699,7 @@
 		"tags": "united states",
 		"name": "FX",
 		"url": "https://ustvgo.tv/player.php?stream=FX",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFX"
 	},
@@ -707,7 +707,7 @@
 		"tags": "united states",
 		"name": "FX Movie Channel",
 		"url": "https://ustvgo.tv/player.php?stream=FXMovie",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFXMovie"
 	},
@@ -715,7 +715,7 @@
 		"tags": "united states",
 		"name": "FXX",
 		"url": "https://ustvgo.tv/player.php?stream=FXX",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usFXX"
 	},
@@ -723,7 +723,7 @@
 		"tags": "united states",
 		"name": "Golf Channel",
 		"url": "https://ustvgo.tv/player.php?stream=GOLF",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usGOLF"
 	},
@@ -731,7 +731,7 @@
 		"tags": "united states",
 		"name": "Game Show Network",
 		"url": "https://ustvgo.tv/player.php?stream=GSN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usGSN"
 	},
@@ -739,7 +739,7 @@
 		"tags": "united states",
 		"name": "Hallmark Channel",
 		"url": "https://ustvgo.tv/player.php?stream=Hallmark",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHallmark"
 	},
@@ -747,7 +747,7 @@
 		"tags": "united states",
 		"name": "HBO",
 		"url": "https://ustvgo.tv/player.php?stream=HBO",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHBO"
 	},
@@ -755,7 +755,7 @@
 		"tags": "united states",
 		"name": "Home & Garden TV",
 		"url": "https://ustvgo.tv/player.php?stream=HGTV",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHGTV"
 	},
@@ -763,7 +763,7 @@
 		"tags": "united states",
 		"name": "History",
 		"url": "https://ustvgo.tv/player.php?stream=History",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHistory"
 	},
@@ -771,7 +771,7 @@
 		"tags": "united states",
 		"name": "HLN",
 		"url": "https://ustvgo.tv/player.php?stream=HLN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHLN"
 	},
@@ -779,7 +779,7 @@
 		"tags": "united states",
 		"name": "Hallmark Movies & Mysteries",
 		"url": "https://ustvgo.tv/player.php?stream=HMM",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usHMM"
 	},
@@ -787,7 +787,7 @@
 		"tags": "united states",
 		"name": "Investigation Discovery",
 		"url": "https://ustvgo.tv/player.php?stream=ID",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usID"
 	},
@@ -795,7 +795,7 @@
 		"tags": "united states",
 		"name": "ION (WPXN) New York",
 		"url": "https://ustvgo.tv/player.php?stream=IONNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usIONNY"
 	},
@@ -803,7 +803,7 @@
 		"tags": "united states",
 		"name": "Lifetime",
 		"url": "https://ustvgo.tv/player.php?stream=Lifetime",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usLifetime"
 	},
@@ -811,7 +811,7 @@
 		"tags": "united states",
 		"name": "Lifetime Movie Network",
 		"url": "https://ustvgo.tv/player.php?stream=LifetimeM",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usLifetimeM"
 	},
@@ -819,7 +819,7 @@
 		"tags": "united states",
 		"name": "MLB Network",
 		"url": "https://ustvgo.tv/player.php?stream=MLB",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usMLB"
 	},
@@ -827,7 +827,7 @@
 		"tags": "united states",
 		"name": "Motor Trend",
 		"url": "https://ustvgo.tv/player.php?stream=MotorTrend",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usMotorTrend"
 	},
@@ -835,7 +835,7 @@
 		"tags": "united states",
 		"name": "MSNBC",
 		"url": "https://ustvgo.tv/player.php?stream=MSNBC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usMSNBC"
 	},
@@ -843,7 +843,7 @@
 		"tags": "united states",
 		"name": "MTV",
 		"url": "https://ustvgo.tv/player.php?stream=MTV",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usMTV"
 	},
@@ -851,7 +851,7 @@
 		"tags": "united states",
 		"name": "National Geographic",
 		"url": "https://ustvgo.tv/player.php?stream=NatGEO",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNatGEO"
 	},
@@ -859,7 +859,7 @@
 		"tags": "united states",
 		"name": "National Geographic Wild",
 		"url": "https://ustvgo.tv/player.php?stream=NatGEOWild",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNatGEOWild"
 	},
@@ -867,7 +867,7 @@
 		"tags": "united states",
 		"name": "NBA TV",
 		"url": "https://ustvgo.tv/player.php?stream=NBA",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNBA"
 	},
@@ -875,7 +875,7 @@
 		"tags": "united states",
 		"name": "NBC",
 		"url": "https://ustvgo.tv/player.php?stream=NBC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNBC"
 	},
@@ -883,7 +883,7 @@
 		"tags": "united states",
 		"name": "NBC 4 New York",
 		"url": "https://ustvgo.tv/player.php?stream=NBCNY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNBCNY"
 	},
@@ -891,7 +891,7 @@
 		"tags": "united states",
 		"name": "NBC Sports (NBCSN)",
 		"url": "https://ustvgo.tv/player.php?stream=NBCSN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNBCSN"
 	},
@@ -899,7 +899,7 @@
 		"tags": "united states",
 		"name": "NFL Network",
 		"url": "https://ustvgo.tv/player.php?stream=NFL",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNFL"
 	},
@@ -907,7 +907,7 @@
 		"tags": "united states",
 		"name": "NFL RedZone",
 		"url": "https://ustvgo.tv/player.php?stream=NFLRZ",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNFLRZ"
 	},
@@ -915,7 +915,7 @@
 		"tags": "united states",
 		"name": "Nickelodeon",
 		"url": "https://ustvgo.tv/player.php?stream=Nickelodeon",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNickelodeon"
 	},
@@ -923,7 +923,7 @@
 		"tags": "united states",
 		"name": "Nicktoons",
 		"url": "https://ustvgo.tv/player.php?stream=Nicktoons",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usNicktoons"
 	},
@@ -931,7 +931,7 @@
 		"tags": "united states",
 		"name": "One America News Network",
 		"url": "https://ustvgo.tv/player.php?stream=OAN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usOAN"
 	},
@@ -939,7 +939,7 @@
 		"tags": "united states",
 		"name": "Oprah Winfrey Network (OWN)",
 		"url": "https://ustvgo.tv/player.php?stream=OWN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usOWN"
 	},
@@ -947,7 +947,7 @@
 		"tags": "united states",
 		"name": "Olympic Channel",
 		"url": "https://ustvgo.tv/player.php?stream=OLY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usOLY"
 	},
@@ -955,7 +955,7 @@
 		"tags": "united states",
 		"name": "Oxygen",
 		"url": "https://ustvgo.tv/player.php?stream=Oxygen",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usOxygen"
 	},
@@ -963,7 +963,7 @@
 		"tags": "united states",
 		"name": "Paramount Network",
 		"url": "https://ustvgo.tv/player.php?stream=Paramount",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usParamount"
 	},
@@ -971,7 +971,7 @@
 		"tags": "united states",
 		"name": "PBS",
 		"url": "https://ustvgo.tv/player.php?stream=PBS",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usPBS"
 	},
@@ -979,7 +979,7 @@
 		"tags": "united states",
 		"name": "Pop",
 		"url": "https://ustvgo.tv/player.php?stream=POP",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usPOP"
 	},
@@ -987,7 +987,7 @@
 		"tags": "united states",
 		"name": "Science",
 		"url": "https://ustvgo.tv/player.php?stream=Science",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usScience"
 	},
@@ -995,7 +995,7 @@
 		"tags": "united states",
 		"name": "SEC Network",
 		"url": "https://ustvgo.tv/player.php?stream=SECN",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usSECN"
 	},
@@ -1003,7 +1003,7 @@
 		"tags": "united states",
 		"name": "Showtime",
 		"url": "https://ustvgo.tv/player.php?stream=Showtime",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usShowtime"
 	},
@@ -1011,7 +1011,7 @@
 		"tags": "united states",
 		"name": "Starz",
 		"url": "https://ustvgo.tv/player.php?stream=StarZ",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usStarZ"
 	},
@@ -1019,7 +1019,7 @@
 		"tags": "united states",
 		"name": "Sundance TV",
 		"url": "https://ustvgo.tv/player.php?stream=SundanceTV",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usSundanceTV"
 	},
@@ -1027,7 +1027,7 @@
 		"tags": "united states",
 		"name": "Syfy",
 		"url": "https://ustvgo.tv/player.php?stream=SYFY",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usSYFY"
 	},
@@ -1035,7 +1035,7 @@
 		"tags": "united states",
 		"name": "TBS",
 		"url": "https://ustvgo.tv/player.php?stream=TBS",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTBS"
 	},
@@ -1043,7 +1043,7 @@
 		"tags": "united states",
 		"name": "Turner Classic Movies (TCM)",
 		"url": "https://ustvgo.tv/player.php?stream=TCM",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTCM"
 	},
@@ -1051,7 +1051,7 @@
 		"tags": "united states",
 		"name": "Telemundo",
 		"url": "https://ustvgo.tv/player.php?stream=Telemundo",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTelemundo"
 	},
@@ -1059,7 +1059,7 @@
 		"tags": "united states",
 		"name": "Tennis Channel",
 		"url": "https://ustvgo.tv/player.php?stream=Tennis",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTennis"
 	},
@@ -1067,7 +1067,7 @@
 		"tags": "united states",
 		"name": "The Learning Channel (TLC)",
 		"url": "https://ustvgo.tv/player.php?stream=TLC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTLC"
 	},
@@ -1075,7 +1075,7 @@
 		"tags": "united states",
 		"name": "Turner Network Television (TNT)",
 		"url": "https://ustvgo.tv/player.php?stream=TNT",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTNT"
 	},
@@ -1083,7 +1083,7 @@
 		"tags": "united states",
 		"name": "Travel Channel",
 		"url": "https://ustvgo.tv/player.php?stream=Travel",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTravel"
 	},
@@ -1091,7 +1091,7 @@
 		"tags": "united states",
 		"name": "truTV",
 		"url": "https://ustvgo.tv/player.php?stream=TruTV",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTruTV"
 	},
@@ -1099,7 +1099,7 @@
 		"tags": "united states",
 		"name": "TV Land",
 		"url": "https://ustvgo.tv/player.php?stream=TVLand",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTVLand"
 	},
@@ -1107,7 +1107,7 @@
 		"tags": "united states",
 		"name": "The Weather Channel",
 		"url": "https://ustvgo.tv/player.php?stream=TWC",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usTWC"
 	},
@@ -1115,7 +1115,7 @@
 		"tags": "united states",
 		"name": "Univisión Network",
 		"url": "https://ustvgo.tv/player.php?stream=Univision",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usUnivision"
 	},
@@ -1123,7 +1123,7 @@
 		"tags": "united states",
 		"name": "USA Network",
 		"url": "https://ustvgo.tv/player.php?stream=USANetwork",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usUSANetwork"
 	},
@@ -1131,7 +1131,7 @@
 		"tags": "united states",
 		"name": "VH1",
 		"url": "https://ustvgo.tv/player.php?stream=VH1",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usVH1"
 	},
@@ -1139,7 +1139,7 @@
 		"tags": "united states",
 		"name": "We TV",
 		"url": "https://ustvgo.tv/player.php?stream=WETV",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usWETV"
 	},
@@ -1147,7 +1147,7 @@
 		"tags": "united states",
 		"name": "WWE Network",
 		"url": "https://ustvgo.tv/player.php?stream=WWE",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usWWE"
 	},
@@ -1155,7 +1155,7 @@
 		"tags": "united states",
 		"name": "YES Network",
 		"url": "https://ustvgo.tv/player.php?stream=YES",
-		"source_type": "ustvgo",
+		"source-type": "ustvgo",
 		"logo": "",
 		"tvg-id": "usYES"
 	}

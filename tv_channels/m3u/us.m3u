@@ -1,211 +1,211 @@
 #EXTM3U
-#EXTINF:-1 source-type="usABCNews" tvg-id="usABCNews" tvg-logo="" group-title="United States", ABC News
+#EXTINF:-1 source-type="" tvg-id="usABCNews" tvg-logo="" group-title="United States", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=&ad.us_privacy=&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%2F&ad.adUnit=/abc-news/abcnews.com/web/video
-#EXTINF:-1 source-type="usBloombergUS" tvg-id="usBloombergUS" tvg-logo="" group-title="United States", Bloomberg US
+#EXTINF:-1 source-type="" tvg-id="usBloombergUS" tvg-logo="" group-title="United States", Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 source-type="usNASATVPublic" tvg-id="usNASATVPublic" tvg-logo="" group-title="United States", NASA TV Public
+#EXTINF:-1 source-type="" tvg-id="usNASATVPublic" tvg-logo="" group-title="United States", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 source-type="usNASATVMedia" tvg-id="usNASATVMedia" tvg-logo="" group-title="United States", NASA TV Media
+#EXTINF:-1 source-type="" tvg-id="usNASATVMedia" tvg-logo="" group-title="United States", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 source-type="usRedBullTV" tvg-id="usRedBullTV" tvg-logo="" group-title="United States", Red Bull TV
+#EXTINF:-1 source-type="" tvg-id="usRedBullTV" tvg-logo="" group-title="United States", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 source-type="usABC" tvg-id="usABC" tvg-logo="" group-title="united states", ABC
+#EXTINF:-1 source-type="ustvgo" tvg-id="usABC" tvg-logo="" group-title="united states", ABC
 https://ustvgo.tv/player.php?stream=ABC
-#EXTINF:-1 source-type="usABCNY" tvg-id="usABCNY" tvg-logo="" group-title="united states", ABC 7 New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usABCNY" tvg-logo="" group-title="united states", ABC 7 New York
 https://ustvgo.tv/player.php?stream=ABCNY
-#EXTINF:-1 source-type="usACCN" tvg-id="usACCN" tvg-logo="" group-title="united states", ACC Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usACCN" tvg-logo="" group-title="united states", ACC Network
 https://ustvgo.tv/player.php?stream=ACCN
-#EXTINF:-1 source-type="usAE" tvg-id="usAE" tvg-logo="" group-title="united states", A&E Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usAE" tvg-logo="" group-title="united states", A&E Network
 https://ustvgo.tv/player.php?stream=AE
-#EXTINF:-1 source-type="usAMC" tvg-id="usAMC" tvg-logo="" group-title="united states", AMC
+#EXTINF:-1 source-type="ustvgo" tvg-id="usAMC" tvg-logo="" group-title="united states", AMC
 https://ustvgo.tv/player.php?stream=AMC
-#EXTINF:-1 source-type="usAnimal" tvg-id="usAnimal" tvg-logo="" group-title="united states", Animal Planet
+#EXTINF:-1 source-type="ustvgo" tvg-id="usAnimal" tvg-logo="" group-title="united states", Animal Planet
 https://ustvgo.tv/player.php?stream=Animal
-#EXTINF:-1 source-type="usBBCAmerica" tvg-id="usBBCAmerica" tvg-logo="" group-title="united states", BBC America
+#EXTINF:-1 source-type="ustvgo" tvg-id="usBBCAmerica" tvg-logo="" group-title="united states", BBC America
 https://ustvgo.tv/player.php?stream=BBCAmerica
-#EXTINF:-1 source-type="usBTN" tvg-id="usBTN" tvg-logo="" group-title="united states", Big Ten Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usBTN" tvg-logo="" group-title="united states", Big Ten Network
 https://ustvgo.tv/player.php?stream=BTN
-#EXTINF:-1 source-type="usBET" tvg-id="usBET" tvg-logo="" group-title="united states", BET
+#EXTINF:-1 source-type="ustvgo" tvg-id="usBET" tvg-logo="" group-title="united states", BET
 https://ustvgo.tv/player.php?stream=BET
-#EXTINF:-1 source-type="usBoomerang" tvg-id="usBoomerang" tvg-logo="" group-title="united states", Boomerang
+#EXTINF:-1 source-type="ustvgo" tvg-id="usBoomerang" tvg-logo="" group-title="united states", Boomerang
 https://ustvgo.tv/player.php?stream=Boomerang
-#EXTINF:-1 source-type="usBravo" tvg-id="usBravo" tvg-logo="" group-title="united states", Bravo
+#EXTINF:-1 source-type="ustvgo" tvg-id="usBravo" tvg-logo="" group-title="united states", Bravo
 https://ustvgo.tv/player.php?stream=Bravo
-#EXTINF:-1 source-type="usCSPAN" tvg-id="usCSPAN" tvg-logo="" group-title="united states", C-SPAN
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCSPAN" tvg-logo="" group-title="united states", C-SPAN
 https://ustvgo.tv/player.php?stream=CSPAN
-#EXTINF:-1 source-type="usCBS" tvg-id="usCBS" tvg-logo="" group-title="united states", CBS
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCBS" tvg-logo="" group-title="united states", CBS
 https://ustvgo.tv/player.php?stream=CBS
-#EXTINF:-1 source-type="usCBSNY" tvg-id="usCBSNY" tvg-logo="" group-title="united states", CBS 2 New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCBSNY" tvg-logo="" group-title="united states", CBS 2 New York
 https://ustvgo.tv/player.php?stream=CBSNY
-#EXTINF:-1 source-type="usCBSSN" tvg-id="usCBSSN" tvg-logo="" group-title="united states", CBS Sports Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCBSSN" tvg-logo="" group-title="united states", CBS Sports Network
 https://ustvgo.tv/player.php?stream=CBSSN
-#EXTINF:-1 source-type="usCinemax" tvg-id="usCinemax" tvg-logo="" group-title="united states", Cinemax
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCinemax" tvg-logo="" group-title="united states", Cinemax
 https://ustvgo.tv/player.php?stream=Cinemax
-#EXTINF:-1 source-type="usCMT" tvg-id="usCMT" tvg-logo="" group-title="united states", CMT
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCMT" tvg-logo="" group-title="united states", CMT
 https://ustvgo.tv/player.php?stream=CMT
-#EXTINF:-1 source-type="usCN" tvg-id="usCN" tvg-logo="" group-title="united states", Cartoon Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCN" tvg-logo="" group-title="united states", Cartoon Network
 https://ustvgo.tv/player.php?stream=CN
-#EXTINF:-1 source-type="usCNBC" tvg-id="usCNBC" tvg-logo="" group-title="united states", CNBC
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCNBC" tvg-logo="" group-title="united states", CNBC
 https://ustvgo.tv/player.php?stream=CNBC
-#EXTINF:-1 source-type="usCNN" tvg-id="usCNN" tvg-logo="" group-title="united states", CNN
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCNN" tvg-logo="" group-title="united states", CNN
 https://ustvgo.tv/player.php?stream=CNN
-#EXTINF:-1 source-type="usComedy" tvg-id="usComedy" tvg-logo="" group-title="united states", Comedy Central
+#EXTINF:-1 source-type="ustvgo" tvg-id="usComedy" tvg-logo="" group-title="united states", Comedy Central
 https://ustvgo.tv/player.php?stream=Comedy
-#EXTINF:-1 source-type="usCW" tvg-id="usCW" tvg-logo="" group-title="united states", CW
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCW" tvg-logo="" group-title="united states", CW
 https://ustvgo.tv/player.php?stream=CW
-#EXTINF:-1 source-type="usCWNY" tvg-id="usCWNY" tvg-logo="" group-title="united states", CW 11 New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usCWNY" tvg-logo="" group-title="united states", CW 11 New York
 https://ustvgo.tv/player.php?stream=CWNY
-#EXTINF:-1 source-type="usDA" tvg-id="usDA" tvg-logo="" group-title="united states", Destination America
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDA" tvg-logo="" group-title="united states", Destination America
 https://ustvgo.tv/player.php?stream=DA
-#EXTINF:-1 source-type="usDiscovery" tvg-id="usDiscovery" tvg-logo="" group-title="united states", Discovery
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDiscovery" tvg-logo="" group-title="united states", Discovery
 https://ustvgo.tv/player.php?stream=Discovery
-#EXTINF:-1 source-type="usDisney" tvg-id="usDisney" tvg-logo="" group-title="united states", Disney
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDisney" tvg-logo="" group-title="united states", Disney
 https://ustvgo.tv/player.php?stream=Disney
-#EXTINF:-1 source-type="usDisneyJr" tvg-id="usDisneyJr" tvg-logo="" group-title="united states", Disney Junior
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDisneyJr" tvg-logo="" group-title="united states", Disney Junior
 https://ustvgo.tv/player.php?stream=DisneyJr
-#EXTINF:-1 source-type="usDisneyXD" tvg-id="usDisneyXD" tvg-logo="" group-title="united states", Disney XD
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDisneyXD" tvg-logo="" group-title="united states", Disney XD
 https://ustvgo.tv/player.php?stream=DisneyXD
-#EXTINF:-1 source-type="usDIY" tvg-id="usDIY" tvg-logo="" group-title="united states", Magnolia Network (DIY)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usDIY" tvg-logo="" group-title="united states", Magnolia Network (DIY)
 https://ustvgo.tv/player.php?stream=DIY
-#EXTINF:-1 source-type="usE" tvg-id="usE" tvg-logo="" group-title="united states", E!
+#EXTINF:-1 source-type="ustvgo" tvg-id="usE" tvg-logo="" group-title="united states", E!
 https://ustvgo.tv/player.php?stream=E
-#EXTINF:-1 source-type="usESPN" tvg-id="usESPN" tvg-logo="" group-title="united states", ESPN
+#EXTINF:-1 source-type="ustvgo" tvg-id="usESPN" tvg-logo="" group-title="united states", ESPN
 https://ustvgo.tv/player.php?stream=ESPN
-#EXTINF:-1 source-type="usESPN2" tvg-id="usESPN2" tvg-logo="" group-title="united states", ESPN2
+#EXTINF:-1 source-type="ustvgo" tvg-id="usESPN2" tvg-logo="" group-title="united states", ESPN2
 https://ustvgo.tv/player.php?stream=ESPN2
-#EXTINF:-1 source-type="usESPNU" tvg-id="usESPNU" tvg-logo="" group-title="united states", ESPNU
+#EXTINF:-1 source-type="ustvgo" tvg-id="usESPNU" tvg-logo="" group-title="united states", ESPNU
 https://ustvgo.tv/player.php?stream=ESPNU
-#EXTINF:-1 source-type="usESPNews" tvg-id="usESPNews" tvg-logo="" group-title="united states", ESPNews
+#EXTINF:-1 source-type="ustvgo" tvg-id="usESPNews" tvg-logo="" group-title="united states", ESPNews
 https://ustvgo.tv/player.php?stream=ESPNews
-#EXTINF:-1 source-type="usFoodNetwork" tvg-id="usFoodNetwork" tvg-logo="" group-title="united states", Food Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFoodNetwork" tvg-logo="" group-title="united states", Food Network
 https://ustvgo.tv/player.php?stream=FoodNetwork
-#EXTINF:-1 source-type="usFOX" tvg-id="usFOX" tvg-logo="" group-title="united states", FOX
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFOX" tvg-logo="" group-title="united states", FOX
 https://ustvgo.tv/player.php?stream=FOX
-#EXTINF:-1 source-type="usFOXNY" tvg-id="usFOXNY" tvg-logo="" group-title="united states", FOX 5 New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFOXNY" tvg-logo="" group-title="united states", FOX 5 New York
 https://ustvgo.tv/player.php?stream=FOXNY
-#EXTINF:-1 source-type="usFoxBusiness" tvg-id="usFoxBusiness" tvg-logo="" group-title="united states", Fox Business
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFoxBusiness" tvg-logo="" group-title="united states", Fox Business
 https://ustvgo.tv/player.php?stream=FoxBusiness
-#EXTINF:-1 source-type="usFoxNews" tvg-id="usFoxNews" tvg-logo="" group-title="united states", Fox News
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFoxNews" tvg-logo="" group-title="united states", Fox News
 https://ustvgo.tv/player.php?stream=FoxNews
-#EXTINF:-1 source-type="usFreeform" tvg-id="usFreeform" tvg-logo="" group-title="united states", Freeform
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFreeform" tvg-logo="" group-title="united states", Freeform
 https://ustvgo.tv/player.php?stream=Freeform
-#EXTINF:-1 source-type="usFS1" tvg-id="usFS1" tvg-logo="" group-title="united states", Fox Sports 1 (FS1)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFS1" tvg-logo="" group-title="united states", Fox Sports 1 (FS1)
 https://ustvgo.tv/player.php?stream=FS1
-#EXTINF:-1 source-type="usFS2" tvg-id="usFS2" tvg-logo="" group-title="united states", Fox Sports 2 (FS2)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFS2" tvg-logo="" group-title="united states", Fox Sports 2 (FS2)
 https://ustvgo.tv/player.php?stream=FS2
-#EXTINF:-1 source-type="usFX" tvg-id="usFX" tvg-logo="" group-title="united states", FX
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFX" tvg-logo="" group-title="united states", FX
 https://ustvgo.tv/player.php?stream=FX
-#EXTINF:-1 source-type="usFXMovie" tvg-id="usFXMovie" tvg-logo="" group-title="united states", FX Movie Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFXMovie" tvg-logo="" group-title="united states", FX Movie Channel
 https://ustvgo.tv/player.php?stream=FXMovie
-#EXTINF:-1 source-type="usFXX" tvg-id="usFXX" tvg-logo="" group-title="united states", FXX
+#EXTINF:-1 source-type="ustvgo" tvg-id="usFXX" tvg-logo="" group-title="united states", FXX
 https://ustvgo.tv/player.php?stream=FXX
-#EXTINF:-1 source-type="usGOLF" tvg-id="usGOLF" tvg-logo="" group-title="united states", Golf Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usGOLF" tvg-logo="" group-title="united states", Golf Channel
 https://ustvgo.tv/player.php?stream=GOLF
-#EXTINF:-1 source-type="usGSN" tvg-id="usGSN" tvg-logo="" group-title="united states", Game Show Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usGSN" tvg-logo="" group-title="united states", Game Show Network
 https://ustvgo.tv/player.php?stream=GSN
-#EXTINF:-1 source-type="usHallmark" tvg-id="usHallmark" tvg-logo="" group-title="united states", Hallmark Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHallmark" tvg-logo="" group-title="united states", Hallmark Channel
 https://ustvgo.tv/player.php?stream=Hallmark
-#EXTINF:-1 source-type="usHBO" tvg-id="usHBO" tvg-logo="" group-title="united states", HBO
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHBO" tvg-logo="" group-title="united states", HBO
 https://ustvgo.tv/player.php?stream=HBO
-#EXTINF:-1 source-type="usHGTV" tvg-id="usHGTV" tvg-logo="" group-title="united states", Home & Garden TV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHGTV" tvg-logo="" group-title="united states", Home & Garden TV
 https://ustvgo.tv/player.php?stream=HGTV
-#EXTINF:-1 source-type="usHistory" tvg-id="usHistory" tvg-logo="" group-title="united states", History
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHistory" tvg-logo="" group-title="united states", History
 https://ustvgo.tv/player.php?stream=History
-#EXTINF:-1 source-type="usHLN" tvg-id="usHLN" tvg-logo="" group-title="united states", HLN
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHLN" tvg-logo="" group-title="united states", HLN
 https://ustvgo.tv/player.php?stream=HLN
-#EXTINF:-1 source-type="usHMM" tvg-id="usHMM" tvg-logo="" group-title="united states", Hallmark Movies & Mysteries
+#EXTINF:-1 source-type="ustvgo" tvg-id="usHMM" tvg-logo="" group-title="united states", Hallmark Movies & Mysteries
 https://ustvgo.tv/player.php?stream=HMM
-#EXTINF:-1 source-type="usID" tvg-id="usID" tvg-logo="" group-title="united states", Investigation Discovery
+#EXTINF:-1 source-type="ustvgo" tvg-id="usID" tvg-logo="" group-title="united states", Investigation Discovery
 https://ustvgo.tv/player.php?stream=ID
-#EXTINF:-1 source-type="usIONNY" tvg-id="usIONNY" tvg-logo="" group-title="united states", ION (WPXN) New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usIONNY" tvg-logo="" group-title="united states", ION (WPXN) New York
 https://ustvgo.tv/player.php?stream=IONNY
-#EXTINF:-1 source-type="usLifetime" tvg-id="usLifetime" tvg-logo="" group-title="united states", Lifetime
+#EXTINF:-1 source-type="ustvgo" tvg-id="usLifetime" tvg-logo="" group-title="united states", Lifetime
 https://ustvgo.tv/player.php?stream=Lifetime
-#EXTINF:-1 source-type="usLifetimeM" tvg-id="usLifetimeM" tvg-logo="" group-title="united states", Lifetime Movie Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usLifetimeM" tvg-logo="" group-title="united states", Lifetime Movie Network
 https://ustvgo.tv/player.php?stream=LifetimeM
-#EXTINF:-1 source-type="usMLB" tvg-id="usMLB" tvg-logo="" group-title="united states", MLB Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usMLB" tvg-logo="" group-title="united states", MLB Network
 https://ustvgo.tv/player.php?stream=MLB
-#EXTINF:-1 source-type="usMotorTrend" tvg-id="usMotorTrend" tvg-logo="" group-title="united states", Motor Trend
+#EXTINF:-1 source-type="ustvgo" tvg-id="usMotorTrend" tvg-logo="" group-title="united states", Motor Trend
 https://ustvgo.tv/player.php?stream=MotorTrend
-#EXTINF:-1 source-type="usMSNBC" tvg-id="usMSNBC" tvg-logo="" group-title="united states", MSNBC
+#EXTINF:-1 source-type="ustvgo" tvg-id="usMSNBC" tvg-logo="" group-title="united states", MSNBC
 https://ustvgo.tv/player.php?stream=MSNBC
-#EXTINF:-1 source-type="usMTV" tvg-id="usMTV" tvg-logo="" group-title="united states", MTV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usMTV" tvg-logo="" group-title="united states", MTV
 https://ustvgo.tv/player.php?stream=MTV
-#EXTINF:-1 source-type="usNatGEO" tvg-id="usNatGEO" tvg-logo="" group-title="united states", National Geographic
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNatGEO" tvg-logo="" group-title="united states", National Geographic
 https://ustvgo.tv/player.php?stream=NatGEO
-#EXTINF:-1 source-type="usNatGEOWild" tvg-id="usNatGEOWild" tvg-logo="" group-title="united states", National Geographic Wild
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNatGEOWild" tvg-logo="" group-title="united states", National Geographic Wild
 https://ustvgo.tv/player.php?stream=NatGEOWild
-#EXTINF:-1 source-type="usNBA" tvg-id="usNBA" tvg-logo="" group-title="united states", NBA TV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNBA" tvg-logo="" group-title="united states", NBA TV
 https://ustvgo.tv/player.php?stream=NBA
-#EXTINF:-1 source-type="usNBC" tvg-id="usNBC" tvg-logo="" group-title="united states", NBC
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNBC" tvg-logo="" group-title="united states", NBC
 https://ustvgo.tv/player.php?stream=NBC
-#EXTINF:-1 source-type="usNBCNY" tvg-id="usNBCNY" tvg-logo="" group-title="united states", NBC 4 New York
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNBCNY" tvg-logo="" group-title="united states", NBC 4 New York
 https://ustvgo.tv/player.php?stream=NBCNY
-#EXTINF:-1 source-type="usNBCSN" tvg-id="usNBCSN" tvg-logo="" group-title="united states", NBC Sports (NBCSN)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNBCSN" tvg-logo="" group-title="united states", NBC Sports (NBCSN)
 https://ustvgo.tv/player.php?stream=NBCSN
-#EXTINF:-1 source-type="usNFL" tvg-id="usNFL" tvg-logo="" group-title="united states", NFL Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNFL" tvg-logo="" group-title="united states", NFL Network
 https://ustvgo.tv/player.php?stream=NFL
-#EXTINF:-1 source-type="usNFLRZ" tvg-id="usNFLRZ" tvg-logo="" group-title="united states", NFL RedZone
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNFLRZ" tvg-logo="" group-title="united states", NFL RedZone
 https://ustvgo.tv/player.php?stream=NFLRZ
-#EXTINF:-1 source-type="usNickelodeon" tvg-id="usNickelodeon" tvg-logo="" group-title="united states", Nickelodeon
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNickelodeon" tvg-logo="" group-title="united states", Nickelodeon
 https://ustvgo.tv/player.php?stream=Nickelodeon
-#EXTINF:-1 source-type="usNicktoons" tvg-id="usNicktoons" tvg-logo="" group-title="united states", Nicktoons
+#EXTINF:-1 source-type="ustvgo" tvg-id="usNicktoons" tvg-logo="" group-title="united states", Nicktoons
 https://ustvgo.tv/player.php?stream=Nicktoons
-#EXTINF:-1 source-type="usOAN" tvg-id="usOAN" tvg-logo="" group-title="united states", One America News Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usOAN" tvg-logo="" group-title="united states", One America News Network
 https://ustvgo.tv/player.php?stream=OAN
-#EXTINF:-1 source-type="usOWN" tvg-id="usOWN" tvg-logo="" group-title="united states", Oprah Winfrey Network (OWN)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usOWN" tvg-logo="" group-title="united states", Oprah Winfrey Network (OWN)
 https://ustvgo.tv/player.php?stream=OWN
-#EXTINF:-1 source-type="usOLY" tvg-id="usOLY" tvg-logo="" group-title="united states", Olympic Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usOLY" tvg-logo="" group-title="united states", Olympic Channel
 https://ustvgo.tv/player.php?stream=OLY
-#EXTINF:-1 source-type="usOxygen" tvg-id="usOxygen" tvg-logo="" group-title="united states", Oxygen
+#EXTINF:-1 source-type="ustvgo" tvg-id="usOxygen" tvg-logo="" group-title="united states", Oxygen
 https://ustvgo.tv/player.php?stream=Oxygen
-#EXTINF:-1 source-type="usParamount" tvg-id="usParamount" tvg-logo="" group-title="united states", Paramount Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usParamount" tvg-logo="" group-title="united states", Paramount Network
 https://ustvgo.tv/player.php?stream=Paramount
-#EXTINF:-1 source-type="usPBS" tvg-id="usPBS" tvg-logo="" group-title="united states", PBS
+#EXTINF:-1 source-type="ustvgo" tvg-id="usPBS" tvg-logo="" group-title="united states", PBS
 https://ustvgo.tv/player.php?stream=PBS
-#EXTINF:-1 source-type="usPOP" tvg-id="usPOP" tvg-logo="" group-title="united states", Pop
+#EXTINF:-1 source-type="ustvgo" tvg-id="usPOP" tvg-logo="" group-title="united states", Pop
 https://ustvgo.tv/player.php?stream=POP
-#EXTINF:-1 source-type="usScience" tvg-id="usScience" tvg-logo="" group-title="united states", Science
+#EXTINF:-1 source-type="ustvgo" tvg-id="usScience" tvg-logo="" group-title="united states", Science
 https://ustvgo.tv/player.php?stream=Science
-#EXTINF:-1 source-type="usSECN" tvg-id="usSECN" tvg-logo="" group-title="united states", SEC Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usSECN" tvg-logo="" group-title="united states", SEC Network
 https://ustvgo.tv/player.php?stream=SECN
-#EXTINF:-1 source-type="usShowtime" tvg-id="usShowtime" tvg-logo="" group-title="united states", Showtime
+#EXTINF:-1 source-type="ustvgo" tvg-id="usShowtime" tvg-logo="" group-title="united states", Showtime
 https://ustvgo.tv/player.php?stream=Showtime
-#EXTINF:-1 source-type="usStarZ" tvg-id="usStarZ" tvg-logo="" group-title="united states", Starz
+#EXTINF:-1 source-type="ustvgo" tvg-id="usStarZ" tvg-logo="" group-title="united states", Starz
 https://ustvgo.tv/player.php?stream=StarZ
-#EXTINF:-1 source-type="usSundanceTV" tvg-id="usSundanceTV" tvg-logo="" group-title="united states", Sundance TV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usSundanceTV" tvg-logo="" group-title="united states", Sundance TV
 https://ustvgo.tv/player.php?stream=SundanceTV
-#EXTINF:-1 source-type="usSYFY" tvg-id="usSYFY" tvg-logo="" group-title="united states", Syfy
+#EXTINF:-1 source-type="ustvgo" tvg-id="usSYFY" tvg-logo="" group-title="united states", Syfy
 https://ustvgo.tv/player.php?stream=SYFY
-#EXTINF:-1 source-type="usTBS" tvg-id="usTBS" tvg-logo="" group-title="united states", TBS
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTBS" tvg-logo="" group-title="united states", TBS
 https://ustvgo.tv/player.php?stream=TBS
-#EXTINF:-1 source-type="usTCM" tvg-id="usTCM" tvg-logo="" group-title="united states", Turner Classic Movies (TCM)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTCM" tvg-logo="" group-title="united states", Turner Classic Movies (TCM)
 https://ustvgo.tv/player.php?stream=TCM
-#EXTINF:-1 source-type="usTelemundo" tvg-id="usTelemundo" tvg-logo="" group-title="united states", Telemundo
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTelemundo" tvg-logo="" group-title="united states", Telemundo
 https://ustvgo.tv/player.php?stream=Telemundo
-#EXTINF:-1 source-type="usTennis" tvg-id="usTennis" tvg-logo="" group-title="united states", Tennis Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTennis" tvg-logo="" group-title="united states", Tennis Channel
 https://ustvgo.tv/player.php?stream=Tennis
-#EXTINF:-1 source-type="usTLC" tvg-id="usTLC" tvg-logo="" group-title="united states", The Learning Channel (TLC)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTLC" tvg-logo="" group-title="united states", The Learning Channel (TLC)
 https://ustvgo.tv/player.php?stream=TLC
-#EXTINF:-1 source-type="usTNT" tvg-id="usTNT" tvg-logo="" group-title="united states", Turner Network Television (TNT)
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTNT" tvg-logo="" group-title="united states", Turner Network Television (TNT)
 https://ustvgo.tv/player.php?stream=TNT
-#EXTINF:-1 source-type="usTravel" tvg-id="usTravel" tvg-logo="" group-title="united states", Travel Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTravel" tvg-logo="" group-title="united states", Travel Channel
 https://ustvgo.tv/player.php?stream=Travel
-#EXTINF:-1 source-type="usTruTV" tvg-id="usTruTV" tvg-logo="" group-title="united states", truTV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTruTV" tvg-logo="" group-title="united states", truTV
 https://ustvgo.tv/player.php?stream=TruTV
-#EXTINF:-1 source-type="usTVLand" tvg-id="usTVLand" tvg-logo="" group-title="united states", TV Land
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTVLand" tvg-logo="" group-title="united states", TV Land
 https://ustvgo.tv/player.php?stream=TVLand
-#EXTINF:-1 source-type="usTWC" tvg-id="usTWC" tvg-logo="" group-title="united states", The Weather Channel
+#EXTINF:-1 source-type="ustvgo" tvg-id="usTWC" tvg-logo="" group-title="united states", The Weather Channel
 https://ustvgo.tv/player.php?stream=TWC
-#EXTINF:-1 source-type="usUnivision" tvg-id="usUnivision" tvg-logo="" group-title="united states", Univisión Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usUnivision" tvg-logo="" group-title="united states", Univisión Network
 https://ustvgo.tv/player.php?stream=Univision
-#EXTINF:-1 source-type="usUSANetwork" tvg-id="usUSANetwork" tvg-logo="" group-title="united states", USA Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usUSANetwork" tvg-logo="" group-title="united states", USA Network
 https://ustvgo.tv/player.php?stream=USANetwork
-#EXTINF:-1 source-type="usVH1" tvg-id="usVH1" tvg-logo="" group-title="united states", VH1
+#EXTINF:-1 source-type="ustvgo" tvg-id="usVH1" tvg-logo="" group-title="united states", VH1
 https://ustvgo.tv/player.php?stream=VH1
-#EXTINF:-1 source-type="usWETV" tvg-id="usWETV" tvg-logo="" group-title="united states", We TV
+#EXTINF:-1 source-type="ustvgo" tvg-id="usWETV" tvg-logo="" group-title="united states", We TV
 https://ustvgo.tv/player.php?stream=WETV
-#EXTINF:-1 source-type="usWWE" tvg-id="usWWE" tvg-logo="" group-title="united states", WWE Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usWWE" tvg-logo="" group-title="united states", WWE Network
 https://ustvgo.tv/player.php?stream=WWE
-#EXTINF:-1 source-type="usYES" tvg-id="usYES" tvg-logo="" group-title="united states", YES Network
+#EXTINF:-1 source-type="ustvgo" tvg-id="usYES" tvg-logo="" group-title="united states", YES Network
 https://ustvgo.tv/player.php?stream=YES
