@@ -418,7 +418,7 @@ http://bfm.hostingradio.ru:8004/fm
 #EXTINF:-1 tvg-logo="" group-title="Russia", Capital FM 105.3
 http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
 #EXTINF:-1 tvg-logo="" group-title="Russia", Comedy Radio
-http://pub0101.101.ru:8000/stream/air/aac/64/202
+https://pub0101.101.ru:8000/stream/air/aac/64/202
 #EXTINF:-1 tvg-logo="" group-title="Russia", Detskoe Radio
 http://pub0302.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1 tvg-logo="" group-title="Russia", DFM 101.2
@@ -803,8 +803,6 @@ http://radio.horoshee.fm:8000/mp3
 http://94.181.181.72:8002/;stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="Russia", Radio Express Penza
 http://misato.ru-hoster.com:8028/stream
-#EXTINF:-1 tvg-logo="" group-title="Russia", Comedy Radio
-http://den.101.ru:4000/com_59_01
 #EXTINF:-1 tvg-logo="" group-title="Russia", DFM 102.7
 http://46.146.243.43:8000/dfm
 #EXTINF:-1 tvg-logo="" group-title="Russia", Echo Perm FM 92.1

@@ -1256,7 +1256,7 @@
   {
     "tags": "Russia",
     "name": "Comedy Radio",
-    "url": "http://pub0101.101.ru:8000/stream/air/aac/64/202",
+    "url": "https://pub0101.101.ru:8000/stream/air/aac/64/202",
     "logo": ""
   },
   {
@@ -2409,12 +2409,6 @@
     "tags": "Russia",
     "name": "Radio Express Penza",
     "url": "http://misato.ru-hoster.com:8028/stream",
-    "logo": ""
-  },
-  {
-    "tags": "Russia",
-    "name": "Comedy Radio",
-    "url": "http://den.101.ru:4000/com_59_01",
     "logo": ""
   },
   {
