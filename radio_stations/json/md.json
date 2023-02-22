@@ -202,5 +202,11 @@
     "name": "Radio 1 Plus",
     "url": "http://pgtrk.ru:8000/radio2_192",
     "logo": ""
+  },
+  {
+    "tags": "Moldova",
+    "name": "Radio Relax",
+    "url": "https://stream.hitfm.md:8443/Relax_mp3_320",
+    "logo": ""
   }
 ]
